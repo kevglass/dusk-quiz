@@ -5,11 +5,17 @@ import mp3_click from "./assets/click.mp3";
 import mp3_incorrect from "./assets/incorrect.mp3";
 import mp3_start from "./assets/start.mp3";
 
+// sound played for an correct answer
 const SOUND_CORRECT = new Audio(mp3_correct);
+// sound played for an incorrect answer
 const SOUND_INCORRECT = new Audio(mp3_incorrect);
+// sound played on a UI click
 const SOUND_CLICK = new Audio(mp3_click);
+// sound played at the start of a question
 const SOUND_START = new Audio(mp3_start);
 
+// Utility to play sounds and make sure they always play
+// when asked by restarting the audio if needed
 function play(audio: HTMLAudioElement) {
   if (audio.paused) {
       audio.play();
@@ -61,6 +67,7 @@ document.getElementById("startGame")?.addEventListener("click", () => {
   Rune.actions.start({ lang: "en" });
 });
 
+// Questions number selection listeners
 document.getElementById("q5")?.addEventListener("click", () => {
   Rune.actions.questions({ count: 5 });
   play(SOUND_CLICK);
@@ -73,6 +80,7 @@ document.getElementById("q20")?.addEventListener("click", () => {
   Rune.actions.questions({ count: 20 });
   play(SOUND_CLICK);
 });
+// Time enabled selection listeners
 document.getElementById("timerYes")?.addEventListener("click", () => {
   Rune.actions.timer({ enabled: true });
   play(SOUND_CLICK);
@@ -82,13 +90,17 @@ document.getElementById("timerNo")?.addEventListener("click", () => {
   play(SOUND_CLICK);
 });
 
+// for all the answer buttons we want to react to a click by invoking
+// an action so the game state is updated and all players have the information
 for (let i=0;i<4;i++) {
   const answerButton = document.getElementById("answer" + (i+1));
   answerButton?.addEventListener("click", () => {
+    // only allow the player to select an answer once
     if (!selectedAnswer) {
       play(SOUND_CLICK);
       selectedAnswer = true;
       Rune.actions.answer({ index: i });
+
       if (!answerButton?.classList.contains("selected")) {
         answerButton?.classList.add("selected");
       }
@@ -96,19 +108,39 @@ for (let i=0;i<4;i++) {
   })
 }
 
+// the last question we displayed, track this
+// so we can track when the game is moving through questions
 let lastQuestion = 0;
+// a time relative the start of game so that we can have a turn
+// based game with smooth timers
 let timeExpires = 0;
+// Has the game started?
 let started = false;
+// Is the questions timer running?
 let timerRunning = true;
+// Are we currently in the phase where we show the answers to the question
 let showingAnswers = false;
+// True if this player has selected an answer for this question
 let selectedAnswer = false;
+// Indicates whether question timing is enabled based on what the
+// the shared game state told us
 let timerEnabled = false;
+// Indicates how many questions to play based on what the
+// the shared game state told us
 let questionCount = 10;
+// Indicates whether this client has sent the end of game message
 let sentEnd = false;
+// Indicates whether the game is complete based on the shared
+// game state
 let complete = false;
-let timeOfLastSfx = 0;
 
+// Very simple update loop so we can smooth animations
+// and changes to the game that aren't driven by specific actions
 setInterval(() => {
+  // if we're showing the answers we want to not how the time bar,
+  // show the player correct/incorrect for the last question
+  // and if this is the very last question send the timeDone action
+  // to tell the game state that this client has completed
   if (showingAnswers) {
     const bar = document.getElementById("timebar") as HTMLDivElement;
     bar.style.opacity = "0";
@@ -128,6 +160,7 @@ setInterval(() => {
     }
     return;
   } else {
+    // otherwise just make sure player status bars are showing
     for (const div of Object.values(playerDiv)) {
       const statusDiv = div.getElementsByClassName("playerStatus").item(0) as HTMLDivElement;
       statusDiv.style.display = "block";
@@ -138,10 +171,12 @@ setInterval(() => {
     return;
   }
 
-
+  // the timer bar for questions logic
   if (started) {
+    // how long have we got til the timer ont he question expires?
     const msLeft = timeExpires - Date.now();
     if (msLeft > 0) {
+      // if we have time left just render the bar appropriately
       const ratio = msLeft / QUESTION_TIME;
       const bar = document.getElementById("timebar") as HTMLDivElement;
       if (ratio < 1) {
@@ -151,6 +186,10 @@ setInterval(() => {
         bar.style.opacity = "0";
       }
     } else {
+      // if the timer has run out and we haven't yet notified the server
+      // then fire the timeDone action. This is so the timing can 
+      // be handled on the client and theres no requirement for an update
+      // loop in the logic
       if (timerRunning) {
         timerRunning = false;
         Rune.actions.timeDone({ index: lastQuestion });
@@ -162,11 +201,13 @@ setInterval(() => {
 }, 50)
 
 Rune.initClient({
-  onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
+  onChange: ({ game, allPlayerIds, yourPlayerId, action, event }) => {
+    // record game state to globals for use in the timer
     questionCount = game.questionCount;
     timerEnabled = game.timerEnabled;
     complete = game.complete;
 
+    // update the status of the selectors to shows whats in game state
     (document.getElementById("q5") as HTMLDivElement).className = questionCount === 5 ? "option optionSelected" : "option";
     (document.getElementById("q10") as HTMLDivElement).className = questionCount === 10 ? "option optionSelected" : "option";
     (document.getElementById("q20") as HTMLDivElement).className = questionCount === 20 ? "option optionSelected" : "option";
@@ -174,13 +215,16 @@ Rune.initClient({
     (document.getElementById("timerYes") as HTMLDivElement).className = timerEnabled === true ? "option optionSelected" : "option";
     (document.getElementById("timerNo") as HTMLDivElement).className = timerEnabled ===false ? "option optionSelected" : "option";
 
+    // only show the timing bar if timers are enabed
     const bar = document.getElementById("timebar") as HTMLDivElement;
     bar.style.display = timerEnabled ? "block" : "none";
 
+    // since the onChange can be called for various reasons we do must of 
+    // the logic only when a question changes
     const questionChanged = lastQuestion !== game.questionNumber;
     if (questionChanged) {
       if (game.questionNumber === 0) {
-        // game restart
+        // game restart so clear state and show the ready screen
         document.getElementById("ready")!.style.display = "block";
         document.getElementById("question")!.style.display = "none";
         lastQuestion = 0;
@@ -190,22 +234,29 @@ Rune.initClient({
 
       if (lastQuestion === 0) {
         started = true;
-        // game start
+        // game start so show the first question
         document.getElementById("ready")!.style.display = "none";
         document.getElementById("question")!.style.display = "block";
-
       } else {
+        // otherwise we're showing the answers so highlight the right quiz
         const answerDiv = document.getElementById("answer"+(game.correctAnswerIndex+1)) as HTMLDivElement;
         answerDiv.classList.add("correct");
       }
       
       selectedAnswer = false;
 
+      // since we're turn based game logic but we still want
+      // to pause for a bit while we show the answers before updating
+      // to match new game state we'll work out the time delay required by the
+      // server and then only apply the updates after that timeout
       const offset = (game.timeOut - Rune.gameTime()) - QUESTION_TIME;
       timeExpires = Date.now() + (game.timeOut - Rune.gameTime());
       showingAnswers = true;
+
       if (!game.complete) {
         setTimeout(() => {
+          // reflect the new game state (new question) after the fixed answer
+          // period of time 
           play(SOUND_START);
           showingAnswers = false;
           // reset local state
@@ -225,6 +276,7 @@ Rune.initClient({
       }
     }
 
+    // remove any players that left
     for (const existing of Object.keys(playerDiv)) {
       if (!allPlayerIds.includes(existing)) {
         playerDiv[existing].parentElement?.removeChild(playerDiv[existing]);
@@ -233,16 +285,22 @@ Rune.initClient({
 
     const correctAnswerIds: PlayerId[] = [];
     for (const id of allPlayerIds) {
+      // add a DIV for any player we don't already have one for
       if (!playerDiv[id]) {
         createPlayerDiv(id);
       }
+
+      // set the visual status based on game state
       const statusDiv = playerDiv[id].getElementsByClassName("playerStatus").item(0) as HTMLDivElement;
       const status = game.playerStatus[id];
-
       statusDiv.innerHTML = status;
       statusDiv.className = "playerStatus " + game.playerStatus[id];
+
+      // set the players score based on game state
       const scoreDiv = playerDiv[id].getElementsByClassName("playerScore").item(0) as HTMLDivElement;
       const newScore = ""+game.playerScores[id];
+      // if the score changed then the player got a point, so show the
+      // checkm ark on the player
       if (newScore !== scoreDiv.innerHTML) {
         correctAnswerIds.push(id);
         scoreDiv.innerHTML = newScore;
@@ -254,6 +312,8 @@ Rune.initClient({
       }
     }
 
+    // if the question just changed and its not the end of the game (timeDone action) then
+    // play the appropriate sound effect for right/wrong
     if (questionChanged && yourPlayerId && game.questionNumber > 1 && action?.action !== "timeDone") {
       if (correctAnswerIds.includes(yourPlayerId)) {
         play(SOUND_CORRECT);

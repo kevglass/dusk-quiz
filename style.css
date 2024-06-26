@@ -56,7 +56,8 @@ body {
   width: 100%;
   text-overflow: ellipsis;
   overflow: hidden;
-  padding-bottom: 5px;
+  padding-top: 2px;
+  padding-bottom: 3px;
 }
 
 .playerAvatar {
