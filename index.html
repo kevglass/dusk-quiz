@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style.css">
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+  <title>Quiz</title>
+</head>
+
+<body>
+  <img class="bg" src="src/assets/bg.png">
+  <div id="topbar"></div>
+  <div id="players">
+  </div>
+  <div id="ready">
+    <div id="readyTitle">Quiz Time!</div>
+    <div id="readyContent">
+      <div class="sectionTitle">How Many Questions?</div>
+      <div class="selector">
+        <div id="q5" class="option optionSelected">5</div>
+        <div id="q10" class="option">10</div>
+        <div id="q20" class="option">20</div>
+      </div>
+      <div class="sectionTitle">Timed Questions?</div>
+      <div class="selector">
+        <div id="timerYes" class="option optionSelected">Yes</div>
+        <div id="timerNo" class="option">No</div>
+      </div>
+      <div id="startGame" class="cta">Lets Play!</div>
+    </div>
+  </div>
+  <div id="question">
+    <div id="questionHeading">
+      <div id="questionNumber"></div>
+      <div id="questionText"></div>
+    </div>
+    <div id="questionContent">
+      <div id="timebar"></div>
+      <div id="answers">
+        <div id="answer1" class="answer"></div>
+        <div id="answer2" class="answer"></div>
+        <div id="answer3" class="answer"></div>
+        <div id="answer4" class="answer"></div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="/src/logic.ts"></script>
+  <script type="module" src="/src/client.ts"></script>
+</body>
+
+</html>
