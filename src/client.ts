@@ -1,9 +1,10 @@
 import { PlayerId } from "rune-games-sdk";
-import { ANSWER_TIME, QUESTION_TIME } from "./logic";
+import { ANSWER_TIME, Language, QUESTION_TIME } from "./logic";
 import mp3_correct from "./assets/correct.mp3";
 import mp3_click from "./assets/click.mp3";
 import mp3_incorrect from "./assets/incorrect.mp3";
 import mp3_start from "./assets/start.mp3";
+import { TRANSLATIONS } from "./translation";
 
 // sound played for an correct answer
 const SOUND_CORRECT = new Audio(mp3_correct);
@@ -64,7 +65,7 @@ function createPlayerDiv(id: string): void {
 // When any player clicks the ready button send their language
 // and choice of options to the game.
 document.getElementById("startGame")?.addEventListener("click", () => {
-  Rune.actions.start({ lang: "en" });
+  Rune.actions.start();
 });
 
 // Questions number selection listeners
@@ -107,6 +108,41 @@ for (let i=0;i<4;i++) {
     }
   })
 }
+
+function updateLanguage(lang: Language) {
+  currentLanguage = lang;
+  (document.getElementById("readyTitle") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].quizTime;
+  (document.getElementById("howMany") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].howManyQuestions;
+  (document.getElementById("startGame") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].letsPlay;
+  (document.getElementById("timerNo") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].no;
+  (document.getElementById("timerYes") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].yes;
+  (document.getElementById("timedQuestions") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].timedQuestions;
+}
+
+let currentLanguage: Language = "en";
+updateLanguage(currentLanguage);
+
+const items = Array.from(document.getElementsByClassName("language"));
+for (const item of items) {
+  item.addEventListener("click", () => {
+    const lang = item.id.substring("lang-".length, "lang-".length+2) as Language;
+    Rune.actions.language({ lang });
+  });
+}
+
+(document.getElementById("lang-es") as HTMLDivElement).style.display = "block";
+(document.getElementById("lang-ru") as HTMLDivElement).style.display = "block";
+if (navigator.language.toLowerCase().startsWith("en-us")) {
+  (document.getElementById("lang-en2") as HTMLDivElement).style.display = "block";
+} else {
+  (document.getElementById("lang-en1") as HTMLDivElement).style.display = "block";
+}
+if (navigator.language.toLowerCase().startsWith("pr-br")) {
+  (document.getElementById("lang-pt2") as HTMLDivElement).style.display = "block";
+} else {
+  (document.getElementById("lang-pt1") as HTMLDivElement).style.display = "block";
+}
+
 
 // the last question we displayed, track this
 // so we can track when the game is moving through questions
@@ -207,6 +243,9 @@ Rune.initClient({
     timerEnabled = game.timerEnabled;
     complete = game.complete;
 
+    if (game.lang !== currentLanguage) {
+      updateLanguage(game.lang);
+    }
     // update the status of the selectors to shows whats in game state
     (document.getElementById("q5") as HTMLDivElement).className = questionCount === 5 ? "option optionSelected" : "option";
     (document.getElementById("q10") as HTMLDivElement).className = questionCount === 10 ? "option optionSelected" : "option";
@@ -267,7 +306,7 @@ Rune.initClient({
           }
           lastQuestion = game.questionNumber;
           timerRunning = true;
-          document.getElementById("questionNumber")!.innerHTML = "Question " + game.questionNumber;
+          document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[game.lang].question + game.questionNumber;
           document.getElementById("questionText")!.innerHTML = game.question.question;
           for (let i=0;i<4;i++) {
             document.getElementById("answer"+(i+1))!.innerHTML = game.question.answers[i];

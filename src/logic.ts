@@ -24,11 +24,14 @@ function shuffle<T>(array: Array<T>) {
   }
 }
 
-export type Language = "en";
+export type Language = "en" | "ru" | "es" | "pt";
 
 // the big list of questions to choose from
 const QUESTIONS: Record<Language, Question[]> = {
   en: JSON.parse(ASSETS["questions_en.json"]),
+  ru: JSON.parse(ASSETS["questions_en.json"]),
+  es: JSON.parse(ASSETS["questions_en.json"]),
+  pt: JSON.parse(ASSETS["questions_en.json"]),
 };
 
 // A single question 
@@ -64,7 +67,7 @@ export interface GameState {
   // How long should the clients wait before moving to the next question
   timeOut: number;
   // The language being played
-  lang: string;
+  lang: Language;
   // The index of the correct answer in the answers array - only set
   // after players answer
   correctAnswerIndex: number;
@@ -78,7 +81,7 @@ export interface GameState {
 
 type GameActions = {
   // start the game - whoever presses the start button first hits this
-  start: (params: { lang: Language }) => void;
+  start: () => void;
   // answer a question 
   answer: (params: { index: number }) => void;
   // indication that the player's client thinks the timer requested has expired - 
@@ -88,6 +91,8 @@ type GameActions = {
   questions: (params: { count: number }) => void;
   // Used to set whether the player wants timer enabled
   timer: (params: { enabled: boolean }) => void;
+  // select a language
+  language: (params: { lang: Language }) => void;
 };
 
 declare global {
@@ -115,7 +120,7 @@ Rune.initLogic({
       playerStatus: status,
       playerAnswers: {},
       timeOut: 0,
-      lang: "",
+      lang: "en",
       playerScores: scores,
       correctAnswerIndex: 0,
       questionCount: 5,
@@ -124,16 +129,18 @@ Rune.initLogic({
     };
   },
   actions: {
-    start({ lang }, context) {
+    language({ lang }, context) {
+      context.game.lang = lang;
+    },
+    start(_, context) {
       // start is only valid if we haven't started yet, i.e.
       // we're on question number 0
       if (context.game.questionNumber === 0) {
         // setup the configuration for the game
-        context.game.lang = lang;
 
         // pull the complete list of questions from the static store (its a big
         // set so don't put it all in game state). Shuffle the questions 
-        context.game.questions = [...QUESTIONS[lang]];
+        context.game.questions = [...QUESTIONS[context.game.lang]];
         shuffle(context.game.questions);
         context.game.questions = context.game.questions.slice(0, context.game.questionCount + 1);
 

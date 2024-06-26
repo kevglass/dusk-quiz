@@ -100,6 +100,27 @@ body {
   box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
 }
 
+#languageSelect {
+  background: rgba(0,0,0,0.5);
+  font-size: 35px;
+  height: 35px;
+  line-height: 40px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 5px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.language {
+  display: none;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 #ready {
     background: #b27ffa;
     border: 2px solid black;
