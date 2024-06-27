@@ -97,7 +97,7 @@ for (let i=0;i<4;i++) {
   const answerButton = document.getElementById("answer" + (i+1));
   answerButton?.addEventListener("click", () => {
     // only allow the player to select an answer once
-    if (!selectedAnswer) {
+    if (!selectedAnswer && !showingAnswers) {
       play(SOUND_CLICK);
       selectedAnswer = true;
       Rune.actions.answer({ index: i });
@@ -125,10 +125,7 @@ function updateLanguage(lang: Language) {
 
     if (elementLang === lang) {
       element.style.border = "3px solid grey";
-      element.style.borderRadius = "10px";
-      element.style.textShadow = "0 0 3px #FF0000"
     } else {
-      element.style.textShadow = "";
       element.style.border = "";
     }
   }
@@ -321,7 +318,7 @@ Rune.initClient({
           }
           lastQuestion = game.questionNumber;
           timerRunning = true;
-          document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[game.lang].question + game.questionNumber;
+          document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[game.lang].question + " " + game.questionNumber;
           document.getElementById("questionText")!.innerHTML = game.question.question;
           for (let i=0;i<4;i++) {
             document.getElementById("answer"+(i+1))!.innerHTML = game.question.answers[i];
