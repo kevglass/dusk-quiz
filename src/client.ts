@@ -117,6 +117,21 @@ function updateLanguage(lang: Language) {
   (document.getElementById("timerNo") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].no;
   (document.getElementById("timerYes") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].yes;
   (document.getElementById("timedQuestions") as HTMLDivElement).innerHTML = TRANSLATIONS[lang].timedQuestions;
+
+  const items = Array.from(document.getElementsByClassName("language"));
+  for (const item of items) {
+    const element = item as HTMLDivElement;
+    const elementLang = item.id.substring("lang-".length, "lang-".length+2) as Language;
+
+    if (elementLang === lang) {
+      element.style.border = "3px solid grey";
+      element.style.borderRadius = "10px";
+      element.style.textShadow = "0 0 3px #FF0000"
+    } else {
+      element.style.textShadow = "";
+      element.style.border = "";
+    }
+  }
 }
 
 let currentLanguage: Language = "en";
@@ -237,7 +252,7 @@ setInterval(() => {
 }, 50)
 
 Rune.initClient({
-  onChange: ({ game, allPlayerIds, yourPlayerId, action, event }) => {
+  onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
     // record game state to globals for use in the timer
     questionCount = game.questionCount;
     timerEnabled = game.timerEnabled;

@@ -1,0 +1,2186 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "No jogo &quot;Overwatch&quot;, quais são os nomes dos dois criminosos australianos da fação Junkers?",
+    "correct_answer": "Rato de lixo e Roadhog",
+    "incorrect_answers": [
+      "Roadrat e Junkhog",
+      "Ana e Pharah",
+      "McCree e Deadeye"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que quantidade de bits equivale normalmente a um byte?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "64"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Qual é o nome do single de sucesso do DJ finlandês Darude, lançado em outubro de 1999?",
+    "correct_answer": "Tempestade de areia",
+    "incorrect_answers": [
+      "Diabo do Pó",
+      "Siroco",
+      "Khamsin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em Splatoon 2, quem são os membros dos Off The Hook?",
+    "correct_answer": "Pérola e Marina",
+    "incorrect_answers": [
+      "Callie e Marie",
+      "Diamante &amp; Aquamarina",
+      "DJ Octavio &amp; Crusty Sean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Quais destes filmes não foram protagonizados por Jeff Bridges?",
+    "correct_answer": "Os Oito Odiados",
+    "incorrect_answers": [
+      "Tron: O Legado",
+      "O Doador",
+      "Verdadeira coragem"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Estes dois países mantiveram uma comunidade entre os séculos XVI e XVIII.",
+    "correct_answer": "Polónia e Lituânia",
+    "incorrect_answers": [
+      "Hutu e Ruanda",
+      "Coreia do Norte e Coreia do Sul",
+      "Bangladesh e Butão"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Todas as seguintes são classificadas como línguas fino-úgricas, exceto:",
+    "correct_answer": "Samoyedic",
+    "incorrect_answers": [
+      "húngaro",
+      "finlandês",
+      "estónio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Que comboio do Reino Unido NÃO ultrapassa os 125 km/h?",
+    "correct_answer": "Sprinter",
+    "incorrect_answers": [
+      "Classe 43",
+      "Dardo",
+      "Pendolino"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Comics",
+    "question": "Qual destas equipas de super-heróis aparece na banda desenhada Invincible?",
+    "correct_answer": "Guardiões do Globo",
+    "incorrect_answers": [
+      "Vingadores",
+      "Liga da Justiça",
+      "As Tartarugas Ninja dos Adolescentes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Qual era o nome da bruxa do mar no filme da Disney de 1989 &quot;A Pequena Sereia&quot;?",
+    "correct_answer": "Úrsula",
+    "incorrect_answers": [
+      "Senhora Mim",
+      "Malévola",
+      "Lady Tremaine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Quem, na mitologia grega, liderou os Argonautas em busca do Tosão de Ouro?",
+    "correct_answer": "Jason",
+    "incorrect_answers": [
+      "Castor",
+      "Dédalo",
+      "Odisseu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em &quot;Undertale&quot;, quantos finais principais existem?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "2",
+      "5",
+      "13"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que cervejaria de propriedade americana liderou o país em vendas por volume em 2015?",
+    "correct_answer": "D. G. Yuengling and Son, Inc",
+    "incorrect_answers": [
+      "Anheuser Busch",
+      "Companhia de Cerveja de Boston",
+      "Miller Coors"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Que espetáculo é conhecido pelas canções &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; e &quot;We Are Number One&quot;?",
+    "correct_answer": "Cidade Preguiçosa",
+    "incorrect_answers": [
+      "Sofia, a Primeira",
+      "DuckTales",
+      "Tom e Jerry"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Quantos planetas constituem o nosso Sistema Solar?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "7",
+      "9",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual das seguintes ilhas japonesas é a maior?",
+    "correct_answer": "Honshu",
+    "incorrect_answers": [
+      "Hokkaido",
+      "Shikoku",
+      "Kyushu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Em &quot;Hexadecimal&quot;, que cor seria apresentada a partir do código de cor &quot;#00FF00&quot;?",
+    "correct_answer": "Verde",
+    "incorrect_answers": [
+      "Vermelho",
+      "Azul",
+      "Amarelo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "No filme da Pixar, &quot;Toy Story&quot;, qual era o nome da criança que tinha os brinquedos?",
+    "correct_answer": "Andy",
+    "incorrect_answers": [
+      "Eduardo",
+      "Danny",
+      "Matt"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "O que é o Laos?",
+    "correct_answer": "País",
+    "incorrect_answers": [
+      "Região",
+      "Rio",
+      "Cidade"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "A quem foi dado o título &quot;Full Metal&quot; na série anime &quot;Full Metal Alchemist&quot;?",
+    "correct_answer": "Edward Elric",
+    "incorrect_answers": [
+      "Alphonse Elric",
+      "Van Hohenheim",
+      "Izumi Curtis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Quem interpretou a protagonista feminina no filme &quot;King Kong&quot; de 1933?",
+    "correct_answer": "Fay Wray",
+    "incorrect_answers": [
+      "Jean Harlow",
+      "Vivien Leigh",
+      "Mae West"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Qual é o anime que apresenta música do género &quot;Eurobeat&quot;?",
+    "correct_answer": "Inicial D",
+    "incorrect_answers": [
+      "Wangan Meia-noite",
+      "Kino no Tabi",
+      "Cowboy Bebop"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Politics",
+    "question": "O antigo Presidente dos Estados Unidos Bill Clinton era famoso por tocar que instrumento?",
+    "correct_answer": "Saxofone",
+    "incorrect_answers": [
+      "Trompa barítono",
+      "Piano",
+      "Violino"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Qual é o nome artístico da rapper inglesa Mathangi Arulpragasam, conhecida pela canção &quot;Paper Planes&quot;?",
+    "correct_answer": "M.I.A.",
+    "incorrect_answers": [
+      "K.I.A.",
+      "C.I.A.",
+      "A.I.A."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Segundo o rapper americano Nelly, o que se deve fazer quando está calor aqui?",
+    "correct_answer": "Despir toda a roupa",
+    "incorrect_answers": [
+      "Tomar um duche fresco",
+      "Beber um pouco de água",
+      "Dar um mergulho nu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Que rapper famoso aparece no single de 2015 dos Jack &Uuml; (Skrillex e Diplo), intitulado &quot;Febreze&quot;?",
+    "correct_answer": "2 Chainz",
+    "incorrect_answers": [
+      "Kendrick Lamar",
+      "Futuro",
+      "Fatman Scoop"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "No jogo Sonic Forces, qual dos seguintes elementos não era de um jogo anterior?",
+    "correct_answer": "Infinito",
+    "incorrect_answers": [
+      "Metal Sonic",
+      "Zavoc",
+      "Caos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Qual das seguintes pessoas ganhou a primeira temporada do American Idol em 2002?",
+    "correct_answer": "Kelly Clarkson",
+    "incorrect_answers": [
+      "Justin Guarini",
+      "Ruben Studdard",
+      "Chris Daughtry"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Quem era o Rei dos Deuses na mitologia grega antiga?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": [
+      "Apolo",
+      "Hermes",
+      "Poseidon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Qual é a linguagem utilizada pelo Node.js?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "Java",
+      "Fonte Java",
+      "Código fonte Joomla"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": " Que elemento químico, o número 11 da Tabela Periódica, tem o símbolo Na?",
+    "correct_answer": "Sódio",
+    "incorrect_answers": [
+      "Carbono",
+      "Chumbo",
+      "Nitrogénio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é a capital de Espanha?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Barcelona",
+      "Sevilha",
+      "Toledo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Com que empresa é que a Valve colaborou na criação do Vive?",
+    "correct_answer": "HTC",
+    "incorrect_answers": [
+      "Oculus",
+      "Google",
+      "Razer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qual é o nome do protagonista do romance Catcher in the Rye de J.D. Salinger?",
+    "correct_answer": "Holden Caulfield",
+    "incorrect_answers": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Hippocampus é o nome latino de que criatura marinha?",
+    "correct_answer": "Cavalo marinho",
+    "incorrect_answers": [
+      "Golfinho",
+      "Baleia",
+      "Polvo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que empresa criou e desenvolveu o jogo &quot;Overwatch&quot;?",
+    "correct_answer": "Blizzard Entertainment",
+    "incorrect_answers": [
+      "Válvula",
+      "Hi-Rez Studios",
+      "Software da caixa de velocidades"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Como é que se diz adeus em espanhol?",
+    "correct_answer": "Adi&oacute;s",
+    "incorrect_answers": [
+      " Olá",
+      "Au Revoir",
+      "Salir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual destas personagens é a mascote da empresa de videojogos SEGA?",
+    "correct_answer": "Sonic the Hedgehog",
+    "incorrect_answers": [
+      "Cabeça de Dinamite",
+      "Alex Kidd",
+      "Opa-Opa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quantas cores tem um arco-íris?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Na série televisiva da AMC &quot;The Walking Dead&quot;, como são designados os &quot;Zombies&quot;?",
+    "correct_answer": "Andarilhos",
+    "incorrect_answers": [
+      "Creepers",
+      "Larvas",
+      "Porcos do Inferno"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Qual é a comida preferida do Everest na série do Nickelodeon/Nick Jr. &quot;PAW Patrol&quot;?",
+    "correct_answer": "Fígado",
+    "incorrect_answers": [
+      "Galinha",
+      "Bife",
+      "Caribou"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Que afro-americano é em parte responsável pela integração da Liga Principal de Basebol?",
+    "correct_answer": "Jackie Robinson",
+    "incorrect_answers": [
+      "Curt Flood",
+      "Roy Campanella",
+      "Satchell Paige"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Qual dos seguintes fabricantes de automóveis teve uma guerra com o seu nome?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Volkswagen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que linguagem de programação partilha o seu nome com uma ilha da Indonésia?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "Python",
+      "C",
+      "Jakarta"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Quem foi o protagonista do filme &quot;Enter The Dragon&quot;, de 1973?",
+    "correct_answer": "Bruce Lee",
+    "incorrect_answers": [
+      "Jackie Chan",
+      "Jet Li",
+      " Yun-Fat Chow"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Qual é o nome da personagem principal da série televisiva &quot;The Flash&quot;?",
+    "correct_answer": "Barry Allen",
+    "incorrect_answers": [
+      "Oliver Queen",
+      "Bart Allen",
+      "Bruce Wayne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Qual é a &quot;central eléctrica&quot; da célula animal eucariótica?",
+    "correct_answer": "Mitocôndrias",
+    "incorrect_answers": [
+      "Núcleo",
+      "Cloroplasto",
+      "Retículo Endoplasmático"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "O que significa VR?",
+    "correct_answer": "Realidade virtual",
+    "incorrect_answers": [
+      "Muito real",
+      "Reconhecimento visual",
+      "Reconhecimento de voz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Em &quot;Breaking Bad&quot;, Walter White é um professor do liceu a quem foi diagnosticado que tipo de cancro?",
+    "correct_answer": "Cancro do pulmão",
+    "incorrect_answers": [
+      "Cancro da próstata",
+      "Cancro do cérebro",
+      "Cancro dos testículos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Quem é que montou a cavalo para avisar os Minutemen que os britânicos estavam a chegar durante a Guerra Revolucionária dos EUA?",
+    "correct_answer": "Paul Revere",
+    "incorrect_answers": [
+      "Thomas Paine",
+      "Henry Longfellow",
+      "Nathan Hale"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "&quot;Some people call me the space cowboy&quot; é o primeiro verso de que canção?",
+    "correct_answer": "O Joker",
+    "incorrect_answers": [
+      "Fandango",
+      "Pegar no dinheiro e fugir",
+      "Voar como uma águia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Na série de animação da Disney &quot;Bonkers&quot;, de 1993, qual é o nome do segundo parceiro de Bonker?",
+    "correct_answer": "Miranda Wright",
+    "incorrect_answers": [
+      "Dick Tracy",
+      "Eddie Valiant",
+      "Dr. Ludwig von Drake"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Red Vines é uma marca de que tipo de rebuçados?",
+    "correct_answer": "Alcaçuz",
+    "incorrect_answers": [
+      "Chupa-chupa",
+      "Chocolate",
+      "Pastilha elástica"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em que motor de jogo funciona o jogo Quake 2?",
+    "correct_answer": "iD Tech 2",
+    "incorrect_answers": [
+      "iD Tech 3",
+      "iD Tech 1",
+      "Motor Unreal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que empresa desenvolve a série de jogos de ritmo Rock Band?",
+    "correct_answer": "Harmonix",
+    "incorrect_answers": [
+      "Activision",
+      "Konami",
+      "Artes Electrónicas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "A linguagem de programação \"Swift\" foi criada para substituir que outra linguagem de programação?",
+    "correct_answer": "Objetivo-C",
+    "incorrect_answers": [
+      "C#",
+      "Rubi",
+      "C++"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual dos seguintes jogos tem o maior tamanho de mapa?",
+    "correct_answer": "Just Cause 2",
+    "incorrect_answers": [
+      "Grand Theft Auto 5",
+      "The Elder Scrolls 4: Oblivion",
+      "The Witcher 3: Wild Hunt"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "No basebol, quantas faltas correspondem a uma eliminação?",
+    "correct_answer": "0",
+    "incorrect_answers": [
+      "5",
+      "3",
+      "2"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Que jogador detém o recorde da NHL de 2.857 pontos?",
+    "correct_answer": "Wayne Gretzky",
+    "incorrect_answers": [
+      "Mario Lemieux ",
+      "Sidney Crosby",
+      "Gordie Howe"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "De que mitologia provém o deus &quot;Apolo&quot;?",
+    "correct_answer": "Grego e Romano",
+    "incorrect_answers": [
+      "Romano e espanhol",
+      "Grego e chinês",
+      "Grego, romano e nórdico"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em que ano foi lançado o Garry's Mod como título autónomo no serviço de distribuição Steam da Valve?",
+    "correct_answer": "2006",
+    "incorrect_answers": [
+      "2007",
+      "2004",
+      "2003"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "No videojogo Bully, qual é o apelido do protagonista?",
+    "correct_answer": "Hopkins",
+    "incorrect_answers": [
+      "Smith",
+      "Kowalski",
+      "Crabblesnitch"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Em &quot;To Love-Ru&quot;, Ren e Run são de que planeta?",
+    "correct_answer": "Memorizar",
+    "incorrect_answers": [
+      "Deviluke",
+      "Azevinho",
+      "Okiwana"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qual é a forma do brinquedo inventado pelo professor húngaro Ernő Rubik?",
+    "correct_answer": "Cubo",
+    "incorrect_answers": [
+      "Esfera",
+      "Cilindro",
+      "Pirâmide"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual das seguintes é uma classe no jogo &quot;Hearthstone&quot;?",
+    "correct_answer": "Sacerdote",
+    "incorrect_answers": [
+      "Sálvia",
+      "Clérigo",
+      "Monge"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Que antiga estrela de boy-band lançou o single de sucesso a solo &quot;Angels&quot; em 1997?",
+    "correct_answer": "Robbie Williams",
+    "incorrect_answers": [
+      "Justin Timberlake",
+      "Harry Styles",
+      "Gary Barlow"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual é o nome de uma franquia popular que inclui colocar blocos e sobreviver num mundo aberto? ",
+    "correct_answer": "Minecraft",
+    "incorrect_answers": [
+      "Não virado",
+      "Roblox",
+      "Grand Theft Auto V"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Antes da reformulação do logótipo da empresa no ano 2000, que forma 3D NÃO estava representada no logótipo da Electronic Arts?",
+    "correct_answer": "Cilindro",
+    "incorrect_answers": [
+      "Pirâmide",
+      "Cubo",
+      "Esfera"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Qual dos seguintes não fazia parte de &quot;Os Sete Magníficos&quot;?",
+    "correct_answer": "Clint Eastwood",
+    "incorrect_answers": [
+      "Steve McQueen",
+      "Charles Bronson",
+      "Robert Vaughn"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Politics",
+    "question": "Que antigo presidente dos EUA foi apelidado de &quot;Teddy&quot; depois de se ter recusado a matar um urso preto indefeso?",
+    "correct_answer": "Theodore Roosevelt",
+    "incorrect_answers": [
+      "Woodrow Wilson",
+      "James F. Fielder",
+      "Andrew Jackson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "O que é que os Estados Unidos da América celebram durante o 4 de julho?",
+    "correct_answer": "A assinatura da Declaração de Independência",
+    "incorrect_answers": [
+      "O aniversário da Batalha de Gettysburg",
+      "A travessia do rio Delaware",
+      "A ratificação da Constituição"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Qual dos seguintes não é um álbum de estúdio da banda Pink Floyd?",
+    "correct_answer": "Imagens em movimento",
+    "incorrect_answers": [
+      "O Lado Negro da Lua",
+      "Gostava que estivesses aqui",
+      "Animais"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Que equipa ganhou a Taça MLS de 2016?",
+    "correct_answer": "Seattle Sounders",
+    "incorrect_answers": [
+      "Colorado Rapids",
+      "Toronto FC",
+      "Impacto de Montreal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Os Khajiit são uma raça de criaturas felinas de que série épica de jogos de interpretação de personagens, que se passa na terra de Tamriel?",
+    "correct_answer": "The Elder Scrolls",
+    "incorrect_answers": [
+      "O Senhor dos Anéis",
+      "O Bruxo",
+      "Neverwinter Nights"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "No Minecraft, que dois objectos devem ser combinados para criar uma tocha?",
+    "correct_answer": "Pau e carvão",
+    "incorrect_answers": [
+      "Vara e fogo",
+      "Madeira e carvão",
+      "Madeira e fogo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Que atriz dançou o twist com John Travolta em \"Pulp Fiction\"?",
+    "correct_answer": "Uma Thurman",
+    "incorrect_answers": [
+      "Kathy Griffin",
+      "Pam Grier",
+      "Bridget Fonda"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Quem descobriu a penicilina?",
+    "correct_answer": "Alexander Flemming",
+    "incorrect_answers": [
+      "Marie Curie",
+      "Alfred Nobel",
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Qual é o osso mais comprido do corpo humano? ",
+    "correct_answer": "Fémur",
+    "incorrect_answers": [
+      "Escápula",
+      "Fíbula",
+      "Ulna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Qual é a raiz quadrada de 49?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "4",
+      "12",
+      "9"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Qual destas frases NÃO é uma frase de engate utilizada por Rick Sanchez na série de televisão &quot;Rick and Morty&quot;?",
+    "correct_answer": "Afundanço, nada mais que a rede!",
+    "incorrect_answers": [
+      "Vai para a cama, Jack!",
+      "Rikki-Tikki-Tavi, cabra!",
+      "Wubba-lubba-dub-dub!"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Qual é o nome da arte japonesa de dobrar papel em formas e figuras decorativas?",
+    "correct_answer": "Origami",
+    "incorrect_answers": [
+      "Sumi-e",
+      "Ukiyo-e",
+      "Haiku"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual &eacute; o número nacional da Pok&eacute;Dex do Pikachu?",
+    "correct_answer": "#025",
+    "incorrect_answers": [
+      "#001",
+      "#031",
+      "#109"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em que ano foi lançado o jogo &quot;Fallout&quot;?",
+    "correct_answer": "1997",
+    "incorrect_answers": [
+      "1998",
+      "1999",
+      "1996"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Na série &quot;Rick and Morty&quot;, no episódio &quot;Total Rickall&quot;, quem era um parasita?",
+    "correct_answer": "Pencilvester",
+    "incorrect_answers": [
+      "Beth Smith",
+      "verão Smith",
+      "Sr. Cocó"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "O sistema de numeração com um radix de 16 é mais comummente referido como ",
+    "correct_answer": "Hexidecimal",
+    "incorrect_answers": [
+      "Binário",
+      "Duodecimal",
+      "Octal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "A linguagem de programação C foi criada por este cientista informático americano. ",
+    "correct_answer": "Dennis Ritchie",
+    "incorrect_answers": [
+      "Tim Berners Lee",
+      "al-Khwārizmī",
+      "Willis Ware"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Qual é o nome de domínio do país Tuvalu?",
+    "correct_answer": ".tv",
+    "incorrect_answers": [
+      ".tu",
+      ".tt",
+      ".tl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "A banda Muse lançou o seu primeiro álbum, Showbiz, em que ano?",
+    "correct_answer": "1999",
+    "incorrect_answers": [
+      "1998",
+      "2000",
+      "2001"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em que jogo spin-off de Mario é que Waluigi fez a sua estreia?",
+    "correct_answer": "Mario Ténis",
+    "incorrect_answers": [
+      "Mario Party 3",
+      "Mario Kart: Double Dash!!",
+      "Mario Golf: Toadstool Tour"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que equipa de eSports ficou em primeiro lugar no Campeonato Internacional de Dota 2 de 2016?",
+    "correct_answer": "Jogos de asas",
+    "incorrect_answers": [
+      "Caos digital",
+      "Génios do Mal",
+      "Fnatic"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Quantos jogos da série Crash Bandicoot foram lançados para a Playstation original?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "3",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Comics",
+    "question": "Quem é o criador da série de banda desenhada &quot;The Walking Dead&quot;?",
+    "correct_answer": "Robert Kirkman",
+    "incorrect_answers": [
+      "Stan Lee",
+      "Malcolm Wheeler-Nicholson",
+      "Robert Crumb"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Que quadro de Van Gogh retrata a vista do seu asilo em Saint-R&eacute;my-de-Provence, no sul de França?",
+    "correct_answer": "A noite estrelada",
+    "incorrect_answers": [
+      "Campos de trigo com corvos",
+      "O semeador com o sol poente",
+      "A Igreja de Auvers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "A doença de Alzheimer afecta principalmente que parte do corpo humano?",
+    "correct_answer": "Cérebro",
+    "incorrect_answers": [
+      "Pulmões",
+      "Pele",
+      "Coração"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Em que estado da América nasceu e cresceu o Príncipe Fresco de Bel-Air?",
+    "correct_answer": "Pensilvânia",
+    "incorrect_answers": [
+      "Flórida",
+      "Califórnia",
+      "Nova Jersey"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual destas raças do Starbound tem uma cultura do Oeste Selvagem?",
+    "correct_answer": "Novakid",
+    "incorrect_answers": [
+      "Aviário",
+      "Humano",
+      "Hylotl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "HTML é que tipo de linguagem?",
+    "correct_answer": "Linguagem de marcação",
+    "incorrect_answers": [
+      "Linguagem Macro",
+      "Linguagem de programação",
+      "Linguagem de scripting"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "De que cor é o melro fêmea?",
+    "correct_answer": "Castanho",
+    "incorrect_answers": [
+      "Preto",
+      "Branco",
+      "Amarelo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Qual é o nome do automóvel elétrico mais popular da Nissan?",
+    "correct_answer": "Folha",
+    "incorrect_answers": [
+      "Árvore",
+      "Cervo",
+      "Raízes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quem escreveu &quot;Um Conto de Duas Cidades&quot;?",
+    "correct_answer": "Charles Dickens",
+    "incorrect_answers": [
+      "Charles Darwin",
+      "Mark Twain",
+      "Roald Dahl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Por que nome é Carlos Estevez mais conhecido? ",
+    "correct_answer": "Charlie Sheen",
+    "incorrect_answers": [
+      "Ricky Martin",
+      "Bruno Mars",
+      "Joaquin Phoenix"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Quem é o titã blindado em &quot;Attack On Titan&quot;?",
+    "correct_answer": "Reiner Braun",
+    "incorrect_answers": [
+      "Armin Arlelt",
+      "Mikasa Ackermann",
+      "Eren Jaeger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "A maior distinção entre uma célula eucariótica e uma célula procariótica é:",
+    "correct_answer": "A presença ou ausência de um núcleo",
+    "incorrect_answers": [
+      "A dimensão global",
+      "A presença ou ausência de determinados organelos",
+      "O modo de reprodução"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Qual é o nome do corgi em Cowboy Bebop?",
+    "correct_answer": "Einstein",
+    "incorrect_answers": [
+      "Eduardo",
+      "Foguetão",
+      "Joel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Em que ano foi lançado o RPG de papel e caneta &quot;Deadlands&quot;?",
+    "correct_answer": "1996",
+    "incorrect_answers": [
+      "2003",
+      "1999",
+      "1993"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual é o apelido da principal protagonista feminina de Final Fantasy VIII?",
+    "correct_answer": "Audição",
+    "incorrect_answers": [
+      "Loire",
+      "Almasy",
+      "Trepe"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qual é o livro que NÃO faz parte da série Harry Potter?",
+    "correct_answer": "O Elfo doméstico",
+    "incorrect_answers": [
+      "A Câmara dos Segredos",
+      "O Prisioneiro de Azkaban",
+      "Os Talismãs da Morte"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Quando é que foi lançado o RPG online &quot;Space Station 13&quot;?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2000",
+      "2010",
+      "2006"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "No filme &quot;Spaceballs&quot;, o que é que os Spaceballs estão a tentar roubar do Planeta Druidia?",
+    "correct_answer": "Ar",
+    "incorrect_answers": [
+      "A Sorça",
+      "Princesa Lonestar",
+      "Almôndegas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "O gelo seco é a forma sólida de que substância?",
+    "correct_answer": "Dióxido de carbono",
+    "incorrect_answers": [
+      "Nitrogénio",
+      "Amoníaco",
+      "Oxigénio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Qual destes países permaneceu neutro durante a Segunda Guerra Mundial?",
+    "correct_answer": "Suíça",
+    "incorrect_answers": [
+      "Reino Unido",
+      "França",
+      "Itália"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Em 2006, que banda lançou o seu álbum de estreia &quot;A Fever You Can't Sweat Out&quot;?",
+    "correct_answer": "Panic! Na Discoteca",
+    "incorrect_answers": [
+      "Twenty One Pilots",
+      "My Chemical Romance",
+      "Fall Out Boy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Que filme contém a frase &quot;Diz olá ao meu amiguinho!&quot;?",
+    "correct_answer": "Scarface",
+    "incorrect_answers": [
+      "Cães de Aluguel",
+      "Calor",
+      "Goodfellas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é o único estado dos Estados Unidos que não tem uma bandeira em forma de 4 arestas?",
+    "correct_answer": "Ohio",
+    "incorrect_answers": [
+      "Flórida",
+      "Idaho",
+      "Novo México"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual &eacute; o Pok&eacute;mon inicial do tipo água que foi introduzido na 4ª geração da s&eacute;rie?",
+    "correct_answer": "Piplup",
+    "incorrect_answers": [
+      "Totodilo",
+      "Oshawott",
+      "Lamaçal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "No universo do Star Trek, de que cor é o sangue vulcano?",
+    "correct_answer": "Verde",
+    "incorrect_answers": [
+      "Azul",
+      "Vermelho",
+      "Púrpura"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qual é o país cuja bandeira tem o \"Union Jack\"?",
+    "correct_answer": "Nova Zelândia",
+    "incorrect_answers": [
+      "África do Sul",
+      "Canadá",
+      "Hong Kong"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em que empresa trabalhou Gabe Newell antes de fundar a Valve Corporation?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "Apple",
+      "Google",
+      "Yahoo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Em Game of Thrones, qual é o verdadeiro nome do Mindinho?",
+    "correct_answer": "Petyr Baelish",
+    "incorrect_answers": [
+      "Podrick Payne",
+      "Lancel Lannister",
+      "Torrhen Karstark"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que frutos secos são utilizados no fabrico do maçapão?",
+    "correct_answer": "Amêndoas",
+    "incorrect_answers": [
+      "Amendoins",
+      "Nozes",
+      "Pistácios"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que jogo de Animal Crossing era para a Nintendo Wii?",
+    "correct_answer": "Animal Crossing: City Folk",
+    "incorrect_answers": [
+      "Animal Crossing: Nova Folha",
+      "Animal Crossing: Mundo Selvagem",
+      "Animal Crossing: População a crescer!"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "De que cor é o círculo da bandeira japonesa?",
+    "correct_answer": "Vermelho",
+    "incorrect_answers": [
+      "Branco",
+      "Amarelo",
+      "Preto"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Lanky, Funky e Chunky são personagens de que série pertence à Nintendo?",
+    "correct_answer": "Donkey Kong",
+    "incorrect_answers": [
+      "Mário",
+      "Kirby",
+      "Zelda"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quem escreveu o romance para jovens adultos &quot;A Culpa é das Estrelas&quot;?",
+    "correct_answer": "John Green",
+    "incorrect_answers": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "&quot;A primeira regra é: não se fala sobre isso&quot; é uma referência a que filme?",
+    "correct_answer": "Clube de Combate",
+    "incorrect_answers": [
+      "A ilha",
+      "Impensável",
+      "Torta Americana"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Quando é que o jogo de tabuleiro Twister foi lançado ao público?",
+    "correct_answer": "abril de 1966",
+    "incorrect_answers": [
+      "setembro de 1965",
+      "janeiro de 1969",
+      "fevereiro de 1966"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Qual é o nome oficial da estrela localizada mais perto do Pólo Norte Celeste?",
+    "correct_answer": "Polaris",
+    "incorrect_answers": [
+      "Eridanus",
+      "Gama Cephei",
+      "Iota Cephei"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Na série &quot;Futurama&quot;, qual é o nome completo do Fry?",
+    "correct_answer": "Philip J. Fry",
+    "incorrect_answers": [
+      "Fry J. Philip",
+      "Fry Rodr&iacute;guez",
+      "Fry Philip"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qual foi a alcunha dada ao Hughes H-4 Hercules, um barco voador de transporte pesado que conseguiu voar em 1947?",
+    "correct_answer": "Ganso de abeto",
+    "incorrect_answers": [
+      "A Arca de Noé",
+      "Homem gordo",
+      "Cavalo de Troia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "No videojogo Overwatch, que personagem jogável é famosa por dizer &quot;É meio-dia&quot;?",
+    "correct_answer": "McCree",
+    "incorrect_answers": [
+      "Hanzo",
+      "Pharah",
+      "Soldado: 76"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual era a função de Frank West em &quot;Dead Rising&quot;?",
+    "correct_answer": "Fotojornalista",
+    "incorrect_answers": [
+      "Empregado de limpeza",
+      "Cozinheiro",
+      "Motorista de táxi"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual foi o primeiro jogo de vídeo da série Batman &quot;Arkham&quot;?",
+    "correct_answer": "Asilo Arkham",
+    "incorrect_answers": [
+      "Arkham Knight",
+      "Arkham City",
+      "Origens de Arkham"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quando alguém é &quot;invejoso&quot;, diz-se que tem que cor?",
+    "correct_answer": "Verde",
+    "incorrect_answers": [
+      "Vermelho",
+      "Azul",
+      "Amarelo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Quantos blocos de obsidiana são necessários para construir um portal inferior no Minecraft?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "14",
+      "13",
+      "16"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Que país aderiu à UE em 2013?",
+    "correct_answer": "Croácia",
+    "incorrect_answers": [
+      "Bulgária",
+      "Eslovénia",
+      "Turquia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Quantas temporadas teve a série de televisão de ficção científica &quot;Stargate Universe&quot;?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "10",
+      "5",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "De que são feitos os chapéus Panamá?",
+    "correct_answer": "Palha",
+    "incorrect_answers": [
+      "Seda",
+      "Cânhamo",
+      "Linho"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "O Brasil foi uma antiga colónia de qual dos seguintes países?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": [
+      "Espanha",
+      "Países Baixos",
+      "França"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é o estado americano com a maior população?",
+    "correct_answer": "Califórnia",
+    "incorrect_answers": [
+      "Nova Iorque",
+      "Texas",
+      "Flórida"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Em aerodinâmica, qual é a força que empurra um objeto para cima?",
+    "correct_answer": "Elevador",
+    "incorrect_answers": [
+      "Arrastar",
+      "Peso",
+      "Impulso"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que bebida alcoólica é feita de melaço?",
+    "correct_answer": "Rum",
+    "incorrect_answers": [
+      "Gin",
+      "Vodka",
+      "Whisky"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Quantos estados federais tem a Alemanha?",
+    "correct_answer": "16",
+    "incorrect_answers": [
+      "13",
+      "32",
+      "25"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Quem interpreta a personagem Po nos filmes do Kung Fu Panda?",
+    "correct_answer": "Jack Black",
+    "incorrect_answers": [
+      "Mirana Jonnes",
+      "McConahey Ramsés",
+      "Jim Petersson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que membro da Velvet Room não é uma personagem jogável em Persona 4 Arena Ultimax?",
+    "correct_answer": "Teodoro",
+    "incorrect_answers": [
+      "Isabel",
+      "Margarida",
+      "Marie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Com o nome de uma personagem que interpretou num filme de 1969, qual é o nome da estância de esqui no Utah que Robert Redford comprou em 1968?",
+    "correct_answer": "Sundance",
+    "incorrect_answers": [
+      "Woodward",
+      "Turner",
+      "Booker"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Em &quot;Pheonix Wright: Ace Attorney&quot;, que personagem é o chefe da polícia do distrito?",
+    "correct_answer": "Damon Gant",
+    "incorrect_answers": [
+      "Miles Edgeworth",
+      "Lana Skye",
+      "Mike Meekins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "71% da superfície da Terra é constituída por",
+    "correct_answer": "Água",
+    "incorrect_answers": [
+      "Desertos",
+      "Continentes",
+      "Florestas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quantos valores pode um único byte representar?",
+    "correct_answer": "256",
+    "incorrect_answers": [
+      "8",
+      "1",
+      "1024"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "No jogo Dark Souls, qual é o nome da região em que se encontra durante a maior parte do jogo?",
+    "correct_answer": "Lordran",
+    "incorrect_answers": [
+      "Drangleic",
+      "Oolacile",
+      "Catarina"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Diz-se que Gordon Freeman queimou e destruiu que comida no micro-ondas da sala de descanso?",
+    "correct_answer": "Caçarola",
+    "incorrect_answers": [
+      "Sanduíche Sub",
+      "Sopa de galinha",
+      "Pizza de Pepperoni"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Que balada americana dos anos 70 se referiu ao acidente de avião de 1959 como &quot;o dia em que a música morreu&quot;?",
+    "correct_answer": "Torta Americana",
+    "incorrect_answers": [
+      "Chuva no Kentucky",
+      "Eu amar-te-ei sempre",
+      "Suicídio Rock 'n' Roll"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Em números romanos, a que é que XL equivale?",
+    "correct_answer": "40",
+    "incorrect_answers": [
+      "60",
+      "15",
+      "90"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Que cidade é a capital dos Estados Unidos da América?",
+    "correct_answer": "Washington D.C",
+    "incorrect_answers": [
+      "Seattle",
+      "Albany",
+      "Los Angeles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "A Gronelândia faz parte de que reino?",
+    "correct_answer": "Dinamarca",
+    "incorrect_answers": [
+      "Suécia",
+      "Noruega",
+      "Reino Unido"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Qual é o animal terrestre mais rápido?",
+    "correct_answer": "Chita",
+    "incorrect_answers": [
+      "Leão",
+      "Gazela de Thomson",
+      "Antílope Pronghorn"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual destes países NÃO é um estado ou território australiano?",
+    "correct_answer": "Alberta",
+    "incorrect_answers": [
+      "Nova Gales do Sul",
+      "Vitória",
+      "Queensland"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que tipo de Pok&eacute;mon &eacute; o Charizard?",
+    "correct_answer": "Fogo/voador",
+    "incorrect_answers": [
+      "Incêndio",
+      "Dragão",
+      "Fogo/Dragão"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual destes é o nome da maior cidade do estado americano do Tennessee?",
+    "correct_answer": "Memphis",
+    "incorrect_answers": [
+      "Tebas",
+      "Alexandria",
+      "Luxor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Que animal participa na mais famosa experiência de pensamento de Schr&ouml;dinger?",
+    "correct_answer": "Gato",
+    "incorrect_answers": [
+      "Cão",
+      "Morcego",
+      "Borboleta"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Que pugilista foi banido por ter dado uma dentada na orelha de Evander Holyfield em 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": [
+      "Roy Jones Jr.",
+      "Evander Holyfield",
+      "Lennox Lewis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Qual foi o álbum de estreia dos Rage Against the Machine?",
+    "correct_answer": "Rage Against the Machine",
+    "incorrect_answers": [
+      "Império do Mal",
+      "Pista de bombardeamento",
+      "A Batalha de Los Angeles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Que álbum é que os The Lumineers lançaram em 2016?",
+    "correct_answer": "Cleópatra",
+    "incorrect_answers": [
+      "inverno",
+      "Os Lumineers",
+      "Faixas do sótão"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "O antigo deus romano da guerra era vulgarmente conhecido por qual dos seguintes nomes?",
+    "correct_answer": "Marte",
+    "incorrect_answers": [
+      "Júpiter",
+      "Juno",
+      "Ares"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Quem é o último chefe do minijogo Demontower de Night In The Woods?",
+    "correct_answer": "O Ladrão de Sangue",
+    "incorrect_answers": [
+      "Mega bola de pelo ",
+      "Rei Skellie ",
+      "Krampus "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Em &quot;Future Diary&quot;, qual é o nome da agenda telefónica de Yuno Gasai?",
+    "correct_answer": "Diário de Yukiteru",
+    "incorrect_answers": [
+      "Diário de um Assassino",
+      "Diário de uma fuga ",
+      "Diário de Justiça "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "A canção &quot;Starboy&quot;, de 2016, do cantor canadiano The Weeknd, conta com a participação de que artista eletrónico de renome?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": [
+      "deadmau5",
+      "Divulgação",
+      "DJ Shadow"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Carcassonne é baseada em que cidade francesa?",
+    "correct_answer": "Carcassonne",
+    "incorrect_answers": [
+      "Paris",
+      "Marselha",
+      "Clermont-Ferrand"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Qual destes elementos é um metaloide?",
+    "correct_answer": "Antimónio",
+    "incorrect_answers": [
+      "Lata",
+      "Bromo",
+      "Rubídio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Quem é que interpretou Bruce Wayne e Batman no filme de Tim Burton &quot;Batman&quot;, de 1989?",
+    "correct_answer": "Michael Keaton",
+    "incorrect_answers": [
+      "George Clooney",
+      "Val Kilmer",
+      "Adam West"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Quem é o titã colossal em &quot;Attack On Titan&quot;?",
+    "correct_answer": "Bertolt Hoover",
+    "incorrect_answers": [
+      "Reiner",
+      "Eren",
+      "Sasha"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que mapa de &quot;Call Of Duty: Zombies&quot; introduziu os &quot;Staffs Of The Ancients&quot;?",
+    "correct_answer": "Origens",
+    "incorrect_answers": [
+      "Shangri-La",
+      "Revelações",
+      "Nuketown"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quem escreveu &quot;Harry Potter&quot;?",
+    "correct_answer": "J.K. Rowling",
+    "incorrect_answers": [
+      "J.R.R. Tolkien",
+      "Terry Pratchett",
+      "Daniel Radcliffe"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Qual é o gás nobre com o menor número atómico?",
+    "correct_answer": "Hélio",
+    "incorrect_answers": [
+      "Néon",
+      "Árgon",
+      "Krypton"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "O &quot;K&quot; de &quot;K-Pop&quot; significa que palavra?",
+    "correct_answer": "coreano",
+    "incorrect_answers": [
+      "Queniano",
+      "Cazaquistão",
+      "Kuwaitiano"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Quantos monstros emblemáticos aparecem em Monster Hunter Gernerations?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Quando é que o Minecraft foi lançado ao público pela primeira vez?",
+    "correct_answer": "17 de maio de 2009",
+    "incorrect_answers": [
+      "17 de setembro de 2009",
+      "18 de novembro de 2011",
+      "7 de outubro de 2011"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Que programa de jogos do Nickelodeon apresentava uma casa no cenário que os concorrentes remexiam para encontrar objectos escondidos?",
+    "correct_answer": "Quem procura acha",
+    "incorrect_answers": [
+      "Desafio duplo",
+      "Nickelodeon Guts",
+      "Nick Arcade"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é o nome do povo indígena da Nova Zelândia?",
+    "correct_answer": "Maori",
+    "incorrect_answers": [
+      "Vikings",
+      "Polinésios",
+      "Samoanos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Qual é o nome do principal item de cura em Dark Souls?",
+    "correct_answer": "Frasco Estus",
+    "incorrect_answers": [
+      "Poção de saúde",
+      "Sumo de laranja",
+      "Frasco de cinza"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Qual é o planeta mais quente do Sistema Solar?",
+    "correct_answer": "Vénus",
+    "incorrect_answers": [
+      "Marte",
+      "Mercúrio",
+      "Júpiter"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Que objeto doméstico faz com que as personagens de &quot;Steins; Gate&quot; viajem no tempo?",
+    "correct_answer": "Micro-ondas",
+    "incorrect_answers": [
+      "Computador",
+      "Frigorífico",
+      "Televisão"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Que idade tinha Adolf Hitler quando morreu?",
+    "correct_answer": "56",
+    "incorrect_answers": [
+      "43",
+      "65",
+      "47"
+    ]
+  }
+]

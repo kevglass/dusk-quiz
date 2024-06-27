@@ -29,9 +29,9 @@ export type Language = "en" | "ru" | "es" | "pt";
 // the big list of questions to choose from
 const QUESTIONS: Record<Language, Question[]> = {
   en: JSON.parse(ASSETS["questions_en.json"]),
-  ru: JSON.parse(ASSETS["questions_en.json"]),
-  es: JSON.parse(ASSETS["questions_en.json"]),
-  pt: JSON.parse(ASSETS["questions_en.json"]),
+  ru: JSON.parse(ASSETS["questions_ru.json"]),
+  es: JSON.parse(ASSETS["questions_es.json"]),
+  pt: JSON.parse(ASSETS["questions_pt.json"]),
 };
 
 // A single question 

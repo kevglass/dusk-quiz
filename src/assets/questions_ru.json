@@ -1,0 +1,2198 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Как называется хит-сингл финского диджея Darude, выпущенный в октябре 1999 года?",
+    "correct_answer": "Песчаная буря",
+    "incorrect_answers": [
+      "Пыльный дьявол",
+      "Sirocco",
+      "Хамсин"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В игре &quot;Overwatch&quot; как зовут двух австралийских преступников из фракции Юнкерс?",
+    "correct_answer": "Джункрат и Дорожный пес",
+    "incorrect_answers": [
+      "Роудрат и Джанхог",
+      "Ана и Фара",
+      "МакКри и Мертвый глаз"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Какое количество битов обычно равно одному байту?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "64"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Как называется хит-сингл финского диджея Darude, выпущенный в октябре 1999 года?",
+    "correct_answer": "Песчаная буря",
+    "incorrect_answers": [
+      "Пыльный дьявол",
+      "Sirocco",
+      "Хамсин"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В Splatoon 2 кто является членами группы Off The Hook?",
+    "correct_answer": "Жемчужина и Марина",
+    "incorrect_answers": [
+      "Кэлли и Мари",
+      "Бриллиант и аквамарин",
+      "DJ Octavio &amp; Crusty Sean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "В каком из этих фильмов Джефф Бриджес не снимался?",
+    "correct_answer": "Омерзительная восьмерка",
+    "incorrect_answers": [
+      "Трон: Наследие",
+      "Даритель",
+      "Настоящая грит"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Эти две страны поддерживали содружество с XVI по XVIII век.",
+    "correct_answer": "Польша и Литва",
+    "incorrect_answers": [
+      "Хуту и Руанда",
+      "Северная Корея и Южная Корея",
+      "Бангладеш и Бутан"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Все перечисленные ниже языки относятся к финно-угорским языкам, за исключением:",
+    "correct_answer": "Самодийский",
+    "incorrect_answers": [
+      "Венгерский",
+      "Финский",
+      "Эстония"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Какой поезд в Великобритании не едет со скоростью 125 миль в час?",
+    "correct_answer": "Спринтер",
+    "incorrect_answers": [
+      "Класс 43",
+      "Javelin",
+      "Pendolino"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Comics",
+    "question": "Какая из этих команд супергероев появляется в комиксах о Непобедимом?",
+    "correct_answer": "Хранители глобуса",
+    "incorrect_answers": [
+      "Мстители",
+      "Лига справедливости",
+      "Подростки-мутанты Черепашки-ниндзя"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Как звали морскую ведьму в диснеевском фильме 1989 года &quot;Русалочка&quot;?",
+    "correct_answer": "Урсула",
+    "incorrect_answers": [
+      "Госпожа Мим",
+      "Maleficent",
+      "Леди Тремейн"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Кто в греческой мифологии возглавлял аргонавтов в поисках Золотого руна?",
+    "correct_answer": "Джейсон",
+    "incorrect_answers": [
+      "Кастор",
+      "Дедал",
+      "Одиссей"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Сколько основных концовок в &quot;Undertale&quot;?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "2",
+      "5",
+      "13"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Какая американская пивоварня лидировала по объему продаж в стране в 2015 году?",
+    "correct_answer": "D. Г. Юэнглинг и сын, Инк",
+    "incorrect_answers": [
+      "Anheuser Busch",
+      "Бостонская пивная компания",
+      "Миллер Коорс"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Какое шоу известно благодаря песням &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; и &quot;We Are Number One&quot;?",
+    "correct_answer": "LazyTown",
+    "incorrect_answers": [
+      "София Первая",
+      "DuckTales",
+      "Том и Джерри"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Сколько планет входит в состав нашей Солнечной системы?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "7",
+      "9",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Какой из перечисленных ниже японских островов является самым большим?",
+    "correct_answer": "Хонсю",
+    "incorrect_answers": [
+      "Хоккайдо",
+      "Сикоку",
+      "Кюсю"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "В шестнадцатеричном формате какой цвет будет отображаться в цветовом коде? &quot;#00FF00&quot;?",
+    "correct_answer": "Зеленый",
+    "incorrect_answers": [
+      "Красный",
+      "Голубой",
+      "Желтый"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "В фильме Pixar &quot;История игрушек&quot; как звали ребенка, которому принадлежали игрушки?",
+    "correct_answer": "Энди",
+    "incorrect_answers": [
+      "Эдвард",
+      "Дэнни",
+      "Мэтт"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Что такое Лаос?",
+    "correct_answer": "Страна",
+    "incorrect_answers": [
+      "Регион",
+      "Река",
+      "Город"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Кто получил титул &quot;Full Metal&quot; в аниме-сериале &quot;Full Metal Alchemist&quot;?",
+    "correct_answer": "Эдвард Элрик",
+    "incorrect_answers": [
+      "Альфонс Элрик",
+      "Ван Хоэнхайм",
+      "Изуми Кертис"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Кто сыграл главную женскую роль в фильме 1933 года &quot;Кинг-Конг&quot;?",
+    "correct_answer": "Фэй Врэй",
+    "incorrect_answers": [
+      "Джин Харлоу",
+      "Вивьен Ли",
+      "Мэй Уэст"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "В каком аниме часто звучит музыка из жанра &quot;Eurobeat&quot;?",
+    "correct_answer": "Начальная D",
+    "incorrect_answers": [
+      "Ванганская полночь",
+      "Kino no Tabi",
+      "Ковбой Бибоп"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Politics",
+    "question": "Бывший президент Соединенных Штатов Билл Клинтон играл на каком инструменте?",
+    "correct_answer": "Саксофон",
+    "incorrect_answers": [
+      "Баритоновый рожок",
+      "Фортепиано",
+      "Скрипка"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Какой сценический псевдоним у английской рэперши Матханги Арулпрагасам, известной по песне &quot;Paper Planes&quot;?",
+    "correct_answer": "M.I.A.",
+    "incorrect_answers": [
+      "K.I.A.",
+      "C.I.A.",
+      "A.I.A."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Как говорит американский рэпер Нелли, что нужно делать, когда здесь жарко?",
+    "correct_answer": "Снимите всю одежду",
+    "incorrect_answers": [
+      "Примите прохладный душ",
+      "Выпейте немного воды",
+      "Погрузитесь в воду с головой"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Какой известный рэпер звучит в сингле Jack &Uuml; (Skrillex и Diplo) 2015 года под названием &quot;Febreze&quot;?",
+    "correct_answer": "2 Chainz",
+    "incorrect_answers": [
+      "Кендрик Ламар",
+      "Будущее",
+      "Толстяк Скуп"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В игре Sonic Forces, что из перечисленного ниже не было взято из предыдущей игры?",
+    "correct_answer": "Бесконечность",
+    "incorrect_answers": [
+      "Металлический Соник",
+      "Zavoc",
+      "Хаос"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Кто из нижеперечисленных стал победителем первого сезона шоу American Idol в 2002 году?",
+    "correct_answer": "Келли Кларксон",
+    "incorrect_answers": [
+      "Джастин Гуарини",
+      "Рубен Студдард",
+      "Крис Дотри"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Кто был царем богов в древнегреческой мифологии?",
+    "correct_answer": "Зевс",
+    "incorrect_answers": [
+      "Apollo",
+      "Hermes",
+      "Посейдон"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Какой язык используется в Node.js?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "Java",
+      "Источник Java",
+      "Исходный код Joomla"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": " Какой химический элемент, номер 11 в Периодической таблице, имеет символ Na?",
+    "correct_answer": "Натрий",
+    "incorrect_answers": [
+      "Углерод",
+      "Вести",
+      "Азот"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Что является столицей Испании?",
+    "correct_answer": "Мадрид",
+    "incorrect_answers": [
+      "Барселона",
+      "Севилья",
+      "Толедо"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "С какой компанией Valve сотрудничала при создании Vive?",
+    "correct_answer": "HTC",
+    "incorrect_answers": [
+      "Oculus",
+      "Google",
+      "Razer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Как зовут главного героя романа Дж. Д. Сэлинджера \"Ловец во ржи\"?",
+    "correct_answer": "Холден Колфилд",
+    "incorrect_answers": [
+      "Флетчер Кристиан",
+      "Джей Гэтсби",
+      "Рэндалл Флэгг"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Гиппокамп - это латинское название какого морского существа?",
+    "correct_answer": "Морской конек",
+    "incorrect_answers": [
+      "Дельфин",
+      "Кит",
+      "Осьминог"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какая компания создала и разработала игру &quot;Overwatch&quot;?",
+    "correct_answer": "Blizzard Entertainment",
+    "incorrect_answers": [
+      "Клапан",
+      "Hi-Rez Studios",
+      "Программное обеспечение Gearbox"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Как сказать \"до свидания\" по-испански?",
+    "correct_answer": "Adi&oacute;s",
+    "incorrect_answers": [
+      " Ола",
+      "Au Revoir",
+      "Салир"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Кто из этих персонажей является талисманом компании SEGA, производящей видеоигры?",
+    "correct_answer": "Соник Ежик",
+    "incorrect_answers": [
+      "Динамит Хэдди",
+      "Алекс Кидд",
+      "Опа-опа"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Сколько цветов в радуге?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "В сериале AMC &quot;Ходячие мертвецы&quot; как называются зомби?",
+    "correct_answer": "Ходунки",
+    "incorrect_answers": [
+      "Криперы",
+      "Магготы",
+      "Адские свиньи"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Что является любимой едой Эвереста в сериале Nickelodeon/Nick Jr. &quot;PAW Patrol&quot;?",
+    "correct_answer": "Печень",
+    "incorrect_answers": [
+      "Курица",
+      "Стейк",
+      "Карибу"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Кто из афроамериканцев отчасти ответственен за интеграцию бейсбольной высшей лиги?",
+    "correct_answer": "Джеки Робинсон",
+    "incorrect_answers": [
+      "Курт Флад",
+      "Рой Кампанелла",
+      "Сэтчелл Пейдж"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "В честь какого из перечисленных ниже автопроизводителей была названа война?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Volkswagen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Название какого языка программирования совпадает с названием острова в Индонезии?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "Python",
+      "C",
+      "Джакарта"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Кто снимался в фильме 1973 года &quot;Война дракона&quot;?",
+    "correct_answer": "Брюс Ли",
+    "incorrect_answers": [
+      "Джеки Чан",
+      "Джет Ли",
+      " Юн-Фат Чоу"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Как зовут главного героя сериала &quot;Флэш&quot;?",
+    "correct_answer": "Барри Аллен",
+    "incorrect_answers": [
+      "Оливер Куин",
+      "Барт Аллен",
+      "Брюс Уэйн"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Что является &quot;силовым агрегатом&quot; эукариотической животной клетки?",
+    "correct_answer": "Митохондрии",
+    "incorrect_answers": [
+      "Ядро",
+      "Хлоропласт",
+      "Эндоплазматический ретикулум"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Что означает VR?",
+    "correct_answer": "Виртуальная реальность",
+    "incorrect_answers": [
+      "Очень реальный",
+      "Визуальное распознавание",
+      "Распознавание голоса"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "В сериале &quot;Во все тяжкие&quot; Уолтер Уайт - школьный учитель, у которого диагностирована какая форма рака?",
+    "correct_answer": "Рак легких",
+    "incorrect_answers": [
+      "Рак предстательной железы",
+      "Рак головного мозга",
+      "Рак яичек"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Кто во время Революционной войны в США прискакал на лошади, чтобы предупредить минитменов о приближении англичан?",
+    "correct_answer": "Пол Ревер",
+    "incorrect_answers": [
+      "Томас Пейн",
+      "Генри Лонгфелло",
+      "Натан Хейл"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "&quot;Некоторые люди называют меня космическим ковбоем&quot; - это первая строчка из какой песни?",
+    "correct_answer": "Джокер",
+    "incorrect_answers": [
+      "Fandango",
+      "Возьмите деньги и бегите",
+      "Летать как орел"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "В диснеевском мультсериале 1993 года &quot;Бонкерс&quot; как зовут второго партнера Бонкера?",
+    "correct_answer": "Миранда Райт",
+    "incorrect_answers": [
+      "Дик Трейси",
+      "Эдди Валиант",
+      "Доктор Людвиг фон Дрейк"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Red Vines - это марка какого вида конфет?",
+    "correct_answer": "Солодка",
+    "incorrect_answers": [
+      "Леденец",
+      "Шоколад",
+      "Бубльгум"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "На каком игровом движке работает видеоигра Quake 2?",
+    "correct_answer": "iD Tech 2",
+    "incorrect_answers": [
+      "iD Tech 3",
+      "iD Tech 1",
+      "Unreal Engine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какая компания разрабатывает серию ритм-игр Rock Band?",
+    "correct_answer": "Harmonix",
+    "incorrect_answers": [
+      "Activision",
+      "Konami",
+      "Electronic Arts"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Язык программирования \"Swift\" был создан для замены какого другого языка программирования?",
+    "correct_answer": "Objective-C",
+    "incorrect_answers": [
+      "C#",
+      "Руби",
+      "C++"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В какой из следующих игр размер карты самый большой?",
+    "correct_answer": "Just Cause 2",
+    "incorrect_answers": [
+      "Grand Theft Auto 5",
+      "The Elder Scrolls 4: Oblivion",
+      "The Witcher 3: Wild Hunt"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "В бейсболе сколько фолов считается аутом?",
+    "correct_answer": "0",
+    "incorrect_answers": [
+      "5",
+      "3",
+      "2"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Какому игроку принадлежит рекорд НХЛ - 2 857 очков?",
+    "correct_answer": "Уэйн Гретцки",
+    "incorrect_answers": [
+      "Марио Лемье ",
+      "Сидни Кросби",
+      "Горди Хау"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Из какой мифологии произошел бог Аполлон?",
+    "correct_answer": "Греческий и римский",
+    "incorrect_answers": [
+      "Римский и испанский языки",
+      "Греческий и китайский",
+      "Греческие, римские и норвежские"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В каком году Garry's Mod вышла в качестве самостоятельной игры на сервисе распространения Steam компании Valve?",
+    "correct_answer": "2006",
+    "incorrect_answers": [
+      "2007",
+      "2004",
+      "2003"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В видеоигре Bully, как фамилия главного героя?",
+    "correct_answer": "Хопкинс",
+    "incorrect_answers": [
+      "Смит",
+      "Ковальски",
+      "Крабблснич"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "В фильме &quot;Любить-Ру&quot; Рен и Рун родом с какой планеты?",
+    "correct_answer": "Memorze",
+    "incorrect_answers": [
+      "Девилюк",
+      "Омела",
+      "Окивана"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Какую форму имеет игрушка, изобретенная венгерским профессором Эрнё Рубиком?",
+    "correct_answer": "Куб",
+    "incorrect_answers": [
+      "Сфера",
+      "Цилиндр",
+      "Пирамида"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какой из перечисленных ниже классов является классом в игре &quot;Hearthstone&quot;?",
+    "correct_answer": "Священник",
+    "incorrect_answers": [
+      "Шалфей",
+      "Клирик",
+      "Монах"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Какая бывшая звезда бойз-бенда выпустила сольный сингл &quot;Angels&quot; в 1997 году?",
+    "correct_answer": "Робби Уильямс",
+    "incorrect_answers": [
+      "Джастин Тимберлейк",
+      "Гарри Стайлз",
+      "Гэри Барлоу"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Как называется популярная франшиза, в которой нужно ставить блоки и выживать в открытом мире? ",
+    "correct_answer": "Minecraft",
+    "incorrect_answers": [
+      "Unturned",
+      "Roblox",
+      "Grand Theft Auto V"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "До редизайна логотипа компании в 2000 году, какая 3D-фигура НЕ была представлена в логотипе Electronic Arts?",
+    "correct_answer": "Цилиндр",
+    "incorrect_answers": [
+      "Пирамида",
+      "Куб",
+      "Сфера"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Кто из нижеперечисленных не входил в &quot;Великолепную семерку&quot;?",
+    "correct_answer": "Клинт Иствуд",
+    "incorrect_answers": [
+      "Стив МакКуин",
+      "Чарльз Бронсон",
+      "Роберт Вон"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Politics",
+    "question": "Какого бывшего президента США прозвали &quot;Тедди&quot; после того, как он отказался стрелять в беззащитного черного медведя?",
+    "correct_answer": "Теодор Рузвельт",
+    "incorrect_answers": [
+      "Вудро Вильсон",
+      "Джеймс Ф. Филдер",
+      "Эндрю Джексон"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Что празднуют Соединенные Штаты Америки 4 июля?",
+    "correct_answer": "Подписание Декларации независимости",
+    "incorrect_answers": [
+      "Годовщина битвы при Геттисберге",
+      "Переправа через реку Делавэр",
+      "Ратификация Конституции"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Что из перечисленного ниже не является студийным альбомом группы Pink Floyd?",
+    "correct_answer": "Движущиеся картинки",
+    "incorrect_answers": [
+      "Темная сторона Луны",
+      "Wish You Were Here",
+      "Животные"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Какая команда выиграла Кубок MLS 2016 года?",
+    "correct_answer": "Сиэтл Саундерс",
+    "incorrect_answers": [
+      "Колорадо Рэпидс",
+      "ФК \"Торонто",
+      "Монреаль Импакт"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Кхаджиты - раса кошкоподобных существ из какой эпической серии ролевых игр, действие которой происходит на земле Тамриэль?",
+    "correct_answer": "The Elder Scrolls",
+    "incorrect_answers": [
+      "Властелин колец",
+      "Ведьмак",
+      "Neverwinter Nights"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В Minecraft какие два предмета нужно соединить, чтобы сделать факел?",
+    "correct_answer": "Палка и уголь",
+    "incorrect_answers": [
+      "Палка и огонь",
+      "Древесина и уголь",
+      "Дерево и огонь"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Какая актриса танцевала твист с Джоном Траволтой в фильме \"Криминальное чтиво\"?",
+    "correct_answer": "Ума Турман",
+    "incorrect_answers": [
+      "Кэти Гриффин",
+      "Пэм Герье",
+      "Бриджет Фонда"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Кто открыл пенициллин?",
+    "correct_answer": "Александр Флемминг",
+    "incorrect_answers": [
+      "Мария Кюри",
+      "Альфред Нобель",
+      "Луи Пастер"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Какая кость является самой длинной в человеческом теле? ",
+    "correct_answer": "Бедренная кость",
+    "incorrect_answers": [
+      "Лопатка",
+      "Фибула",
+      "Ulna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Чему равен квадратный корень из 49?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "4",
+      "12",
+      "9"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Что из перечисленного не является коронной фразой Рика Санчеса в сериале &quot;Рик и Морти&quot;?",
+    "correct_answer": "Слэм-данк, ничего кроме сетки!",
+    "incorrect_answers": [
+      "Пошел спать, Джек!",
+      "Рикки-Тикки-Тави, ублюдок!",
+      "Вюбба-любба-дуб-дуб!"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Как называется японское искусство складывания бумаги в декоративные формы и фигуры?",
+    "correct_answer": "Оригами",
+    "incorrect_answers": [
+      "Суми-э",
+      "Укиё-э",
+      "Хайку"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Каков национальный номер Пикачу в ПокеДексе?",
+    "correct_answer": "#025",
+    "incorrect_answers": [
+      "#001",
+      "#031",
+      "#109"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В каком году была выпущена игра &quot;Fallout&quot;?",
+    "correct_answer": "1997",
+    "incorrect_answers": [
+      "1998",
+      "1999",
+      "1996"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "В сериале &quot;Рик и Морти&quot;, в эпизоде &quot;Полный Рикалл&quot;, кто был паразитом?",
+    "correct_answer": "Карандашница",
+    "incorrect_answers": [
+      "Бет Смит",
+      "Саммер Смит",
+      "Мистер Пупи Баттхоул"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Система счисления с радиксом 16 чаще всего называется ",
+    "correct_answer": "Шестнадцатеричная система",
+    "incorrect_answers": [
+      "Бинарные",
+      "Дуодецимальный",
+      "Octal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Язык программирования C был создан этим американским ученым-компьютерщиком. ",
+    "correct_answer": "Деннис Ричи",
+    "incorrect_answers": [
+      "Тим Бернерс Ли",
+      "аль-Хваризми",
+      "Уиллис Уэр"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Какое доменное имя у страны Тувалу?",
+    "correct_answer": ".tv",
+    "incorrect_answers": [
+      ".tu",
+      ".tt",
+      ".tl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "В каком году группа Muse выпустила свой первый альбом Showbiz?",
+    "correct_answer": "1999",
+    "incorrect_answers": [
+      "1998",
+      "2000",
+      "2001"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В какой спин-офф игре про Марио дебютировал Валуиджи?",
+    "correct_answer": "Марио Теннис",
+    "incorrect_answers": [
+      "Марио Пати 3",
+      "Mario Kart: Double Dash!!!",
+      "Марио Гольф: Тур Тоадстул"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какая киберспортивная команда заняла первое место в The International Dota 2 Championship 2016?",
+    "correct_answer": "Wings Gaming",
+    "incorrect_answers": [
+      "Цифровой хаос",
+      "Злые гении",
+      "Fnatic"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Сколько игр из серии Crash Bandicoot было выпущено на оригинальной Playstation?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "3",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Comics",
+    "question": "Кто является создателем серии комиксов &quot;Ходячие мертвецы&quot;?",
+    "correct_answer": "Роберт Киркман",
+    "incorrect_answers": [
+      "Стэн Ли",
+      "Малкольм Уилер-Николсон",
+      "Роберт Крамб"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "На какой картине Ван Гога изображен вид из его убежища в Сен-Реми-де-Прованс на юге Франции?",
+    "correct_answer": "Звездная ночь",
+    "incorrect_answers": [
+      "Пшеничные поля с воронами",
+      "Сеятель с заходящим солнцем",
+      "Церковь в Овере"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Болезнь Альцгеймера в первую очередь поражает какую часть человеческого тела?",
+    "correct_answer": "Мозг",
+    "incorrect_answers": [
+      "Легкие",
+      "Кожа",
+      "Сердце"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "В каком штате Америки родился и вырос \"Принц Бель-Эйр\"?",
+    "correct_answer": "Пенсильвания",
+    "incorrect_answers": [
+      "Флорида",
+      "Калифорния",
+      "Нью-Джерси"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "У какой из этих рас, живущих в Звездном мире, есть культура Дикого Запада?",
+    "correct_answer": "Новакид",
+    "incorrect_answers": [
+      "Птица",
+      "Человек",
+      "Hylotl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "HTML - это какой тип языка?",
+    "correct_answer": "Язык разметки",
+    "incorrect_answers": [
+      "Язык макросов",
+      "Язык программирования",
+      "Язык сценариев"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Какого цвета самка черного дрозда?",
+    "correct_answer": "Коричневый",
+    "incorrect_answers": [
+      "Черный",
+      "Белый",
+      "Желтый"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Как называется самый популярный электромобиль компании Nissan?",
+    "correct_answer": "Лист",
+    "incorrect_answers": [
+      "Дерево",
+      "Олень",
+      "Корни"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Кто написал &quot;Повесть о двух городах&quot;?",
+    "correct_answer": "Чарльз Диккенс",
+    "incorrect_answers": [
+      "Чарльз Дарвин",
+      "Марк Твен",
+      "Роальд Даль"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Под каким именем более известен Карлос Эстевес? ",
+    "correct_answer": "Чарли Шин",
+    "incorrect_answers": [
+      "Рики Мартин",
+      "Бруно Марс",
+      "Хоакин Феникс"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Кто является бронированным титаном в фильме &quot;Атака на Титана&quot;?",
+    "correct_answer": "Райнер Браун",
+    "incorrect_answers": [
+      "Армин Арлельт",
+      "Микаса Акерманн",
+      "Эрен Егер"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Самое большое различие между эукариотической и прокариотической клетками:",
+    "correct_answer": "Наличие или отсутствие ядра",
+    "incorrect_answers": [
+      "Общий размер",
+      "Наличие или отсутствие определенных органелл",
+      "Способ воспроизводства"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Как зовут корги в фильме \"Ковбой Бибоп\"?",
+    "correct_answer": "Эйнштейн",
+    "incorrect_answers": [
+      "Эдвард",
+      "Ракета",
+      "Джоэл"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "В каком году была выпущена бумажно-перьевая ролевая игра &quot;Deadlands&quot;?",
+    "correct_answer": "1996",
+    "incorrect_answers": [
+      "2003",
+      "1999",
+      "1993"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какая фамилия у главного женского протагониста Final Fantasy VIII?",
+    "correct_answer": "Heartilly",
+    "incorrect_answers": [
+      "Луара",
+      "Алмазы",
+      "Треп"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Какая книга не входит в серию о Гарри Поттере?",
+    "correct_answer": "Домашний эльф",
+    "incorrect_answers": [
+      "Тайная комната",
+      "Узник Азкабана",
+      "Дары Смерти"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Когда была выпущена нисходящая онлайновая ролевая игра &quot;Космическая станция 13&quot;?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2000",
+      "2010",
+      "2006"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "В фильме &quot;Космические шары&quot; что пытаются украсть космические шары с планеты Друидия?",
+    "correct_answer": "Воздух",
+    "incorrect_answers": [
+      "Шварц",
+      "Принцесса Лонэстар",
+      "Фрикадельки"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Сухой лед - это твердая форма какого вещества?",
+    "correct_answer": "Углекислый газ",
+    "incorrect_answers": [
+      "Азот",
+      "Аммиак",
+      "Кислород"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Какая из этих стран сохраняла нейтралитет во время Второй мировой войны?",
+    "correct_answer": "Швейцария",
+    "incorrect_answers": [
+      "Великобритания",
+      "Франция",
+      "Италия"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "В 2006 году какая группа выпустила свой дебютный альбом &quot;A Fever You Can't Sweat Out&quot;?",
+    "correct_answer": "Паника! На дискотеке",
+    "incorrect_answers": [
+      "Twenty One Pilots",
+      "My Chemical Romance",
+      "Fall Out Boy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "В каком фильме есть цитата: &quot;Поздоровайся с моим маленьким другом!&quot;?",
+    "correct_answer": "Лицо со шрамом",
+    "incorrect_answers": [
+      "Собаки из резервуара",
+      "Тепло",
+      "Гудфеллас"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Какой единственный штат в США не имеет флага с 4 краями?",
+    "correct_answer": "Огайо",
+    "incorrect_answers": [
+      "Флорида",
+      "Айдахо",
+      "Нью-Мексико"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Стартовый покемон какого водного типа появился в 4-м поколении серии?",
+    "correct_answer": "Пиплуп",
+    "incorrect_answers": [
+      "Тотодил",
+      "Ошавот",
+      "Мадкип"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Какого цвета кровь вулканцев во вселенной \"Звездного пути\"?",
+    "correct_answer": "Зеленый",
+    "incorrect_answers": [
+      "Голубой",
+      "Красный",
+      "Фиолетовый"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "На флаге какой страны изображен \"Юнион Джек\"?",
+    "correct_answer": "Новая Зеландия",
+    "incorrect_answers": [
+      "Южная Африка",
+      "Канада",
+      "Гонконг"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В какой компании работал Гейб Ньюэлл до основания Valve Corporation?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "Apple",
+      "Google",
+      "Yahoo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Как на самом деле зовут Мизинца в \"Игре престолов\"?",
+    "correct_answer": "Петир Бейлиш",
+    "incorrect_answers": [
+      "Подрик Пейн",
+      "Лансель Ланнистер",
+      "Карстарк Торрхен"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Какие орехи используются при производстве марципана?",
+    "correct_answer": "Миндаль",
+    "incorrect_answers": [
+      "Арахис",
+      "Грецкие орехи",
+      "Фисташки"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какая игра из серии Animal Crossing вышла для Nintendo Wii?",
+    "correct_answer": "Animal Crossing: Городской народ",
+    "incorrect_answers": [
+      "Animal Crossing: Новый лист",
+      "Animal Crossing: Дикий мир",
+      "Animal Crossing: Население растет!"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Какого цвета круг на японском флаге?",
+    "correct_answer": "Красный",
+    "incorrect_answers": [
+      "Белый",
+      "Желтый",
+      "Черный"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Лэнки, Фанки и Чанки - персонажи какой серии, принадлежащей компании Nintendo?",
+    "correct_answer": "Ослик Конг",
+    "incorrect_answers": [
+      "Марио",
+      "Кирби",
+      "Зельда"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Кто написал роман для взрослых &quot;The Fault in Our Stars&quot;?",
+    "correct_answer": "Джон Грин",
+    "incorrect_answers": [
+      "Стивени Майер",
+      "Сюзанна Коллинз",
+      "Стивен Чбоски"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "&quot;Первое правило: ты не говоришь об этом&quot; - отсылка к какому фильму?",
+    "correct_answer": "Бойцовский клуб",
+    "incorrect_answers": [
+      "Остров",
+      "Немыслимое",
+      "Американский пирог"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Когда была выпущена настольная игра \"Твистер\"?",
+    "correct_answer": "Апрель 1966 года",
+    "incorrect_answers": [
+      "Сентябрь 1965 года",
+      "Январь 1969 года",
+      "Февраль 1966 года"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Как официально называется звезда, расположенная ближе всего к северному небесному полюсу?",
+    "correct_answer": "Polaris",
+    "incorrect_answers": [
+      "Eridanus",
+      "Гамма Цефея",
+      "Йота Цефея"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "В сериале &quot;Футурама&quot; какое полное имя у Фрая?",
+    "correct_answer": "Филип Дж. Фрай",
+    "incorrect_answers": [
+      "Фрай Дж. Филип",
+      "Фрай Родригес",
+      "Фрай Филипп"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Какое прозвище получила тяжелая транспортная летающая лодка Hughes H-4 Hercules, которая совершила полет в 1947 году?",
+    "correct_answer": "Еловый гусь",
+    "incorrect_answers": [
+      "Ноев ковчег",
+      "Толстяк",
+      "Троянский конь"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В видеоигре Overwatch какой персонаж печально известен тем, что говорит: &quot;Сейчас полдень&quot;?",
+    "correct_answer": "МакКри",
+    "incorrect_answers": [
+      "Ханзо",
+      "Фара",
+      "Солдат: 76"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Чем занимался Фрэнк Уэст в фильме &quot;Восстание мертвецов&quot;?",
+    "correct_answer": "Фотожурналист",
+    "incorrect_answers": [
+      "Уборщик",
+      "Шеф-повар",
+      "Таксист"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какой была первая видеоигра из серии Batman &quot;Arkham&quot;?",
+    "correct_answer": "Arkham Asylum",
+    "incorrect_answers": [
+      "Arkham Knight",
+      "Arkham City",
+      "Arkham Origins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Когда человек &quot;завидует&quot;, о нем говорят, что он какого цвета?",
+    "correct_answer": "Зеленый",
+    "incorrect_answers": [
+      "Красный",
+      "Голубой",
+      "Желтый"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Сколько обсидиановых блоков нужно для строительства портала в Minecraft?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "14",
+      "13",
+      "16"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Какая страна вступила в ЕС в 2013 году?",
+    "correct_answer": "Хорватия",
+    "incorrect_answers": [
+      "Болгария",
+      "Словения",
+      "Турция"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Сколько сезонов было у научно-фантастического сериала &quot;Вселенная Звездных врат&quot;?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "10",
+      "5",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Из чего делают панамские шляпы?",
+    "correct_answer": "Солома",
+    "incorrect_answers": [
+      "Шелк",
+      "Конопля",
+      "Лен"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Под властью какого из перечисленных ниже государств Бразилия была бывшей колонией?",
+    "correct_answer": "Португалия",
+    "incorrect_answers": [
+      "Испания",
+      "Нидерланды",
+      "Франция"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "В каком штате США самое большое население?",
+    "correct_answer": "Калифорния",
+    "incorrect_answers": [
+      "Нью-Йорк",
+      "Техас",
+      "Флорида"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Какая сила в аэродинамике толкает объект вверх?",
+    "correct_answer": "Подъемник",
+    "incorrect_answers": [
+      "Drag",
+      "Вес",
+      "Упор"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Какой алкогольный напиток делают из патоки?",
+    "correct_answer": "Ром",
+    "incorrect_answers": [
+      "Джин",
+      "Водка",
+      "Виски"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Сколько федеральных земель в Германии?",
+    "correct_answer": "16",
+    "incorrect_answers": [
+      "13",
+      "32",
+      "25"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Кто играет персонажа По в фильмах о Кунг-фу Панде?",
+    "correct_answer": "Джек Блэк",
+    "incorrect_answers": [
+      "Мирана Йоннес",
+      "МакКонахи Рамзес",
+      "Джим Петерссон"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Кто из членов Бархатной комнаты не является играбельным персонажем в Persona 4 Arena Ultimax?",
+    "correct_answer": "Теодор",
+    "incorrect_answers": [
+      "Элизабет",
+      "Маргарет",
+      "Мари"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Как называется горнолыжный курорт в штате Юта, который Роберт Редфорд купил в 1968 году в честь персонажа, сыгравшего его в фильме 1969 года?",
+    "correct_answer": "Sundance",
+    "incorrect_answers": [
+      "Вудворд",
+      "Тернер",
+      "Букер"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В игре &quot;Феоникс Райт: Ace Attorney&quot; какой персонаж является начальником полиции округа?",
+    "correct_answer": "Дэймон Гант",
+    "incorrect_answers": [
+      "Майлз Эджворт",
+      "Лана Скай",
+      "Майк Микинс"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "71 % поверхности Земли состоит из",
+    "correct_answer": "Вода",
+    "incorrect_answers": [
+      "Пустыни",
+      "Континенты",
+      "Леса"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Сколько значений может представлять один байт?",
+    "correct_answer": "256",
+    "incorrect_answers": [
+      "8",
+      "1",
+      "1024"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "В игре Dark Souls как называется регион, в котором вы находитесь большую часть игры?",
+    "correct_answer": "Лордран",
+    "incorrect_answers": [
+      "Дранглейк",
+      "Oolacile",
+      "Катарина"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Говорят, что Гордон Фримен сжег и уничтожил какую еду в микроволновке в комнате отдыха?",
+    "correct_answer": "Запеканка",
+    "incorrect_answers": [
+      "Сэндвич",
+      "Куриный суп",
+      "Пицца Пепперони"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "В какой американской балладе 1970-х годов авиакатастрофа 1959 года была названа &quot;днем, когда умерла музыка&quot;?",
+    "correct_answer": "Американский пирог",
+    "incorrect_answers": [
+      "Дождь в Кентукки",
+      "Я всегда буду любить тебя",
+      "Самоубийство в рок-н-ролле"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Что означает XL в римских цифрах?",
+    "correct_answer": "40",
+    "incorrect_answers": [
+      "60",
+      "15",
+      "90"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Какой город является столицей Соединенных Штатов Америки?",
+    "correct_answer": "Вашингтон, округ Колумбия",
+    "incorrect_answers": [
+      "Сиэтл",
+      "Олбани",
+      "Лос-Анджелес"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Гренландия является частью какого королевства?",
+    "correct_answer": "Дания",
+    "incorrect_answers": [
+      "Швеция",
+      "Норвегия",
+      "Великобритания"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Какое самое быстрое сухопутное животное?",
+    "correct_answer": "Гепард",
+    "incorrect_answers": [
+      "Лев",
+      "Газель Томсона",
+      "Антилопа Пронгхорн"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Что из перечисленного не является австралийским штатом или территорией?",
+    "correct_answer": "Альберта",
+    "incorrect_answers": [
+      "Новый Южный Уэльс",
+      "Виктория",
+      "Квинсленд"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "К какому типу покемонов относится Чародей?",
+    "correct_answer": "Огонь/Летающий",
+    "incorrect_answers": [
+      "Огонь",
+      "Дракон",
+      "Огонь/Дракон"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Какой из них является названием крупнейшего города в американском штате Теннесси?",
+    "correct_answer": "Мемфис",
+    "incorrect_answers": [
+      "Фивы",
+      "Александрия",
+      "Луксор"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Какое животное участвует в самом известном мысленном эксперименте Шредингера?",
+    "correct_answer": "Кот",
+    "incorrect_answers": [
+      "Собака",
+      "Летучая мышь",
+      "Бабочка"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Какой боксер был запрещен за то, что откусил ухо Эвандера Холифилда в 1997 году?",
+    "correct_answer": "Майк Тайсон",
+    "incorrect_answers": [
+      "Рой Джонс-младший.",
+      "Эвандер Холифилд",
+      "Леннокс Льюис"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Каким был дебютный альбом группы Rage Against the Machine?",
+    "correct_answer": "Rage Against the Machine",
+    "incorrect_answers": [
+      "Империя зла",
+      "Bombtrack",
+      "Битва за Лос-Анджелес"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Какой альбом выпустили The Lumineers в 2016 году?",
+    "correct_answer": "Клеопатра",
+    "incorrect_answers": [
+      "Зима",
+      "The Lumineers",
+      "Треки с чердака"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Древнеримский бог войны был известен как один из следующих богов?",
+    "correct_answer": "Марс",
+    "incorrect_answers": [
+      "Юпитер",
+      "Джуно",
+      "Арес"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Кто является последним боссом в мини-игре Demontower в Night In The Woods?",
+    "correct_answer": "Кровавый вор",
+    "incorrect_answers": [
+      "Мега волосатик ",
+      "Король Скелли ",
+      "Крампус "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Как называется телефонный дневник Юно Гасая в фильме &quot;Дневник будущего&quot;?",
+    "correct_answer": "Дневник Юкитеру",
+    "incorrect_answers": [
+      "Дневник убийцы",
+      "Дневник побега ",
+      "Дневник правосудия "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "В песне 2016 года &quot;Starboy&quot; канадского певца The Weeknd звучит песня какого известного электронного исполнителя?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": [
+      "deadmau5",
+      "Раскрытие информации",
+      "DJ Shadow"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Каркассон основан на каком французском городе?",
+    "correct_answer": "Каркассон",
+    "incorrect_answers": [
+      "Париж",
+      "Марсель",
+      "Клермон-Ферран"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Какой из этих элементов является металлоидом?",
+    "correct_answer": "Сурьма",
+    "incorrect_answers": [
+      "Олово",
+      "Бром",
+      "Рубидий"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Кто исполнил роли Брюса Уэйна и Бэтмена в фильме Тима Бертона &quot;Бэтмен&quot; 1989 года?",
+    "correct_answer": "Майкл Китон",
+    "incorrect_answers": [
+      "Джордж Клуни",
+      "Вэл Килмер",
+      "Адам Уэст"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Кто является колоссальным титаном в фильме &quot;Атака на Титана&quot;?",
+    "correct_answer": "Бертольт Гувер",
+    "incorrect_answers": [
+      "Райнер",
+      "Эрен",
+      "Саша"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "На какой карте &quot;Call Of Duty: Zombies&quot; появились &quot;Посохи древних&quot;?",
+    "correct_answer": "Истоки",
+    "incorrect_answers": [
+      "Шангри-Ла",
+      "Откровения",
+      "Nuketown"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Кто написал &quot;Гарри Поттера&quot;?",
+    "correct_answer": "Дж. К. Роулинг",
+    "incorrect_answers": [
+      "Дж. Р. Р. Толкиен",
+      "Терри Пратчетт",
+      "Дэниел Рэдклифф"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Какой инертный газ имеет самый низкий атомный номер?",
+    "correct_answer": "Гелий",
+    "incorrect_answers": [
+      "Неоновый",
+      "Аргон",
+      "Криптон"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Буква &quot;К&quot; в слове &quot;К-поп&quot; означает какое слово?",
+    "correct_answer": "Корейский",
+    "incorrect_answers": [
+      "Кения",
+      "Казахстан",
+      "Кувейт"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Сколько флагманских монстров появилось в Monster Hunter Gernerations?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Когда Minecraft впервые вышел в свет?",
+    "correct_answer": "17 мая 2009 г.",
+    "incorrect_answers": [
+      "17 сентября 2009 г.",
+      "18 ноября 2011 г.",
+      "7 октября 2011 г."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "В каком игровом шоу Nickelodeon на съемочной площадке был дом, который участники обшаривали в поисках спрятанных предметов?",
+    "correct_answer": "Finders Keepers",
+    "incorrect_answers": [
+      "Двойное дерзновение",
+      "Nickelodeon Guts",
+      "Ник Аркад"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Как называется коренное население Новой Зеландии?",
+    "correct_answer": "Маори",
+    "incorrect_answers": [
+      "Викинги",
+      "Полинезийцы",
+      "Самоанцы"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Как называется главный лечебный предмет в Dark Souls?",
+    "correct_answer": "Фляга Эстус",
+    "incorrect_answers": [
+      "Зелье здоровья",
+      "Апельсиновый сок",
+      "Пепельная фляга"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Какая планета в Солнечной системе самая горячая?",
+    "correct_answer": "Венера",
+    "incorrect_answers": [
+      "Марс",
+      "Ртуть",
+      "Юпитер"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Какой предмет быта заставляет героев &quot;Steins; Gate&quot; путешествовать во времени?",
+    "correct_answer": "Микроволновая печь",
+    "incorrect_answers": [
+      "Компьютер",
+      "Холодильник",
+      "Телевизор"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Сколько лет было Адольфу Гитлеру, когда он умер?",
+    "correct_answer": "56",
+    "incorrect_answers": [
+      "43",
+      "65",
+      "47"
+    ]
+  }
+]
