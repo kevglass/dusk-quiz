@@ -1,4 +1,4 @@
-import { PlayerId } from "rune-games-sdk";
+import { PlayerId } from "dusk-games-sdk";
 import { ANSWER_TIME, Language, QUESTION_TIME } from "./logic";
 import mp3_correct from "./assets/correct.mp3";
 import mp3_click from "./assets/click.mp3";
@@ -34,7 +34,7 @@ function createPlayerDiv(id: string): void {
   const div = playerDiv[id] = document.createElement("div") as HTMLDivElement;
   div.id = id;
   div.className = "player";
-  const info = Rune.getPlayerInfo(id);
+  const info = Dusk.getPlayerInfo(id);
   const name = document.createElement("div") as HTMLDivElement;
   name.className = "playerName";
   name.innerHTML = info.displayName;
@@ -65,29 +65,29 @@ function createPlayerDiv(id: string): void {
 // When any player clicks the ready button send their language
 // and choice of options to the game.
 document.getElementById("startGame")?.addEventListener("click", () => {
-  Rune.actions.start();
+  Dusk.actions.start();
 });
 
 // Questions number selection listeners
 document.getElementById("q5")?.addEventListener("click", () => {
-  Rune.actions.questions({ count: 5 });
+  Dusk.actions.questions({ count: 5 });
   play(SOUND_CLICK);
 });
 document.getElementById("q10")?.addEventListener("click", () => {
-  Rune.actions.questions({ count: 10 });
+  Dusk.actions.questions({ count: 10 });
   play(SOUND_CLICK);
 });
 document.getElementById("q20")?.addEventListener("click", () => {
-  Rune.actions.questions({ count: 20 });
+  Dusk.actions.questions({ count: 20 });
   play(SOUND_CLICK);
 });
 // Time enabled selection listeners
 document.getElementById("timerYes")?.addEventListener("click", () => {
-  Rune.actions.timer({ enabled: true });
+  Dusk.actions.timer({ enabled: true });
   play(SOUND_CLICK);
 });
 document.getElementById("timerNo")?.addEventListener("click", () => {
-  Rune.actions.timer({ enabled: false });
+  Dusk.actions.timer({ enabled: false });
   play(SOUND_CLICK);
 });
 
@@ -100,7 +100,7 @@ for (let i=0;i<4;i++) {
     if (!selectedAnswer && !showingAnswers) {
       play(SOUND_CLICK);
       selectedAnswer = true;
-      Rune.actions.answer({ index: i });
+      Dusk.actions.answer({ index: i });
 
       if (!answerButton?.classList.contains("selected")) {
         answerButton?.classList.add("selected");
@@ -138,7 +138,7 @@ const items = Array.from(document.getElementsByClassName("language"));
 for (const item of items) {
   item.addEventListener("click", () => {
     const lang = item.id.substring("lang-".length, "lang-".length+2) as Language;
-    Rune.actions.language({ lang });
+    Dusk.actions.language({ lang });
   });
 }
 
@@ -201,7 +201,7 @@ setInterval(() => {
     // then clear the question board (maybe show winners here at some point?)
     const msLeft = timeExpires - Date.now();
     if (msLeft < QUESTION_TIME && !sentEnd && complete) {
-      Rune.actions.timeDone({ index: lastQuestion });
+      Dusk.actions.timeDone({ index: lastQuestion });
       sentEnd = true;
       document.getElementById("ready")!.style.display = "none";
       document.getElementById("question")!.style.display = "none";
@@ -240,7 +240,7 @@ setInterval(() => {
       // loop in the logic
       if (timerRunning) {
         timerRunning = false;
-        Rune.actions.timeDone({ index: lastQuestion });
+        Dusk.actions.timeDone({ index: lastQuestion });
         const bar = document.getElementById("timebar") as HTMLDivElement;
         bar.style.opacity = "0";
       }
@@ -248,7 +248,7 @@ setInterval(() => {
   }
 }, 50)
 
-Rune.initClient({
+Dusk.initClient({
   onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
     // record game state to globals for use in the timer
     questionCount = game.questionCount;
@@ -300,8 +300,8 @@ Rune.initClient({
       // to pause for a bit while we show the answers before updating
       // to match new game state we'll work out the time delay required by the
       // server and then only apply the updates after that timeout
-      const offset = (game.timeOut - Rune.gameTime()) - QUESTION_TIME;
-      timeExpires = Date.now() + (game.timeOut - Rune.gameTime());
+      const offset = (game.timeOut - Dusk.gameTime()) - QUESTION_TIME;
+      timeExpires = Date.now() + (game.timeOut - Dusk.gameTime());
       showingAnswers = true;
 
       if (!game.complete) {

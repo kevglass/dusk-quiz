@@ -1,4 +1,4 @@
-import type { GameOverResult, PlayerId, RuneClient } from "rune-games-sdk/multiplayer";
+import type { GameOverResult, PlayerId, DuskClient } from "dusk-games-sdk";
 import { ASSETS } from "./lib/rawassets";
 
 // The amount of time a question is shown for
@@ -96,10 +96,10 @@ type GameActions = {
 };
 
 declare global {
-  const Rune: RuneClient<GameState, GameActions>;
+  const Dusk: DuskClient<GameState, GameActions>;
 }
 
-Rune.initLogic({
+Dusk.initLogic({
   minPlayers: 1,
   maxPlayers: 4,
   setup: (allPlayerIds) => {
@@ -147,7 +147,7 @@ Rune.initLogic({
         nextQuestion(context.game);
         // on the first question we don't want to include ANSWER_TIME since we don't
         // have any to show
-        context.game.timeOut = Rune.gameTime() + QUESTION_TIME;
+        context.game.timeOut = Dusk.gameTime() + QUESTION_TIME;
       }
     },
     answer({ index }, context) {
@@ -177,7 +177,7 @@ Rune.initLogic({
           }
         }
         
-        Rune.gameOver({ players: results })
+        Dusk.gameOver({ players: results })
         return;
       }
 
@@ -218,7 +218,7 @@ function nextQuestion(game: GameState) {
   // then report in with timeDone to do the final game over
   if (game.questionNumber >= game.questions.length) {
     game.questionNumber++;
-    game.timeOut = Rune.gameTime() + QUESTION_TIME + ANSWER_TIME;
+    game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
     game.complete = true;
     return;
   }
@@ -231,7 +231,7 @@ function nextQuestion(game: GameState) {
   shuffle(game.question.answers);
 
   // schedule the clients to show the answers, then the next question
-  game.timeOut = Rune.gameTime() + QUESTION_TIME + ANSWER_TIME;
+  game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
   for (const key of Object.keys(game.playerStatus)) {
     game.playerStatus[key] = "THINKING";
     game.playerAnswers[key] = -1;
