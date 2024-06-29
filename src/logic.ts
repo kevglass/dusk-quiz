@@ -1,5 +1,7 @@
 import type { GameOverResult, PlayerId, DuskClient } from "dusk-games-sdk";
-import { ASSETS } from "./lib/rawassets";
+import { RAW_ASSETS } from "./lib/rawassets";
+
+export const THEME = "general";
 
 // The amount of time a question is shown for
 export const QUESTION_TIME = 15000;
@@ -28,10 +30,10 @@ export type Language = "en" | "ru" | "es" | "pt";
 
 // the big list of questions to choose from
 const QUESTIONS: Record<Language, Question[]> = {
-  en: JSON.parse(ASSETS["questions_en.json"]),
-  ru: JSON.parse(ASSETS["questions_ru.json"]),
-  es: JSON.parse(ASSETS["questions_es.json"]),
-  pt: JSON.parse(ASSETS["questions_pt.json"]),
+  en: JSON.parse(RAW_ASSETS[THEME+"/questions_en.json"]),
+  ru: JSON.parse(RAW_ASSETS[THEME+"/questions_ru.json"]),
+  es: JSON.parse(RAW_ASSETS[THEME+"/questions_es.json"]),
+  pt: JSON.parse(RAW_ASSETS[THEME+"/questions_pt.json"]),
 };
 
 // A single question 
@@ -46,12 +48,14 @@ export interface Question {
   incorrect_answers: string[];
   // the list of the possible answers
   answers: string[];
+  id: number;
 }
 
 // The state the player is in - WAITING at the start, THINKING before they answered, READY when they've answered
 export type Status = "WAITING" | "THINKING" | "READY";
 
 export interface GameState {
+  persisted?: Record<PlayerId, Persisted>;
   // the list of questions for the quiz
   questions: Question[];
   // the current question
@@ -95,13 +99,18 @@ type GameActions = {
   language: (params: { lang: Language }) => void;
 };
 
+export type Persisted = {
+  questionsSeen: Record<number, number>;
+}
+
 declare global {
-  const Dusk: DuskClient<GameState, GameActions>;
+  const Dusk: DuskClient<GameState, GameActions, Persisted>;
 }
 
 Dusk.initLogic({
   minPlayers: 1,
   maxPlayers: 4,
+  persistPlayerData: true,
   setup: (allPlayerIds) => {
     const lang: Language = "en";
 
@@ -141,9 +150,31 @@ Dusk.initLogic({
         // pull the complete list of questions from the static store (its a big
         // set so don't put it all in game state). Shuffle the questions 
         context.game.questions = [...QUESTIONS[context.game.lang]];
+
+        const inverseWeights: Record<number, number> = {};
+        for (const q of context.game.questions) {
+          inverseWeights[q.id] = 0;
+        }
+        for (const pid of context.allPlayerIds) {
+          const persisted = context.game.persisted[pid];
+          if (persisted && persisted.questionsSeen) {
+            for (const q of context.game.questions) {
+              inverseWeights[q.id] = persisted.questionsSeen[q.id];
+            }
+          }
+        }
+
+        inverseWeights[1] = 10;
+
+        context.game.questions.sort((a, b) => {
+          return inverseWeights[a.id] - inverseWeights[b.id];
+        })
+        context.game.questions = context.game.questions.slice(0, 100);
         shuffle(context.game.questions);
         context.game.questions = context.game.questions.slice(0, context.game.questionCount + 1);
 
+        console.log(context.game.questions);
+        
         nextQuestion(context.game);
         // on the first question we don't want to include ANSWER_TIME since we don't
         // have any to show
@@ -195,6 +226,18 @@ Dusk.initLogic({
       context.game.questionCount = count;
     }
   },
+  events: {
+    playerJoined(playerId, eventContext) {
+      eventContext.game.playerScores[playerId] = 0;
+      eventContext.game.playerStatus[playerId] = eventContext.game.questionNumber > 0 ? "THINKING" : "WAITING";
+    },
+    playerLeft(playerId, eventContext) {
+      delete eventContext.game.playerAnswers[playerId];
+      delete eventContext.game.playerScores[playerId];
+      delete eventContext.game.playerStatus[playerId];
+      
+    },
+  }
 });
 
 function nextQuestion(game: GameState) {
@@ -227,6 +270,17 @@ function nextQuestion(game: GameState) {
   game.question = {...game.questions[game.questionNumber]};
   game.question.answers = [game.question.correct_answer, ...game.question.incorrect_answers];
 
+  // record which questions a player is seeing
+  for (const p of Object.keys(game.playerStatus)) {
+    const playerPersisted = game.persisted?.[p];
+    if (playerPersisted) {
+      if (!playerPersisted.questionsSeen) {
+        playerPersisted.questionsSeen = {};
+      }
+
+      playerPersisted.questionsSeen[game.question.id] = (playerPersisted.questionsSeen[game.question.id] ?? 0) + 1;
+    }
+  }
   // mix up the answers to they don't appear in the same place every time
   shuffle(game.question.answers);
 

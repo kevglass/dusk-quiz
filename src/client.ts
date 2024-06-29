@@ -1,10 +1,14 @@
 import { PlayerId } from "dusk-games-sdk";
-import { ANSWER_TIME, Language, QUESTION_TIME } from "./logic";
+import { ANSWER_TIME, Language, QUESTION_TIME, THEME } from "./logic";
 import mp3_correct from "./assets/correct.mp3";
 import mp3_click from "./assets/click.mp3";
 import mp3_incorrect from "./assets/incorrect.mp3";
 import mp3_start from "./assets/start.mp3";
 import { TRANSLATIONS } from "./translation";
+import { ASSETS } from "./lib/assets";
+
+(document.getElementById("backgroundImage") as HTMLImageElement).src = ASSETS[THEME+"/bg.png"];
+(document.getElementById("stylesheetReference") as HTMLLinkElement).href = ASSETS[THEME+"/style.css"];
 
 // sound played for an correct answer
 const SOUND_CORRECT = new Audio(mp3_correct);
