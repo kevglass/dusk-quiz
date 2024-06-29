@@ -1,7 +1,7 @@
 import type { GameOverResult, PlayerId, DuskClient } from "dusk-games-sdk";
 import { RAW_ASSETS } from "./lib/rawassets";
 
-export const THEME = "general";
+export const THEME = "minecraft";
 
 // The amount of time a question is shown for
 export const QUESTION_TIME = 15000;
@@ -49,6 +49,7 @@ export interface Question {
   // the list of the possible answers
   answers: string[];
   id: number;
+  image: string;
 }
 
 // The state the player is in - WAITING at the start, THINKING before they answered, READY when they've answered

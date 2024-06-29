@@ -1,0 +1,1768 @@
+[
+  {
+    "id": 1,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que ferramenta é necessária para extrair diamantes?",
+    "incorrect_answers": [
+      "Picareta de madeira",
+      "Picareta de pedra",
+      "Picareta dourada"
+    ],
+    "correct_answer": "Picareta de ferro"
+  },
+  {
+    "id": 2,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o mob que deixa cair pérolas de Ender?",
+    "incorrect_answers": [
+      "Zombie",
+      "Esqueleto",
+      "Rastejante"
+    ],
+    "correct_answer": "Enderman"
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que item é necessário para ativar um Portal de Nether?",
+    "incorrect_answers": [
+      "Tocha",
+      "Redstone",
+      "Balde de lava"
+    ],
+    "correct_answer": "Pedra e aço"
+  },
+  {
+    "id": 4,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o material mais resistente para ferramentas e armaduras?",
+    "incorrect_answers": [
+      "Ferro",
+      "Diamante",
+      "Ouro"
+    ],
+    "correct_answer": "Netherita"
+  },
+  {
+    "id": 5,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Quantas tábuas de madeira são necessárias para fazer uma mesa de artesanato?",
+    "incorrect_answers": [
+      "2",
+      "3",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "id": 6,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que cultura não necessita de água para crescer?",
+    "incorrect_answers": [
+      "Trigo",
+      "Cenouras",
+      "Batatas"
+    ],
+    "correct_answer": "Cactos"
+  },
+  {
+    "id": 7,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destas é uma máfia exclusiva do Nether?",
+    "incorrect_answers": [
+      "Zombie",
+      "Rastejante",
+      "Esqueleto"
+    ],
+    "correct_answer": "Ghast"
+  },
+  {
+    "id": 8,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que material pode ser utilizado para domesticar um gato?",
+    "incorrect_answers": [
+      "Leite",
+      "Carne",
+      "Osso"
+    ],
+    "correct_answer": "Peixe"
+  },
+  {
+    "id": 9,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como é que se faz uma arca grande?",
+    "incorrect_answers": [
+      "Quatro baús num quadrado",
+      "Duas arcas empilhadas",
+      "Quatro arcas em linha"
+    ],
+    "correct_answer": "Duas arcas lado a lado"
+  },
+  {
+    "id": 10,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "O que é que se pode utilizar para fazer crescer as plantas mais rapidamente?",
+    "incorrect_answers": [
+      "Água",
+      "Lava",
+      "Sujidade"
+    ],
+    "correct_answer": "Farinha de ossos"
+  },
+  {
+    "id": 11,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como se chama este bloco?",
+    "image": "minecraft/images/Diamond Block.png",
+    "incorrect_answers": [
+      "Bloco Lapis",
+      "Bloco Esmeralda",
+      "Bloco de ferro"
+    ],
+    "correct_answer": "Bloco de diamantes"
+  },
+  {
+    "id": 12,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Identificar este bioma:",
+    "image": "minecraft/images/Taiga.png",
+    "incorrect_answers": [
+      "Floresta",
+      "Deserto",
+      "Selva"
+    ],
+    "correct_answer": "Taiga"
+  },
+  {
+    "id": 13,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que estrutura é apresentada aqui?",
+    "image": "minecraft/images/Jungle Temple.png",
+    "incorrect_answers": [
+      "Aldeia",
+      "Templo do Deserto",
+      "Fortaleza"
+    ],
+    "correct_answer": "Templo da selva"
+  },
+  {
+    "id": 14,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é este?",
+    "image": "minecraft/images/Emerald Ore.png",
+    "incorrect_answers": [
+      "Minério de diamante",
+      "Minério de ferro",
+      "Minério de Redstone"
+    ],
+    "correct_answer": "Minério de esmeralda"
+  },
+  {
+    "id": 15,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que objeto é este?",
+    "image": "minecraft/images/Bow.png",
+    "incorrect_answers": [
+      "Besta",
+      "Cana de pesca",
+      "Espada"
+    ],
+    "correct_answer": "Arco"
+  },
+  {
+    "id": 16,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do boss mob encontrado numa Mansão da Floresta?",
+    "incorrect_answers": [
+      "Vindicador",
+      "Ilusionista",
+      "Pillager"
+    ],
+    "correct_answer": "Evocador"
+  },
+  {
+    "id": 17,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que artigo é necessário para preparar poções?",
+    "incorrect_answers": [
+      "Mesa de artesanato",
+      "Forno",
+      "Caldeirão"
+    ],
+    "correct_answer": "Suporte de fabrico de cerveja"
+  },
+  {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bioma é conhecido pelos seus grandes cogumelos?",
+    "incorrect_answers": [
+      "Pântano",
+      "Floresta",
+      "Selva"
+    ],
+    "correct_answer": "Campos de cogumelos"
+  },
+  {
+    "id": 19,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "De que material é feito um farol?",
+    "incorrect_answers": [
+      "Obsidiana",
+      "Ferro",
+      "Diamante"
+    ],
+    "correct_answer": "Vidro"
+  },
+  {
+    "id": 20,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que elemento é necessário para fazer uma bússola?",
+    "incorrect_answers": [
+      "Ouro",
+      "Lápis-lazúli",
+      "Obsidiana"
+    ],
+    "correct_answer": "Redstone"
+  },
+  {
+    "id": 21,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como se chama esta multidão?",
+    "image": "minecraft/images/Enderman.png",
+    "incorrect_answers": [
+      "Endermite",
+      "Shulker",
+      "Murchar"
+    ],
+    "correct_answer": "Enderman"
+  },
+  {
+    "id": 22,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que tipo de madeira é apresentada aqui?",
+    "image": "minecraft/images/Oak Log.png",
+    "incorrect_answers": [
+      "Tronco de abeto",
+      "Tronco de bétula",
+      "Registo da selva"
+    ],
+    "correct_answer": "Tronco de carvalho"
+  },
+  {
+    "id": 23,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome deste bloco?",
+    "image": "minecraft/images/Anvil.png",
+    "incorrect_answers": [
+      "Forno",
+      "Pedra de amolar",
+      "Mesa de ferraria"
+    ],
+    "correct_answer": "Bigorna"
+  },
+  {
+    "id": 24,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que minério é apresentado aqui?",
+    "image": "minecraft/images/Iron Ore.png",
+    "incorrect_answers": [
+      "Minério de ouro",
+      "Minério de carvão",
+      "Minério de diamante"
+    ],
+    "correct_answer": "Minério de ferro"
+  },
+  {
+    "id": 25,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que encantamento aumenta o dano causado a mobs mortos-vivos?",
+    "incorrect_answers": [
+      "Nitidez",
+      "Maldição dos Artrópodes",
+      "Potência"
+    ],
+    "correct_answer": "Golpear"
+  },
+  {
+    "id": 26,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "O que é que se pode utilizar para tingir as ovelhas?",
+    "incorrect_answers": [
+      "Farinha de ossos",
+      "Lápis-lazúli",
+      "Saco de tinta"
+    ],
+    "correct_answer": "Tinta"
+  },
+  {
+    "id": 27,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é apresentado aqui?",
+    "image": "minecraft/images/TNT.png",
+    "incorrect_answers": [
+      "Bloco de Redstone",
+      "Areia",
+      "Betão"
+    ],
+    "correct_answer": "TNT"
+  },
+  {
+    "id": 28,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que artigo é utilizado para criar vacas?",
+    "incorrect_answers": [
+      "Cenouras",
+      "Batatas",
+      "Maçãs"
+    ],
+    "correct_answer": "Trigo"
+  },
+  {
+    "id": 29,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a utilidade de um mapa no Minecraft?",
+    "incorrect_answers": [
+      "Localizar minérios",
+      "Encontrar mobs",
+      "Armazenar itens"
+    ],
+    "correct_answer": "Navegar no mundo"
+  },
+  {
+    "id": 30,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é necessário criar para armazenar XP?",
+    "incorrect_answers": [
+      "Bigorna",
+      "Pedra de amolar",
+      "Tear"
+    ],
+    "correct_answer": "Garrafa de experiência"
+  },
+  {
+    "id": 31,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a máfia apresentada aqui?",
+    "image": "minecraft/images/Wither Skeleton.png",
+    "incorrect_answers": [
+      "Esqueleto",
+      "Murchar",
+      "Enderman"
+    ],
+    "correct_answer": "Esqueleto murcho"
+  },
+  {
+    "id": 32,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que tipo de árvore é esta?",
+    "image": "minecraft/images/Dark Oak.png",
+    "incorrect_answers": [
+      "Bétula",
+      "Selva",
+      "Carvalho"
+    ],
+    "correct_answer": "Carvalho escuro"
+  },
+  {
+    "id": 33,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que item é necessário para acender um Portal Etéreo?",
+    "incorrect_answers": [
+      "Tocha",
+      "Carga de fogo",
+      "Lava"
+    ],
+    "correct_answer": "Pedra e aço"
+  },
+  {
+    "id": 34,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco de Minecraft é este?",
+    "image": "minecraft/images/Furnace.png",
+    "incorrect_answers": [
+      "Mesa de artesanato",
+      "Tórax",
+      "Dispensador"
+    ],
+    "correct_answer": "Forno"
+  },
+  {
+    "id": 35,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que ferramenta é necessária para extrair obsidiana?",
+    "incorrect_answers": [
+      "Picareta de madeira",
+      "Picareta de pedra",
+      "Picareta de ferro"
+    ],
+    "correct_answer": "Picareta de diamante"
+  },
+  {
+    "id": 36,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como se chama esta estrutura?",
+    "image": "minecraft/images/Nether Fortress.png",
+    "incorrect_answers": [
+      "Aldeia",
+      "Fortaleza",
+      "Templo do Deserto"
+    ],
+    "correct_answer": "Fortaleza de Nether"
+  },
+  {
+    "id": 38,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é necessário para fazer uma cama?",
+    "incorrect_answers": [
+      "Ferro",
+      "Redstone",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lã"
+  },
+  {
+    "id": 39,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o ingrediente principal para preparar poções?",
+    "incorrect_answers": [
+      "Garrafa de água",
+      "Redstone",
+      "Pedra incandescente"
+    ],
+    "correct_answer": "Pó de Blaze"
+  },
+  {
+    "id": 40,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como se chama esta planta?",
+    "image": "minecraft/images/Nether Wart.png",
+    "incorrect_answers": [
+      "Cato",
+      "Cana-de-açúcar",
+      "Trigo"
+    ],
+    "correct_answer": "Verruga de Nether"
+  },
+  {
+    "id": 41,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é apresentado aqui?",
+    "image": "minecraft/images/End Stone.png",
+    "incorrect_answers": [
+      "Arenito",
+      "Quartzo",
+      "Prismarina"
+    ],
+    "correct_answer": "Pedra final"
+  },
+  {
+    "id": 42,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que objeto pode ser utilizado para montar um porco?",
+    "incorrect_answers": [
+      "Cenoura num pau",
+      "Chumbo",
+      "Trigo"
+    ],
+    "correct_answer": "Sela"
+  },
+  {
+    "id": 44,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bioma é mostrado aqui?",
+    "image": "minecraft/images/Savanna.png",
+    "incorrect_answers": [
+      "Planícies",
+      "Deserto",
+      "Taiga"
+    ],
+    "correct_answer": "Savana"
+  },
+  {
+    "id": 45,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que item se pode obter ao matar um Blaze?",
+    "incorrect_answers": [
+      "Pó de Blaze",
+      "Carga de fogo",
+      "Creme Magma"
+    ],
+    "correct_answer": "Vara de fogo"
+  },
+  {
+    "id": 47,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco pode ser utilizado para fundir objectos?",
+    "incorrect_answers": [
+      "Mesa de artesanato",
+      "Bigorna",
+      "Pedra de amolar"
+    ],
+    "correct_answer": "Forno"
+  },
+  {
+    "id": 49,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "O que é este artigo?",
+    "image": "minecraft/images/Compass.png",
+    "incorrect_answers": [
+      "Relógio",
+      "Mapa",
+      "Ampulheta"
+    ],
+    "correct_answer": "Bússola"
+  },
+  {
+    "id": 50,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "O que é que se pode usar para fazer um arco?",
+    "incorrect_answers": [
+      "Madeira, ferro, corda",
+      "Pau, corda, pena",
+      "Pau, corda, bola de lama"
+    ],
+    "correct_answer": "Vara, corda"
+  },
+  {
+    "id": 52,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes objectos não é comestível no Minecraft?",
+    "incorrect_answers": [
+      "Apple",
+      "Pão",
+      "Cenoura"
+    ],
+    "correct_answer": "Couro"
+  },
+  {
+    "id": 53,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como se chama este bioma?",
+    "image": "minecraft/images/Jungle.png",
+    "incorrect_answers": [
+      "Floresta",
+      "Taiga",
+      "Pântano"
+    ],
+    "correct_answer": "Selva"
+  },
+  {
+    "id": 54,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a máfia que pode largar couro?",
+    "incorrect_answers": [
+      "Ovinos",
+      "Porco",
+      "Galinha"
+    ],
+    "correct_answer": "Vaca"
+  },
+  {
+    "id": 57,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Como se chama este artigo?",
+    "image": "minecraft/images/Elytra.png",
+    "incorrect_answers": [
+      "Asas",
+      "Pena",
+      "Cabo"
+    ],
+    "correct_answer": "Elytra"
+  },
+  {
+    "id": 59,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Quais destes podes usar para fazer poções?",
+    "incorrect_answers": [
+      "Lingote de ferro",
+      "Lingote de ouro",
+      "Pérola de Ender"
+    ],
+    "correct_answer": "Vara de fogo"
+  },
+  {
+    "id": 61,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome da skin predefinida do Minecraft?",
+    "incorrect_answers": [
+      "Alex",
+      "entalhe",
+      "Herobrina"
+    ],
+    "correct_answer": "Steve"
+  },
+  {
+    "id": 62,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes blocos se encontra no Fim?",
+    "incorrect_answers": [
+      "Netherrack",
+      "Sujidade",
+      "Prismarina"
+    ],
+    "correct_answer": "Pedra final"
+  },
+  {
+    "id": 66,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que artigo pode ser utilizado para tosquiar ovelhas?",
+    "incorrect_answers": [
+      "Espada",
+      "Tesoura",
+      "Machado"
+    ],
+    "correct_answer": "Tesouras"
+  },
+  {
+    "id": 68,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Em que mobiliário se pode montar no Minecraft?",
+    "incorrect_answers": [
+      "Zombie",
+      "Esqueleto",
+      "Rastejante"
+    ],
+    "correct_answer": "Cavalo"
+  },
+  {
+    "id": 69,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que objeto é necessário para domesticar um lobo?",
+    "incorrect_answers": [
+      "Peixe",
+      "Trigo",
+      "Apple"
+    ],
+    "correct_answer": "Osso"
+  },
+  {
+    "id": 72,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes mobs deixa cair ossos?",
+    "incorrect_answers": [
+      "Rastejante",
+      "Zombie",
+      "Enderman"
+    ],
+    "correct_answer": "Esqueleto"
+  },
+  {
+    "id": 76,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes blocos é gerado no Overworld?",
+    "incorrect_answers": [
+      "Netherrack",
+      "Pedra final",
+      "Prismarina"
+    ],
+    "correct_answer": "Granito"
+  },
+  {
+    "id": 80,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a máfia neutra até ser atacada?",
+    "incorrect_answers": [
+      "Zombie",
+      "Esqueleto",
+      "Rastejante"
+    ],
+    "correct_answer": "Enderman"
+  },
+  {
+    "id": 82,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes blocos é gerado no Nether?",
+    "incorrect_answers": [
+      "Pedra final",
+      "Obsidiana",
+      "Prismarina"
+    ],
+    "correct_answer": "Minério de quartzo de Nether"
+  },
+  {
+    "id": 85,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que objeto pode ser utilizado para criar uma pista?",
+    "incorrect_answers": [
+      "Cordas",
+      "Couro",
+      "Pena"
+    ],
+    "correct_answer": "Bola de lama"
+  },
+  {
+    "id": 88,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome desta multidão?",
+    "image": "minecraft/images/Pig.png",
+    "incorrect_answers": [
+      "Vaca",
+      "Ovinos",
+      "Galinha"
+    ],
+    "correct_answer": "Porco"
+  },
+  {
+    "id": 90,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que multidão é esta?",
+    "image": "minecraft/images/Magma Cube.png",
+    "incorrect_answers": [
+      "Lodo",
+      "Ghast",
+      "Murchar"
+    ],
+    "correct_answer": "Cubo de Magma"
+  },
+  {
+    "id": 91,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome deste objeto?",
+    "image": "minecraft/images/Lead.png",
+    "incorrect_answers": [
+      "Cordas",
+      "Etiqueta com o nome",
+      "Corda"
+    ],
+    "correct_answer": "Chumbo"
+  },
+  {
+    "id": 93,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes blocos não é utilizado na preparação de poções?",
+    "incorrect_answers": [
+      "Caldeirão",
+      "Pó de Blaze",
+      "Suporte de fabrico de cerveja"
+    ],
+    "correct_answer": "Mesa de artesanato"
+  },
+  {
+    "id": 97,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que ferramenta é utilizada para extrair diamantes?",
+    "incorrect_answers": [
+      "Picareta de madeira",
+      "Picareta de pedra",
+      "Picareta de diamante"
+    ],
+    "correct_answer": "Picareta de ferro"
+  },
+  {
+    "id": 98,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que dimensão é o lar do Dragão Ender?",
+    "incorrect_answers": [
+      "Mundo superior",
+      "Inferior",
+      "Éter"
+    ],
+    "correct_answer": "Fim"
+  },
+  {
+    "id": 99,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização do Redstone no Minecraft?",
+    "incorrect_answers": [
+      "Ferramentas de artesanato",
+      "Decoração de edifícios",
+      "Criar armadilhas"
+    ],
+    "correct_answer": "Mecanismos de alimentação"
+  },
+  {
+    "id": 100,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes blocos pode ser utilizado para criar um sinalizador?",
+    "incorrect_answers": [
+      "Bloco de Netherite",
+      "Bloco de diamantes",
+      "Bloco Esmeralda"
+    ],
+    "correct_answer": "Bloco de ferro"
+  },
+  {
+    "id": 101,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nível máximo para encantar objectos?",
+    "incorrect_answers": [
+      "50",
+      "100",
+      "20"
+    ],
+    "correct_answer": "30"
+  },
+  {
+    "id": 102,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes objectos é utilizado para criar um golem de ferro?",
+    "incorrect_answers": [
+      "Lingote de ferro",
+      "Pepita de ferro",
+      "Minério de ferro"
+    ],
+    "correct_answer": "Bloco de ferro"
+  },
+  {
+    "id": 103,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do alimento que restitui mais pontos de fome?",
+    "incorrect_answers": [
+      "Costeleta de porco cozida",
+      "Pão",
+      "Bife"
+    ],
+    "correct_answer": "Cenoura dourada"
+  },
+  {
+    "id": 104,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Quais desses monstros podem ser encontrados no Nether?",
+    "incorrect_answers": [
+      "Urso polar",
+      "Bruxa",
+      "Enderman"
+    ],
+    "correct_answer": "Cubo de Magma"
+  },
+  {
+    "id": 106,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar um compasso?",
+    "incorrect_answers": [
+      "Redstone",
+      "Lingote de ouro",
+      "Diamante"
+    ],
+    "correct_answer": "Lingote de ferro"
+  },
+  {
+    "id": 107,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do item raro deixado pelo chefe Wither?",
+    "incorrect_answers": [
+      "Osso murcho",
+      "Pérola de Ender",
+      "Crânio murcho"
+    ],
+    "correct_answer": "Estrela inferior"
+  },
+  {
+    "id": 108,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes artigos é utilizado para domesticar papagaios?",
+    "incorrect_answers": [
+      "Cenoura",
+      "Apple",
+      "Trigo"
+    ],
+    "correct_answer": "Sementes"
+  },
+  {
+    "id": 110,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bioma é conhecido pelas suas árvores de abeto altas e finas?",
+    "incorrect_answers": [
+      "Selva",
+      "Savana",
+      "Deserto"
+    ],
+    "correct_answer": "Taiga"
+  },
+  {
+    "id": 111,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de uma pedra de amolar no Minecraft?",
+    "incorrect_answers": [
+      "Itens de encantamento",
+      "Criação de armaduras",
+      "Preparação de poções"
+    ],
+    "correct_answer": "Ferramentas de reparação"
+  },
+  {
+    "id": 112,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para fabricar um pistão?",
+    "incorrect_answers": [
+      "Tocha de Redstone",
+      "Tábuas de madeira",
+      "Pedra de calçada"
+    ],
+    "correct_answer": "Lingote de ferro"
+  },
+  {
+    "id": 114,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é normalmente utilizado para construir poções de respiração subaquática?",
+    "incorrect_answers": [
+      "Pedra incandescente",
+      "Coral",
+      "Lanterna do mar"
+    ],
+    "correct_answer": "Prismarina"
+  },
+  {
+    "id": 115,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um púlpito no Minecraft?",
+    "incorrect_answers": [
+      "Itens de encantamento",
+      "Armazenamento de livros",
+      "Escrever livros"
+    ],
+    "correct_answer": "Ler encantamentos"
+  },
+  {
+    "id": 116,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes artigos é utilizado para criar pandas?",
+    "incorrect_answers": [
+      "Trigo",
+      "Cenoura",
+      "Melão"
+    ],
+    "correct_answer": "Bambu"
+  },
+  {
+    "id": 118,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Quais destes objectos podem ser encontrados no bioma da Ilha dos Cogumelos?",
+    "incorrect_answers": [
+      "Ovinos",
+      "Rastejante",
+      "Esqueleto"
+    ],
+    "correct_answer": "Mooshroom"
+  },
+  {
+    "id": 119,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome da poção que concede invisibilidade ao jogador?",
+    "incorrect_answers": [
+      "Poção da rapidez",
+      "Poção da visão nocturna",
+      "Poção da força"
+    ],
+    "correct_answer": "Poção de Invisibilidade"
+  },
+  {
+    "id": 120,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes elementos é necessário para criar uma carga incendiária?",
+    "incorrect_answers": [
+      "Carvão",
+      "Pólvora",
+      "Vara de fogo"
+    ],
+    "correct_answer": "Pó de Blaze"
+  },
+  {
+    "id": 122,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar uma âncora de ressurgimento?",
+    "incorrect_answers": [
+      "Obsidiana",
+      "Bloco de Netherite",
+      "Detritos antigos"
+    ],
+    "correct_answer": "Obsidiana chorosa"
+  },
+  {
+    "id": 124,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes blocos gera naturalmente na dimensão Final?",
+    "incorrect_answers": [
+      "Bloco Purpur",
+      "Bloco de Quartzo",
+      "Pedra incandescente"
+    ],
+    "correct_answer": "Pedra final"
+  },
+  {
+    "id": 126,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é necessário para criar um fardo de feno?",
+    "incorrect_answers": [
+      "Bloco de feno",
+      "Cenoura",
+      "Batata"
+    ],
+    "correct_answer": "Trigo"
+  },
+  {
+    "id": 128,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar um sensor de luz do dia?",
+    "incorrect_answers": [
+      "Repetidor Redstone",
+      "Observador",
+      "Tremonha"
+    ],
+    "correct_answer": "Comparador"
+  },
+  {
+    "id": 129,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do bloco que atrai objectos próximos para ele?",
+    "incorrect_answers": [
+      "Conduta",
+      "Esponja",
+      "Bloco magnético"
+    ],
+    "correct_answer": "Tremonha"
+  },
+  {
+    "id": 130,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco gera no bioma Nether Wastes?",
+    "incorrect_answers": [
+      "Nylium deformado",
+      "Nílium carmesim",
+      "Areia da alma"
+    ],
+    "correct_answer": "Netherrack"
+  },
+  {
+    "id": 131,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um tear no Minecraft?",
+    "incorrect_answers": [
+      "Cozinhar alimentos",
+      "Criação de armaduras",
+      "Ferramentas de reparação"
+    ],
+    "correct_answer": "Aplicação de padrões de banner"
+  },
+  {
+    "id": 132,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para fazer um pistão pegajoso?",
+    "incorrect_answers": [
+      "Pó de Blaze",
+      "Creme Magma",
+      "Frasco de mel"
+    ],
+    "correct_answer": "Bola de lama"
+  },
+  {
+    "id": 134,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar um foguete de fogo de artifício?",
+    "incorrect_answers": [
+      "Pena",
+      "Cordas",
+      "Pó de pedra brilhante"
+    ],
+    "correct_answer": "Pólvora"
+  },
+  {
+    "id": 136,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é usado para criar uma poção de hálito de dragão?",
+    "incorrect_answers": [
+      "Olho de aranha fermentado",
+      "Pó de pedra brilhante",
+      "Verruga de Nether"
+    ],
+    "correct_answer": "Sopro de Dragão"
+  },
+  {
+    "id": 138,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar uma bigorna?",
+    "incorrect_answers": [
+      "Lingote de ferro",
+      "Minério de ferro",
+      "Pepita de ferro"
+    ],
+    "correct_answer": "Bloco de ferro"
+  },
+  {
+    "id": 139,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de uma mesa de cartografia no Minecraft?",
+    "incorrect_answers": [
+      "Ferramentas de reparação",
+      "Preparação de poções",
+      "Itens de encantamento"
+    ],
+    "correct_answer": "Elaboração de mapas"
+  },
+  {
+    "id": 140,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes mobs é neutro a menos que seja provocado?",
+    "incorrect_answers": [
+      "Rastejante",
+      "Urso polar",
+      "Cavalo esqueleto"
+    ],
+    "correct_answer": "Piglin"
+  },
+  {
+    "id": 142,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é necessário para criar uma poção de resistência ao fogo?",
+    "incorrect_answers": [
+      "Pó de Blaze",
+      "Peixe-balão",
+      "Membrana fantasma"
+    ],
+    "correct_answer": "Creme Magma"
+  },
+  {
+    "id": 144,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar um bloco de destino?",
+    "incorrect_answers": [
+      "Redstone",
+      "Lingote de ferro",
+      "Lingote de ouro"
+    ],
+    "correct_answer": "Fardo de feno"
+  },
+  {
+    "id": 145,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um contentor de compostagem no Minecraft?",
+    "incorrect_answers": [
+      "Cultivo de plantas",
+      "Cozinhar alimentos",
+      "Ferramentas de reparação"
+    ],
+    "correct_answer": "Geração de farinha de ossos"
+  },
+  {
+    "id": 146,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar uma seta espetral?",
+    "incorrect_answers": [
+      "Seta",
+      "Pó de Redstone",
+      "Flecha com ponta"
+    ],
+    "correct_answer": "Pó de pedra brilhante"
+  },
+  {
+    "id": 148,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para fabricar um sino?",
+    "incorrect_answers": [
+      "Lingote de ouro",
+      "Lingote de cobre",
+      "Esmeralda"
+    ],
+    "correct_answer": "Lingote de ferro"
+  },
+  {
+    "id": 150,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é necessário para criar um bloco de destino?",
+    "incorrect_answers": [
+      "Redstone",
+      "Lingote de ferro",
+      "Lingote de ouro",
+      "Lingote de Netherita"
+    ],
+    "correct_answer": "Fardo de feno"
+  },
+  {
+    "id": 152,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual desses monstros é conhecido por dropar Lágrimas de Ghast?",
+    "incorrect_answers": [
+      "Blaze",
+      "Cubo de Magma",
+      "Strider"
+    ],
+    "correct_answer": "Ghast"
+  },
+  {
+    "id": 153,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do bloco raro que se encontra na dimensão Fim e que pode ser utilizado para obter pontos de ressurgimento?",
+    "incorrect_answers": [
+      "Pedra final",
+      "Obsidiana",
+      "Cama de pedra"
+    ],
+    "correct_answer": "Obsidiana chorosa"
+  },
+  {
+    "id": 154,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar uma mó?",
+    "incorrect_answers": [
+      "Minério de ferro",
+      "Pedra de calçada",
+      "Lingote de ferro"
+    ],
+    "correct_answer": "Pedra"
+  },
+  {
+    "id": 155,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do item que permite aos jogadores mudarem o seu ponto de desova?",
+    "incorrect_answers": [
+      "Bússola",
+      "Relógio",
+      "Mapa"
+    ],
+    "correct_answer": "Cama"
+  },
+  {
+    "id": 156,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar um bloco de notas?",
+    "incorrect_answers": [
+      "Tábuas de madeira",
+      "Nota",
+      "Lingote de ferro"
+    ],
+    "correct_answer": "Redstone"
+  },
+  {
+    "id": 158,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é necessário para criar um sinalizador?",
+    "incorrect_answers": [
+      "Esmeralda",
+      "Lingote de Netherita",
+      "Olho de Ender"
+    ],
+    "correct_answer": "Estrela inferior"
+  },
+  {
+    "id": 160,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes objectos é utilizado para criar um tridente?",
+    "incorrect_answers": [
+      "Lingote de ouro",
+      "Lingote de ferro",
+      "Diamante"
+    ],
+    "correct_answer": "Concha de Nautilus"
+  },
+  {
+    "id": 161,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para fazer uma fogueira?",
+    "incorrect_answers": [
+      "Pedra",
+      "Lingote de ferro",
+      "Pedra de calçada"
+    ],
+    "correct_answer": "Pau"
+  },
+  {
+    "id": 162,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de uma mesa de ferreiro no Minecraft?",
+    "incorrect_answers": [
+      "Ferramentas de reparação",
+      "Itens de encantamento",
+      "Decoração de edifícios"
+    ],
+    "correct_answer": "Criação de armaduras"
+  },
+  {
+    "id": 163,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar um repetidor de redstone?",
+    "incorrect_answers": [
+      "Pedra",
+      "Redstone",
+      "Quartzo"
+    ],
+    "correct_answer": "Tocha de Redstone"
+  },
+  {
+    "id": 165,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar uma mesa de ferraria?",
+    "incorrect_answers": [
+      "Tábuas de madeira",
+      "Pedra",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lingote de ferro"
+  },
+  {
+    "id": 166,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilidade de um fumador no Minecraft?",
+    "incorrect_answers": [
+      "Fundição de minérios",
+      "Preparação de poções",
+      "Ferramentas de artesanato"
+    ],
+    "correct_answer": "Cozinhar alimentos"
+  },
+  {
+    "id": 167,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar um bloco de mel?",
+    "incorrect_answers": [
+      "Frasco de mel",
+      "Açúcar",
+      "Pó de Blaze"
+    ],
+    "correct_answer": "Favo de mel"
+  },
+  {
+    "id": 169,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para fabricar um compostor?",
+    "incorrect_answers": [
+      "Vedação",
+      "Portão de vedação",
+      "Alçapão"
+    ],
+    "correct_answer": "Tábuas de madeira"
+  },
+  {
+    "id": 170,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um caldeirão no Minecraft?",
+    "incorrect_answers": [
+      "Fundição de minérios",
+      "Cozinhar alimentos",
+      "Armazenamento de água"
+    ],
+    "correct_answer": "Preparação de poções"
+  },
+  {
+    "id": 171,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar uma tabela de cartografia?",
+    "incorrect_answers": [
+      "Papel",
+      "Painel de vidro",
+      "Estante de livros"
+    ],
+    "correct_answer": "Bússola"
+  },
+  {
+    "id": 173,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é necessário para criar uma poção de regeneração?",
+    "incorrect_answers": [
+      "Pó de pedra brilhante",
+      "Olho de aranha fermentado",
+      "Peixe-balão"
+    ],
+    "correct_answer": "Lágrima de Ghast"
+  },
+  {
+    "id": 175,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para fabricar uma mesa de ferreiro?",
+    "incorrect_answers": [
+      "Pedra",
+      "Pranchas de carvalho",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lingote de ferro"
+  },
+  {
+    "id": 176,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de uma banca de cerveja no Minecraft?",
+    "incorrect_answers": [
+      "Ferramentas de reparação",
+      "Fundição de minérios",
+      "Cozinhar alimentos"
+    ],
+    "correct_answer": "Preparação de poções"
+  },
+  {
+    "id": 177,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes objectos é utilizado para criar uma poção de força?",
+    "incorrect_answers": [
+      "Lágrima de Ghast",
+      "Creme Magma",
+      "Olho de aranha fermentado"
+    ],
+    "correct_answer": "Pó de Blaze"
+  },
+  {
+    "id": 179,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar um alto-forno?",
+    "incorrect_answers": [
+      "Lingote de ferro",
+      "Fumador",
+      "Pedra lisa"
+    ],
+    "correct_answer": "Forno"
+  },
+  {
+    "id": 180,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um púlpito no Minecraft?",
+    "incorrect_answers": [
+      "Armazenamento de livros",
+      "Elaboração de mapas",
+      "Escrever livros"
+    ],
+    "correct_answer": "Ler encantamentos"
+  },
+  {
+    "id": 181,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes artigos é utilizado para criar uma mó?",
+    "incorrect_answers": [
+      "Mesa de ferraria",
+      "Bigorna",
+      "Tábuas de madeira"
+    ],
+    "correct_answer": "Pedra"
+  },
+  {
+    "id": 182,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar uma mesa de fletching?",
+    "incorrect_answers": [
+      "Pena",
+      "Seta",
+      "Cordas"
+    ],
+    "correct_answer": "Tábuas de madeira"
+  },
+  {
+    "id": 183,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é o nome do item utilizado para encantar ferramentas e armaduras?",
+    "incorrect_answers": [
+      "Livro encantado",
+      "Estante de livros",
+      "Garrafa de experiência"
+    ],
+    "correct_answer": "Mesa de encantamento"
+  },
+  {
+    "id": 184,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes artigos é utilizado para criar um tear?",
+    "incorrect_answers": [
+      "Lã",
+      "Algodão",
+      "Seda"
+    ],
+    "correct_answer": "Cordas"
+  },
+  {
+    "id": 186,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é utilizado para criar uma tabela de cartografia?",
+    "incorrect_answers": [
+      "Bússola",
+      "Papel",
+      "Painel de vidro"
+    ],
+    "correct_answer": "Tábuas de madeira"
+  },
+  {
+    "id": 187,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de uma mesa de cartografia no Minecraft?",
+    "incorrect_answers": [
+      "Ferramentas de reparação",
+      "Fundição de minérios",
+      "Cozinhar alimentos"
+    ],
+    "correct_answer": "Elaboração de mapas"
+  },
+  {
+    "id": 190,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual destes itens é utilizado para criar uma mesa de ferraria?",
+    "incorrect_answers": [
+      "Pedra",
+      "Pranchas de carvalho",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lingote de ferro"
+  },
+  {
+    "id": 191,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um fumador no Minecraft?",
+    "incorrect_answers": [
+      "Fundição de minérios",
+      "Preparação de poções",
+      "Ferramentas de artesanato"
+    ],
+    "correct_answer": "Cozinhar alimentos"
+  }
+]

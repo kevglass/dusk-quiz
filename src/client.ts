@@ -309,7 +309,6 @@ Dusk.initClient({
         const answerDiv = document.getElementById("answer"+(game.correctAnswerIndex+1)) as HTMLDivElement;
         answerDiv.classList.add("correct");
 
-        console.log(game.lastAnswers);
         for (const pid of Object.keys(game.lastAnswers)) {
           const id = "answer" + game.lastAnswers[pid] + "-"+pid;
           const img = document.getElementById(id) as HTMLImageElement;
@@ -343,6 +342,13 @@ Dusk.initClient({
           timerRunning = true;
           document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[game.lang].question + " " + game.questionNumber;
           document.getElementById("questionText")!.innerHTML = game.question.question;
+
+          if (game.question.image) {
+            (document.getElementById("questionImage") as HTMLImageElement).src = ASSETS[game.question.image];
+            (document.getElementById("imageHolder") as HTMLDivElement).style.display = "block";
+          } else {
+            (document.getElementById("imageHolder") as HTMLDivElement).style.display = "none";
+          }
           for (let i=0;i<4;i++) {
             document.getElementById("answer"+(i+1)+"-value")!.innerHTML = game.question.answers[i];
             const slots = document.getElementById("answer"+(i+1)+"-slots") as HTMLDivElement
@@ -362,7 +368,9 @@ Dusk.initClient({
 
         for (let i=0;i<4;i++) {
           const smallAvatar = document.getElementById("answer"+i+"-"+existing) as HTMLImageElement;
-          smallAvatar.parentElement?.removeChild(smallAvatar);
+          if (smallAvatar) {
+            smallAvatar.parentElement?.removeChild(smallAvatar);
+          }
         }
       }
     }
