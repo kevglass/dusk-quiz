@@ -328,6 +328,10 @@ body {
   background: #60b30a;
   color: white;
 }
+.FASTEST {
+  background: #FFFF00;
+  color: black;
+}
 
 #timebar {
   width: 100%;

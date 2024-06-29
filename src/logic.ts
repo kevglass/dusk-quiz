@@ -52,7 +52,7 @@ export interface Question {
 }
 
 // The state the player is in - WAITING at the start, THINKING before they answered, READY when they've answered
-export type Status = "WAITING" | "THINKING" | "READY";
+export type Status = "WAITING" | "THINKING" | "READY" | "FASTEST";
 
 export interface GameState {
   persisted?: Record<PlayerId, Persisted>;
@@ -184,11 +184,12 @@ Dusk.initLogic({
     answer({ index }, context) {
       // store the answer and set the status
       context.game.playerAnswers[context.playerId] = index;
-      context.game.playerStatus[context.playerId] = "READY";
+      context.game.playerStatus[context.playerId] = 
+        !Object.values(context.game.playerStatus).find(a => a === "FASTEST") ? "FASTEST" : "READY";
 
       // if everyone is ready skip the timer and move to the
       // next question
-      if (!Object.values(context.game.playerStatus).find(a => a !== "READY")) {
+      if (!Object.values(context.game.playerStatus).find(a => a !== "READY" && a !== "FASTEST")) {
         // all players ready
         nextQuestion(context.game);
       }
@@ -249,6 +250,9 @@ function nextQuestion(game: GameState) {
     for (const id of Object.keys(game.playerAnswers)) {
       if (game.playerAnswers[id] === game.correctAnswerIndex) {
         game.playerScores[id]++;
+        if (game.playerStatus[id] === "FASTEST") {
+          game.playerScores[id]++;
+        }
       }
     }
   }
