@@ -29,12 +29,13 @@ function shuffle<T>(array: Array<T>) {
 export type Language = "en" | "ru" | "es" | "pt";
 
 // the big list of questions to choose from
-const QUESTIONS: Record<Language, Question[]> = {
+export const QUESTIONS: Record<Language, Question[]> = {
   en: JSON.parse(RAW_ASSETS[THEME+"/questions_en.json"]),
   ru: JSON.parse(RAW_ASSETS[THEME+"/questions_ru.json"]),
   es: JSON.parse(RAW_ASSETS[THEME+"/questions_es.json"]),
   pt: JSON.parse(RAW_ASSETS[THEME+"/questions_pt.json"]),
 };
+
 
 // A single question 
 export interface Question {

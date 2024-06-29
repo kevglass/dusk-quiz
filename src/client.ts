@@ -1,5 +1,5 @@
 import { PlayerId } from "dusk-games-sdk";
-import { ANSWER_TIME, Language, QUESTION_TIME, THEME } from "./logic";
+import { ANSWER_TIME, Language, QUESTIONS, QUESTION_TIME, THEME } from "./logic";
 import mp3_correct from "./assets/correct.mp3";
 import mp3_click from "./assets/click.mp3";
 import mp3_incorrect from "./assets/incorrect.mp3";
@@ -10,6 +10,13 @@ import { ASSETS } from "./lib/assets";
 (document.getElementById("backgroundImage") as HTMLImageElement).src = ASSETS[THEME+"/bg.png"];
 (document.getElementById("stylesheetReference") as HTMLLinkElement).href = ASSETS[THEME+"/style.css"];
 
+for (const q of QUESTIONS.en) {
+  if (q.image) {
+    if (!ASSETS[q.image]) {
+      console.log(q.image + " not found");
+    }
+  }
+}
 // sound played for an correct answer
 const SOUND_CORRECT = new Audio(mp3_correct);
 // sound played for an incorrect answer

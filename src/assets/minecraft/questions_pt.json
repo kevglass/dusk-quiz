@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Como se chama este bloco?",
-    "image": "minecraft/images/Diamond Block.png",
+    "image": "minecraft/images/Diamond Block.gif",
     "incorrect_answers": [
       "Bloco Lapis",
       "Bloco Esmeralda",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Identificar este bioma:",
-    "image": "minecraft/images/Taiga.png",
+    "image": "minecraft/images/Taiga.gif",
     "incorrect_answers": [
       "Floresta",
       "Deserto",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que estrutura é apresentada aqui?",
-    "image": "minecraft/images/Jungle Temple.png",
+    "image": "minecraft/images/Jungle Temple.gif",
     "incorrect_answers": [
       "Aldeia",
       "Templo do Deserto",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que bloco é este?",
-    "image": "minecraft/images/Emerald Ore.png",
+    "image": "minecraft/images/Emerald Ore.gif",
     "incorrect_answers": [
       "Minério de diamante",
       "Minério de ferro",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que objeto é este?",
-    "image": "minecraft/images/Bow.png",
+    "image": "minecraft/images/Bow.gif",
     "incorrect_answers": [
       "Besta",
       "Cana de pesca",
@@ -270,7 +270,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Como se chama esta multidão?",
-    "image": "minecraft/images/Enderman.png",
+    "image": "minecraft/images/Enderman.gif",
     "incorrect_answers": [
       "Endermite",
       "Shulker",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que tipo de madeira é apresentada aqui?",
-    "image": "minecraft/images/Oak Log.png",
+    "image": "minecraft/images/Oak Log.gif",
     "incorrect_answers": [
       "Tronco de abeto",
       "Tronco de bétula",
@@ -298,7 +298,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Qual é o nome deste bloco?",
-    "image": "minecraft/images/Anvil.png",
+    "image": "minecraft/images/Anvil.gif",
     "incorrect_answers": [
       "Forno",
       "Pedra de amolar",
@@ -312,7 +312,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que minério é apresentado aqui?",
-    "image": "minecraft/images/Iron Ore.png",
+    "image": "minecraft/images/Iron Ore.gif",
     "incorrect_answers": [
       "Minério de ouro",
       "Minério de carvão",
@@ -352,7 +352,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que bloco é apresentado aqui?",
-    "image": "minecraft/images/TNT.png",
+    "image": "minecraft/images/TNT.gif",
     "incorrect_answers": [
       "Bloco de Redstone",
       "Areia",
@@ -405,7 +405,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Qual é a máfia apresentada aqui?",
-    "image": "minecraft/images/Wither Skeleton.png",
+    "image": "minecraft/images/Wither Skeleton.gif",
     "incorrect_answers": [
       "Esqueleto",
       "Murchar",
@@ -419,7 +419,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que tipo de árvore é esta?",
-    "image": "minecraft/images/Dark Oak.png",
+    "image": "minecraft/images/Dark Oak.gif",
     "incorrect_answers": [
       "Bétula",
       "Selva",
@@ -446,7 +446,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que bloco de Minecraft é este?",
-    "image": "minecraft/images/Furnace.png",
+    "image": "minecraft/images/Furnace.gif",
     "incorrect_answers": [
       "Mesa de artesanato",
       "Tórax",
@@ -473,7 +473,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Como se chama esta estrutura?",
-    "image": "minecraft/images/Nether Fortress.png",
+    "image": "minecraft/images/Nether Fortress.gif",
     "incorrect_answers": [
       "Aldeia",
       "Fortaleza",
@@ -513,7 +513,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Como se chama esta planta?",
-    "image": "minecraft/images/Nether Wart.png",
+    "image": "minecraft/images/Nether Wart.gif",
     "incorrect_answers": [
       "Cato",
       "Cana-de-açúcar",
@@ -527,7 +527,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que bloco é apresentado aqui?",
-    "image": "minecraft/images/End Stone.png",
+    "image": "minecraft/images/End Stone.gif",
     "incorrect_answers": [
       "Arenito",
       "Quartzo",
@@ -554,7 +554,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que bioma é mostrado aqui?",
-    "image": "minecraft/images/Savanna.png",
+    "image": "minecraft/images/Savanna.gif",
     "incorrect_answers": [
       "Planícies",
       "Deserto",
@@ -594,7 +594,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "O que é este artigo?",
-    "image": "minecraft/images/Compass.png",
+    "image": "minecraft/images/Compass.gif",
     "incorrect_answers": [
       "Relógio",
       "Mapa",
@@ -634,7 +634,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Como se chama este bioma?",
-    "image": "minecraft/images/Jungle.png",
+    "image": "minecraft/images/Jungle.gif",
     "incorrect_answers": [
       "Floresta",
       "Taiga",
@@ -661,7 +661,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Como se chama este artigo?",
-    "image": "minecraft/images/Elytra.png",
+    "image": "minecraft/images/Elytra.gif",
     "incorrect_answers": [
       "Asas",
       "Pena",
@@ -818,7 +818,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Qual é o nome desta multidão?",
-    "image": "minecraft/images/Pig.png",
+    "image": "minecraft/images/Pig.gif",
     "incorrect_answers": [
       "Vaca",
       "Ovinos",
@@ -832,7 +832,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Que multidão é esta?",
-    "image": "minecraft/images/Magma Cube.png",
+    "image": "minecraft/images/Magma Cube.gif",
     "incorrect_answers": [
       "Lodo",
       "Ghast",
@@ -846,7 +846,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Qual é o nome deste objeto?",
-    "image": "minecraft/images/Lead.png",
+    "image": "minecraft/images/Lead.gif",
     "incorrect_answers": [
       "Cordas",
       "Etiqueta com o nome",
