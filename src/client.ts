@@ -64,6 +64,18 @@ function createPlayerDiv(id: string): void {
   div.appendChild(correct);
 
   document.getElementById("players")?.appendChild(div);
+
+  for (let i=0;i<4;i++) { 
+    const slots = document.getElementById("answer"+(i+1)+"-slots") as HTMLDivElement;
+
+    const img = document.createElement("img") as HTMLImageElement;
+    img.className = "smallAvatar";
+    img.src = info.avatarUrl;
+    img.id = "answer"+i+"-"+id;
+    img.style.display = "none";
+
+    slots.appendChild(img);
+  }
 }
 
 // When any player clicks the ready button send their language
@@ -296,6 +308,13 @@ Dusk.initClient({
         // otherwise we're showing the answers so highlight the right quiz
         const answerDiv = document.getElementById("answer"+(game.correctAnswerIndex+1)) as HTMLDivElement;
         answerDiv.classList.add("correct");
+
+        console.log(game.lastAnswers);
+        for (const pid of Object.keys(game.lastAnswers)) {
+          const id = "answer" + game.lastAnswers[pid] + "-"+pid;
+          const img = document.getElementById(id) as HTMLImageElement;
+          img.style.display = "inline-block";
+        }
       }
       
       selectedAnswer = false;
@@ -325,8 +344,13 @@ Dusk.initClient({
           document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[game.lang].question + " " + game.questionNumber;
           document.getElementById("questionText")!.innerHTML = game.question.question;
           for (let i=0;i<4;i++) {
-            document.getElementById("answer"+(i+1))!.innerHTML = game.question.answers[i];
+            document.getElementById("answer"+(i+1)+"-value")!.innerHTML = game.question.answers[i];
+            const slots = document.getElementById("answer"+(i+1)+"-slots") as HTMLDivElement
+            for (const avatar of Array.from(slots.children)) {
+              (avatar as HTMLElement).style.display = "none";
+            }
           }
+
         }, offset);
       }
     }
@@ -335,6 +359,11 @@ Dusk.initClient({
     for (const existing of Object.keys(playerDiv)) {
       if (!allPlayerIds.includes(existing)) {
         playerDiv[existing].parentElement?.removeChild(playerDiv[existing]);
+
+        for (let i=0;i<4;i++) {
+          const smallAvatar = document.getElementById("answer"+i+"-"+existing) as HTMLImageElement;
+          smallAvatar.parentElement?.removeChild(smallAvatar);
+        }
       }
     }
 

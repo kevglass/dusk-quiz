@@ -66,6 +66,7 @@ export interface GameState {
   playerStatus: Record<PlayerId, Status>;
   // The answers selected by the players
   playerAnswers: Record<PlayerId, number>;
+  lastAnswers: Record<PlayerId, number>;
   // The amount of points each player has
   playerScores: Record<PlayerId, number>;
   // How long should the clients wait before moving to the next question
@@ -128,12 +129,13 @@ Dusk.initLogic({
       questionNumber: 0,
       playerStatus: status,
       playerAnswers: {},
+      lastAnswers: {},
       timeOut: 0,
       lang: "en",
       playerScores: scores,
       correctAnswerIndex: 0,
       questionCount: 5,
-      timerEnabled: true,
+      timerEnabled: false,
       complete: false
     };
   },
@@ -173,8 +175,6 @@ Dusk.initLogic({
         shuffle(context.game.questions);
         context.game.questions = context.game.questions.slice(0, context.game.questionCount + 1);
 
-        console.log(context.game.questions);
-        
         nextQuestion(context.game);
         // on the first question we don't want to include ANSWER_TIME since we don't
         // have any to show
@@ -290,6 +290,7 @@ function nextQuestion(game: GameState) {
 
   // schedule the clients to show the answers, then the next question
   game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
+  game.lastAnswers = {...game.playerAnswers};
   for (const key of Object.keys(game.playerStatus)) {
     game.playerStatus[key] = "THINKING";
     game.playerAnswers[key] = -1;

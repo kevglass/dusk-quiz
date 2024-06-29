@@ -277,7 +277,20 @@ body {
   justify-content: center;
   text-align: center;
   font-size: 14px;
+  position: relative;
 }
+.slots {
+  height: 30px;
+  width: 100%;
+  top: -15px;
+  position: absolute;
+}
+
+.smallAvatar {
+  width: 25px;
+  height: 25px;
+}
+
 .bg {   
   width: 100%;
   position: absolute;
