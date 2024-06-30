@@ -1,14 +1,14 @@
 import { PlayerId } from "dusk-games-sdk";
-import { ANSWER_TIME, Language, QUESTIONS, QUESTION_TIME, THEME } from "./logic";
-import mp3_correct from "./assets/correct.mp3";
-import mp3_click from "./assets/click.mp3";
-import mp3_incorrect from "./assets/incorrect.mp3";
-import mp3_start from "./assets/start.mp3";
+import { ANSWER_TIME, Language, QUESTIONS, QUESTION_TIME } from "./logic";
+import mp3_correct from "./assets/core/correct.mp3";
+import mp3_click from "./assets/core/click.mp3";
+import mp3_incorrect from "./assets/core/incorrect.mp3";
+import mp3_start from "./assets/core/start.mp3";
 import { TRANSLATIONS } from "./translation";
 import { ASSETS } from "./lib/assets";
 
-(document.getElementById("backgroundImage") as HTMLImageElement).src = ASSETS[THEME+"/bg.png"];
-(document.getElementById("stylesheetReference") as HTMLLinkElement).href = ASSETS[THEME+"/style.css"];
+(document.getElementById("backgroundImage") as HTMLImageElement).src = ASSETS["theme/bg.png"];
+(document.getElementById("stylesheetReference") as HTMLLinkElement).href = ASSETS["theme/style.css"];
 
 for (const q of QUESTIONS.en) {
   if (q.image) {

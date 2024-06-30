@@ -1,8 +1,6 @@
 import type { GameOverResult, PlayerId, DuskClient } from "dusk-games-sdk";
 import { RAW_ASSETS } from "./lib/rawassets";
 
-export const THEME = "minecraft";
-
 // The amount of time a question is shown for
 export const QUESTION_TIME = 15000;
 // The amount of time the answers are shown for after players have answered
@@ -30,10 +28,10 @@ export type Language = "en" | "ru" | "es" | "pt";
 
 // the big list of questions to choose from
 export const QUESTIONS: Record<Language, Question[]> = {
-  en: JSON.parse(RAW_ASSETS[THEME+"/questions_en.json"]),
-  ru: JSON.parse(RAW_ASSETS[THEME+"/questions_ru.json"]),
-  es: JSON.parse(RAW_ASSETS[THEME+"/questions_es.json"]),
-  pt: JSON.parse(RAW_ASSETS[THEME+"/questions_pt.json"]),
+  en: JSON.parse(RAW_ASSETS["theme/questions_en.json"]),
+  ru: JSON.parse(RAW_ASSETS["theme/questions_ru.json"]),
+  es: JSON.parse(RAW_ASSETS["theme/questions_es.json"]),
+  pt: JSON.parse(RAW_ASSETS["theme/questions_pt.json"]),
 };
 
 

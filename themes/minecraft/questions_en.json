@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Diamond Block.gif",
+    "image": "theme/images/Diamond Block.gif",
     "incorrect_answers": [
       "Lapis Block",
       "Emerald Block",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Identify this biome:",
-    "image": "minecraft/images/Taiga.gif",
+    "image": "theme/images/Taiga.gif",
     "incorrect_answers": [
       "Forest",
       "Desert",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What structure is shown here?",
-    "image": "minecraft/images/Jungle Temple.gif",
+    "image": "theme/images/Jungle Temple.gif",
     "incorrect_answers": [
       "Village",
       "Desert Temple",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which block is this?",
-    "image": "minecraft/images/Emerald Ore.gif",
+    "image": "theme/images/Emerald Ore.gif",
     "incorrect_answers": [
       "Diamond Ore",
       "Iron Ore",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What item is this?",
-    "image": "minecraft/images/Bow.gif",
+    "image": "theme/images/Bow.gif",
     "incorrect_answers": [
       "Crossbow",
       "Fishing Rod",
@@ -270,7 +270,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Enderman.gif",
+    "image": "theme/images/Enderman.gif",
     "incorrect_answers": [
       "Endermite",
       "Shulker",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What kind of wood is shown here?",
-    "image": "minecraft/images/Oak Log.gif",
+    "image": "theme/images/Oak Log.gif",
     "incorrect_answers": [
       "Spruce Log",
       "Birch Log",
@@ -298,7 +298,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "minecraft/images/Anvil.gif",
+    "image": "theme/images/Anvil.gif",
     "incorrect_answers": [
       "Furnace",
       "Grindstone",
@@ -312,7 +312,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which ore is shown here?",
-    "image": "minecraft/images/Iron Ore.gif",
+    "image": "theme/images/Iron Ore.gif",
     "incorrect_answers": [
       "Gold Ore",
       "Coal Ore",
@@ -352,7 +352,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "minecraft/images/TNT.gif",
+    "image": "theme/images/TNT.gif",
     "incorrect_answers": [
       "Redstone Block",
       "Sand",
@@ -405,7 +405,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which mob is shown here?",
-    "image": "minecraft/images/Wither Skeleton.gif",
+    "image": "theme/images/Wither Skeleton.gif",
     "incorrect_answers": [
       "Skeleton",
       "Wither",
@@ -419,7 +419,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What type of tree is this?",
-    "image": "minecraft/images/Dark Oak.gif",
+    "image": "theme/images/Dark Oak.gif",
     "incorrect_answers": [
       "Birch",
       "Jungle",
@@ -446,7 +446,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which Minecraft block is this?",
-    "image": "minecraft/images/Furnace.gif",
+    "image": "theme/images/Furnace.gif",
     "incorrect_answers": [
       "Crafting Table",
       "Chest",
@@ -473,7 +473,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Nether Fortress.gif",
+    "image": "theme/images/Nether Fortress.gif",
     "incorrect_answers": [
       "Village",
       "Stronghold",
@@ -487,7 +487,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Blaze.gif",
+    "image": "theme/images/Blaze.gif",
     "incorrect_answers": [
       "Magma Cube",
       "Ghast",
@@ -527,7 +527,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this plant called?",
-    "image": "minecraft/images/Nether Wart.gif",
+    "image": "theme/images/Nether Wart.gif",
     "incorrect_answers": [
       "Cactus",
       "Sugar Cane",
@@ -541,7 +541,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which block is shown here?",
-    "image": "minecraft/images/End Stone.gif",
+    "image": "theme/images/End Stone.gif",
     "incorrect_answers": [
       "Sandstone",
       "Quartz",
@@ -568,7 +568,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Stronghold.gif",
+    "image": "theme/images/Stronghold.gif",
     "incorrect_answers": [
       "Village",
       "Desert Temple",
@@ -582,7 +582,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which biome is shown here?",
-    "image": "minecraft/images/Savanna.gif",
+    "image": "theme/images/Savanna.gif",
     "incorrect_answers": [
       "Plains",
       "Desert",
@@ -609,7 +609,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Beacon.gif",
+    "image": "theme/images/Beacon.gif",
     "incorrect_answers": [
       "Glass",
       "Sea Lantern",
@@ -636,7 +636,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Ice Spike.gif",
+    "image": "theme/images/Ice Spike.gif",
     "incorrect_answers": [
       "Igloo",
       "Snowy Tundra",
@@ -650,7 +650,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item?",
-    "image": "minecraft/images/Compass.gif",
+    "image": "theme/images/Compass.gif",
     "incorrect_answers": [
       "Clock",
       "Map",
@@ -690,7 +690,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this biome called?",
-    "image": "minecraft/images/Jungle.gif",
+    "image": "theme/images/Jungle.gif",
     "incorrect_answers": [
       "Forest",
       "Taiga",
@@ -717,7 +717,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Spawner.gif",
+    "image": "theme/images/Spawner.gif",
     "incorrect_answers": [
       "Crafting Table",
       "Chest",
@@ -731,7 +731,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which biome is shown here?",
-    "image": "minecraft/images/Mesa.gif",
+    "image": "theme/images/Mesa.gif",
     "incorrect_answers": [
       "Desert",
       "Savanna",
@@ -745,7 +745,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Elytra.gif",
+    "image": "theme/images/Elytra.gif",
     "incorrect_answers": [
       "Wings",
       "Feather",
@@ -759,7 +759,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/End City.gif",
+    "image": "theme/images/End City.gif",
     "incorrect_answers": [
       "End Portal",
       "Stronghold",
@@ -786,7 +786,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Desert Temple.gif",
+    "image": "theme/images/Desert Temple.gif",
     "incorrect_answers": [
       "Village",
       "Jungle Temple",
@@ -826,7 +826,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Sea Lantern.gif",
+    "image": "theme/images/Sea Lantern.gif",
     "incorrect_answers": [
       "Glowstone",
       "Shroomlight",
@@ -840,7 +840,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Ocean Monument.gif",
+    "image": "theme/images/Ocean Monument.gif",
     "incorrect_answers": [
       "Shipwreck",
       "Stronghold",
@@ -854,7 +854,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "minecraft/images/Netherite Block.gif",
+    "image": "theme/images/Netherite Block.gif",
     "incorrect_answers": [
       "Diamond Block",
       "Iron Block",
@@ -881,7 +881,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Lapis Lazuli Ore.gif",
+    "image": "theme/images/Lapis Lazuli Ore.gif",
     "incorrect_answers": [
       "Diamond Ore",
       "Emerald Ore",
@@ -921,7 +921,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Ender Pearl.gif",
+    "image": "theme/images/Ender Pearl.gif",
     "incorrect_answers": [
       "Eye of Ender",
       "Slimeball",
@@ -935,7 +935,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Igloo.gif",
+    "image": "theme/images/Igloo.gif",
     "incorrect_answers": [
       "Ice Spikes",
       "Snowy Tundra",
@@ -962,7 +962,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Golden Apple.gif",
+    "image": "theme/images/Golden Apple.gif",
     "incorrect_answers": [
       "Golden Carrot",
       "Enchanted Apple",
@@ -976,7 +976,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "minecraft/images/Redstone Block.gif",
+    "image": "theme/images/Redstone Block.gif",
     "incorrect_answers": [
       "Iron Block",
       "Diamond Block",
@@ -990,7 +990,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Shipwreck.gif",
+    "image": "theme/images/Shipwreck.gif",
     "incorrect_answers": [
       "Ocean Monument",
       "Stronghold",
@@ -1017,7 +1017,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Mossy Cobblestone.gif",
+    "image": "theme/images/Mossy Cobblestone.gif",
     "incorrect_answers": [
       "Cobblestone",
       "Stone",
@@ -1031,7 +1031,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Totem of Undying.gif",
+    "image": "theme/images/Totem of Undying.gif",
     "incorrect_answers": [
       "Golden Apple",
       "Emerald",
@@ -1045,7 +1045,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "minecraft/images/Netherrack.gif",
+    "image": "theme/images/Netherrack.gif",
     "incorrect_answers": [
       "Nether Brick",
       "Redstone",
@@ -1072,7 +1072,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Name Tag.gif",
+    "image": "theme/images/Name Tag.gif",
     "incorrect_answers": [
       "Paper",
       "Map",
@@ -1099,7 +1099,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Bucket.gif",
+    "image": "theme/images/Bucket.gif",
     "incorrect_answers": [
       "Bowl",
       "Cauldron",
@@ -1113,7 +1113,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Obsidian.gif",
+    "image": "theme/images/Obsidian.gif",
     "incorrect_answers": [
       "Coal",
       "Bedrock",
@@ -1140,7 +1140,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "minecraft/images/Gold Ore.gif",
+    "image": "theme/images/Gold Ore.gif",
     "incorrect_answers": [
       "Iron Ore",
       "Coal Ore",
@@ -1154,7 +1154,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Clock.gif",
+    "image": "theme/images/Clock.gif",
     "incorrect_answers": [
       "Compass",
       "Map",
@@ -1168,7 +1168,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this mob?",
-    "image": "minecraft/images/Pig.gif",
+    "image": "theme/images/Pig.gif",
     "incorrect_answers": [
       "Cow",
       "Sheep",
@@ -1182,7 +1182,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "minecraft/images/Redstone Torch.gif",
+    "image": "theme/images/Redstone Torch.gif",
     "incorrect_answers": [
       "Torch",
       "Redstone Lamp",
@@ -1196,7 +1196,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which mob is this?",
-    "image": "minecraft/images/Magma Cube.gif",
+    "image": "theme/images/Magma Cube.gif",
     "incorrect_answers": [
       "Slime",
       "Ghast",
@@ -1210,7 +1210,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this item?",
-    "image": "minecraft/images/Lead.gif",
+    "image": "theme/images/Lead.gif",
     "incorrect_answers": [
       "String",
       "Name Tag",
@@ -1224,7 +1224,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Nether Portal.gif",
+    "image": "theme/images/Nether Portal.gif",
     "incorrect_answers": [
       "End Portal",
       "Stronghold",
@@ -1251,7 +1251,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this item?",
-    "image": "minecraft/images/Eye of Ender.gif",
+    "image": "theme/images/Eye of Ender.gif",
     "incorrect_answers": [
       "Ender Pearl",
       "Blaze Powder",
@@ -1265,7 +1265,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "minecraft/images/Blast Furnace.gif",
+    "image": "theme/images/Blast Furnace.gif",
     "incorrect_answers": [
       "Crafting Table",
       "Furnace",
@@ -1279,7 +1279,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this mob?",
-    "image": "minecraft/images/Endermite.gif",
+    "image": "theme/images/Endermite.gif",
     "incorrect_answers": [
       "Enderman",
       "Silverfish",
@@ -1397,7 +1397,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/End City.gif",
+    "image": "theme/images/End City.gif",
     "incorrect_answers": [
       "Village",
       "Stronghold",
@@ -1450,7 +1450,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Sea Lantern.gif",
+    "image": "theme/images/Sea Lantern.gif",
     "incorrect_answers": [
       "Glowstone",
       "Shroomlight",
@@ -1503,7 +1503,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Drowned.gif",
+    "image": "theme/images/Drowned.gif",
     "incorrect_answers": [
       "Husk",
       "Zombie Villager",
@@ -1556,7 +1556,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Basalt.gif",
+    "image": "theme/images/Basalt.gif",
     "incorrect_answers": [
       "Netherrack",
       "Soul Sand",
@@ -1609,7 +1609,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Witch Hut.gif",
+    "image": "theme/images/Witch Hut.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Swamp Hut",
@@ -1636,7 +1636,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Vex.gif",
+    "image": "theme/images/Vex.gif",
     "incorrect_answers": [
       "Evoker",
       "Vindicator",
@@ -1650,7 +1650,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Netherite Sword.gif",
+    "image": "theme/images/Netherite Sword.gif",
     "incorrect_answers": [
       "Diamond Sword",
       "Iron Sword",
@@ -1677,7 +1677,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Red Sandstone.gif",
+    "image": "theme/images/Red Sandstone.gif",
     "incorrect_answers": [
       "Sandstone",
       "Redstone Block",
@@ -1756,7 +1756,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Bastion Remnant.gif",
+    "image": "theme/images/Bastion Remnant.gif",
     "incorrect_answers": [
       "Ocean Monument",
       "Stronghold",
@@ -1783,7 +1783,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Packed Ice.gif",
+    "image": "theme/images/Packed Ice.gif",
     "incorrect_answers": [
       "Blue Ice",
       "Ice",
@@ -1810,7 +1810,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Stray.gif",
+    "image": "theme/images/Stray.gif",
     "incorrect_answers": [
       "Skeleton",
       "Wither Skeleton",
@@ -1863,7 +1863,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Smithing Table.gif",
+    "image": "theme/images/Smithing Table.gif",
     "incorrect_answers": [
       "Stonecutter",
       "Loom",
@@ -1890,7 +1890,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Nether Fortress.gif",
+    "image": "theme/images/Nether Fortress.gif",
     "incorrect_answers": [
       "End City",
       "Bastion Remnant",
@@ -1943,7 +1943,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Hoglin.gif",
+    "image": "theme/images/Hoglin.gif",
     "incorrect_answers": [
       "Zombified Piglin",
       "Piglin",
@@ -1970,7 +1970,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Desert Pyramid.gif",
+    "image": "theme/images/Desert Pyramid.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Igloo",
@@ -1998,7 +1998,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Block of Amethyst.gif",
+    "image": "theme/images/Block of Amethyst.gif",
     "incorrect_answers": [
       "Amethyst Cluster",
       "Amethyst Shard",
@@ -2077,7 +2077,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Stronghold.gif",
+    "image": "theme/images/Stronghold.gif",
     "incorrect_answers": [
       "Desert Temple",
       "Jungle Temple",
@@ -2104,7 +2104,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Soul Campfire.gif",
+    "image": "theme/images/Soul Campfire.gif",
     "incorrect_answers": [
       "Campfire",
       "Furnace",
@@ -2170,7 +2170,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Bee.gif",
+    "image": "theme/images/Bee.gif",
     "incorrect_answers": [
       "Wasp",
       "Fly",
@@ -2223,7 +2223,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Igloo.gif",
+    "image": "theme/images/Igloo.gif",
     "incorrect_answers": [
       "Desert Pyramid",
       "Ocean Monument",
@@ -2276,7 +2276,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Polished Basalt.gif",
+    "image": "theme/images/Polished Basalt.gif",
     "incorrect_answers": [
       "Basalt",
       "Blackstone",
@@ -2303,7 +2303,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Vindicator.gif",
+    "image": "theme/images/Vindicator.gif",
     "incorrect_answers": [
       "Evoker",
       "Pillager",
@@ -2356,7 +2356,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Ocean Monument.gif",
+    "image": "theme/images/Ocean Monument.gif",
     "incorrect_answers": [
       "Witch Hut",
       "Stronghold",
@@ -2448,7 +2448,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Woodland Mansion.gif",
+    "image": "theme/images/Woodland Mansion.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Village",
@@ -2501,7 +2501,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Desert Pyramid.gif",
+    "image": "theme/images/Desert Pyramid.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Igloo",
@@ -2554,7 +2554,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Polished Basalt.gif",
+    "image": "theme/images/Polished Basalt.gif",
     "incorrect_answers": [
       "Basalt",
       "Blackstone",
@@ -2581,7 +2581,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Vindicator.gif",
+    "image": "theme/images/Vindicator.gif",
     "incorrect_answers": [
       "Evoker",
       "Pillager",
@@ -2634,7 +2634,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Ocean Monument.gif",
+    "image": "theme/images/Ocean Monument.gif",
     "incorrect_answers": [
       "Witch Hut",
       "Stronghold",
@@ -2726,7 +2726,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Woodland Mansion.gif",
+    "image": "theme/images/Woodland Mansion.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Village",
@@ -2779,7 +2779,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Desert Pyramid.gif",
+    "image": "theme/images/Desert Pyramid.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Igloo",
@@ -2832,7 +2832,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Polished Basalt.gif",
+    "image": "theme/images/Polished Basalt.gif",
     "incorrect_answers": [
       "Basalt",
       "Blackstone",
@@ -2859,7 +2859,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Vindicator.gif",
+    "image": "theme/images/Vindicator.gif",
     "incorrect_answers": [
       "Evoker",
       "Pillager",
@@ -2912,7 +2912,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Ocean Monument.gif",
+    "image": "theme/images/Ocean Monument.gif",
     "incorrect_answers": [
       "Witch Hut",
       "Stronghold",
@@ -3004,7 +3004,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Woodland Mansion.gif",
+    "image": "theme/images/Woodland Mansion.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Village",
@@ -3057,7 +3057,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Desert Pyramid.gif",
+    "image": "theme/images/Desert Pyramid.gif",
     "incorrect_answers": [
       "Jungle Temple",
       "Igloo",

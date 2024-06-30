@@ -1,25 +1,31 @@
 @font-face {
-    font-family: Roboto;
-    src: url(src/assets/Roboto-Regular.ttf);
+    font-family: QuizFont;
+    src: url(src/assets/core/Roboto-Regular.ttf);
   }
 
 body {
     padding-top: 5px;
-    font-family: "Roboto", sans-serif;
+    font-family: "QuizFont", sans-serif;
     font-weight: 300;
     font-style: normal;
 }
 
+#imageHolder {
+  width: 100;
+  text-align: center;
+}
+
+#questionImage {
+  max-height: 25vh;
+}
 #topbar {
     position: absolute;
     top: 0px;
     height: 40px;
     left: 0px;
     right: 0px;
-    background: #f1eefc;
-    border-bottom: 3px solid #cacbf4;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
+    background: #313234;
+    border-bottom: 3px solid #212224;
     outline: 2px solid black;
     box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
 }
@@ -34,12 +40,11 @@ body {
   padding: 3px;
   position: relative;
   width: calc(25% - 14px);
-  font-size: 16px;
-  background: #f1eefc;
-  border-bottom: 3px solid #cacbf4;
+  font-size: 14px;
+  background:  #48494b;
+  border-bottom: 3px solid #212224;
   outline: 2px solid black;
   box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
-  border-radius: 10px;
   text-align: center;
   margin-left: 4px;
   margin-right: 4px;
@@ -49,10 +54,10 @@ body {
 }
 .playerName {
   text-align: center;
-  color: black;
+  color: white;
   font-weight: bold;
   height: 20px;
-  font-size: 10px;
+  font-size: 8px;
   width: 100%;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -62,15 +67,15 @@ body {
 
 .playerAvatar {
   width: 75%;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
 }
 
 .playerStatus {
-  background: #4d4980;
+  background: black;
+  color: white;
   bottom: 5px;
   width: 75%;
   padding: 3px;
+  padding-top: 5px;
   font-variant: small-caps;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
@@ -84,18 +89,17 @@ body {
 }
 
 .playerScore {
-  background:#feb211;
+  background:#f9fe54;
   position: absolute;
   left: -5px;
   top: -5px;
   border: 1px solid black;
-  border-radius: 100%;
   font-size: 13px;
   font-weight: bold;
-  line-height: 25px;
+  line-height: 20px;
   color: black;
-  width: 25px;
-  height: 25px;
+  width: 17px;
+  height: 17px;
   text-align:center;
   box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
 }
@@ -125,36 +129,31 @@ body {
 }
 
 #ready {
-    background: #b27ffa;
+    background: #313234;
     border: 2px solid black;
-    border-radius: 25px;
     box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
   margin-top: 40px;
   margin-left: 10px;
   margin-right: 10px;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
   height: 300px;
   overflow: hidden;
 }
 
 #readyTitle {
-    border-top: #c8a3fd 4px solid;
-    border-radius: 25px;
+    border-top: #5c5d5f 4px solid;
 
     padding-bottom: 10px;
     padding-top: 10px;
-    text-shadow: #000 1px 0 10px;
 }
 
 #readyContent {
-    padding-top: 5px;
+    padding-top: 15px;
     box-shadow: rgba(0,0,0,0.2) 2px -3px 2px;
-    color: black;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-   background:  #f1eefc;
+    color: white;
+   background:  #48494b;
    height: 100%;
    padding-left: 20px;
    padding-right: 20px;
@@ -172,12 +171,12 @@ body {
 
 .option {
     outline: 2px solid black;
-    border-top: 4px solid #534f84;
-    border-bottom: 4px solid #534f84;
-    border-radius: 10px;
+    border-top: 4px solid #c6c6c6;
+    border-bottom: 4px solid #c6c6c6;
     padding: 3px;
-    background: #534f84;
-    color: white;
+    padding-top: 6px;
+    background: #c6c6c6;
+    color: black;
     width: 20%;
     margin-left: 3px;
     margin-right: 3px;
@@ -185,11 +184,10 @@ body {
 }
 
 .optionSelected {
-    background: #feb211;
+    background: #f9fe54;
     color: black;
     border-top: 4px solid #fdda11;
-    border-bottom: 4px solid #feb211;
-    border-radius: 10px;
+    border-bottom: 4px solid #f9fe54;
 }
 
 #configCount {
@@ -197,14 +195,16 @@ body {
 }
 
 .cta {
-    background: #9bd907;
+    background: #1f8405;
     box-shadow: rgba(0,0,0,0.2) 2px -3px 2px;
-    border-radius: 25px;
     margin-top: 20px;
     padding: 10px;
     outline: 2px solid black;
-    border-top: 2px solid #c3e514;
-    border-bottom: 2px solid #60b30a;
+    border-top: 2px solid #31b024;
+    border-left: 2px solid #31b024;
+    border-right: 2px solid #003a00;
+    border-bottom: 2px solid #003a00;
+    padding-top: 15px;
 }
 
 #timerConfigHolder {
@@ -213,27 +213,24 @@ body {
     text-align: left;
 }
 #question {
-    background: #feb211;
+    background: #313234;
     border: 2px solid black;
-    border-radius: 25px;
     box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
-  margin-top: 40px;
+  margin-top: 5px;
   margin-left: 10px;
   margin-right: 10px;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
   overflow: hidden;
   display: none;
 }
 #questionHeading {
-    border-top: 4px solid #fdda11;
-    border-radius: 25px;
+    border-top: 4px solid #5c5d5f;
     padding-left: 10px;
     padding-right: 10px;
 }
 #questionNumber {
-    text-shadow: #000 1px 0 10px;
   text-align: center;
   margin-bottom: 10px;
   margin-top: 15px;
@@ -242,16 +239,13 @@ body {
     padding-top: 25px;
     box-shadow: rgba(0,0,0,0.2) 2px -3px 2px;
     color: black;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-   background:  #f1eefc;
+   background:  #48494b;
    padding-left: 20px;
    padding-right: 20px;
    padding-bottom: 25px;
 
 }
 #questionText {
-    text-shadow: #000 1px 0 10px;
   font-weight: bold;
   text-align: center;
   margin-bottom: 20px;
@@ -267,16 +261,17 @@ body {
   margin: 5px;
   width: calc(50% - 24px);
   text-align: center;
-  border: 2px white solid;
-  border-radius: 10px;
+  border: 2px black solid;
+  color: #404040;
   padding: 3px;
+  padding-top: 6px;
   min-height: 50px;
-  background: rgba(255,255,255,0.2);
+  background: #c6c6c6;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   position: relative;
 }
 .slots {
@@ -300,29 +295,29 @@ body {
 }
 
 .selected {
-  background: orange;
+  background: #f9fe54;
   border: 2px solid orange;
   font-weight: bold;
   color: black;
 }
 
 .correct {
-  background: #60b30a;
-  border: 2px solid #60b30a;
+  background: #1f8405;
+  border: 2px solid #0f7400;
   font-weight: bold;
   color: white;
 } 
 
 .selected.correct {
-  background: #60b30a;
-  border: 2px solid #feb211;
+  background: #1f8405;
+  border: 2px solid orange;
   font-weight: bold;
   color: white;
 
 }
 
 .check {
-   background-image: url(src/assets//check.png);
+   background-image: url(src/assets/core/check.png);
    background-size: contain;
    background-repeat: no-repeat;
    width: 25px;
@@ -334,15 +329,15 @@ body {
    display: none;
 }
 .THINKING {
-  background: #feb211;
+  background: #c6c6c6;
   color: black;
 }
 .READY {
-  background: #60b30a;
+  background: #1f8405;
   color: white;
 }
 .FASTEST {
-  background: #FFFF00;
+  background: #f9fe54;
   color: black;
 }
 
@@ -351,6 +346,5 @@ body {
   background: #4d4980;
   height: 7px;
   border: 1px white solid;
-  border-radius: 2px;
   margin-bottom: 10px;
 }
