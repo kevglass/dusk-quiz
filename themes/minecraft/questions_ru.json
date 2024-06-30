@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Diamond Block.gif",
+    "image": "minecraft/images/Diamond Block.png",
     "incorrect_answers": [
       "Блок Lapis",
       "Изумрудный блок",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Определите этот биом:",
-    "image": "theme/images/Taiga.gif",
+    "image": "minecraft/images/Taiga.png",
     "incorrect_answers": [
       "Лес",
       "Пустыня",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая структура изображена здесь?",
-    "image": "theme/images/Jungle Temple.gif",
+    "image": "minecraft/images/Jungle Temple.png",
     "incorrect_answers": [
       "Деревня",
       "Храм в пустыне",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой это блок?",
-    "image": "theme/images/Emerald Ore.gif",
+    "image": "minecraft/images/Emerald Ore.png",
     "incorrect_answers": [
       "Алмазная руда",
       "Железная руда",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за предмет?",
-    "image": "theme/images/Bow.gif",
+    "image": "minecraft/images/Bow.png",
     "incorrect_answers": [
       "Арбалет",
       "Рыболовная удочка",
@@ -270,7 +270,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Enderman.gif",
+    "image": "minecraft/images/Enderman.png",
     "incorrect_answers": [
       "Эндермит",
       "Шулькер",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая порода дерева изображена здесь?",
-    "image": "theme/images/Oak Log.gif",
+    "image": "minecraft/images/Oak Log.png",
     "incorrect_answers": [
       "Еловое бревно",
       "Березовое бревно",
@@ -293,26 +293,12 @@
     "correct_answer": "Дубовое бревно"
   },
   {
-    "id": 23,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот блок?",
-    "image": "theme/images/Anvil.gif",
-    "incorrect_answers": [
-      "Печь",
-      "Grindstone",
-      "Кузнечный стол"
-    ],
-    "correct_answer": "Наковальня"
-  },
-  {
     "id": 24,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая руда изображена здесь?",
-    "image": "theme/images/Iron Ore.gif",
+    "image": "minecraft/images/Iron Ore.png",
     "incorrect_answers": [
       "Золотая руда",
       "Угольная руда",
@@ -352,7 +338,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/TNT.gif",
+    "image": "minecraft/images/TNT.png",
     "incorrect_answers": [
       "Блок красного камня",
       "Песок",
@@ -405,7 +391,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая мафия изображена здесь?",
-    "image": "theme/images/Wither Skeleton.gif",
+    "image": "minecraft/images/Wither Skeleton.png",
     "incorrect_answers": [
       "Скелет",
       "Увядание",
@@ -419,7 +405,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за дерево?",
-    "image": "theme/images/Dark Oak.gif",
+    "image": "minecraft/images/Dark Oak.png",
     "incorrect_answers": [
       "Береза",
       "Джунгли",
@@ -446,7 +432,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за блок в Minecraft?",
-    "image": "theme/images/Furnace.gif",
+    "image": "minecraft/images/Furnace.png",
     "incorrect_answers": [
       "Стол для рукоделия",
       "Грудь",
@@ -473,7 +459,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Nether Fortress.gif",
+    "image": "minecraft/images/Nether Fortress.png",
     "incorrect_answers": [
       "Деревня",
       "Стронгхолд",
@@ -513,27 +499,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется это растение?",
-    "image": "theme/images/Nether Wart.gif",
+    "image": "minecraft/images/Nether Wart.png",
     "incorrect_answers": [
       "Кактус",
       "Сахарный тростник",
       "Пшеница"
     ],
     "correct_answer": "Низинная бородавка"
-  },
-  {
-    "id": 41,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок изображен здесь?",
-    "image": "theme/images/End Stone.gif",
-    "incorrect_answers": [
-      "Песчаник",
-      "Кварц",
-      "Призмарин"
-    ],
-    "correct_answer": "Конечный камень"
   },
   {
     "id": 42,
@@ -554,7 +526,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой биом изображен здесь?",
-    "image": "theme/images/Savanna.gif",
+    "image": "minecraft/images/Savanna.png",
     "incorrect_answers": [
       "Равнины",
       "Пустыня",
@@ -589,20 +561,6 @@
     "correct_answer": "Печь"
   },
   {
-    "id": 49,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за предмет?",
-    "image": "theme/images/Compass.gif",
-    "incorrect_answers": [
-      "Часы",
-      "Карта",
-      "Подзорная труба"
-    ],
-    "correct_answer": "Компас"
-  },
-  {
     "id": 50,
     "type": "multiple",
     "difficulty": "easy",
@@ -634,7 +592,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот биом?",
-    "image": "theme/images/Jungle.gif",
+    "image": "minecraft/images/Jungle.png",
     "incorrect_answers": [
       "Лес",
       "Тайга",
@@ -661,7 +619,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Elytra.gif",
+    "image": "minecraft/images/Elytra.png",
     "incorrect_answers": [
       "Крылья",
       "Перо",
@@ -813,46 +771,18 @@
     "correct_answer": "Slimeball"
   },
   {
-    "id": 88,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется эта толпа?",
-    "image": "theme/images/Pig.gif",
-    "incorrect_answers": [
-      "Корова",
-      "Овцы",
-      "Курица"
-    ],
-    "correct_answer": "Свинья"
-  },
-  {
     "id": 90,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за мафия?",
-    "image": "theme/images/Magma Cube.gif",
+    "image": "minecraft/images/Magma Cube.png",
     "incorrect_answers": [
       "Слизь",
       "Ghast",
       "Увядание"
     ],
     "correct_answer": "Куб Магмы"
-  },
-  {
-    "id": 91,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот предмет?",
-    "image": "theme/images/Lead.gif",
-    "incorrect_answers": [
-      "Строка",
-      "Именная бирка",
-      "Веревка"
-    ],
-    "correct_answer": "Вести"
   },
   {
     "id": 93,
@@ -1649,19 +1579,6 @@
     "correct_answer": "Печь"
   },
   {
-    "id": 180,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение пюпитра в Minecraft?",
-    "incorrect_answers": [
-      "Хранение книг",
-      "Создание карт",
-      "Написание книг"
-    ],
-    "correct_answer": "Чтение заклинаний"
-  },
-  {
     "id": 181,
     "type": "multiple",
     "difficulty": "easy",
@@ -1751,18 +1668,5 @@
       "Обсидиан"
     ],
     "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 191,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение курильщика в Minecraft?",
-    "incorrect_answers": [
-      "Плавление руд",
-      "Варить зелья",
-      "Инструменты для ремесла"
-    ],
-    "correct_answer": "Приготовление еды"
   }
 ]

@@ -666,19 +666,6 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Entertainment: Cartoon &amp; Animations",
-    "question": "In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?",
-    "correct_answer": "Andy",
-    "incorrect_answers": [
-      "Edward",
-      "Danny",
-      "Matt"
-    ],
-    "id": 52
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Cartoon &amp; Animations",
     "question": "In the 1993 Disney animated series &quot;Bonkers&quot;, what is the name of Bonker&#039;s second partner?",
     "correct_answer": "Miranda Wright",
     "incorrect_answers": [
@@ -843,19 +830,6 @@
       "Pyramid"
     ],
     "id": 65
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Mythology",
-    "question": "Who was the King of Gods in Ancient Greek mythology?",
-    "correct_answer": "Zeus",
-    "incorrect_answers": [
-      "Apollo",
-      "Hermes",
-      "Poseidon"
-    ],
-    "id": 66
   },
   {
     "type": "multiple",
@@ -1051,19 +1025,6 @@
       "9"
     ],
     "id": 81
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Vehicles",
-    "question": "Which of the following car manufacturers had a war named after it?",
-    "correct_answer": "Toyota",
-    "incorrect_answers": [
-      "Honda",
-      "Ford",
-      "Volkswagen"
-    ],
-    "id": 82
   },
   {
     "type": "multiple",
@@ -1315,19 +1276,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Science: Computers",
-    "question": "The numbering system with a radix of 16 is more commonly referred to as ",
-    "correct_answer": "Hexidecimal",
-    "incorrect_answers": [
-      "Binary",
-      "Duodecimal",
-      "Octal"
-    ],
-    "id": 102
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Vehicles",
     "question": "What is the name of Nissan&#039;s most popular electric car?",
     "correct_answer": "Leaf",
@@ -1337,19 +1285,6 @@
       "Roots"
     ],
     "id": 103
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Film",
-    "question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
-    "correct_answer": "Fay Wray",
-    "incorrect_answers": [
-      "Jean Harlow",
-      "Vivien Leigh",
-      "Mae West"
-    ],
-    "id": 104
   },
   {
     "type": "multiple",
@@ -1588,19 +1523,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Entertainment: Music",
-    "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
-    "correct_answer": "M.I.A.",
-    "incorrect_answers": [
-      "K.I.A.",
-      "C.I.A.",
-      "A.I.A."
-    ],
-    "id": 123
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Entertainment: Video Games",
     "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
     "correct_answer": "Microsoft",
@@ -1666,19 +1588,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Science &amp; Nature",
-    "question": "How many planets make up our Solar System?",
-    "correct_answer": "8",
-    "incorrect_answers": [
-      "7",
-      "9",
-      "6"
-    ],
-    "id": 129
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Entertainment: Video Games",
     "question": "Lanky, Funky, and Chunky are all characters featured in which series owned by Nintendo?",
     "correct_answer": "Donkey Kong",
@@ -1718,19 +1627,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Science: Mathematics",
-    "question": "What&#039;s the square root of 49?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "4",
-      "12",
-      "9"
-    ],
-    "id": 133
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Entertainment: Board Games",
     "question": "When was the board game Twister, released to the public?",
     "correct_answer": "April 1966",
@@ -1740,19 +1636,6 @@
       "February 1966"
     ],
     "id": 134
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Television",
-    "question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
-    "correct_answer": "LazyTown",
-    "incorrect_answers": [
-      "Sofia the First",
-      "DuckTales",
-      "Tom and Jerry"
-    ],
-    "id": 135
   },
   {
     "type": "multiple",
@@ -1900,19 +1783,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Science: Computers",
-    "question": "Which programming language shares its name with an island in Indonesia?",
-    "correct_answer": "Java",
-    "incorrect_answers": [
-      "Python",
-      "C",
-      "Jakarta"
-    ],
-    "id": 147
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "History",
     "question": "Which of the following was Brazil was a former colony under?",
     "correct_answer": "Portugal",
@@ -2043,19 +1913,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Entertainment: Cartoon &amp; Animations",
-    "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show &quot;Rick and Morty&quot;?",
-    "correct_answer": "Slam dunk, nothing but net!",
-    "incorrect_answers": [
-      "Hit the sack, Jack!",
-      "Rikki-Tikki-Tavi, biatch!",
-      "Wubba-lubba-dub-dub!"
-    ],
-    "id": 158
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Science: Computers",
     "question": "How many values can a single byte represent?",
     "correct_answer": "256",
@@ -2121,19 +1978,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Entertainment: Video Games",
-    "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
-    "correct_answer": "5",
-    "incorrect_answers": [
-      "4",
-      "3",
-      "6"
-    ],
-    "id": 164
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Geography",
     "question": "Which city is the capital of the United States of America?",
     "correct_answer": "Washington D.C",
@@ -2143,19 +1987,6 @@
       "Los Angeles"
     ],
     "id": 165
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Film",
-    "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
-    "correct_answer": "Bruce Lee",
-    "incorrect_answers": [
-      "Jackie Chan",
-      "Jet Li",
-      " Yun-Fat Chow"
-    ],
-    "id": 166
   },
   {
     "type": "multiple",
@@ -2238,19 +2069,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Entertainment: Video Games",
-    "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
-    "correct_answer": "Junkrat and Roadhog",
-    "incorrect_answers": [
-      "Roadrat and Junkhog",
-      "Ana and Pharah",
-      "McCree and Deadeye"
-    ],
-    "id": 173
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Sports",
     "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
     "correct_answer": "Mike Tyson",
@@ -2286,19 +2104,6 @@
       "Tracks From The Attic"
     ],
     "id": 176
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "When was the board game Twister, released to the public?",
-    "correct_answer": "April 1966",
-    "incorrect_answers": [
-      "September 1965",
-      "January 1969",
-      "February 1966"
-    ],
-    "id": 177
   },
   {
     "type": "multiple",
@@ -2416,32 +2221,6 @@
       "Nuketown"
     ],
     "id": 186
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Film",
-    "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
-    "correct_answer": "Fight Club",
-    "incorrect_answers": [
-      "The Island",
-      "Unthinkable",
-      "American Pie"
-    ],
-    "id": 187
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Vehicles",
-    "question": "What is the name of Nissan&#039;s most popular electric car?",
-    "correct_answer": "Leaf",
-    "incorrect_answers": [
-      "Tree",
-      "Deer",
-      "Roots"
-    ],
-    "id": 188
   },
   {
     "type": "multiple",
@@ -2572,19 +2351,6 @@
       "Televison"
     ],
     "id": 198
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Cartoon &amp; Animations",
-    "question": "In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?",
-    "correct_answer": "Andy",
-    "incorrect_answers": [
-      "Edward",
-      "Danny",
-      "Matt"
-    ],
-    "id": 199
   },
   {
     "type": "multiple",

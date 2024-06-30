@@ -41,19 +41,6 @@
   {
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Entertainment: Music",
-    "question": "Как называется хит-сингл финского диджея Darude, выпущенный в октябре 1999 года?",
-    "correct_answer": "Песчаная буря",
-    "incorrect_answers": [
-      "Пыльный дьявол",
-      "Sirocco",
-      "Хамсин"
-    ],
-    "id": 4
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
     "category": "Entertainment: Video Games",
     "question": "В Splatoon 2 кто является членами группы Off The Hook?",
     "correct_answer": "Жемчужина и Марина",
