@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "minecraft/images/Diamond Block.png",
+    "image": "theme/images/Diamond Block.gif",
     "incorrect_answers": [
       "Lapis Block",
       "Emerald Block",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Identify this biome:",
-    "image": "minecraft/images/Taiga.png",
+    "image": "theme/images/Taiga.gif",
     "incorrect_answers": [
       "Forest",
       "Desert",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What structure is shown here?",
-    "image": "minecraft/images/Jungle Temple.png",
+    "image": "theme/images/Jungle Temple.gif",
     "incorrect_answers": [
       "Village",
       "Desert Temple",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which block is this?",
-    "image": "minecraft/images/Emerald Ore.png",
+    "image": "theme/images/Emerald Ore.gif",
     "incorrect_answers": [
       "Diamond Ore",
       "Iron Ore",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What item is this?",
-    "image": "minecraft/images/Bow.png",
+    "image": "theme/images/Bow.gif",
     "incorrect_answers": [
       "Crossbow",
       "Fishing Rod",
@@ -270,7 +270,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "minecraft/images/Enderman.png",
+    "image": "theme/images/Enderman.gif",
     "incorrect_answers": [
       "Endermite",
       "Shulker",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What kind of wood is shown here?",
-    "image": "minecraft/images/Oak Log.png",
+    "image": "theme/images/Oak Log.gif",
     "incorrect_answers": [
       "Spruce Log",
       "Birch Log",
@@ -298,7 +298,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "minecraft/images/Anvil.png",
+    "image": "theme/images/Anvil.gif",
     "incorrect_answers": [
       "Furnace",
       "Grindstone",
@@ -312,7 +312,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which ore is shown here?",
-    "image": "minecraft/images/Iron Ore.png",
+    "image": "theme/images/Iron Ore.gif",
     "incorrect_answers": [
       "Gold Ore",
       "Coal Ore",
@@ -352,7 +352,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "minecraft/images/TNT.png",
+    "image": "theme/images/TNT.gif",
     "incorrect_answers": [
       "Redstone Block",
       "Sand",
@@ -405,7 +405,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which mob is shown here?",
-    "image": "minecraft/images/Wither Skeleton.png",
+    "image": "theme/images/Wither Skeleton.gif",
     "incorrect_answers": [
       "Skeleton",
       "Wither",
@@ -419,7 +419,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What type of tree is this?",
-    "image": "minecraft/images/Dark Oak.png",
+    "image": "theme/images/Dark Oak.gif",
     "incorrect_answers": [
       "Birch",
       "Jungle",
@@ -446,7 +446,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which Minecraft block is this?",
-    "image": "minecraft/images/Furnace.png",
+    "image": "theme/images/Furnace.gif",
     "incorrect_answers": [
       "Crafting Table",
       "Chest",
@@ -473,7 +473,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "minecraft/images/Nether Fortress.png",
+    "image": "theme/images/Nether Fortress.gif",
     "incorrect_answers": [
       "Village",
       "Stronghold",
@@ -513,7 +513,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this plant called?",
-    "image": "minecraft/images/Nether Wart.png",
+    "image": "theme/images/Nether Wart.gif",
     "incorrect_answers": [
       "Cactus",
       "Sugar Cane",
@@ -527,7 +527,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which block is shown here?",
-    "image": "minecraft/images/End Stone.png",
+    "image": "theme/images/End Stone.gif",
     "incorrect_answers": [
       "Sandstone",
       "Quartz",
@@ -554,7 +554,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which biome is shown here?",
-    "image": "minecraft/images/Savanna.png",
+    "image": "theme/images/Savanna.gif",
     "incorrect_answers": [
       "Plains",
       "Desert",
@@ -594,7 +594,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item?",
-    "image": "minecraft/images/Compass.png",
+    "image": "theme/images/Compass.gif",
     "incorrect_answers": [
       "Clock",
       "Map",
@@ -634,7 +634,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this biome called?",
-    "image": "minecraft/images/Jungle.png",
+    "image": "theme/images/Jungle.gif",
     "incorrect_answers": [
       "Forest",
       "Taiga",
@@ -661,7 +661,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "minecraft/images/Elytra.png",
+    "image": "theme/images/Elytra.gif",
     "incorrect_answers": [
       "Wings",
       "Feather",
@@ -818,7 +818,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this mob?",
-    "image": "minecraft/images/Pig.png",
+    "image": "theme/images/Pig.gif",
     "incorrect_answers": [
       "Cow",
       "Sheep",
@@ -832,7 +832,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which mob is this?",
-    "image": "minecraft/images/Magma Cube.png",
+    "image": "theme/images/Magma Cube.gif",
     "incorrect_answers": [
       "Slime",
       "Ghast",
@@ -846,7 +846,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this item?",
-    "image": "minecraft/images/Lead.png",
+    "image": "theme/images/Lead.gif",
     "incorrect_answers": [
       "String",
       "Name Tag",

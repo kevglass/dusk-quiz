@@ -311,6 +311,13 @@ Dusk.initClient({
         // game start so show the first question
         document.getElementById("ready")!.style.display = "none";
         document.getElementById("question")!.style.display = "block";
+
+        for (const q of game.questions) {
+          if (q.image) {
+            const image = new Image();
+            image.src = ASSETS[q.image];
+          }
+        }
       } else {
         // otherwise we're showing the answers so highlight the right quiz
         const answerDiv = document.getElementById("answer"+(game.correctAnswerIndex+1)) as HTMLDivElement;

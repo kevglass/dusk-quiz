@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Cómo se llama este bloque?",
-    "image": "minecraft/images/Diamond Block.png",
+    "image": "theme/images/Diamond Block.gif",
     "incorrect_answers": [
       "Bloque Lapis",
       "Bloque Esmeralda",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Identifique este bioma:",
-    "image": "minecraft/images/Taiga.png",
+    "image": "theme/images/Taiga.gif",
     "incorrect_answers": [
       "Bosque",
       "Desierto",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué estructura se muestra aquí?",
-    "image": "minecraft/images/Jungle Temple.png",
+    "image": "theme/images/Jungle Temple.gif",
     "incorrect_answers": [
       "Pueblo",
       "Templo del Desierto",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué bloque es éste?",
-    "image": "minecraft/images/Emerald Ore.png",
+    "image": "theme/images/Emerald Ore.gif",
     "incorrect_answers": [
       "Mineral de diamante",
       "Mineral de hierro",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿De qué objeto se trata?",
-    "image": "minecraft/images/Bow.png",
+    "image": "theme/images/Bow.gif",
     "incorrect_answers": [
       "Ballesta",
       "Caña de pescar",
@@ -270,7 +270,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Cómo se llama esta mafia?",
-    "image": "minecraft/images/Enderman.png",
+    "image": "theme/images/Enderman.gif",
     "incorrect_answers": [
       "Endermita",
       "Shulker",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué tipo de madera se muestra aquí?",
-    "image": "minecraft/images/Oak Log.png",
+    "image": "theme/images/Oak Log.gif",
     "incorrect_answers": [
       "Tronco de abeto",
       "Tronco de abedul",
@@ -298,7 +298,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué mineral se muestra aquí?",
-    "image": "minecraft/images/Iron Ore.png",
+    "image": "theme/images/Iron Ore.gif",
     "incorrect_answers": [
       "Mineral de oro",
       "Mineral de carbón",
@@ -338,7 +338,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué bloque se muestra aquí?",
-    "image": "minecraft/images/TNT.png",
+    "image": "theme/images/TNT.gif",
     "incorrect_answers": [
       "Bloque Redstone",
       "Arena",
@@ -391,7 +391,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué mafia aparece aquí?",
-    "image": "minecraft/images/Wither Skeleton.png",
+    "image": "theme/images/Wither Skeleton.gif",
     "incorrect_answers": [
       "Esqueleto",
       "Wither",
@@ -405,7 +405,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué tipo de árbol es?",
-    "image": "minecraft/images/Dark Oak.png",
+    "image": "theme/images/Dark Oak.gif",
     "incorrect_answers": [
       "Abedul",
       "Selva",
@@ -432,7 +432,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué bloque de Minecraft es este?",
-    "image": "minecraft/images/Furnace.png",
+    "image": "theme/images/Furnace.gif",
     "incorrect_answers": [
       "Mesa de artesanía",
       "Pecho",
@@ -459,7 +459,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Cómo se llama esta estructura?",
-    "image": "minecraft/images/Nether Fortress.png",
+    "image": "theme/images/Nether Fortress.gif",
     "incorrect_answers": [
       "Pueblo",
       "Fortaleza",
@@ -499,7 +499,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Cómo se llama esta planta?",
-    "image": "minecraft/images/Nether Wart.png",
+    "image": "theme/images/Nether Wart.gif",
     "incorrect_answers": [
       "Cactus",
       "Caña de azúcar",
@@ -526,7 +526,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué bioma se muestra aquí?",
-    "image": "minecraft/images/Savanna.png",
+    "image": "theme/images/Savanna.gif",
     "incorrect_answers": [
       "Llanuras",
       "Desierto",
@@ -566,7 +566,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué es este artículo?",
-    "image": "minecraft/images/Compass.png",
+    "image": "theme/images/Compass.gif",
     "incorrect_answers": [
       "Reloj",
       "Mapa",
@@ -606,7 +606,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Cómo se llama este bioma?",
-    "image": "minecraft/images/Jungle.png",
+    "image": "theme/images/Jungle.gif",
     "incorrect_answers": [
       "Bosque",
       "Taiga",
@@ -633,7 +633,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Cómo se llama este artículo?",
-    "image": "minecraft/images/Elytra.png",
+    "image": "theme/images/Elytra.gif",
     "incorrect_answers": [
       "Alas",
       "Pluma",
@@ -790,7 +790,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "¿Qué mafia es esta?",
-    "image": "minecraft/images/Magma Cube.png",
+    "image": "theme/images/Magma Cube.gif",
     "incorrect_answers": [
       "Baba",
       "Ghast",
