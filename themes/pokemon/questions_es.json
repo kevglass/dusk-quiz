@@ -1,0 +1,2242 @@
+[
+  {
+    "id": 1,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es conocido como el \"Pokémon pez de barro\"?",
+    "image": "theme/images/Swampert.gif",
+    "incorrect_answers": [
+      "Mudkip",
+      "Marshtomp",
+      "Wooper"
+    ],
+    "correct_answer": "Swampert"
+  },
+  {
+    "id": 2,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon legendario de tipo Eléctrico.",
+    "image": "theme/images/Zapdos.gif",
+    "incorrect_answers": [
+      "Raikou",
+      "Jolteon",
+      "Electivire"
+    ],
+    "correct_answer": "Zapdos"
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Psíquico?",
+    "image": "theme/images/Abra.gif",
+    "incorrect_answers": [
+      "Kadabra",
+      "Alakazam",
+      "Mewtwo"
+    ],
+    "correct_answer": "Abra"
+  },
+  {
+    "id": 4,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Este Pokémon es conocido por su capacidad de metamorfosearse. Identifícalo.",
+    "image": "theme/images/Butterfree.gif",
+    "incorrect_answers": [
+      "Metapod",
+      "Venonat",
+      "Silcoon"
+    ],
+    "correct_answer": "Sin mantequilla"
+  },
+  {
+    "id": 5,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este starter de tipo Fuego de la región de Kanto?",
+    "image": "theme/images/Charmander.gif",
+    "incorrect_answers": [
+      "Cyndaquil",
+      "Torchic",
+      "Chimchar"
+    ],
+    "correct_answer": "Charmander"
+  },
+  {
+    "id": 6,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hada?",
+    "image": "theme/images/Clefairy.gif",
+    "incorrect_answers": [
+      "Clefable",
+      "Jigglypuff",
+      "Togepi"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 7,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Roca conocido por su cuerpo duro.",
+    "image": "theme/images/Onix.gif",
+    "incorrect_answers": [
+      "Geodude",
+      "Rhyhorn",
+      "Kabuto"
+    ],
+    "correct_answer": "Onix"
+  },
+  {
+    "id": 8,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es de tipo Hielo, conocido como \"Pokémon Congelador\"?",
+    "image": "theme/images/Articuno.gif",
+    "incorrect_answers": [
+      "Glaceon",
+      "Froslass",
+      "Regice"
+    ],
+    "correct_answer": "Articuno"
+  },
+  {
+    "id": 9,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Fantasma/Veneno?",
+    "image": "theme/images/Gengar.gif",
+    "incorrect_answers": [
+      "Haunter",
+      "Gastly",
+      "Misdreavus"
+    ],
+    "correct_answer": "Gengar"
+  },
+  {
+    "id": 10,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Tierra conocido por su velocidad.",
+    "image": "theme/images/Dugtrio.gif",
+    "incorrect_answers": [
+      "Diglett",
+      "Sandslash",
+      "Golem"
+    ],
+    "correct_answer": "Dugtrio"
+  },
+  {
+    "id": 11,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Normal es conocido por su canto?",
+    "image": "theme/images/Wigglytuff.gif",
+    "incorrect_answers": [
+      "Jigglypuff",
+      "Clefable",
+      "Snorlax"
+    ],
+    "correct_answer": "Wigglytuff"
+  },
+  {
+    "id": 12,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon inicial de tipo Agua?",
+    "image": "theme/images/Squirtle.gif",
+    "incorrect_answers": [
+      "Totodile",
+      "Mudkip",
+      "Piplup"
+    ],
+    "correct_answer": "Squirtle"
+  },
+  {
+    "id": 13,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por sus múltiples formas.",
+    "image": "theme/images/Muk.gif",
+    "incorrect_answers": [
+      "Grimer",
+      "Koffing",
+      "Weezing"
+    ],
+    "correct_answer": "Muk"
+  },
+  {
+    "id": 14,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo eléctrico conocido por su alto voltaje?",
+    "image": "theme/images/Electabuzz.gif",
+    "incorrect_answers": [
+      "Electivire",
+      "Jolteon",
+      "Zapdos"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 15,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Bicho/Volador?",
+    "image": "theme/images/Scyther.gif",
+    "incorrect_answers": [
+      "Sin mantequilla",
+      "Beedrill",
+      "Yanmega"
+    ],
+    "correct_answer": "Scyther"
+  },
+  {
+    "id": 16,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Psíquico conocido por su doble cerebro.",
+    "image": "theme/images/Slowbro.gif",
+    "incorrect_answers": [
+      "Slowpoke",
+      "Slowking",
+      "Exeggutor"
+    ],
+    "correct_answer": "Slowbro"
+  },
+  {
+    "id": 17,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por sus feroces batallas?",
+    "image": "theme/images/Charizard.gif",
+    "incorrect_answers": [
+      "Magmar",
+      "Blaziken",
+      "Moltres"
+    ],
+    "correct_answer": "Charizard"
+  },
+  {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Dragón/Volador?",
+    "image": "theme/images/Dragonite.gif",
+    "incorrect_answers": [
+      "Salamence",
+      "Rayquaza",
+      "Altaria"
+    ],
+    "correct_answer": "Dragonita"
+  },
+  {
+    "id": 19,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hielo conocido por su elegante natación.",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Lapras",
+      "Seel",
+      "Cloyster"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 20,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Acero es conocido por su cuerpo magnético?",
+    "image": "theme/images/Magnemite.gif",
+    "incorrect_answers": [
+      "Magneton",
+      "Steelix",
+      "Registeel"
+    ],
+    "correct_answer": "Magnemita"
+  },
+  {
+    "id": 21,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua/Tierra?",
+    "image": "theme/images/Quagsire.gif",
+    "incorrect_answers": [
+      "Wooper",
+      "Gastrodon",
+      "Swampert"
+    ],
+    "correct_answer": "Quagsire"
+  },
+  {
+    "id": 22,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba/Veneno conocido por su flor.",
+    "image": "theme/images/Vileplume.gif",
+    "incorrect_answers": [
+      "Bellossom",
+      "Roserade",
+      "Ivysaur"
+    ],
+    "correct_answer": "Vileplume"
+  },
+  {
+    "id": 23,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo de tierra/roca conocido como \"Pokémon armadura\"?",
+    "image": "theme/images/Onix.gif",
+    "incorrect_answers": [
+      "Steelix",
+      "Rhydon",
+      "Golem"
+    ],
+    "correct_answer": "Onix"
+  },
+  {
+    "id": 24,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Fantasma/Veneno?",
+    "image": "theme/images/Haunter.gif",
+    "incorrect_answers": [
+      "Gengar",
+      "Gastly",
+      "Misdreavus"
+    ],
+    "correct_answer": "Haunter"
+  },
+  {
+    "id": 25,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Normal/Volador conocido por su velocidad.",
+    "image": "theme/images/Pidgey.gif",
+    "incorrect_answers": [
+      "Pidgeotto",
+      "Pidgeot",
+      "Spearow"
+    ],
+    "correct_answer": "Pidgey"
+  },
+  {
+    "id": 26,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo bicho es conocido por su forma de capullo?",
+    "image": "theme/images/Metapod.gif",
+    "incorrect_answers": [
+      "Sin mantequilla",
+      "Kakuna",
+      "Beedrill"
+    ],
+    "correct_answer": "Metapod"
+  },
+  {
+    "id": 27,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus bolsas en las mejillas?",
+    "image": "theme/images/Pikachu.gif",
+    "incorrect_answers": [
+      "Raichu",
+      "Pachirisu",
+      "Emolga"
+    ],
+    "correct_answer": "Pikachu"
+  },
+  {
+    "id": 28,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Psíquico conocido por su gran inteligencia.",
+    "image": "theme/images/Mewtwo.gif",
+    "incorrect_answers": [
+      "Alakazam",
+      "Espeon",
+      "Celebi"
+    ],
+    "correct_answer": "Mewtwo"
+  },
+  {
+    "id": 29,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Normal es conocido por sus múltiples colas?",
+    "image": "theme/images/Raticate.gif",
+    "incorrect_answers": [
+      "Rattata",
+      "Eevee",
+      "Furret"
+    ],
+    "correct_answer": "Raticate"
+  },
+  {
+    "id": 30,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hada conocido por su aspecto encantador?",
+    "image": "theme/images/Clefairy.gif",
+    "incorrect_answers": [
+      "Clefable",
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 31,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo dragón conocido por sus poderes místicos.",
+    "image": "theme/images/Dragonite.gif",
+    "incorrect_answers": [
+      "Dratini",
+      "Dragonair",
+      "Altaria"
+    ],
+    "correct_answer": "Dragonita"
+  },
+  {
+    "id": 32,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su armadura de caparazón?",
+    "image": "theme/images/Cloyster.gif",
+    "incorrect_answers": [
+      "Shellder",
+      "Kabuto",
+      "Kabutops"
+    ],
+    "correct_answer": "Cloyster"
+  },
+  {
+    "id": 33,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su aliento frío?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 34,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por su ataque hoja afilada.",
+    "image": "theme/images/Ivysaur.gif",
+    "incorrect_answers": [
+      "Bulbasaur",
+      "Venusaur",
+      "Oddish"
+    ],
+    "correct_answer": "Ivysaur"
+  },
+  {
+    "id": 35,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Agua es conocido por su propulsión a chorro?",
+    "image": "theme/images/Blastoise.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Squirtle",
+      "Psyduck"
+    ],
+    "correct_answer": "Blastoise"
+  },
+  {
+    "id": 36,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Fuego conocido por su cola ardiente?",
+    "image": "theme/images/Cyndaquil.gif",
+    "incorrect_answers": [
+      "Quilava",
+      "Typhlosion",
+      "Charmander"
+    ],
+    "correct_answer": "Cyndaquil"
+  },
+  {
+    "id": 37,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo bicho conocido por su metamorfosis.",
+    "image": "theme/images/Caterpie.gif",
+    "incorrect_answers": [
+      "Metapod",
+      "Sin mantequilla",
+      "Weedle"
+    ],
+    "correct_answer": "Caterpie"
+  },
+  {
+    "id": 38,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Tierra es conocido por sus habilidades excavadoras?",
+    "image": "theme/images/Diglett.gif",
+    "incorrect_answers": [
+      "Dugtrio",
+      "Sandshrew",
+      "Sandslash"
+    ],
+    "correct_answer": "Diglett"
+  },
+  {
+    "id": 39,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cuál es el nombre de este Pokémon de tipo Fantasma conocido por sus embrujos?",
+    "image": "theme/images/Gengar.gif",
+    "incorrect_answers": [
+      "Haunter",
+      "Gastly",
+      "Misdreavus"
+    ],
+    "correct_answer": "Gengar"
+  },
+  {
+    "id": 40,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por su gas tóxico.",
+    "image": "theme/images/Koffing.gif",
+    "incorrect_answers": [
+      "Weezing",
+      "Grimer",
+      "Muk"
+    ],
+    "correct_answer": "Koffing"
+  },
+  {
+    "id": 41,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Eléctrico es conocido por generar electricidad?",
+    "image": "theme/images/Electabuzz.gif",
+    "incorrect_answers": [
+      "Electivire",
+      "Pikachu",
+      "Jolteon"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 42,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por su naturaleza amable?",
+    "image": "theme/images/Vaporeon.gif",
+    "incorrect_answers": [
+      "Jolteon",
+      "Flareon",
+      "Espeon"
+    ],
+    "correct_answer": "Vaporeon"
+  },
+  {
+    "id": 43,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hielo conocido por su aliento gélido.",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Seel",
+      "Cloyster",
+      "Lapras"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 44,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Hierba es conocido por su aroma calmante?",
+    "image": "theme/images/Oddish.gif",
+    "incorrect_answers": [
+      "Gloom",
+      "Vileplume",
+      "Bellossom"
+    ],
+    "correct_answer": "Oddish"
+  },
+  {
+    "id": 45,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Psíquico conocido por su gran poder psíquico?",
+    "image": "theme/images/Alakazam.gif",
+    "incorrect_answers": [
+      "Kadabra",
+      "Abra",
+      "Espeon"
+    ],
+    "correct_answer": "Alakazam"
+  },
+  {
+    "id": 46,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Normal conocido por su gran velocidad.",
+    "image": "theme/images/Pidgeot.gif",
+    "incorrect_answers": [
+      "Pidgeotto",
+      "Pidgey",
+      "Spearow"
+    ],
+    "correct_answer": "Pidgeot"
+  },
+  {
+    "id": 47,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su melena de llamas?",
+    "image": "theme/images/Arcanine.gif",
+    "incorrect_answers": [
+      "Growlithe",
+      "Charizard",
+      "Ninetales"
+    ],
+    "correct_answer": "Arcanine"
+  },
+  {
+    "id": 48,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo bicho conocido por su afilado aguijón?",
+    "image": "theme/images/Beedrill.gif",
+    "incorrect_answers": [
+      "Sin mantequilla",
+      "Kakuna",
+      "Weedle"
+    ],
+    "correct_answer": "Beedrill"
+  },
+  {
+    "id": 49,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hada conocido por su encantadora voz cantarina.",
+    "image": "theme/images/Clefairy.gif",
+    "incorrect_answers": [
+      "Clefable",
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 50,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo de lucha conocido por sus poderosos puñetazos?",
+    "image": "theme/images/Hitmonchan.gif",
+    "incorrect_answers": [
+      "Hitmonlee",
+      "Machop",
+      "Machamp"
+    ],
+    "correct_answer": "Hitmonchan"
+  },
+  {
+    "id": 51,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus sacos eléctricos?",
+    "image": "theme/images/Electabuzz.gif",
+    "incorrect_answers": [
+      "Electrodo",
+      "Pikachu",
+      "Raichu"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 52,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por sus látigos de enredadera.",
+    "image": "theme/images/Venusaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Bulbasaur",
+      "Oddish"
+    ],
+    "correct_answer": "Venusaur"
+  },
+  {
+    "id": 53,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su cuerpo en forma de roca?",
+    "image": "theme/images/Graveler.gif",
+    "incorrect_answers": [
+      "Geodude",
+      "Onix",
+      "Rhyhorn"
+    ],
+    "correct_answer": "Graveler"
+  },
+  {
+    "id": 54,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por su rapidez al nadar?",
+    "image": "theme/images/Goldeen.gif",
+    "incorrect_answers": [
+      "Filtración",
+      "Magikarp",
+      "Gyarados"
+    ],
+    "correct_answer": "Goldeen"
+  },
+  {
+    "id": 55,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por sus ataques tóxicos.",
+    "image": "theme/images/Weezing.gif",
+    "incorrect_answers": [
+      "Koffing",
+      "Grimer",
+      "Muk"
+    ],
+    "correct_answer": "Weezing"
+  },
+  {
+    "id": 56,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Tierra es conocido por sus ataques sísmicos?",
+    "image": "theme/images/Rhydon.gif",
+    "incorrect_answers": [
+      "Rhyhorn",
+      "Onix",
+      "Golem"
+    ],
+    "correct_answer": "Rhydon"
+  },
+  {
+    "id": 57,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su aliento helado?",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Seel",
+      "Cloyster",
+      "Lapras"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 58,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Psíquico conocido por sus poderes mentales.",
+    "image": "theme/images/Drowzee.gif",
+    "incorrect_answers": [
+      "Hypno",
+      "Abra",
+      "Kadabra"
+    ],
+    "correct_answer": "Drowzee"
+  },
+  {
+    "id": 59,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo bicho es conocido por sus ataques de seda?",
+    "image": "theme/images/Kakuna.gif",
+    "incorrect_answers": [
+      "Beedrill",
+      "Sin mantequilla",
+      "Weedle"
+    ],
+    "correct_answer": "Kakuna"
+  },
+  {
+    "id": 60,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Normal conocido por su agilidad?",
+    "image": "theme/images/Rattata.gif",
+    "incorrect_answers": [
+      "Raticate",
+      "Spearow",
+      "Pidgey"
+    ],
+    "correct_answer": "Rattata"
+  },
+  {
+    "id": 61,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Fuego conocido por sus abrasadoras llamas.",
+    "image": "theme/images/Charmeleon.gif",
+    "incorrect_answers": [
+      "Charizard",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Charmeleon"
+  },
+  {
+    "id": 62,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Agua es conocido por su chorro de agua?",
+    "image": "theme/images/Squirtle.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Blastoise",
+      "Psyduck"
+    ],
+    "correct_answer": "Squirtle"
+  },
+  {
+    "id": 63,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus impactantes ataques?",
+    "image": "theme/images/Voltorb.gif",
+    "incorrect_answers": [
+      "Electrodo",
+      "Pikachu",
+      "Raichu"
+    ],
+    "correct_answer": "Voltorb"
+  },
+  {
+    "id": 64,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Tierra conocido por su habilidad para excavar.",
+    "image": "theme/images/Diglett.gif",
+    "incorrect_answers": [
+      "Dugtrio",
+      "Sandshrew",
+      "Sandslash"
+    ],
+    "correct_answer": "Diglett"
+  },
+  {
+    "id": 65,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Hierba es conocido por sus ataques de hoja?",
+    "image": "theme/images/Ivysaur.gif",
+    "incorrect_answers": [
+      "Venusaur",
+      "Bulbasaur",
+      "Bellsprout"
+    ],
+    "correct_answer": "Ivysaur"
+  },
+  {
+    "id": 66,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Psíquico conocido por sus habilidades telequinéticas?",
+    "image": "theme/images/Kadabra.gif",
+    "incorrect_answers": [
+      "Alakazam",
+      "Abra",
+      "Espeon"
+    ],
+    "correct_answer": "Kadabra"
+  },
+  {
+    "id": 68,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su duro caparazón?",
+    "image": "theme/images/Geodude.gif",
+    "incorrect_answers": [
+      "Graveler",
+      "Golem",
+      "Onix"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 69,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por su capacidad para nadar?",
+    "image": "theme/images/Horsea.gif",
+    "incorrect_answers": [
+      "Seadra",
+      "Goldeen",
+      "Filtración"
+    ],
+    "correct_answer": "Horsea"
+  },
+  {
+    "id": 70,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por su toxicidad.",
+    "image": "theme/images/Grimer.gif",
+    "incorrect_answers": [
+      "Muk",
+      "Koffing",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 71,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su aliento ardiente?",
+    "image": "theme/images/Rapidash.gif",
+    "incorrect_answers": [
+      "Ponyta",
+      "Charizard",
+      "Arcanine"
+    ],
+    "correct_answer": "Rapidash"
+  },
+  {
+    "id": 72,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su capa helada?",
+    "image": "theme/images/Cloyster.gif",
+    "incorrect_answers": [
+      "Dewgong",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Cloyster"
+  },
+  {
+    "id": 73,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por su aroma calmante.",
+    "image": "theme/images/Vileplume.gif",
+    "incorrect_answers": [
+      "Oddish",
+      "Gloom",
+      "Bellossom"
+    ],
+    "correct_answer": "Vileplume"
+  },
+  {
+    "id": 74,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Psíquico conocido por sus poderes místicos?",
+    "image": "theme/images/Drowzee.gif",
+    "incorrect_answers": [
+      "Hypno",
+      "Mewtwo",
+      "Alakazam"
+    ],
+    "correct_answer": "Drowzee"
+  },
+  {
+    "id": 75,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo bicho conocido por sus ataques urticantes?",
+    "image": "theme/images/Beedrill.gif",
+    "incorrect_answers": [
+      "Sin mantequilla",
+      "Kakuna",
+      "Weedle"
+    ],
+    "correct_answer": "Beedrill"
+  },
+  {
+    "id": 76,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Fuego conocido por su intenso calor.",
+    "image": "theme/images/Arcanine.gif",
+    "incorrect_answers": [
+      "Growlithe",
+      "Charizard",
+      "Ninetales"
+    ],
+    "correct_answer": "Arcanine"
+  },
+  {
+    "id": 77,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Agua es conocido por su elegante natación?",
+    "image": "theme/images/Vaporeon.gif",
+    "incorrect_answers": [
+      "Goldeen",
+      "Filtración",
+      "Milotic"
+    ],
+    "correct_answer": "Vaporeon"
+  },
+  {
+    "id": 78,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por su impactante velocidad?",
+    "image": "theme/images/Pikachu.gif",
+    "incorrect_answers": [
+      "Raichu",
+      "Electabuzz",
+      "Jolteon"
+    ],
+    "correct_answer": "Pikachu"
+  },
+  {
+    "id": 79,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Normal conocido por sus rápidos movimientos.",
+    "image": "theme/images/Rattata.gif",
+    "incorrect_answers": [
+      "Raticate",
+      "Pidgey",
+      "Spearow"
+    ],
+    "correct_answer": "Rattata"
+  },
+  {
+    "id": 80,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Tierra es conocido por su potente excavación?",
+    "image": "theme/images/Diglett.gif",
+    "incorrect_answers": [
+      "Dugtrio",
+      "Sandshrew",
+      "Sandslash"
+    ],
+    "correct_answer": "Diglett"
+  },
+  {
+    "id": 81,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo hada conocido por sus poderes mágicos?",
+    "image": "theme/images/Clefairy.gif",
+    "incorrect_answers": [
+      "Clefable",
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 82,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Roca conocido por su cuerpo robusto.",
+    "image": "theme/images/Geodude.gif",
+    "incorrect_answers": [
+      "Graveler",
+      "Onix",
+      "Rhyhorn"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 83,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo bicho es conocido por su duro caparazón?",
+    "image": "theme/images/Metapod.gif",
+    "incorrect_answers": [
+      "Kakuna",
+      "Sin mantequilla",
+      "Beedrill"
+    ],
+    "correct_answer": "Metapod"
+  },
+  {
+    "id": 84,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Psíquico conocido por su increíble poder psíquico?",
+    "image": "theme/images/Alakazam.gif",
+    "incorrect_answers": [
+      "Kadabra",
+      "Abra",
+      "Espeon"
+    ],
+    "correct_answer": "Alakazam"
+  },
+  {
+    "id": 85,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Fuego conocido por su cola llameante.",
+    "image": "theme/images/Charmander.gif",
+    "incorrect_answers": [
+      "Charmeleon",
+      "Charizard",
+      "Vulpix"
+    ],
+    "correct_answer": "Charmander"
+  },
+  {
+    "id": 86,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Agua es conocido por su caparazón?",
+    "image": "theme/images/Squirtle.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Blastoise",
+      "Lapras"
+    ],
+    "correct_answer": "Squirtle"
+  },
+  {
+    "id": 87,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su carácter gélido?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 88,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por su cuerpo frondoso.",
+    "image": "theme/images/Bulbasaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Venusaur",
+      "Oddish"
+    ],
+    "correct_answer": "Bulbasaur"
+  },
+  {
+    "id": 89,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Tierra es conocido por sus grandes colmillos?",
+    "image": "theme/images/Rhyhorn.gif",
+    "incorrect_answers": [
+      "Rhydon",
+      "Donphan",
+      "Mamoswine"
+    ],
+    "correct_answer": "Rhyhorn"
+  },
+  {
+    "id": 90,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus descargas eléctricas?",
+    "image": "theme/images/Jolteon.gif",
+    "incorrect_answers": [
+      "Electivire",
+      "Raichu",
+      "Zapdos"
+    ],
+    "correct_answer": "Jolteon"
+  },
+  {
+    "id": 91,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Normal conocido por su extrema velocidad.",
+    "image": "theme/images/Pidgeot.gif",
+    "incorrect_answers": [
+      "Pidgeotto",
+      "Fearow",
+      "Spearow"
+    ],
+    "correct_answer": "Pidgeot"
+  },
+  {
+    "id": 92,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Veneno es conocido por su aguijón venenoso?",
+    "image": "theme/images/Beedrill.gif",
+    "incorrect_answers": [
+      "Weedle",
+      "Kakuna",
+      "Venomoth"
+    ],
+    "correct_answer": "Beedrill"
+  },
+  {
+    "id": 93,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Fuego conocido por sus intensas llamas?",
+    "image": "theme/images/Charizard.gif",
+    "incorrect_answers": [
+      "Charmeleon",
+      "Charmander",
+      "Moltres"
+    ],
+    "correct_answer": "Charizard"
+  },
+  {
+    "id": 94,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Agua conocido por su potente hidrobomba.",
+    "image": "theme/images/Blastoise.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Squirtle",
+      "Gyarados"
+    ],
+    "correct_answer": "Blastoise"
+  },
+  {
+    "id": 95,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Hielo es conocido por su rayo de hielo?",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 96,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo bicho conocido por su agilidad?",
+    "image": "theme/images/Butterfree.gif",
+    "incorrect_answers": [
+      "Beedrill",
+      "Scyther",
+      "Venomoth"
+    ],
+    "correct_answer": "Sin mantequilla"
+  },
+  {
+    "id": 97,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por sus esporas.",
+    "image": "theme/images/Vileplume.gif",
+    "incorrect_answers": [
+      "Oddish",
+      "Gloom",
+      "Bellossom"
+    ],
+    "correct_answer": "Vileplume"
+  },
+  {
+    "id": 98,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su cuerpo robusto?",
+    "image": "theme/images/Geodude.gif",
+    "incorrect_answers": [
+      "Graveler",
+      "Golem",
+      "Onix"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 99,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por sus rápidos movimientos?",
+    "image": "theme/images/Vaporeon.gif",
+    "incorrect_answers": [
+      "Goldeen",
+      "Filtración",
+      "Milotic"
+    ],
+    "correct_answer": "Vaporeon"
+  },
+  {
+    "id": 100,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Eléctrico conocido por su velocidad del rayo.",
+    "image": "theme/images/Jolteon.gif",
+    "incorrect_answers": [
+      "Electabuzz",
+      "Zapdos",
+      "Raikou"
+    ],
+    "correct_answer": "Jolteon"
+  },
+  {
+    "id": 101,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Hada conocido por su encantadora voz?",
+    "image": "theme/images/Jigglypuff.gif",
+    "incorrect_answers": [
+      "Wigglytuff",
+      "Clefairy",
+      "Clefable"
+    ],
+    "correct_answer": "Jigglypuff"
+  },
+  {
+    "id": 102,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su naturaleza fría?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 103,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por sus enredaderas.",
+    "image": "theme/images/Venusaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Bulbasaur",
+      "Bellsprout"
+    ],
+    "correct_answer": "Venusaur"
+  },
+  {
+    "id": 104,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Tierra es conocido por sus ataques de pisotón?",
+    "image": "theme/images/Rhydon.gif",
+    "incorrect_answers": [
+      "Rhyhorn",
+      "Donphan",
+      "Mamoswine"
+    ],
+    "correct_answer": "Rhydon"
+  },
+  {
+    "id": 105,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Roca conocido por su caparazón protector?",
+    "image": "theme/images/Cloyster.gif",
+    "incorrect_answers": [
+      "Shellder",
+      "Kabuto",
+      "Kabutops"
+    ],
+    "correct_answer": "Cloyster"
+  },
+  {
+    "id": 106,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Normal conocido por su rapidez.",
+    "image": "theme/images/Rattata.gif",
+    "incorrect_answers": [
+      "Raticate",
+      "Pidgey",
+      "Spearow"
+    ],
+    "correct_answer": "Rattata"
+  },
+  {
+    "id": 107,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo eléctrico conocido por sus ataques de chispa?",
+    "image": "theme/images/Pikachu.gif",
+    "incorrect_answers": [
+      "Raichu",
+      "Electabuzz",
+      "Jolteon"
+    ],
+    "correct_answer": "Pikachu"
+  },
+  {
+    "id": 108,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por sus chapoteos?",
+    "image": "theme/images/Magikarp.gif",
+    "incorrect_answers": [
+      "Gyarados",
+      "Feebas",
+      "Milotic"
+    ],
+    "correct_answer": "Magikarp"
+  },
+  {
+    "id": 109,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Fuego conocido por sus abrasadoras llamas.",
+    "image": "theme/images/Rapidash.gif",
+    "incorrect_answers": [
+      "Ponyta",
+      "Charizard",
+      "Arcanine"
+    ],
+    "correct_answer": "Rapidash"
+  },
+  {
+    "id": 110,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Veneno es conocido por su veneno?",
+    "image": "theme/images/Grimer.gif",
+    "incorrect_answers": [
+      "Muk",
+      "Koffing",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 111,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo bicho conocido por sus afiladas pinzas?",
+    "image": "theme/images/Pinsir.gif",
+    "incorrect_answers": [
+      "Scyther",
+      "Heracross",
+      "Beedrill"
+    ],
+    "correct_answer": "Pinsir"
+  },
+  {
+    "id": 112,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Agua conocido por su poderosa cola.",
+    "image": "theme/images/Gyarados.gif",
+    "incorrect_answers": [
+      "Magikarp",
+      "Seadra",
+      "Milotic"
+    ],
+    "correct_answer": "Gyarados"
+  },
+  {
+    "id": 113,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Hielo es conocido por sus escamas heladas?",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 114,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por su potencia eléctrica?",
+    "image": "theme/images/Voltorb.gif",
+    "incorrect_answers": [
+      "Electrodo",
+      "Magnemita",
+      "Magneton"
+    ],
+    "correct_answer": "Voltorb"
+  },
+  {
+    "id": 115,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por sus frondosos apéndices.",
+    "image": "theme/images/Bulbasaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Venusaur",
+      "Oddish"
+    ],
+    "correct_answer": "Bulbasaur"
+  },
+  {
+    "id": 116,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su cuerpo duro?",
+    "image": "theme/images/Geodude.gif",
+    "incorrect_answers": [
+      "Graveler",
+      "Golem",
+      "Onix"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 117,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por su agilidad acuática?",
+    "image": "theme/images/Squirtle.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Blastoise",
+      "Lapras"
+    ],
+    "correct_answer": "Squirtle"
+  },
+  {
+    "id": 118,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por sus habilidades tóxicas.",
+    "image": "theme/images/Muk.gif",
+    "incorrect_answers": [
+      "Grimer",
+      "Koffing",
+      "Weezing"
+    ],
+    "correct_answer": "Muk"
+  },
+  {
+    "id": 119,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su melena ardiente?",
+    "image": "theme/images/Growlithe.gif",
+    "incorrect_answers": [
+      "Arcanine",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Growlithe"
+  },
+  {
+    "id": 120,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su capacidad de congelación?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 121,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por sus hojas afiladas.",
+    "image": "theme/images/Ivysaur.gif",
+    "incorrect_answers": [
+      "Venusaur",
+      "Bulbasaur",
+      "Bellsprout"
+    ],
+    "correct_answer": "Ivysaur"
+  },
+  {
+    "id": 122,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Tierra es conocido por su cuerpo duro como una roca?",
+    "image": "theme/images/Onix.gif",
+    "incorrect_answers": [
+      "Steelix",
+      "Geodude",
+      "Graveler"
+    ],
+    "correct_answer": "Onix"
+  },
+  {
+    "id": 123,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus descargas eléctricas?",
+    "image": "theme/images/Electabuzz.gif",
+    "incorrect_answers": [
+      "Electivire",
+      "Pikachu",
+      "Raichu"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 124,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Agua conocido por su cuerpo aerodinámico.",
+    "image": "theme/images/Magikarp.gif",
+    "incorrect_answers": [
+      "Gyarados",
+      "Milotic",
+      "Filtración"
+    ],
+    "correct_answer": "Magikarp"
+  },
+  {
+    "id": 125,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Fuego es conocido por su intenso calor?",
+    "image": "theme/images/Charizard.gif",
+    "incorrect_answers": [
+      "Charmander",
+      "Charmeleon",
+      "Moltres"
+    ],
+    "correct_answer": "Charizard"
+  },
+  {
+    "id": 126,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su movimiento glacial?",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 127,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo bicho conocido por sus ataques urticantes.",
+    "image": "theme/images/Beedrill.gif",
+    "incorrect_answers": [
+      "Sin mantequilla",
+      "Scyther",
+      "Pinsir"
+    ],
+    "correct_answer": "Beedrill"
+  },
+  {
+    "id": 128,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Hierba es conocido por sus habilidades curativas?",
+    "image": "theme/images/Venusaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Bulbasaur",
+      "Bellossom"
+    ],
+    "correct_answer": "Venusaur"
+  },
+  {
+    "id": 130,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Eléctrico conocido por su alto voltaje.",
+    "image": "theme/images/Jolteon.gif",
+    "incorrect_answers": [
+      "Flareon",
+      "Vaporeon",
+      "Espeon"
+    ],
+    "correct_answer": "Jolteon"
+  },
+  {
+    "id": 131,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Hada conocido por su aspecto encantador?",
+    "image": "theme/images/Clefairy.gif",
+    "incorrect_answers": [
+      "Clefable",
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 132,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su cuerpo helado?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 133,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por su piel frondosa.",
+    "image": "theme/images/Bulbasaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Venusaur",
+      "Oddish"
+    ],
+    "correct_answer": "Bulbasaur"
+  },
+  {
+    "id": 134,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su cuerpo sólido?",
+    "image": "theme/images/Geodude.gif",
+    "incorrect_answers": [
+      "Graveler",
+      "Golem",
+      "Onix"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 135,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por sus proezas acuáticas?",
+    "image": "theme/images/Squirtle.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Blastoise",
+      "Lapras"
+    ],
+    "correct_answer": "Squirtle"
+  },
+  {
+    "id": 136,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por sus nocivas habilidades.",
+    "image": "theme/images/Grimer.gif",
+    "incorrect_answers": [
+      "Muk",
+      "Koffing",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 137,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su ardiente velocidad?",
+    "image": "theme/images/Growlithe.gif",
+    "incorrect_answers": [
+      "Arcanine",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Growlithe"
+  },
+  {
+    "id": 138,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su piel helada?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 139,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por sus apéndices en forma de enredadera.",
+    "image": "theme/images/Ivysaur.gif",
+    "incorrect_answers": [
+      "Venusaur",
+      "Bulbasaur",
+      "Bellsprout"
+    ],
+    "correct_answer": "Ivysaur"
+  },
+  {
+    "id": 140,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Roca conocido por su naturaleza robusta?",
+    "image": "theme/images/Onix.gif",
+    "incorrect_answers": [
+      "Steelix",
+      "Geodude",
+      "Graveler"
+    ],
+    "correct_answer": "Onix"
+  },
+  {
+    "id": 141,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus descargas eléctricas?",
+    "image": "theme/images/Electabuzz.gif",
+    "incorrect_answers": [
+      "Electivire",
+      "Pikachu",
+      "Raichu"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 142,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Agua conocido por sus poderosas aletas.",
+    "image": "theme/images/Magikarp.gif",
+    "incorrect_answers": [
+      "Gyarados",
+      "Milotic",
+      "Filtración"
+    ],
+    "correct_answer": "Magikarp"
+  },
+  {
+    "id": 143,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su naturaleza ardiente?",
+    "image": "theme/images/Charizard.gif",
+    "incorrect_answers": [
+      "Charmander",
+      "Charmeleon",
+      "Moltres"
+    ],
+    "correct_answer": "Charizard"
+  },
+  {
+    "id": 144,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su aspecto helado?",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  {
+    "id": 145,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo bicho conocido por su aguijón venenoso.",
+    "image": "theme/images/Beedrill.gif",
+    "incorrect_answers": [
+      "Sin mantequilla",
+      "Scyther",
+      "Pinsir"
+    ],
+    "correct_answer": "Beedrill"
+  },
+  {
+    "id": 146,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Hierba es conocido por su aroma floral?",
+    "image": "theme/images/Venusaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Bulbasaur",
+      "Bellossom"
+    ],
+    "correct_answer": "Venusaur"
+  },
+  {
+    "id": 147,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por su naturaleza serena?",
+    "image": "theme/images/Vaporeon.gif",
+    "incorrect_answers": [
+      "Jolteon",
+      "Flareon",
+      "Espeon"
+    ],
+    "correct_answer": "Vaporeon"
+  },
+  {
+    "id": 148,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Eléctrico conocido por su chispa.",
+    "image": "theme/images/Jolteon.gif",
+    "incorrect_answers": [
+      "Flareon",
+      "Vaporeon",
+      "Espeon"
+    ],
+    "correct_answer": "Jolteon"
+  },
+  {
+    "id": 149,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Hada conocido por su simpática apariencia?",
+    "image": "theme/images/Clefairy.gif",
+    "incorrect_answers": [
+      "Clefable",
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 150,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su frío exterior?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 151,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por su fotosíntesis.",
+    "image": "theme/images/Bulbasaur.gif",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Venusaur",
+      "Oddish"
+    ],
+    "correct_answer": "Bulbasaur"
+  },
+  {
+    "id": 152,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Roca es conocido por su durabilidad?",
+    "image": "theme/images/Geodude.gif",
+    "incorrect_answers": [
+      "Graveler",
+      "Golem",
+      "Onix"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 153,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Agua conocido por sus chorros de agua?",
+    "image": "theme/images/Squirtle.gif",
+    "incorrect_answers": [
+      "Wartortle",
+      "Blastoise",
+      "Lapras"
+    ],
+    "correct_answer": "Squirtle"
+  },
+  {
+    "id": 154,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Veneno conocido por su mordedura venenosa.",
+    "image": "theme/images/Grimer.gif",
+    "incorrect_answers": [
+      "Muk",
+      "Koffing",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 155,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su aliento ardiente?",
+    "image": "theme/images/Growlithe.gif",
+    "incorrect_answers": [
+      "Arcanine",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Growlithe"
+  },
+  {
+    "id": 156,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su cuerpo helado?",
+    "image": "theme/images/Jynx.gif",
+    "incorrect_answers": [
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 157,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Hierba conocido por su tormenta de hojas.",
+    "image": "theme/images/Ivysaur.gif",
+    "incorrect_answers": [
+      "Venusaur",
+      "Bulbasaur",
+      "Bellsprout"
+    ],
+    "correct_answer": "Ivysaur"
+  },
+  {
+    "id": 158,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon de tipo Roca es conocido por su robustez?",
+    "image": "theme/images/Onix.gif",
+    "incorrect_answers": [
+      "Steelix",
+      "Geodude",
+      "Graveler"
+    ],
+    "correct_answer": "Onix"
+  },
+  {
+    "id": 159,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus descargas eléctricas?",
+    "image": "theme/images/Electabuzz.gif",
+    "incorrect_answers": [
+      "Electivire",
+      "Pikachu",
+      "Raichu"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 160,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica a este Pokémon de tipo Agua conocido por su agilidad en el agua.",
+    "image": "theme/images/Magikarp.gif",
+    "incorrect_answers": [
+      "Gyarados",
+      "Milotic",
+      "Filtración"
+    ],
+    "correct_answer": "Magikarp"
+  },
+  {
+    "id": 161,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Qué Pokémon es este tipo Fuego conocido por su fuego abrasador?",
+    "image": "theme/images/Charizard.gif",
+    "incorrect_answers": [
+      "Charmander",
+      "Charmeleon",
+      "Moltres"
+    ],
+    "correct_answer": "Charizard"
+  },
+  {
+    "id": 162,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su aura gélida?",
+    "image": "theme/images/Dewgong.gif",
+    "incorrect_answers": [
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Dewgong"
+  }
+]
