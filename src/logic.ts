@@ -180,10 +180,11 @@ Dusk.initLogic({
         context.game.questions.sort((a, b) => {
           return inverseWeights[a.id] - inverseWeights[b.id];
         })
-        context.game.questions = context.game.questions.slice(0, Math.max(context.game.questionCount + 1, context.game.questions.length * 0.25));
-        shuffle(context.game.questions);
-        context.game.questions = context.game.questions.slice(0, context.game.questionCount + 1);
 
+        context.game.questions = context.game.questions.slice(0, Math.max(context.game.questionCount + 1, context.game.questions.length * 0.25));
+        shuffle(context.game.questions)
+        context.game.questions = context.game.questions.slice(0, context.game.questionCount + 1);
+        
         nextQuestion(context.game);
         // on the first question we don't want to include ANSWER_TIME since we don't
         // have any to show

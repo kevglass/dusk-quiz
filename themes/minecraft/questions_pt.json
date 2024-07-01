@@ -283,20 +283,6 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
-    "question": "Que tipo de madeira é apresentada aqui?",
-    "image": "theme/images/Oak Log.gif",
-    "incorrect_answers": [
-      "Tronco de abeto",
-      "Tronco de bétula",
-      "Registo da selva"
-    ],
-    "correct_answer": "Tronco de carvalho"
-  },
-  {
-    "id": 23,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
     "question": "Qual é o nome deste bloco?",
     "image": "theme/images/Anvil.gif",
     "incorrect_answers": [
@@ -307,7 +293,7 @@
     "correct_answer": "Bigorna"
   },
   {
-    "id": 24,
+    "id": 23,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -321,7 +307,7 @@
     "correct_answer": "Minério de ferro"
   },
   {
-    "id": 25,
+    "id": 24,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -334,7 +320,7 @@
     "correct_answer": "Golpear"
   },
   {
-    "id": 26,
+    "id": 25,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -347,7 +333,7 @@
     "correct_answer": "Tinta"
   },
   {
-    "id": 27,
+    "id": 26,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -361,7 +347,7 @@
     "correct_answer": "TNT"
   },
   {
-    "id": 28,
+    "id": 27,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -374,7 +360,7 @@
     "correct_answer": "Trigo"
   },
   {
-    "id": 29,
+    "id": 28,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -387,7 +373,7 @@
     "correct_answer": "Navegar no mundo"
   },
   {
-    "id": 30,
+    "id": 29,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -400,7 +386,7 @@
     "correct_answer": "Garrafa de experiência"
   },
   {
-    "id": 31,
+    "id": 30,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -414,7 +400,7 @@
     "correct_answer": "Esqueleto murcho"
   },
   {
-    "id": 32,
+    "id": 31,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -428,7 +414,7 @@
     "correct_answer": "Carvalho escuro"
   },
   {
-    "id": 33,
+    "id": 32,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -441,7 +427,7 @@
     "correct_answer": "Pedra e aço"
   },
   {
-    "id": 34,
+    "id": 33,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -455,7 +441,7 @@
     "correct_answer": "Forno"
   },
   {
-    "id": 35,
+    "id": 34,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -468,7 +454,7 @@
     "correct_answer": "Picareta de diamante"
   },
   {
-    "id": 36,
+    "id": 35,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -482,7 +468,7 @@
     "correct_answer": "Fortaleza de Nether"
   },
   {
-    "id": 38,
+    "id": 37,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -495,7 +481,7 @@
     "correct_answer": "Lã"
   },
   {
-    "id": 39,
+    "id": 38,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -508,7 +494,7 @@
     "correct_answer": "Pó de Blaze"
   },
   {
-    "id": 40,
+    "id": 39,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -522,7 +508,21 @@
     "correct_answer": "Verruga de Nether"
   },
   {
-    "id": 42,
+    "id": 40,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Que bloco é apresentado aqui?",
+    "image": "theme/images/End Stone.gif",
+    "incorrect_answers": [
+      "Arenito",
+      "Quartzo",
+      "Prismarina"
+    ],
+    "correct_answer": "Pedra final"
+  },
+  {
+    "id": 41,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -535,7 +535,7 @@
     "correct_answer": "Sela"
   },
   {
-    "id": 44,
+    "id": 43,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -549,7 +549,7 @@
     "correct_answer": "Savana"
   },
   {
-    "id": 45,
+    "id": 44,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -562,7 +562,7 @@
     "correct_answer": "Vara de fogo"
   },
   {
-    "id": 47,
+    "id": 46,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -575,7 +575,7 @@
     "correct_answer": "Forno"
   },
   {
-    "id": 49,
+    "id": 48,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -589,7 +589,7 @@
     "correct_answer": "Bússola"
   },
   {
-    "id": 50,
+    "id": 49,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -602,7 +602,7 @@
     "correct_answer": "Vara, corda"
   },
   {
-    "id": 52,
+    "id": 51,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -615,7 +615,7 @@
     "correct_answer": "Couro"
   },
   {
-    "id": 53,
+    "id": 52,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -629,7 +629,7 @@
     "correct_answer": "Selva"
   },
   {
-    "id": 54,
+    "id": 53,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -642,7 +642,7 @@
     "correct_answer": "Vaca"
   },
   {
-    "id": 57,
+    "id": 55,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -656,7 +656,7 @@
     "correct_answer": "Elytra"
   },
   {
-    "id": 59,
+    "id": 57,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -669,7 +669,7 @@
     "correct_answer": "Vara de fogo"
   },
   {
-    "id": 61,
+    "id": 59,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -682,7 +682,7 @@
     "correct_answer": "Steve"
   },
   {
-    "id": 62,
+    "id": 60,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -695,7 +695,7 @@
     "correct_answer": "Pedra final"
   },
   {
-    "id": 66,
+    "id": 64,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -708,7 +708,7 @@
     "correct_answer": "Tesouras"
   },
   {
-    "id": 68,
+    "id": 66,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -721,7 +721,7 @@
     "correct_answer": "Cavalo"
   },
   {
-    "id": 69,
+    "id": 67,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -734,7 +734,7 @@
     "correct_answer": "Osso"
   },
   {
-    "id": 72,
+    "id": 70,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -747,7 +747,7 @@
     "correct_answer": "Esqueleto"
   },
   {
-    "id": 76,
+    "id": 74,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -760,7 +760,7 @@
     "correct_answer": "Granito"
   },
   {
-    "id": 80,
+    "id": 78,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -773,7 +773,7 @@
     "correct_answer": "Enderman"
   },
   {
-    "id": 82,
+    "id": 80,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -786,7 +786,7 @@
     "correct_answer": "Minério de quartzo de Nether"
   },
   {
-    "id": 85,
+    "id": 83,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -799,7 +799,7 @@
     "correct_answer": "Bola de lama"
   },
   {
-    "id": 88,
+    "id": 86,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -813,7 +813,7 @@
     "correct_answer": "Porco"
   },
   {
-    "id": 90,
+    "id": 88,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -827,7 +827,7 @@
     "correct_answer": "Cubo de Magma"
   },
   {
-    "id": 91,
+    "id": 89,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -841,7 +841,7 @@
     "correct_answer": "Chumbo"
   },
   {
-    "id": 93,
+    "id": 91,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -854,7 +854,7 @@
     "correct_answer": "Mesa de artesanato"
   },
   {
-    "id": 97,
+    "id": 95,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -867,7 +867,7 @@
     "correct_answer": "Picareta de ferro"
   },
   {
-    "id": 98,
+    "id": 96,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -880,7 +880,7 @@
     "correct_answer": "Fim"
   },
   {
-    "id": 99,
+    "id": 97,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -893,7 +893,7 @@
     "correct_answer": "Mecanismos de alimentação"
   },
   {
-    "id": 100,
+    "id": 98,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -906,7 +906,7 @@
     "correct_answer": "Bloco de ferro"
   },
   {
-    "id": 101,
+    "id": 99,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -919,7 +919,7 @@
     "correct_answer": "30"
   },
   {
-    "id": 102,
+    "id": 100,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -932,7 +932,7 @@
     "correct_answer": "Bloco de ferro"
   },
   {
-    "id": 103,
+    "id": 101,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -945,7 +945,7 @@
     "correct_answer": "Cenoura dourada"
   },
   {
-    "id": 104,
+    "id": 102,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -958,7 +958,7 @@
     "correct_answer": "Cubo de Magma"
   },
   {
-    "id": 106,
+    "id": 104,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -971,7 +971,7 @@
     "correct_answer": "Lingote de ferro"
   },
   {
-    "id": 107,
+    "id": 105,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -984,7 +984,7 @@
     "correct_answer": "Estrela inferior"
   },
   {
-    "id": 108,
+    "id": 106,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -997,7 +997,7 @@
     "correct_answer": "Sementes"
   },
   {
-    "id": 110,
+    "id": 108,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1010,7 +1010,7 @@
     "correct_answer": "Taiga"
   },
   {
-    "id": 111,
+    "id": 109,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1023,7 +1023,7 @@
     "correct_answer": "Ferramentas de reparação"
   },
   {
-    "id": 112,
+    "id": 110,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1036,7 +1036,7 @@
     "correct_answer": "Lingote de ferro"
   },
   {
-    "id": 114,
+    "id": 112,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1049,7 +1049,7 @@
     "correct_answer": "Prismarina"
   },
   {
-    "id": 115,
+    "id": 113,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1062,7 +1062,7 @@
     "correct_answer": "Ler encantamentos"
   },
   {
-    "id": 116,
+    "id": 114,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1075,7 +1075,7 @@
     "correct_answer": "Bambu"
   },
   {
-    "id": 118,
+    "id": 116,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1088,7 +1088,7 @@
     "correct_answer": "Mooshroom"
   },
   {
-    "id": 119,
+    "id": 117,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1101,7 +1101,7 @@
     "correct_answer": "Poção de Invisibilidade"
   },
   {
-    "id": 120,
+    "id": 118,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1114,7 +1114,7 @@
     "correct_answer": "Pó de Blaze"
   },
   {
-    "id": 122,
+    "id": 120,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1127,7 +1127,7 @@
     "correct_answer": "Obsidiana chorosa"
   },
   {
-    "id": 124,
+    "id": 122,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1140,7 +1140,7 @@
     "correct_answer": "Pedra final"
   },
   {
-    "id": 126,
+    "id": 123,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1153,7 +1153,7 @@
     "correct_answer": "Trigo"
   },
   {
-    "id": 128,
+    "id": 124,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1166,7 +1166,7 @@
     "correct_answer": "Comparador"
   },
   {
-    "id": 129,
+    "id": 125,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1179,7 +1179,7 @@
     "correct_answer": "Tremonha"
   },
   {
-    "id": 130,
+    "id": 126,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1192,7 +1192,7 @@
     "correct_answer": "Netherrack"
   },
   {
-    "id": 131,
+    "id": 127,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1205,7 +1205,7 @@
     "correct_answer": "Aplicação de padrões de banner"
   },
   {
-    "id": 132,
+    "id": 128,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1218,7 +1218,7 @@
     "correct_answer": "Bola de lama"
   },
   {
-    "id": 134,
+    "id": 130,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1231,7 +1231,7 @@
     "correct_answer": "Pólvora"
   },
   {
-    "id": 136,
+    "id": 132,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1244,7 +1244,7 @@
     "correct_answer": "Sopro de Dragão"
   },
   {
-    "id": 138,
+    "id": 134,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1257,7 +1257,7 @@
     "correct_answer": "Bloco de ferro"
   },
   {
-    "id": 139,
+    "id": 135,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1270,7 +1270,7 @@
     "correct_answer": "Elaboração de mapas"
   },
   {
-    "id": 140,
+    "id": 136,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1283,7 +1283,7 @@
     "correct_answer": "Piglin"
   },
   {
-    "id": 142,
+    "id": 138,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1296,7 +1296,7 @@
     "correct_answer": "Creme Magma"
   },
   {
-    "id": 144,
+    "id": 140,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1309,7 +1309,7 @@
     "correct_answer": "Fardo de feno"
   },
   {
-    "id": 145,
+    "id": 141,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1322,7 +1322,7 @@
     "correct_answer": "Geração de farinha de ossos"
   },
   {
-    "id": 146,
+    "id": 142,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1335,7 +1335,7 @@
     "correct_answer": "Pó de pedra brilhante"
   },
   {
-    "id": 148,
+    "id": 144,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1348,7 +1348,7 @@
     "correct_answer": "Lingote de ferro"
   },
   {
-    "id": 150,
+    "id": 146,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1362,7 +1362,7 @@
     "correct_answer": "Fardo de feno"
   },
   {
-    "id": 152,
+    "id": 148,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1375,7 +1375,7 @@
     "correct_answer": "Ghast"
   },
   {
-    "id": 153,
+    "id": 149,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1388,7 +1388,7 @@
     "correct_answer": "Obsidiana chorosa"
   },
   {
-    "id": 154,
+    "id": 150,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1401,7 +1401,7 @@
     "correct_answer": "Pedra"
   },
   {
-    "id": 155,
+    "id": 151,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1414,7 +1414,7 @@
     "correct_answer": "Cama"
   },
   {
-    "id": 156,
+    "id": 152,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1427,7 +1427,7 @@
     "correct_answer": "Redstone"
   },
   {
-    "id": 158,
+    "id": 154,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1440,7 +1440,7 @@
     "correct_answer": "Estrela inferior"
   },
   {
-    "id": 160,
+    "id": 155,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1453,7 +1453,7 @@
     "correct_answer": "Concha de Nautilus"
   },
   {
-    "id": 161,
+    "id": 156,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1466,7 +1466,7 @@
     "correct_answer": "Pau"
   },
   {
-    "id": 162,
+    "id": 157,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1479,7 +1479,7 @@
     "correct_answer": "Criação de armaduras"
   },
   {
-    "id": 163,
+    "id": 158,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1492,7 +1492,7 @@
     "correct_answer": "Tocha de Redstone"
   },
   {
-    "id": 165,
+    "id": 160,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1505,7 +1505,7 @@
     "correct_answer": "Lingote de ferro"
   },
   {
-    "id": 166,
+    "id": 161,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1518,7 +1518,7 @@
     "correct_answer": "Cozinhar alimentos"
   },
   {
-    "id": 167,
+    "id": 162,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1531,7 +1531,7 @@
     "correct_answer": "Favo de mel"
   },
   {
-    "id": 169,
+    "id": 164,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1544,7 +1544,7 @@
     "correct_answer": "Tábuas de madeira"
   },
   {
-    "id": 170,
+    "id": 165,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1557,7 +1557,7 @@
     "correct_answer": "Preparação de poções"
   },
   {
-    "id": 171,
+    "id": 166,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1570,7 +1570,7 @@
     "correct_answer": "Bússola"
   },
   {
-    "id": 173,
+    "id": 167,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1583,7 +1583,7 @@
     "correct_answer": "Lágrima de Ghast"
   },
   {
-    "id": 175,
+    "id": 169,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1596,7 +1596,7 @@
     "correct_answer": "Lingote de ferro"
   },
   {
-    "id": 176,
+    "id": 170,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1609,7 +1609,7 @@
     "correct_answer": "Preparação de poções"
   },
   {
-    "id": 177,
+    "id": 171,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1622,7 +1622,7 @@
     "correct_answer": "Pó de Blaze"
   },
   {
-    "id": 179,
+    "id": 173,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1635,7 +1635,20 @@
     "correct_answer": "Forno"
   },
   {
-    "id": 181,
+    "id": 174,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de um púlpito no Minecraft?",
+    "incorrect_answers": [
+      "Armazenamento de livros",
+      "Elaboração de mapas",
+      "Escrever livros"
+    ],
+    "correct_answer": "Ler encantamentos"
+  },
+  {
+    "id": 175,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1648,7 +1661,7 @@
     "correct_answer": "Pedra"
   },
   {
-    "id": 182,
+    "id": 176,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1661,7 +1674,7 @@
     "correct_answer": "Tábuas de madeira"
   },
   {
-    "id": 183,
+    "id": 177,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1674,7 +1687,7 @@
     "correct_answer": "Mesa de encantamento"
   },
   {
-    "id": 184,
+    "id": 178,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1687,7 +1700,7 @@
     "correct_answer": "Cordas"
   },
   {
-    "id": 186,
+    "id": 180,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1700,7 +1713,20 @@
     "correct_answer": "Tábuas de madeira"
   },
   {
-    "id": 190,
+    "id": 181,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Qual é a principal utilização de uma mesa de cartografia no Minecraft?",
+    "incorrect_answers": [
+      "Ferramentas de reparação",
+      "Fundição de minérios",
+      "Cozinhar alimentos"
+    ],
+    "correct_answer": "Elaboração de mapas"
+  },
+  {
+    "id": 184,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1713,7 +1739,7 @@
     "correct_answer": "Lingote de ferro"
   },
   {
-    "id": 191,
+    "id": 185,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",

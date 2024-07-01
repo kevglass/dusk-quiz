@@ -283,17 +283,17 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
-    "question": "Какая порода дерева изображена здесь?",
-    "image": "theme/images/Oak Log.gif",
+    "question": "Как называется этот блок?",
+    "image": "theme/images/Anvil.gif",
     "incorrect_answers": [
-      "Еловое бревно",
-      "Березовое бревно",
-      "Бревно джунглей"
+      "Печь",
+      "Grindstone",
+      "Кузнечный стол"
     ],
-    "correct_answer": "Дубовое бревно"
+    "correct_answer": "Наковальня"
   },
   {
-    "id": 24,
+    "id": 23,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -307,7 +307,7 @@
     "correct_answer": "Железная руда"
   },
   {
-    "id": 25,
+    "id": 24,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -320,7 +320,7 @@
     "correct_answer": "Smite"
   },
   {
-    "id": 26,
+    "id": 25,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -333,7 +333,7 @@
     "correct_answer": "Краситель"
   },
   {
-    "id": 27,
+    "id": 26,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -347,7 +347,7 @@
     "correct_answer": "TNT"
   },
   {
-    "id": 28,
+    "id": 27,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -360,7 +360,7 @@
     "correct_answer": "Пшеница"
   },
   {
-    "id": 29,
+    "id": 28,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -373,7 +373,7 @@
     "correct_answer": "Навигация по миру"
   },
   {
-    "id": 30,
+    "id": 29,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -386,7 +386,7 @@
     "correct_answer": "Бутылка для опытов"
   },
   {
-    "id": 31,
+    "id": 30,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -400,7 +400,7 @@
     "correct_answer": "Увядший скелет"
   },
   {
-    "id": 32,
+    "id": 31,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -414,7 +414,7 @@
     "correct_answer": "Темный дуб"
   },
   {
-    "id": 33,
+    "id": 32,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -427,7 +427,7 @@
     "correct_answer": "Кремень и сталь"
   },
   {
-    "id": 34,
+    "id": 33,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -441,7 +441,7 @@
     "correct_answer": "Печь"
   },
   {
-    "id": 35,
+    "id": 34,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -454,7 +454,7 @@
     "correct_answer": "Алмазная кирка"
   },
   {
-    "id": 36,
+    "id": 35,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -468,7 +468,7 @@
     "correct_answer": "Неземная крепость"
   },
   {
-    "id": 38,
+    "id": 37,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -481,7 +481,7 @@
     "correct_answer": "Шерсть"
   },
   {
-    "id": 39,
+    "id": 38,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -494,7 +494,7 @@
     "correct_answer": "Порошок Блейз"
   },
   {
-    "id": 40,
+    "id": 39,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -508,7 +508,21 @@
     "correct_answer": "Низинная бородавка"
   },
   {
-    "id": 42,
+    "id": 40,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Какой блок изображен здесь?",
+    "image": "theme/images/End Stone.gif",
+    "incorrect_answers": [
+      "Песчаник",
+      "Кварц",
+      "Призмарин"
+    ],
+    "correct_answer": "Конечный камень"
+  },
+  {
+    "id": 41,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -521,7 +535,7 @@
     "correct_answer": "Седло"
   },
   {
-    "id": 44,
+    "id": 43,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -535,7 +549,7 @@
     "correct_answer": "Саванна"
   },
   {
-    "id": 45,
+    "id": 44,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -548,7 +562,7 @@
     "correct_answer": "Блейз Род"
   },
   {
-    "id": 47,
+    "id": 46,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -561,7 +575,21 @@
     "correct_answer": "Печь"
   },
   {
-    "id": 50,
+    "id": 48,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Что это за предмет?",
+    "image": "theme/images/Compass.gif",
+    "incorrect_answers": [
+      "Часы",
+      "Карта",
+      "Подзорная труба"
+    ],
+    "correct_answer": "Компас"
+  },
+  {
+    "id": 49,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -574,7 +602,7 @@
     "correct_answer": "Палка, струна"
   },
   {
-    "id": 52,
+    "id": 51,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -587,7 +615,7 @@
     "correct_answer": "Кожа"
   },
   {
-    "id": 53,
+    "id": 52,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -601,7 +629,7 @@
     "correct_answer": "Джунгли"
   },
   {
-    "id": 54,
+    "id": 53,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -614,7 +642,7 @@
     "correct_answer": "Корова"
   },
   {
-    "id": 57,
+    "id": 55,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -628,7 +656,7 @@
     "correct_answer": "Элитра"
   },
   {
-    "id": 59,
+    "id": 57,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -641,7 +669,7 @@
     "correct_answer": "Блейз Род"
   },
   {
-    "id": 61,
+    "id": 59,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -654,7 +682,7 @@
     "correct_answer": "Стив"
   },
   {
-    "id": 62,
+    "id": 60,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -667,7 +695,7 @@
     "correct_answer": "Конечный камень"
   },
   {
-    "id": 66,
+    "id": 64,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -680,7 +708,7 @@
     "correct_answer": "Ножницы"
   },
   {
-    "id": 68,
+    "id": 66,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -693,7 +721,7 @@
     "correct_answer": "Лошадь"
   },
   {
-    "id": 69,
+    "id": 67,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -706,7 +734,7 @@
     "correct_answer": "Кость"
   },
   {
-    "id": 72,
+    "id": 70,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -719,7 +747,7 @@
     "correct_answer": "Скелет"
   },
   {
-    "id": 76,
+    "id": 74,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -732,7 +760,7 @@
     "correct_answer": "Гранит"
   },
   {
-    "id": 80,
+    "id": 78,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -745,7 +773,7 @@
     "correct_answer": "Эндерман"
   },
   {
-    "id": 82,
+    "id": 80,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -758,7 +786,7 @@
     "correct_answer": "Незерская кварцевая руда"
   },
   {
-    "id": 85,
+    "id": 83,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -771,7 +799,21 @@
     "correct_answer": "Slimeball"
   },
   {
-    "id": 90,
+    "id": 86,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Как называется эта толпа?",
+    "image": "theme/images/Pig.gif",
+    "incorrect_answers": [
+      "Корова",
+      "Овцы",
+      "Курица"
+    ],
+    "correct_answer": "Свинья"
+  },
+  {
+    "id": 88,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -785,7 +827,21 @@
     "correct_answer": "Куб Магмы"
   },
   {
-    "id": 93,
+    "id": 89,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Как называется этот предмет?",
+    "image": "theme/images/Lead.gif",
+    "incorrect_answers": [
+      "Строка",
+      "Именная бирка",
+      "Веревка"
+    ],
+    "correct_answer": "Вести"
+  },
+  {
+    "id": 91,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -798,7 +854,7 @@
     "correct_answer": "Стол для рукоделия"
   },
   {
-    "id": 97,
+    "id": 95,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -811,7 +867,7 @@
     "correct_answer": "Железная кирка"
   },
   {
-    "id": 98,
+    "id": 96,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -824,7 +880,7 @@
     "correct_answer": "Конец"
   },
   {
-    "id": 99,
+    "id": 97,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -837,7 +893,7 @@
     "correct_answer": "Механизмы питания"
   },
   {
-    "id": 100,
+    "id": 98,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -850,7 +906,7 @@
     "correct_answer": "Железный блок"
   },
   {
-    "id": 101,
+    "id": 99,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -863,7 +919,7 @@
     "correct_answer": "30"
   },
   {
-    "id": 102,
+    "id": 100,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -876,7 +932,7 @@
     "correct_answer": "Железный блок"
   },
   {
-    "id": 103,
+    "id": 101,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -889,7 +945,7 @@
     "correct_answer": "Золотая морковь"
   },
   {
-    "id": 104,
+    "id": 102,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -902,7 +958,7 @@
     "correct_answer": "Куб Магмы"
   },
   {
-    "id": 106,
+    "id": 104,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -915,7 +971,7 @@
     "correct_answer": "Железная болванка"
   },
   {
-    "id": 107,
+    "id": 105,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -928,7 +984,7 @@
     "correct_answer": "Неземная звезда"
   },
   {
-    "id": 108,
+    "id": 106,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -941,7 +997,7 @@
     "correct_answer": "Семена"
   },
   {
-    "id": 110,
+    "id": 108,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -954,7 +1010,7 @@
     "correct_answer": "Тайга"
   },
   {
-    "id": 111,
+    "id": 109,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -967,7 +1023,7 @@
     "correct_answer": "Инструменты для ремонта"
   },
   {
-    "id": 112,
+    "id": 110,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -980,7 +1036,7 @@
     "correct_answer": "Железная болванка"
   },
   {
-    "id": 114,
+    "id": 112,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -993,7 +1049,7 @@
     "correct_answer": "Призмарин"
   },
   {
-    "id": 115,
+    "id": 113,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1006,7 +1062,7 @@
     "correct_answer": "Чтение заклинаний"
   },
   {
-    "id": 116,
+    "id": 114,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1019,7 +1075,7 @@
     "correct_answer": "Бамбук"
   },
   {
-    "id": 118,
+    "id": 116,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1032,7 +1088,7 @@
     "correct_answer": "Mooshroom"
   },
   {
-    "id": 119,
+    "id": 117,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1045,7 +1101,7 @@
     "correct_answer": "Зелье невидимости"
   },
   {
-    "id": 120,
+    "id": 118,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1058,7 +1114,7 @@
     "correct_answer": "Порошок Блейз"
   },
   {
-    "id": 122,
+    "id": 120,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1071,7 +1127,7 @@
     "correct_answer": "Плачущий обсидиан"
   },
   {
-    "id": 124,
+    "id": 122,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1084,7 +1140,7 @@
     "correct_answer": "Конечный камень"
   },
   {
-    "id": 126,
+    "id": 123,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1097,7 +1153,7 @@
     "correct_answer": "Пшеница"
   },
   {
-    "id": 128,
+    "id": 124,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1110,7 +1166,7 @@
     "correct_answer": "Сравнительный анализ"
   },
   {
-    "id": 129,
+    "id": 125,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1123,7 +1179,7 @@
     "correct_answer": "Бункер"
   },
   {
-    "id": 130,
+    "id": 126,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1136,7 +1192,7 @@
     "correct_answer": "Netherrack"
   },
   {
-    "id": 131,
+    "id": 127,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1149,7 +1205,7 @@
     "correct_answer": "Применение узоров для баннеров"
   },
   {
-    "id": 132,
+    "id": 128,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1162,7 +1218,7 @@
     "correct_answer": "Slimeball"
   },
   {
-    "id": 134,
+    "id": 130,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1175,7 +1231,7 @@
     "correct_answer": "Порох"
   },
   {
-    "id": 136,
+    "id": 132,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1188,7 +1244,7 @@
     "correct_answer": "Дыхание дракона"
   },
   {
-    "id": 138,
+    "id": 134,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1201,7 +1257,7 @@
     "correct_answer": "Железный блок"
   },
   {
-    "id": 139,
+    "id": 135,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1214,7 +1270,7 @@
     "correct_answer": "Создание карт"
   },
   {
-    "id": 140,
+    "id": 136,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1227,7 +1283,7 @@
     "correct_answer": "Пиглин"
   },
   {
-    "id": 142,
+    "id": 138,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1240,7 +1296,7 @@
     "correct_answer": "Крем Магма"
   },
   {
-    "id": 144,
+    "id": 140,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1253,7 +1309,7 @@
     "correct_answer": "Тюк сена"
   },
   {
-    "id": 145,
+    "id": 141,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1266,7 +1322,7 @@
     "correct_answer": "Получение костной муки"
   },
   {
-    "id": 146,
+    "id": 142,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1279,7 +1335,7 @@
     "correct_answer": "Светящаяся каменная пыль"
   },
   {
-    "id": 148,
+    "id": 144,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1292,7 +1348,7 @@
     "correct_answer": "Железная болванка"
   },
   {
-    "id": 150,
+    "id": 146,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1306,7 +1362,7 @@
     "correct_answer": "Тюк сена"
   },
   {
-    "id": 152,
+    "id": 148,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1319,7 +1375,7 @@
     "correct_answer": "Ghast"
   },
   {
-    "id": 153,
+    "id": 149,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1332,7 +1388,7 @@
     "correct_answer": "Плачущий обсидиан"
   },
   {
-    "id": 154,
+    "id": 150,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1345,7 +1401,7 @@
     "correct_answer": "Камень"
   },
   {
-    "id": 155,
+    "id": 151,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1358,7 +1414,7 @@
     "correct_answer": "Кровать"
   },
   {
-    "id": 156,
+    "id": 152,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1371,7 +1427,7 @@
     "correct_answer": "Redstone"
   },
   {
-    "id": 158,
+    "id": 154,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1384,7 +1440,7 @@
     "correct_answer": "Неземная звезда"
   },
   {
-    "id": 160,
+    "id": 155,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1397,7 +1453,7 @@
     "correct_answer": "Раковина наутилуса"
   },
   {
-    "id": 161,
+    "id": 156,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1410,7 +1466,7 @@
     "correct_answer": "Палка"
   },
   {
-    "id": 162,
+    "id": 157,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1423,7 +1479,7 @@
     "correct_answer": "Создание доспехов"
   },
   {
-    "id": 163,
+    "id": 158,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1436,7 +1492,7 @@
     "correct_answer": "Факел из красного камня"
   },
   {
-    "id": 165,
+    "id": 160,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1449,7 +1505,7 @@
     "correct_answer": "Железная болванка"
   },
   {
-    "id": 166,
+    "id": 161,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1462,7 +1518,7 @@
     "correct_answer": "Приготовление еды"
   },
   {
-    "id": 167,
+    "id": 162,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1475,7 +1531,7 @@
     "correct_answer": "Соты"
   },
   {
-    "id": 169,
+    "id": 164,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1488,7 +1544,7 @@
     "correct_answer": "Деревянные доски"
   },
   {
-    "id": 170,
+    "id": 165,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1501,7 +1557,7 @@
     "correct_answer": "Варить зелья"
   },
   {
-    "id": 171,
+    "id": 166,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1514,7 +1570,7 @@
     "correct_answer": "Компас"
   },
   {
-    "id": 173,
+    "id": 167,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1527,7 +1583,7 @@
     "correct_answer": "Слеза Гаста"
   },
   {
-    "id": 175,
+    "id": 169,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1540,7 +1596,7 @@
     "correct_answer": "Железная болванка"
   },
   {
-    "id": 176,
+    "id": 170,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1553,7 +1609,7 @@
     "correct_answer": "Варить зелья"
   },
   {
-    "id": 177,
+    "id": 171,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1566,7 +1622,7 @@
     "correct_answer": "Порошок Блейз"
   },
   {
-    "id": 179,
+    "id": 173,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1579,7 +1635,20 @@
     "correct_answer": "Печь"
   },
   {
-    "id": 181,
+    "id": 174,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Каково основное назначение пюпитра в Minecraft?",
+    "incorrect_answers": [
+      "Хранение книг",
+      "Создание карт",
+      "Написание книг"
+    ],
+    "correct_answer": "Чтение заклинаний"
+  },
+  {
+    "id": 175,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1592,7 +1661,7 @@
     "correct_answer": "Камень"
   },
   {
-    "id": 182,
+    "id": 176,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1605,7 +1674,7 @@
     "correct_answer": "Деревянные доски"
   },
   {
-    "id": 183,
+    "id": 177,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1618,7 +1687,7 @@
     "correct_answer": "Стол зачарования"
   },
   {
-    "id": 184,
+    "id": 178,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1631,7 +1700,7 @@
     "correct_answer": "Строка"
   },
   {
-    "id": 186,
+    "id": 180,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1644,7 +1713,7 @@
     "correct_answer": "Деревянные доски"
   },
   {
-    "id": 187,
+    "id": 181,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1657,7 +1726,7 @@
     "correct_answer": "Создание карт"
   },
   {
-    "id": 190,
+    "id": 184,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -1668,5 +1737,18 @@
       "Обсидиан"
     ],
     "correct_answer": "Железная болванка"
+  },
+  {
+    "id": 185,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Каково основное назначение курильщика в Minecraft?",
+    "incorrect_answers": [
+      "Плавление руд",
+      "Варить зелья",
+      "Инструменты для ремесла"
+    ],
+    "correct_answer": "Приготовление еды"
   }
 ]
