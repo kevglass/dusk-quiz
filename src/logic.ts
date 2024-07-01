@@ -108,6 +108,15 @@ declare global {
   const Dusk: DuskClient<GameState, GameActions, Persisted>;
 }
 
+function checkAllAnswersIn(game: GameState): void {
+  // if everyone is ready skip the timer and move to the
+  // next question
+  if (!Object.values(game.playerStatus).find(a => a !== "READY" && a !== "FASTEST")) {
+    // all players ready
+    nextQuestion(game);
+  }
+}
+
 Dusk.initLogic({
   minPlayers: 1,
   maxPlayers: 4,
@@ -184,15 +193,10 @@ Dusk.initLogic({
     answer({ index }, context) {
       // store the answer and set the status
       context.game.playerAnswers[context.playerId] = index;
-      context.game.playerStatus[context.playerId] = 
+      context.game.playerStatus[context.playerId] =
         !Object.values(context.game.playerStatus).find(a => a === "FASTEST") ? "FASTEST" : "READY";
 
-      // if everyone is ready skip the timer and move to the
-      // next question
-      if (!Object.values(context.game.playerStatus).find(a => a !== "READY" && a !== "FASTEST")) {
-        // all players ready
-        nextQuestion(context.game);
-      }
+      checkAllAnswersIn(context.game);
     },
     timeDone({ index }, context) {
       // if the timer expires (based on any client telling us it has) and the
@@ -200,7 +204,7 @@ Dusk.initLogic({
       if (context.game.complete) {
         const results: Record<PlayerId, GameOverResult> = {};
         const highest = Math.max(...Object.values(context.game.playerScores));
-    
+
         for (const id of Object.keys(context.game.playerScores)) {
           if (context.game.playerScores[id] >= highest) {
             results[id] = "WON";
@@ -208,7 +212,7 @@ Dusk.initLogic({
             results[id] = "LOST";
           }
         }
-        
+
         Dusk.gameOver({ players: results })
         return;
       }
@@ -236,7 +240,8 @@ Dusk.initLogic({
       delete eventContext.game.playerAnswers[playerId];
       delete eventContext.game.playerScores[playerId];
       delete eventContext.game.playerStatus[playerId];
-      
+
+      checkAllAnswersIn(eventContext.game);
     },
   }
 });
@@ -264,6 +269,7 @@ function nextQuestion(game: GameState) {
   // the clients to wait a bit to show the last question answers
   // then report in with timeDone to do the final game over
   if (game.questionNumber >= game.questions.length) {
+    game.lastAnswers = { ...game.playerAnswers };
     game.questionNumber++;
     game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
     game.complete = true;
@@ -271,7 +277,7 @@ function nextQuestion(game: GameState) {
   }
 
   // take a copy of the question so we can manipulate it
-  game.question = {...game.questions[game.questionNumber]};
+  game.question = { ...game.questions[game.questionNumber] };
   game.question.answers = [game.question.correct_answer, ...game.question.incorrect_answers];
 
   // record which questions a player is seeing
@@ -290,7 +296,7 @@ function nextQuestion(game: GameState) {
 
   // schedule the clients to show the answers, then the next question
   game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
-  game.lastAnswers = {...game.playerAnswers};
+  game.lastAnswers = { ...game.playerAnswers };
   for (const key of Object.keys(game.playerStatus)) {
     game.playerStatus[key] = "THINKING";
     game.playerAnswers[key] = -1;

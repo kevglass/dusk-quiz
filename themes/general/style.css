@@ -20,8 +20,7 @@ body {
     border-bottom: 3px solid #cacbf4;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    outline: 2px solid black;
-    box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
+    box-shadow: 0 0 0 1.5pt black;
 }
 #players {
   color: white;
@@ -37,8 +36,7 @@ body {
   font-size: 16px;
   background: #f1eefc;
   border-bottom: 3px solid #cacbf4;
-  outline: 2px solid black;
-  box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
+  box-shadow: 0 0 0 1.5pt black;
   border-radius: 10px;
   text-align: center;
   margin-left: 4px;
@@ -171,7 +169,6 @@ body {
 }
 
 .option {
-    outline: 2px solid black;
     border-top: 4px solid #534f84;
     border-bottom: 4px solid #534f84;
     border-radius: 10px;
@@ -181,7 +178,7 @@ body {
     width: 20%;
     margin-left: 3px;
     margin-right: 3px;
-    box-shadow: rgba(0,0,0,0.2) 2px 2px 2px;
+    box-shadow: 0 0 0 1.5pt black;
 }
 
 .optionSelected {
@@ -198,11 +195,10 @@ body {
 
 .cta {
     background: #9bd907;
-    box-shadow: rgba(0,0,0,0.2) 2px -3px 2px;
+    box-shadow: 0 0 0 1.5pt black;
     border-radius: 25px;
     margin-top: 20px;
     padding: 10px;
-    outline: 2px solid black;
     border-top: 2px solid #c3e514;
     border-bottom: 2px solid #60b30a;
 }
@@ -278,6 +274,7 @@ body {
   text-align: center;
   font-size: 14px;
   position: relative;
+  box-shadow: 0 0 0 1.5pt grey;
 }
 .slots {
   height: 30px;
