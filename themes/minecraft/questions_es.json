@@ -1750,5 +1750,2989 @@
       "Herramientas de artesanía"
     ],
     "correct_answer": "Cocinar alimentos"
+  },
+  {
+    "id": 1,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué herramienta se necesita para extraer diamantes?",
+    "incorrect_answers": [
+      "Piqueta de madera",
+      "Piqueta de piedra",
+      "Piqueta de oro"
+    ],
+    "correct_answer": "Piqueta de hierro"
+  },
+  {
+    "id": 2,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mob suelta Ender Pearls?",
+    "incorrect_answers": [
+      "Zombie",
+      "Esqueleto",
+      "Enredadera"
+    ],
+    "correct_answer": "Enderman"
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué objeto se necesita para activar un portal de Nether?",
+    "incorrect_answers": [
+      "Antorcha",
+      "Redstone",
+      "Cubo de lava"
+    ],
+    "correct_answer": "Sílex y acero"
+  },
+  {
+    "id": 4,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el material más resistente para herramientas y armaduras?",
+    "incorrect_answers": [
+      "Hierro",
+      "Diamante",
+      "Oro"
+    ],
+    "correct_answer": "Netherite"
+  },
+  {
+    "id": 5,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuántos tablones de madera se necesitan para fabricar una mesa de artesanía?",
+    "incorrect_answers": [
+      "2",
+      "3",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "id": 6,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué cultivo no necesita agua para crecer?",
+    "incorrect_answers": [
+      "Trigo",
+      "Zanahorias",
+      "Patatas"
+    ],
+    "correct_answer": "Cactus"
+  },
+  {
+    "id": 7,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estas es una mafia exclusiva de Nether?",
+    "incorrect_answers": [
+      "Zombie",
+      "Enredadera",
+      "Esqueleto"
+    ],
+    "correct_answer": "Ghast"
+  },
+  {
+    "id": 8,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué material puede utilizarse para amansar a un gato?",
+    "incorrect_answers": [
+      "Leche",
+      "Carne",
+      "Hueso"
+    ],
+    "correct_answer": "Pescado"
+  },
+  {
+    "id": 9,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se hace un cofre grande?",
+    "incorrect_answers": [
+      "Cuatro cofres en un cuadrado",
+      "Dos cofres apilados",
+      "Cuatro cofres en fila"
+    ],
+    "correct_answer": "Dos cofres uno al lado del otro"
+  },
+  {
+    "id": 10,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué se puede utilizar para que las plantas crezcan más rápido?",
+    "incorrect_answers": [
+      "Agua",
+      "Lava",
+      "Suciedad"
+    ],
+    "correct_answer": "Harina de huesos"
+  },
+  {
+    "id": 11,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Diamond Block.gif",
+    "incorrect_answers": [
+      "Bloque Lapis",
+      "Bloque Esmeralda",
+      "Bloque de hierro"
+    ],
+    "correct_answer": "Bloque de diamantes"
+  },
+  {
+    "id": 12,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Identifique este bioma:",
+    "image": "theme/images/Taiga.gif",
+    "incorrect_answers": [
+      "Bosque",
+      "Desierto",
+      "Selva"
+    ],
+    "correct_answer": "Taiga"
+  },
+  {
+    "id": 13,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué estructura se muestra aquí?",
+    "image": "theme/images/Jungle Temple.gif",
+    "incorrect_answers": [
+      "Pueblo",
+      "Templo del Desierto",
+      "Fortaleza"
+    ],
+    "correct_answer": "Templo de la Jungla"
+  },
+  {
+    "id": 14,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque es éste?",
+    "image": "theme/images/Emerald Ore.gif",
+    "incorrect_answers": [
+      "Mineral de diamante",
+      "Mineral de hierro",
+      "Mineral Redstone"
+    ],
+    "correct_answer": "Mineral de esmeralda"
+  },
+  {
+    "id": 15,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿De qué objeto se trata?",
+    "image": "theme/images/Bow.gif",
+    "incorrect_answers": [
+      "Ballesta",
+      "Caña de pescar",
+      "Espada"
+    ],
+    "correct_answer": "Arco"
+  },
+  {
+    "id": 16,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el jefe mafioso que se encuentra en una mansión del bosque?",
+    "incorrect_answers": [
+      "Vindicator",
+      "Ilusionista",
+      "Pillager"
+    ],
+    "correct_answer": "Evoker"
+  },
+  {
+    "id": 17,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué objeto se necesita para preparar pociones?",
+    "incorrect_answers": [
+      "Mesa de artesanía",
+      "Horno",
+      "Caldero"
+    ],
+    "correct_answer": "Stand cervecero"
+  },
+  {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bioma es conocido por sus grandes setas?",
+    "incorrect_answers": [
+      "Pantano",
+      "Bosque",
+      "Selva"
+    ],
+    "correct_answer": "Campos de setas"
+  },
+  {
+    "id": 19,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿De qué material está hecha principalmente una baliza?",
+    "incorrect_answers": [
+      "Obsidiana",
+      "Hierro",
+      "Diamante"
+    ],
+    "correct_answer": "Vidrio"
+  },
+  {
+    "id": 20,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué elemento se necesita para fabricar una brújula?",
+    "incorrect_answers": [
+      "Oro",
+      "Lapis",
+      "Obsidiana"
+    ],
+    "correct_answer": "Redstone"
+  },
+  {
+    "id": 21,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Enderman.gif",
+    "incorrect_answers": [
+      "Endermita",
+      "Shulker",
+      "Wither"
+    ],
+    "correct_answer": "Enderman"
+  },
+  {
+    "id": 22,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Anvil.gif",
+    "incorrect_answers": [
+      "Horno",
+      "Grindstone",
+      "Mesa de herrería"
+    ],
+    "correct_answer": "Yunque"
+  },
+  {
+    "id": 23,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mineral se muestra aquí?",
+    "image": "theme/images/Iron Ore.gif",
+    "incorrect_answers": [
+      "Mineral de oro",
+      "Mineral de carbón",
+      "Mineral de diamante"
+    ],
+    "correct_answer": "Mineral de hierro"
+  },
+  {
+    "id": 24,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué encantamiento aumenta el daño infligido a los muertos vivientes?",
+    "incorrect_answers": [
+      "Nitidez",
+      "La perdición de los artrópodos",
+      "Potencia"
+    ],
+    "correct_answer": "Smite"
+  },
+  {
+    "id": 25,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué se puede utilizar para teñir ovejas?",
+    "incorrect_answers": [
+      "Harina de huesos",
+      "Lapis",
+      "Saco de tinta"
+    ],
+    "correct_answer": "Tinte"
+  },
+  {
+    "id": 26,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se muestra aquí?",
+    "image": "theme/images/TNT.gif",
+    "incorrect_answers": [
+      "Bloque Redstone",
+      "Arena",
+      "Hormigón"
+    ],
+    "correct_answer": "TNT"
+  },
+  {
+    "id": 27,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué artículo se utiliza para criar vacas?",
+    "incorrect_answers": [
+      "Zanahorias",
+      "Patatas",
+      "Manzanas"
+    ],
+    "correct_answer": "Trigo"
+  },
+  {
+    "id": 28,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve un mapa en Minecraft?",
+    "incorrect_answers": [
+      "Localizar minerales",
+      "Encontrar mafias",
+      "Almacenar artículos"
+    ],
+    "correct_answer": "Navegar por el mundo"
+  },
+  {
+    "id": 29,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque necesitas crear para almacenar XP?",
+    "incorrect_answers": [
+      "Yunque",
+      "Grindstone",
+      "Telar"
+    ],
+    "correct_answer": "Botella de experiencia"
+  },
+  {
+    "id": 30,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mafia aparece aquí?",
+    "image": "theme/images/Wither Skeleton.gif",
+    "incorrect_answers": [
+      "Esqueleto",
+      "Wither",
+      "Enderman"
+    ],
+    "correct_answer": "Esqueleto marchito"
+  },
+  {
+    "id": 31,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué tipo de árbol es?",
+    "image": "theme/images/Dark Oak.gif",
+    "incorrect_answers": [
+      "Abedul",
+      "Selva",
+      "Roble"
+    ],
+    "correct_answer": "Roble oscuro"
+  },
+  {
+    "id": 32,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué objeto se necesita para encender un portal de Nether?",
+    "incorrect_answers": [
+      "Antorcha",
+      "Carga de fuego",
+      "Lava"
+    ],
+    "correct_answer": "Sílex y acero"
+  },
+  {
+    "id": 33,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque de Minecraft es este?",
+    "image": "theme/images/Furnace.gif",
+    "incorrect_answers": [
+      "Mesa de artesanía",
+      "Pecho",
+      "Dispensador"
+    ],
+    "correct_answer": "Horno"
+  },
+  {
+    "id": 34,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué herramienta se necesita para extraer obsidiana?",
+    "incorrect_answers": [
+      "Piqueta de madera",
+      "Piqueta de piedra",
+      "Piqueta de hierro"
+    ],
+    "correct_answer": "Piqueta de diamante"
+  },
+  {
+    "id": 35,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Nether Fortress.gif",
+    "incorrect_answers": [
+      "Pueblo",
+      "Fortaleza",
+      "Templo del Desierto"
+    ],
+    "correct_answer": "Fortaleza de Nether"
+  },
+  {
+    "id": 36,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Blaze.gif",
+    "incorrect_answers": [
+      "Cubo de magma",
+      "Ghast",
+      "Esqueleto marchito"
+    ],
+    "correct_answer": "Blaze"
+  },
+  {
+    "id": 37,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se necesita para hacer una cama?",
+    "incorrect_answers": [
+      "Hierro",
+      "Redstone",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lana"
+  },
+  {
+    "id": 38,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el ingrediente principal para elaborar pociones?",
+    "incorrect_answers": [
+      "Botella de agua",
+      "Redstone",
+      "Glowstone"
+    ],
+    "correct_answer": "Polvo Blaze"
+  },
+  {
+    "id": 39,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta planta?",
+    "image": "theme/images/Nether Wart.gif",
+    "incorrect_answers": [
+      "Cactus",
+      "Caña de azúcar",
+      "Trigo"
+    ],
+    "correct_answer": "Verruga de Nether"
+  },
+  {
+    "id": 40,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se muestra aquí?",
+    "image": "theme/images/End Stone.gif",
+    "incorrect_answers": [
+      "Arenisca",
+      "Cuarzo",
+      "Prismarine"
+    ],
+    "correct_answer": "Piedra final"
+  },
+  {
+    "id": 41,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Con qué objeto se puede montar un cerdo?",
+    "incorrect_answers": [
+      "Zanahoria en rama",
+      "Plomo",
+      "Trigo"
+    ],
+    "correct_answer": "Silla de montar"
+  },
+  {
+    "id": 42,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Stronghold.gif",
+    "incorrect_answers": [
+      "Pueblo",
+      "Templo del Desierto",
+      "Templo de la Jungla"
+    ],
+    "correct_answer": "Fortaleza"
+  },
+  {
+    "id": 43,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bioma se muestra aquí?",
+    "image": "theme/images/Savanna.gif",
+    "incorrect_answers": [
+      "Llanuras",
+      "Desierto",
+      "Taiga"
+    ],
+    "correct_answer": "Sabana"
+  },
+  {
+    "id": 44,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué objeto puedes conseguir al matar a un Blaze?",
+    "incorrect_answers": [
+      "Polvo Blaze",
+      "Carga de fuego",
+      "Crema Magma"
+    ],
+    "correct_answer": "Varilla Blaze"
+  },
+  {
+    "id": 45,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Beacon.gif",
+    "incorrect_answers": [
+      "Vidrio",
+      "Linterna marina",
+      "Cristal final"
+    ],
+    "correct_answer": "Faro"
+  },
+  {
+    "id": 46,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque puede utilizarse para fundir objetos?",
+    "incorrect_answers": [
+      "Mesa de artesanía",
+      "Yunque",
+      "Grindstone"
+    ],
+    "correct_answer": "Horno"
+  },
+  {
+    "id": 47,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Ice Spike.gif",
+    "incorrect_answers": [
+      "Iglú",
+      "Tundra nevada",
+      "Torre Frost"
+    ],
+    "correct_answer": "Pico de hielo"
+  },
+  {
+    "id": 48,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué es este artículo?",
+    "image": "theme/images/Compass.gif",
+    "incorrect_answers": [
+      "Reloj",
+      "Mapa",
+      "Catalejo"
+    ],
+    "correct_answer": "Brújula"
+  },
+  {
+    "id": 49,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué puedes utilizar para fabricar un arco?",
+    "incorrect_answers": [
+      "Madera, hierro, cuerda",
+      "Palo, cuerda, pluma",
+      "Palo, Cuerda, Slimeball"
+    ],
+    "correct_answer": "Palo, Cuerda"
+  },
+  {
+    "id": 50,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se muestra aquí?",
+    "image": "theme/images/Quartz Block.gif",
+    "incorrect_answers": [
+      "Bloque de nieve",
+      "Bloque de arcilla",
+      "Hormigón blanco"
+    ],
+    "correct_answer": "Bloque de cuarzo"
+  },
+  {
+    "id": 51,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos objetos no es comestible en Minecraft?",
+    "incorrect_answers": [
+      "Manzana",
+      "Pan",
+      "Zanahoria"
+    ],
+    "correct_answer": "Piel"
+  },
+  {
+    "id": 52,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bioma?",
+    "image": "theme/images/Jungle.gif",
+    "incorrect_answers": [
+      "Bosque",
+      "Taiga",
+      "Pantano"
+    ],
+    "correct_answer": "Selva"
+  },
+  {
+    "id": 53,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mafia puede soltar cuero?",
+    "incorrect_answers": [
+      "Ovejas",
+      "Cerdo",
+      "Pollo"
+    ],
+    "correct_answer": "Vaca"
+  },
+  {
+    "id": 54,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Spawner.gif",
+    "incorrect_answers": [
+      "Mesa de artesanía",
+      "Pecho",
+      "Yunque"
+    ],
+    "correct_answer": "Desovador"
+  },
+  {
+    "id": 55,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Elytra.gif",
+    "incorrect_answers": [
+      "Alas",
+      "Pluma",
+      "Cabo"
+    ],
+    "correct_answer": "Elytra"
+  },
+  {
+    "id": 56,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/End City.gif",
+    "incorrect_answers": [
+      "Portal final",
+      "Fortaleza",
+      "Fortaleza de Nether"
+    ],
+    "correct_answer": "Fin de la ciudad"
+  },
+  {
+    "id": 57,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Con cuál de ellas puedes hacer pociones?",
+    "incorrect_answers": [
+      "Lingote de hierro",
+      "Lingote de oro",
+      "Perla Ender"
+    ],
+    "correct_answer": "Varilla Blaze"
+  },
+  {
+    "id": 58,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Desert Temple.gif",
+    "incorrect_answers": [
+      "Pueblo",
+      "Templo de la Jungla",
+      "Fortaleza"
+    ],
+    "correct_answer": "Templo del Desierto"
+  },
+  {
+    "id": 59,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el skin por defecto de Minecraft?",
+    "incorrect_answers": [
+      "Alex",
+      "Muesca",
+      "Herobrine"
+    ],
+    "correct_answer": "Steve"
+  },
+  {
+    "id": 60,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos bloques se encuentra en el Extremo?",
+    "incorrect_answers": [
+      "Netherrack",
+      "Suciedad",
+      "Prismarine"
+    ],
+    "correct_answer": "Piedra final"
+  },
+  {
+    "id": 61,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Sea Lantern.gif",
+    "incorrect_answers": [
+      "Glowstone",
+      "Shroomlight",
+      "Faro"
+    ],
+    "correct_answer": "Linterna marina"
+  },
+  {
+    "id": 62,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Ocean Monument.gif",
+    "incorrect_answers": [
+      "Naufragio",
+      "Fortaleza",
+      "Arrecife de coral"
+    ],
+    "correct_answer": "Monumento al Océano"
+  },
+  {
+    "id": 63,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se muestra aquí?",
+    "image": "theme/images/Netherite Block.gif",
+    "incorrect_answers": [
+      "Bloque de diamantes",
+      "Bloque de hierro",
+      "Bloque de carbón"
+    ],
+    "correct_answer": "Bloque de netherita"
+  },
+  {
+    "id": 64,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué artículo puede utilizarse para esquilar ovejas?",
+    "incorrect_answers": [
+      "Espada",
+      "Tijeras",
+      "Hacha"
+    ],
+    "correct_answer": "Cizalla"
+  },
+  {
+    "id": 65,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Lapis Lazuli Ore.gif",
+    "incorrect_answers": [
+      "Mineral de diamante",
+      "Mineral de esmeralda",
+      "Mineral Redstone"
+    ],
+    "correct_answer": "Mineral de lapislázuli"
+  },
+  {
+    "id": 66,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mafia puedes montar en Minecraft?",
+    "incorrect_answers": [
+      "Zombie",
+      "Esqueleto",
+      "Enredadera"
+    ],
+    "correct_answer": "Caballo"
+  },
+  {
+    "id": 67,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué objeto se necesita para domar a un lobo?",
+    "incorrect_answers": [
+      "Pescado",
+      "Trigo",
+      "Manzana"
+    ],
+    "correct_answer": "Hueso"
+  },
+  {
+    "id": 68,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Ender Pearl.gif",
+    "incorrect_answers": [
+      "Ojo de Ender",
+      "Slimeball",
+      "Fragmento de Prismarina"
+    ],
+    "correct_answer": "Perla Ender"
+  },
+  {
+    "id": 69,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Igloo.gif",
+    "incorrect_answers": [
+      "Picos de hielo",
+      "Tundra nevada",
+      "Torre Frost"
+    ],
+    "correct_answer": "Iglú"
+  },
+  {
+    "id": 70,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estas criaturas suelta huesos?",
+    "incorrect_answers": [
+      "Enredadera",
+      "Zombie",
+      "Enderman"
+    ],
+    "correct_answer": "Esqueleto"
+  },
+  {
+    "id": 71,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Golden Apple.gif",
+    "incorrect_answers": [
+      "Zanahoria dorada",
+      "Manzana encantada",
+      "Manzana"
+    ],
+    "correct_answer": "Manzana dorada"
+  },
+  {
+    "id": 72,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Redstone Block.gif",
+    "incorrect_answers": [
+      "Bloque de hierro",
+      "Bloque de diamantes",
+      "Bloque de oro"
+    ],
+    "correct_answer": "Bloque Redstone"
+  },
+  {
+    "id": 73,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Shipwreck.gif",
+    "incorrect_answers": [
+      "Monumento al Océano",
+      "Fortaleza",
+      "Arrecife de coral"
+    ],
+    "correct_answer": "Naufragio"
+  },
+  {
+    "id": 74,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos bloques se genera en el Overworld?",
+    "incorrect_answers": [
+      "Netherrack",
+      "Piedra final",
+      "Prismarine"
+    ],
+    "correct_answer": "Granito"
+  },
+  {
+    "id": 75,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Mossy Cobblestone.gif",
+    "incorrect_answers": [
+      "Adoquín",
+      "Piedra",
+      "Diorita"
+    ],
+    "correct_answer": "Adoquín musgoso"
+  },
+  {
+    "id": 76,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Totem of Undying.gif",
+    "incorrect_answers": [
+      "Manzana dorada",
+      "Esmeralda",
+      "Cristal final"
+    ],
+    "correct_answer": "Tótem de los Inmortales"
+  },
+  {
+    "id": 77,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se muestra aquí?",
+    "image": "theme/images/Netherrack.gif",
+    "incorrect_answers": [
+      "Nether Brick",
+      "Redstone",
+      "Obsidiana"
+    ],
+    "correct_answer": "Netherrack"
+  },
+  {
+    "id": 78,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mafia es neutral hasta que es atacada?",
+    "incorrect_answers": [
+      "Zombie",
+      "Esqueleto",
+      "Enredadera"
+    ],
+    "correct_answer": "Enderman"
+  },
+  {
+    "id": 79,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Name Tag.gif",
+    "incorrect_answers": [
+      "Papel",
+      "Mapa",
+      "Plomo"
+    ],
+    "correct_answer": "Etiqueta con el nombre"
+  },
+  {
+    "id": 80,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos bloques genera en el Nether?",
+    "incorrect_answers": [
+      "Piedra final",
+      "Obsidiana",
+      "Prismarine"
+    ],
+    "correct_answer": "Mineral de cuarzo"
+  },
+  {
+    "id": 81,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Bucket.gif",
+    "incorrect_answers": [
+      "Tazón",
+      "Caldero",
+      "Botella"
+    ],
+    "correct_answer": "Cubo"
+  },
+  {
+    "id": 82,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Obsidian.gif",
+    "incorrect_answers": [
+      "Carbón",
+      "Bedrock",
+      "Piedra"
+    ],
+    "correct_answer": "Obsidiana"
+  },
+  {
+    "id": 83,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Con qué objeto se puede fabricar una pista?",
+    "incorrect_answers": [
+      "Cadena",
+      "Piel",
+      "Pluma"
+    ],
+    "correct_answer": "Slimeball"
+  },
+  {
+    "id": 84,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se muestra aquí?",
+    "image": "theme/images/Gold Ore.gif",
+    "incorrect_answers": [
+      "Mineral de hierro",
+      "Mineral de carbón",
+      "Mineral Redstone"
+    ],
+    "correct_answer": "Mineral de oro"
+  },
+  {
+    "id": 85,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Clock.gif",
+    "incorrect_answers": [
+      "Brújula",
+      "Mapa",
+      "Catalejo"
+    ],
+    "correct_answer": "Reloj"
+  },
+  {
+    "id": 86,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Pig.gif",
+    "incorrect_answers": [
+      "Vaca",
+      "Ovejas",
+      "Pollo"
+    ],
+    "correct_answer": "Cerdo"
+  },
+  {
+    "id": 87,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Redstone Torch.gif",
+    "incorrect_answers": [
+      "Antorcha",
+      "Lámpara Redstone",
+      "Linterna marina"
+    ],
+    "correct_answer": "Antorcha Redstone"
+  },
+  {
+    "id": 88,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué mafia es esta?",
+    "image": "theme/images/Magma Cube.gif",
+    "incorrect_answers": [
+      "Baba",
+      "Ghast",
+      "Wither"
+    ],
+    "correct_answer": "Cubo de magma"
+  },
+  {
+    "id": 89,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Lead.gif",
+    "incorrect_answers": [
+      "Cadena",
+      "Etiqueta con el nombre",
+      "Cuerda"
+    ],
+    "correct_answer": "Plomo"
+  },
+  {
+    "id": 90,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Nether Portal.gif",
+    "incorrect_answers": [
+      "Portal final",
+      "Fortaleza",
+      "Fortaleza de Nether"
+    ],
+    "correct_answer": "Portal de los infiernos"
+  },
+  {
+    "id": 91,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos bloques no se utiliza para elaborar pociones?",
+    "incorrect_answers": [
+      "Caldero",
+      "Polvo Blaze",
+      "Stand cervecero"
+    ],
+    "correct_answer": "Mesa de artesanía"
+  },
+  {
+    "id": 92,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Eye of Ender.gif",
+    "incorrect_answers": [
+      "Perla Ender",
+      "Polvo Blaze",
+      "Slimeball"
+    ],
+    "correct_answer": "Ojo de Ender"
+  },
+  {
+    "id": 93,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Blast Furnace.gif",
+    "incorrect_answers": [
+      "Mesa de artesanía",
+      "Horno",
+      "Ahumador"
+    ],
+    "correct_answer": "Alto horno"
+  },
+  {
+    "id": 94,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Endermite.gif",
+    "incorrect_answers": [
+      "Enderman",
+      "Pececillo de plata",
+      "Shulker"
+    ],
+    "correct_answer": "Endermita"
+  },
+  {
+    "id": 95,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué herramienta se utiliza para extraer diamantes?",
+    "incorrect_answers": [
+      "Piqueta de madera",
+      "Piqueta de piedra",
+      "Piqueta de diamante"
+    ],
+    "correct_answer": "Piqueta de hierro"
+  },
+  {
+    "id": 96,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿En qué dimensión vive el Dragón de Ender?",
+    "incorrect_answers": [
+      "Overworld",
+      "Nether",
+      "Éter"
+    ],
+    "correct_answer": "Fin"
+  },
+  {
+    "id": 97,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el uso principal de la Redstone en Minecraft?",
+    "incorrect_answers": [
+      "Herramientas de artesanía",
+      "Decoración de edificios",
+      "Creación de trampas"
+    ],
+    "correct_answer": "Mecanismos de alimentación"
+  },
+  {
+    "id": 98,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos bloques puede utilizarse para crear una baliza?",
+    "incorrect_answers": [
+      "Bloque de netherita",
+      "Bloque de diamantes",
+      "Bloque Esmeralda"
+    ],
+    "correct_answer": "Bloque de hierro"
+  },
+  {
+    "id": 99,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el nivel máximo para encantar objetos?",
+    "incorrect_answers": [
+      "50",
+      "100",
+      "20"
+    ],
+    "correct_answer": "30"
+  },
+  {
+    "id": 100,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos objetos se utiliza para crear un gólem de hierro?",
+    "incorrect_answers": [
+      "Lingote de hierro",
+      "Pepita de hierro",
+      "Mineral de hierro"
+    ],
+    "correct_answer": "Bloque de hierro"
+  },
+  {
+    "id": 101,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el alimento que devuelve más puntos de hambre?",
+    "incorrect_answers": [
+      "Chuleta de cerdo cocida",
+      "Pan",
+      "Bistec"
+    ],
+    "correct_answer": "Zanahoria dorada"
+  },
+  {
+    "id": 102,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estas criaturas se encuentra en el Nether?",
+    "incorrect_answers": [
+      "Oso polar",
+      "Bruja",
+      "Enderman"
+    ],
+    "correct_answer": "Cubo de magma"
+  },
+  {
+    "id": 104,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear un compás?",
+    "incorrect_answers": [
+      "Redstone",
+      "Lingote de oro",
+      "Diamante"
+    ],
+    "correct_answer": "Lingote de hierro"
+  },
+  {
+    "id": 105,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el objeto raro que suelta el jefe Wither?",
+    "incorrect_answers": [
+      "Hueso marchito",
+      "Perla Ender",
+      "Cráneo marchito"
+    ],
+    "correct_answer": "Estrella neerlandesa"
+  },
+  {
+    "id": 106,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para domesticar loros?",
+    "incorrect_answers": [
+      "Zanahoria",
+      "Manzana",
+      "Trigo"
+    ],
+    "correct_answer": "Semillas"
+  },
+  {
+    "id": 108,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bioma es conocido por sus altos y delgados abetos?",
+    "incorrect_answers": [
+      "Selva",
+      "Sabana",
+      "Desierto"
+    ],
+    "correct_answer": "Taiga"
+  },
+  {
+    "id": 109,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente una muela en Minecraft?",
+    "incorrect_answers": [
+      "Objetos de encantamiento",
+      "Armadura artesanal",
+      "Preparación de pociones"
+    ],
+    "correct_answer": "Herramientas de reparación"
+  },
+  {
+    "id": 110,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos objetos se utiliza para fabricar un pistón?",
+    "incorrect_answers": [
+      "Antorcha Redstone",
+      "Tablas de madera",
+      "Adoquín"
+    ],
+    "correct_answer": "Lingote de hierro"
+  },
+  {
+    "id": 111,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Drowned.gif",
+    "incorrect_answers": [
+      "Cascarilla",
+      "Aldeano zombi",
+      "Pillager"
+    ],
+    "correct_answer": "Ahogado"
+  },
+  {
+    "id": 112,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se suele utilizar para construir pociones de respiración subacuática?",
+    "incorrect_answers": [
+      "Glowstone",
+      "Coral",
+      "Linterna marina"
+    ],
+    "correct_answer": "Prismarine"
+  },
+  {
+    "id": 113,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente un atril en Minecraft?",
+    "incorrect_answers": [
+      "Objetos de encantamiento",
+      "Almacenar libros",
+      "Escribir libros"
+    ],
+    "correct_answer": "Leer Encantamientos"
+  },
+  {
+    "id": 114,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para criar pandas?",
+    "incorrect_answers": [
+      "Trigo",
+      "Zanahoria",
+      "Melón"
+    ],
+    "correct_answer": "Bambú"
+  },
+  {
+    "id": 115,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Basalt.gif",
+    "incorrect_answers": [
+      "Netherrack",
+      "Arena del alma",
+      "Blackstone"
+    ],
+    "correct_answer": "Basalto"
+  },
+  {
+    "id": 116,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estas criaturas se encuentra en el bioma de la Isla Champiñón?",
+    "incorrect_answers": [
+      "Ovejas",
+      "Enredadera",
+      "Esqueleto"
+    ],
+    "correct_answer": "Mooshroom"
+  },
+  {
+    "id": 117,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama la poción que otorga invisibilidad al jugador?",
+    "incorrect_answers": [
+      "Poción de rapidez",
+      "Poción de visión nocturna",
+      "Poción de fuerza"
+    ],
+    "correct_answer": "Poción de invisibilidad"
+  },
+  {
+    "id": 118,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos es necesario para crear una carga de fuego?",
+    "incorrect_answers": [
+      "Carbón",
+      "Pólvora",
+      "Varilla Blaze"
+    ],
+    "correct_answer": "Polvo Blaze"
+  },
+  {
+    "id": 119,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Witch Hut.gif",
+    "incorrect_answers": [
+      "Templo de la Jungla",
+      "Cabaña del pantano",
+      "Fortaleza"
+    ],
+    "correct_answer": "Cabaña de la bruja"
+  },
+  {
+    "id": 120,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para fabricar un ancla de reaparición?",
+    "incorrect_answers": [
+      "Obsidiana",
+      "Bloque de netherita",
+      "Restos antiguos"
+    ],
+    "correct_answer": "Obsidiana llorona"
+  },
+  {
+    "id": 121,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Vex.gif",
+    "incorrect_answers": [
+      "Evoker",
+      "Vindicator",
+      "Ilusionista"
+    ],
+    "correct_answer": "Vex"
+  },
+  {
+    "id": 122,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos bloques se genera de forma natural en la dimensión Final?",
+    "incorrect_answers": [
+      "Bloque Purpur",
+      "Bloque de cuarzo",
+      "Glowstone"
+    ],
+    "correct_answer": "Piedra final"
+  },
+  {
+    "id": 123,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos es necesario para crear una bala de heno?",
+    "incorrect_answers": [
+      "Bloque de heno",
+      "Zanahoria",
+      "Patata"
+    ],
+    "correct_answer": "Trigo"
+  },
+  {
+    "id": 124,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un sensor de luz diurna?",
+    "incorrect_answers": [
+      "Repetidor Redstone",
+      "Observador",
+      "Tolva"
+    ],
+    "correct_answer": "Comparador"
+  },
+  {
+    "id": 125,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el bloque que atrae hacia sí los objetos cercanos?",
+    "incorrect_answers": [
+      "Conducto",
+      "Esponja",
+      "Bloque magnético"
+    ],
+    "correct_answer": "Tolva"
+  },
+  {
+    "id": 126,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque genera en el bioma Nether Wastes?",
+    "incorrect_answers": [
+      "Nylium deformado",
+      "Nylium carmesí",
+      "Arena del alma"
+    ],
+    "correct_answer": "Netherrack"
+  },
+  {
+    "id": 127,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el uso principal de un telar en Minecraft?",
+    "incorrect_answers": [
+      "Cocinar alimentos",
+      "Armadura artesanal",
+      "Herramientas de reparación"
+    ],
+    "correct_answer": "Aplicación de patrones de pancartas"
+  },
+  {
+    "id": 128,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para fabricar un pistón pegajoso?",
+    "incorrect_answers": [
+      "Polvo Blaze",
+      "Crema Magma",
+      "Botella de miel"
+    ],
+    "correct_answer": "Slimeball"
+  },
+  {
+    "id": 129,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Bastion Remnant.gif",
+    "incorrect_answers": [
+      "Monumento al Océano",
+      "Fortaleza",
+      "Fortaleza de Nether"
+    ],
+    "correct_answer": "Bastión Remanente"
+  },
+  {
+    "id": 130,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un cohete pirotécnico?",
+    "incorrect_answers": [
+      "Pluma",
+      "Cadena",
+      "Polvo Glowstone"
+    ],
+    "correct_answer": "Pólvora"
+  },
+  {
+    "id": 131,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Packed Ice.gif",
+    "incorrect_answers": [
+      "Hielo azul",
+      "Hielo",
+      "Hielo escarchado"
+    ],
+    "correct_answer": "Hielo envasado"
+  },
+  {
+    "id": 132,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos objetos se utiliza para crear una poción de aliento de dragón?",
+    "incorrect_answers": [
+      "Ojo de araña fermentado",
+      "Polvo Glowstone",
+      "Verruga de Nether"
+    ],
+    "correct_answer": "Aliento de dragón"
+  },
+  {
+    "id": 133,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Stray.gif",
+    "incorrect_answers": [
+      "Esqueleto",
+      "Esqueleto marchito",
+      "Ahogado"
+    ],
+    "correct_answer": "Callejero"
+  },
+  {
+    "id": 134,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear un yunque?",
+    "incorrect_answers": [
+      "Lingote de hierro",
+      "Mineral de hierro",
+      "Pepita de hierro"
+    ],
+    "correct_answer": "Bloque de hierro"
+  },
+  {
+    "id": 135,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el uso principal de una tabla de cartografía en Minecraft?",
+    "incorrect_answers": [
+      "Herramientas de reparación",
+      "Preparación de pociones",
+      "Objetos de encantamiento"
+    ],
+    "correct_answer": "Elaboración de mapas"
+  },
+  {
+    "id": 136,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estas turbas es neutral a menos que se le provoque?",
+    "incorrect_answers": [
+      "Enredadera",
+      "Oso polar",
+      "Caballo esqueleto"
+    ],
+    "correct_answer": "Piglin"
+  },
+  {
+    "id": 137,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Smithing Table.gif",
+    "incorrect_answers": [
+      "Cantero",
+      "Telar",
+      "Grindstone"
+    ],
+    "correct_answer": "Mesa de herrería"
+  },
+  {
+    "id": 138,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos es necesario para crear una poción de resistencia al fuego?",
+    "incorrect_answers": [
+      "Polvo Blaze",
+      "Pez globo",
+      "Membrana fantasma"
+    ],
+    "correct_answer": "Crema Magma"
+  },
+  {
+    "id": 140,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear un bloque de destino?",
+    "incorrect_answers": [
+      "Redstone",
+      "Lingote de hierro",
+      "Lingote de oro"
+    ],
+    "correct_answer": "Paca de heno"
+  },
+  {
+    "id": 141,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente un cubo de compostaje en Minecraft?",
+    "incorrect_answers": [
+      "Cultivo de plantas",
+      "Cocinar alimentos",
+      "Herramientas de reparación"
+    ],
+    "correct_answer": "Generación de harina de huesos"
+  },
+  {
+    "id": 142,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear una flecha espectral?",
+    "incorrect_answers": [
+      "Flecha",
+      "Polvo Redstone",
+      "Flecha con punta"
+    ],
+    "correct_answer": "Polvo Glowstone"
+  },
+  {
+    "id": 143,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Hoglin.gif",
+    "incorrect_answers": [
+      "Piglin Zombificado",
+      "Piglin",
+      "Piglin Brute"
+    ],
+    "correct_answer": "Hoglin"
+  },
+  {
+    "id": 144,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para fabricar una campana?",
+    "incorrect_answers": [
+      "Lingote de oro",
+      "Lingote de cobre",
+      "Esmeralda"
+    ],
+    "correct_answer": "Lingote de hierro"
+  },
+  {
+    "id": 145,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Desert Pyramid.gif",
+    "incorrect_answers": [
+      "Templo de la Jungla",
+      "Iglú",
+      "Fortaleza de Nether"
+    ],
+    "correct_answer": "Pirámide del desierto"
+  },
+  {
+    "id": 146,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos es necesario para crear un bloque objetivo?",
+    "incorrect_answers": [
+      "Redstone",
+      "Lingote de hierro",
+      "Lingote de oro",
+      "Lingote de netherita"
+    ],
+    "correct_answer": "Paca de heno"
+  },
+  {
+    "id": 147,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Block of Amethyst.gif",
+    "incorrect_answers": [
+      "Racimo de amatista",
+      "Fragmento de amatista",
+      "Tuff"
+    ],
+    "correct_answer": "Bloque de amatista"
+  },
+  {
+    "id": 148,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos monstruos es conocido por soltar Lágrimas de Ghast?",
+    "incorrect_answers": [
+      "Blaze",
+      "Cubo de magma",
+      "Strider"
+    ],
+    "correct_answer": "Ghast"
+  },
+  {
+    "id": 149,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el bloque raro que se encuentra en la dimensión Final y que se puede usar para puntos de respawn?",
+    "incorrect_answers": [
+      "Piedra final",
+      "Obsidiana",
+      "Bedrock"
+    ],
+    "correct_answer": "Obsidiana llorona"
+  },
+  {
+    "id": 150,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear una muela?",
+    "incorrect_answers": [
+      "Mineral de hierro",
+      "Adoquín",
+      "Lingote de hierro"
+    ],
+    "correct_answer": "Piedra"
+  },
+  {
+    "id": 151,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el objeto que permite a los jugadores cambiar su punto de aparición?",
+    "incorrect_answers": [
+      "Brújula",
+      "Reloj",
+      "Mapa"
+    ],
+    "correct_answer": "Cama"
+  },
+  {
+    "id": 152,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un bloque de notas?",
+    "incorrect_answers": [
+      "Tablas de madera",
+      "Nota",
+      "Lingote de hierro"
+    ],
+    "correct_answer": "Redstone"
+  },
+  {
+    "id": 154,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos es necesario para fabricar una baliza?",
+    "incorrect_answers": [
+      "Esmeralda",
+      "Lingote de netherita",
+      "Ojo de Ender"
+    ],
+    "correct_answer": "Estrella neerlandesa"
+  },
+  {
+    "id": 155,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un tridente?",
+    "incorrect_answers": [
+      "Lingote de oro",
+      "Lingote de hierro",
+      "Diamante"
+    ],
+    "correct_answer": "Concha Nautilus"
+  },
+  {
+    "id": 156,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para hacer una hoguera?",
+    "incorrect_answers": [
+      "Piedra",
+      "Lingote de hierro",
+      "Adoquín"
+    ],
+    "correct_answer": "Stick"
+  },
+  {
+    "id": 157,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente una mesa de herrería en Minecraft?",
+    "incorrect_answers": [
+      "Herramientas de reparación",
+      "Objetos de encantamiento",
+      "Decoración de edificios"
+    ],
+    "correct_answer": "Armadura artesanal"
+  },
+  {
+    "id": 158,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un repetidor de redstone?",
+    "incorrect_answers": [
+      "Piedra",
+      "Redstone",
+      "Cuarzo"
+    ],
+    "correct_answer": "Antorcha Redstone"
+  },
+  {
+    "id": 159,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Bee.gif",
+    "incorrect_answers": [
+      "Avispa",
+      "Mosca",
+      "Mariposa"
+    ],
+    "correct_answer": "Abeja"
+  },
+  {
+    "id": 160,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear una tabla de herrería?",
+    "incorrect_answers": [
+      "Tablas de madera",
+      "Piedra",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lingote de hierro"
+  },
+  {
+    "id": 161,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente un fumador en Minecraft?",
+    "incorrect_answers": [
+      "Fundición de minerales",
+      "Preparación de pociones",
+      "Herramientas de artesanía"
+    ],
+    "correct_answer": "Cocinar alimentos"
+  },
+  {
+    "id": 162,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un bloque de miel?",
+    "incorrect_answers": [
+      "Botella de miel",
+      "Azúcar",
+      "Polvo Blaze"
+    ],
+    "correct_answer": "Panal"
+  },
+  {
+    "id": 164,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para fabricar un compostador?",
+    "incorrect_answers": [
+      "Valla",
+      "Puerta de valla",
+      "Trampilla"
+    ],
+    "correct_answer": "Tablas de madera"
+  },
+  {
+    "id": 165,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el uso principal de un caldero en Minecraft?",
+    "incorrect_answers": [
+      "Fundición de minerales",
+      "Cocinar alimentos",
+      "Almacenamiento de agua"
+    ],
+    "correct_answer": "Preparación de pociones"
+  },
+  {
+    "id": 166,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear una tabla cartográfica?",
+    "incorrect_answers": [
+      "Papel",
+      "Cristal",
+      "Estantería"
+    ],
+    "correct_answer": "Brújula"
+  },
+  {
+    "id": 167,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos objetos es necesario para crear una poción de regeneración?",
+    "incorrect_answers": [
+      "Polvo Glowstone",
+      "Ojo de araña fermentado",
+      "Pez globo"
+    ],
+    "correct_answer": "Lágrima de Ghast"
+  },
+  {
+    "id": 168,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Vindicator.gif",
+    "incorrect_answers": [
+      "Evoker",
+      "Pillager",
+      "Illager"
+    ],
+    "correct_answer": "Vindicator"
+  },
+  {
+    "id": 169,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para fabricar una mesa de herrero?",
+    "incorrect_answers": [
+      "Piedra",
+      "Tablones de roble",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lingote de hierro"
+  },
+  {
+    "id": 170,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente un puesto de elaboración de cerveza en Minecraft?",
+    "incorrect_answers": [
+      "Herramientas de reparación",
+      "Fundición de minerales",
+      "Cocinar alimentos"
+    ],
+    "correct_answer": "Preparación de pociones"
+  },
+  {
+    "id": 171,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos objetos se utiliza para crear una poción de fuerza?",
+    "incorrect_answers": [
+      "Lágrima de Ghast",
+      "Crema Magma",
+      "Ojo de araña fermentado"
+    ],
+    "correct_answer": "Polvo Blaze"
+  },
+  {
+    "id": 173,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear un alto horno?",
+    "incorrect_answers": [
+      "Lingote de hierro",
+      "Ahumador",
+      "Piedra lisa"
+    ],
+    "correct_answer": "Horno"
+  },
+  {
+    "id": 174,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál es el uso principal de un atril en Minecraft?",
+    "incorrect_answers": [
+      "Almacenar libros",
+      "Elaboración de mapas",
+      "Escribir libros"
+    ],
+    "correct_answer": "Leer Encantamientos"
+  },
+  {
+    "id": 175,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear una muela?",
+    "incorrect_answers": [
+      "Mesa de herrería",
+      "Yunque",
+      "Tablas de madera"
+    ],
+    "correct_answer": "Piedra"
+  },
+  {
+    "id": 176,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear una mesa de fletching?",
+    "incorrect_answers": [
+      "Pluma",
+      "Flecha",
+      "Cadena"
+    ],
+    "correct_answer": "Tablas de madera"
+  },
+  {
+    "id": 177,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama el objeto que se utiliza para encantar herramientas y armaduras?",
+    "incorrect_answers": [
+      "Libro encantado",
+      "Estantería",
+      "Botella de experiencia"
+    ],
+    "correct_answer": "Mesa de Encantamientos"
+  },
+  {
+    "id": 178,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear un telar?",
+    "incorrect_answers": [
+      "Lana",
+      "Algodón",
+      "Seda"
+    ],
+    "correct_answer": "Cadena"
+  },
+  {
+    "id": 179,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Woodland Mansion.gif",
+    "incorrect_answers": [
+      "Templo de la Jungla",
+      "Pueblo",
+      "Templo del Desierto"
+    ],
+    "correct_answer": "Mansión Woodland"
+  },
+  {
+    "id": 180,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Qué bloque se utiliza para crear una tabla cartográfica?",
+    "incorrect_answers": [
+      "Brújula",
+      "Papel",
+      "Cristal"
+    ],
+    "correct_answer": "Tablas de madera"
+  },
+  {
+    "id": 181,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente una mesa de cartografía en Minecraft?",
+    "incorrect_answers": [
+      "Herramientas de reparación",
+      "Fundición de minerales",
+      "Cocinar alimentos"
+    ],
+    "correct_answer": "Elaboración de mapas"
+  },
+  {
+    "id": 184,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cuál de estos elementos se utiliza para crear una mesa de herrería?",
+    "incorrect_answers": [
+      "Piedra",
+      "Tablones de roble",
+      "Obsidiana"
+    ],
+    "correct_answer": "Lingote de hierro"
+  },
+  {
+    "id": 185,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Para qué sirve principalmente un fumador en Minecraft?",
+    "incorrect_answers": [
+      "Fundición de minerales",
+      "Preparación de pociones",
+      "Herramientas de artesanía"
+    ],
+    "correct_answer": "Cocinar alimentos"
+  },
+  {
+    "id": 224,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Grass Block.gif",
+    "incorrect_answers": [
+      "Dirt Block",
+      "Micelio",
+      "Podzol"
+    ],
+    "correct_answer": "Bloque de hierba"
+  },
+  {
+    "id": 225,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Compass.gif",
+    "incorrect_answers": [
+      "Reloj",
+      "Mapa",
+      "Catalejo"
+    ],
+    "correct_answer": "Brújula"
+  },
+  {
+    "id": 226,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Zombie.gif",
+    "incorrect_answers": [
+      "Esqueleto",
+      "Enredadera",
+      "Cascarilla"
+    ],
+    "correct_answer": "Zombie"
+  },
+  {
+    "id": 227,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Village.gif",
+    "incorrect_answers": [
+      "Templo del Desierto",
+      "Templo de la Jungla",
+      "Fortaleza"
+    ],
+    "correct_answer": "Pueblo"
+  },
+  {
+    "id": 228,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Crafting Table.gif",
+    "incorrect_answers": [
+      "Horno",
+      "Yunque",
+      "Mesa encantadora"
+    ],
+    "correct_answer": "Mesa de artesanía"
+  },
+  {
+    "id": 229,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Diamond.gif",
+    "incorrect_answers": [
+      "Esmeralda",
+      "Lapislázuli",
+      "Cuarzo"
+    ],
+    "correct_answer": "Diamante"
+  },
+  {
+    "id": 232,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Furnace.gif",
+    "incorrect_answers": [
+      "Alto horno",
+      "Ahumador",
+      "Fogata"
+    ],
+    "correct_answer": "Horno"
+  },
+  {
+    "id": 234,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Jungle Temple.gif",
+    "incorrect_answers": [
+      "Pirámide del desierto",
+      "Mansión Woodland",
+      "Pueblo"
+    ],
+    "correct_answer": "Templo de la Jungla"
+  },
+  {
+    "id": 235,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Enchanting Table.gif",
+    "incorrect_answers": [
+      "Mesa de artesanía",
+      "Yunque",
+      "Mesa de emplumado"
+    ],
+    "correct_answer": "Mesa encantadora"
+  },
+  {
+    "id": 237,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Wither.gif",
+    "incorrect_answers": [
+      "Dragón Ender",
+      "Blaze",
+      "Fantasma"
+    ],
+    "correct_answer": "Wither"
+  },
+  {
+    "id": 239,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Anvil.gif",
+    "incorrect_answers": [
+      "Grindstone",
+      "Mesa de herrería",
+      "Cantero"
+    ],
+    "correct_answer": "Yunque"
+  },
+  {
+    "id": 241,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Cave Spider.gif",
+    "incorrect_answers": [
+      "Araña",
+      "Pececillo de plata",
+      "Endermita"
+    ],
+    "correct_answer": "Araña de las cavernas"
+  },
+  {
+    "id": 244,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Bow.gif",
+    "incorrect_answers": [
+      "Ballesta",
+      "Trident",
+      "Caña de pescar"
+    ],
+    "correct_answer": "Arco"
+  },
+  {
+    "id": 245,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Villager.gif",
+    "incorrect_answers": [
+      "Pillager",
+      "Comerciante errante",
+      "Evoker"
+    ],
+    "correct_answer": "Aldeano"
+  },
+  {
+    "id": 247,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Quartz Block.gif",
+    "incorrect_answers": [
+      "Bloque de hierro",
+      "Hormigón blanco",
+      "Bloque de nieve"
+    ],
+    "correct_answer": "Bloque de cuarzo"
+  },
+  {
+    "id": 249,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Ghast.gif",
+    "incorrect_answers": [
+      "Blaze",
+      "Cubo de magma",
+      "Fantasma"
+    ],
+    "correct_answer": "Ghast"
+  },
+  {
+    "id": 251,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Nether Wart Block.gif",
+    "incorrect_answers": [
+      "Netherrack",
+      "Mineral de cuarzo",
+      "Nylium carmesí"
+    ],
+    "correct_answer": "Bloque de verrugas"
+  },
+  {
+    "id": 252,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Skeleton.gif",
+    "incorrect_answers": [
+      "Esqueleto marchito",
+      "Callejero",
+      "Zombie"
+    ],
+    "correct_answer": "Esqueleto"
+  },
+  {
+    "id": 254,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Redstone Block.gif",
+    "incorrect_answers": [
+      "Nether Brick",
+      "Bloque Magma",
+      "Bloque de ladrillo"
+    ],
+    "correct_answer": "Bloque Redstone"
+  },
+  {
+    "id": 255,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Water Bucket.gif",
+    "incorrect_answers": [
+      "Cubo de lava",
+      "Cubo de leche",
+      "Cubo"
+    ],
+    "correct_answer": "Cubo de agua"
+  },
+  {
+    "id": 256,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Phantom.gif",
+    "incorrect_answers": [
+      "Endermita",
+      "Blaze",
+      "Ghast"
+    ],
+    "correct_answer": "Fantasma"
+  },
+  {
+    "id": 257,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/End Portal.gif",
+    "incorrect_answers": [
+      "Portal de los infiernos",
+      "Fortaleza",
+      "Pueblo"
+    ],
+    "correct_answer": "Portal final"
+  },
+  {
+    "id": 258,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Coal Block.gif",
+    "incorrect_answers": [
+      "Bloque de carbón",
+      "Blackstone",
+      "Obsidiana"
+    ],
+    "correct_answer": "Bloque de carbón"
+  },
+  {
+    "id": 259,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Husk.gif",
+    "incorrect_answers": [
+      "Zombie",
+      "Ahogado",
+      "Callejero"
+    ],
+    "correct_answer": "Cascarilla"
+  },
+  {
+    "id": 260,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Mineshaft.gif",
+    "incorrect_answers": [
+      "Fortaleza",
+      "Pueblo",
+      "Fortaleza de Nether"
+    ],
+    "correct_answer": "Pozo de la mina"
+  },
+  {
+    "id": 262,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Guardian.gif",
+    "incorrect_answers": [
+      "Anciano guardián",
+      "Ahogado",
+      "Fantasma"
+    ],
+    "correct_answer": "Guardián"
+  },
+  {
+    "id": 263,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Ocean Ruin.gif",
+    "incorrect_answers": [
+      "Monumento al Océano",
+      "Fortaleza",
+      "Pueblo"
+    ],
+    "correct_answer": "Ruina oceánica"
+  },
+  {
+    "id": 264,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Emerald Block.gif",
+    "incorrect_answers": [
+      "Bloque de diamantes",
+      "Bloque de oro",
+      "Bloque de hierro"
+    ],
+    "correct_answer": "Bloque Esmeralda"
+  },
+  {
+    "id": 265,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Cooked Beef.gif",
+    "incorrect_answers": [
+      "Chuleta de cerdo cocida",
+      "Pollo cocido",
+      "Cordero cocido"
+    ],
+    "correct_answer": "Ternera cocida"
+  },
+  {
+    "id": 268,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Magma Block.gif",
+    "incorrect_answers": [
+      "Netherrack",
+      "Basalto",
+      "Obsidiana"
+    ],
+    "correct_answer": "Bloque Magma"
+  },
+  {
+    "id": 271,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Nether Quartz Ore.gif",
+    "incorrect_answers": [
+      "Bloque de cuarzo",
+      "Hormigón blanco",
+      "Bloque de nieve"
+    ],
+    "correct_answer": "Mineral de cuarzo"
+  },
+  {
+    "id": 272,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Brewing Stand.gif",
+    "incorrect_answers": [
+      "Horno",
+      "Mesa de artesanía",
+      "Grindstone"
+    ],
+    "correct_answer": "Stand cervecero"
+  },
+  {
+    "id": 273,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Endermite.gif",
+    "incorrect_answers": [
+      "Pececillo de plata",
+      "Fantasma",
+      "Blaze"
+    ],
+    "correct_answer": "Endermita"
+  },
+  {
+    "id": 275,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Iron Block.gif",
+    "incorrect_answers": [
+      "Bloque de diamantes",
+      "Bloque de oro",
+      "Bloque Esmeralda"
+    ],
+    "correct_answer": "Bloque de hierro"
+  },
+  {
+    "id": 276,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Crossbow.gif",
+    "incorrect_answers": [
+      "Arco",
+      "Trident",
+      "Caña de pescar"
+    ],
+    "correct_answer": "Ballesta"
+  },
+  {
+    "id": 277,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Evoker.gif",
+    "incorrect_answers": [
+      "Pillager",
+      "Vindicator",
+      "Ilusionista"
+    ],
+    "correct_answer": "Evoker"
+  },
+  {
+    "id": 278,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta estructura?",
+    "image": "theme/images/Pillager Outpost.gif",
+    "incorrect_answers": [
+      "Pueblo",
+      "Fortaleza",
+      "Mansión Woodland"
+    ],
+    "correct_answer": "Puesto de avanzada Pillager"
+  },
+  {
+    "id": 279,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Redstone Ore.gif",
+    "incorrect_answers": [
+      "Bloque Redstone",
+      "Nether Brick",
+      "Bloque Magma"
+    ],
+    "correct_answer": "Mineral Redstone"
+  },
+  {
+    "id": 280,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/End Crystal.gif",
+    "incorrect_answers": [
+      "Perla Ender",
+      "Ojo de Ender",
+      "Huevo de dragón"
+    ],
+    "correct_answer": "Cristal final"
+  },
+  {
+    "id": 285,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Magma Cube.gif",
+    "incorrect_answers": [
+      "Baba",
+      "Blaze",
+      "Ghast"
+    ],
+    "correct_answer": "Cubo de magma"
+  },
+  {
+    "id": 287,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este bloque?",
+    "image": "theme/images/Gold Block.gif",
+    "incorrect_answers": [
+      "Bloque de hierro",
+      "Bloque Esmeralda",
+      "Bloque de diamantes"
+    ],
+    "correct_answer": "Bloque de oro"
+  },
+  {
+    "id": 288,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Golden Carrot.gif",
+    "incorrect_answers": [
+      "Manzana dorada",
+      "La pepita de oro",
+      "Patata dorada"
+    ],
+    "correct_answer": "Zanahoria dorada"
+  },
+  {
+    "id": 292,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama este artículo?",
+    "image": "theme/images/Shield.gif",
+    "incorrect_answers": [
+      "Arco",
+      "Ballesta",
+      "Trident"
+    ],
+    "correct_answer": "Escudo"
+  },
+  {
+    "id": 293,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "¿Cómo se llama esta mafia?",
+    "image": "theme/images/Silverfish.gif",
+    "incorrect_answers": [
+      "Endermita",
+      "Vex",
+      "Blaze"
+    ],
+    "correct_answer": "Pececillo de plata"
   }
 ]
