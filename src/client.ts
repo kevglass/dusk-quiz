@@ -227,6 +227,7 @@ setInterval(() => {
       Dusk.actions.timeDone({ index: lastQuestion });
       sentEnd = true;
       document.getElementById("ready")!.style.display = "none";
+      document.getElementById("disclaimer")!.style.display = "none";
       document.getElementById("question")!.style.display = "none";
     }
     return;
@@ -310,6 +311,7 @@ Dusk.initClient({
         started = true;
         // game start so show the first question
         document.getElementById("ready")!.style.display = "none";
+        document.getElementById("disclaimer")!.style.display = "none";
         document.getElementById("question")!.style.display = "block";
 
         for (const q of game.questions) {
