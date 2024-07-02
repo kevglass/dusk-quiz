@@ -1,5 +1,5 @@
 import { PlayerId } from "dusk-games-sdk";
-import { ANSWER_TIME, Language, QUESTIONS, QUESTION_TIME } from "./logic";
+import { ANSWER_TIME, GameState, Language, QUESTIONS, QUESTION_TIME } from "./logic";
 import mp3_correct from "./assets/core/correct.mp3";
 import mp3_click from "./assets/core/click.mp3";
 import mp3_incorrect from "./assets/core/incorrect.mp3";
@@ -30,9 +30,9 @@ const SOUND_START = new Audio(mp3_start);
 // when asked by restarting the audio if needed
 function play(audio: HTMLAudioElement) {
   if (audio.paused) {
-      audio.play();
-  }else{
-      audio.currentTime = 0
+    audio.play();
+  } else {
+    audio.currentTime = 0
   }
 }
 
@@ -72,13 +72,13 @@ function createPlayerDiv(id: string): void {
 
   document.getElementById("players")?.appendChild(div);
 
-  for (let i=0;i<4;i++) { 
-    const slots = document.getElementById("answer"+(i+1)+"-slots") as HTMLDivElement;
+  for (let i = 0; i < 4; i++) {
+    const slots = document.getElementById("answer" + (i + 1) + "-slots") as HTMLDivElement;
 
     const img = document.createElement("img") as HTMLImageElement;
     img.className = "smallAvatar";
     img.src = info.avatarUrl;
-    img.id = "answer"+i+"-"+id;
+    img.id = "answer" + i + "-" + id;
     img.style.display = "none";
 
     slots.appendChild(img);
@@ -116,8 +116,8 @@ document.getElementById("timerNo")?.addEventListener("click", () => {
 
 // for all the answer buttons we want to react to a click by invoking
 // an action so the game state is updated and all players have the information
-for (let i=0;i<4;i++) {
-  const answerButton = document.getElementById("answer" + (i+1));
+for (let i = 0; i < 4; i++) {
+  const answerButton = document.getElementById("answer" + (i + 1));
   answerButton?.addEventListener("click", () => {
     // only allow the player to select an answer once
     if (!selectedAnswer && !showingAnswers) {
@@ -144,7 +144,7 @@ function updateLanguage(lang: Language) {
   const items = Array.from(document.getElementsByClassName("language"));
   for (const item of items) {
     const element = item as HTMLDivElement;
-    const elementLang = item.id.substring("lang-".length, "lang-".length+2) as Language;
+    const elementLang = item.id.substring("lang-".length, "lang-".length + 2) as Language;
 
     if (elementLang === lang) {
       element.style.border = "3px solid grey";
@@ -160,7 +160,7 @@ updateLanguage(currentLanguage);
 const items = Array.from(document.getElementsByClassName("language"));
 for (const item of items) {
   item.addEventListener("click", () => {
-    const lang = item.id.substring("lang-".length, "lang-".length+2) as Language;
+    const lang = item.id.substring("lang-".length, "lang-".length + 2) as Language;
     Dusk.actions.language({ lang });
   });
 }
@@ -205,6 +205,8 @@ let sentEnd = false;
 // game state
 let complete = false;
 
+let gameState: GameState;
+
 // Very simple update loop so we can smooth animations
 // and changes to the game that aren't driven by specific actions
 setInterval(() => {
@@ -232,6 +234,25 @@ setInterval(() => {
     }
     return;
   } else {
+    if (gameState && gameState.question && gameState.question.answers) {
+      document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[gameState.lang].question + " " + gameState.questionNumber;
+      document.getElementById("questionText")!.innerHTML = gameState.question.question;
+
+      if (gameState.question.image) {
+        (document.getElementById("questionImage") as HTMLImageElement).src = ASSETS[gameState.question.image];
+        (document.getElementById("imageHolder") as HTMLDivElement).style.display = "block";
+      } else {
+        (document.getElementById("imageHolder") as HTMLDivElement).style.display = "none";
+      }
+      for (let i = 0; i < 4; i++) {
+        document.getElementById("answer" + (i + 1) + "-value")!.innerHTML = gameState.question.answers[i];
+        const slots = document.getElementById("answer" + (i + 1) + "-slots") as HTMLDivElement
+        for (const avatar of Array.from(slots.children)) {
+          (avatar as HTMLElement).style.display = "none";
+        }
+      }
+    }
+
     // otherwise just make sure player status bars are showing
     for (const div of Object.values(playerDiv)) {
       const statusDiv = div.getElementsByClassName("playerStatus").item(0) as HTMLDivElement;
@@ -252,7 +273,7 @@ setInterval(() => {
       const ratio = msLeft / QUESTION_TIME;
       const bar = document.getElementById("timebar") as HTMLDivElement;
       if (ratio < 1) {
-        bar.style.width = (ratio*100)+"%";
+        bar.style.width = (ratio * 100) + "%";
         bar.style.opacity = "1";
       } else {
         bar.style.opacity = "0";
@@ -274,6 +295,8 @@ setInterval(() => {
 
 Dusk.initClient({
   onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
+    gameState = game;
+
     // record game state to globals for use in the timer
     questionCount = game.questionCount;
     timerEnabled = game.timerEnabled;
@@ -288,7 +311,7 @@ Dusk.initClient({
     (document.getElementById("q20") as HTMLDivElement).className = questionCount === 20 ? "option optionSelected" : "option";
 
     (document.getElementById("timerYes") as HTMLDivElement).className = timerEnabled === true ? "option optionSelected" : "option";
-    (document.getElementById("timerNo") as HTMLDivElement).className = timerEnabled ===false ? "option optionSelected" : "option";
+    (document.getElementById("timerNo") as HTMLDivElement).className = timerEnabled === false ? "option optionSelected" : "option";
 
     // only show the timing bar if timers are enabed
     const bar = document.getElementById("timebar") as HTMLDivElement;
@@ -322,16 +345,16 @@ Dusk.initClient({
         }
       } else {
         // otherwise we're showing the answers so highlight the right quiz
-        const answerDiv = document.getElementById("answer"+(game.correctAnswerIndex+1)) as HTMLDivElement;
+        const answerDiv = document.getElementById("answer" + (game.correctAnswerIndex + 1)) as HTMLDivElement;
         answerDiv.classList.add("correct");
 
         for (const pid of Object.keys(game.lastAnswers)) {
-          const id = "answer" + game.lastAnswers[pid] + "-"+pid;
+          const id = "answer" + game.lastAnswers[pid] + "-" + pid;
           const img = document.getElementById(id) as HTMLImageElement;
           img.style.display = "inline-block";
         }
       }
-      
+
       selectedAnswer = false;
 
       // since we're turn based game logic but we still want
@@ -348,31 +371,15 @@ Dusk.initClient({
           // period of time 
           play(SOUND_START);
           showingAnswers = false;
+          lastQuestion = game.questionNumber;
+          
           // reset local state
-          for (let i=0;i<4;i++) {
-            const answerButton = document.getElementById("answer" + (i+1));
+          for (let i = 0; i < 4; i++) {
+            const answerButton = document.getElementById("answer" + (i + 1));
             answerButton?.classList.remove("selected");
             answerButton?.classList.remove("correct");
           }
-          lastQuestion = game.questionNumber;
           timerRunning = true;
-          document.getElementById("questionNumber")!.innerHTML = TRANSLATIONS[game.lang].question + " " + game.questionNumber;
-          document.getElementById("questionText")!.innerHTML = game.question.question;
-
-          if (game.question.image) {
-            (document.getElementById("questionImage") as HTMLImageElement).src = ASSETS[game.question.image];
-            (document.getElementById("imageHolder") as HTMLDivElement).style.display = "block";
-          } else {
-            (document.getElementById("imageHolder") as HTMLDivElement).style.display = "none";
-          }
-          for (let i=0;i<4;i++) {
-            document.getElementById("answer"+(i+1)+"-value")!.innerHTML = game.question.answers[i];
-            const slots = document.getElementById("answer"+(i+1)+"-slots") as HTMLDivElement
-            for (const avatar of Array.from(slots.children)) {
-              (avatar as HTMLElement).style.display = "none";
-            }
-          }
-
         }, offset);
       }
     }
@@ -382,8 +389,8 @@ Dusk.initClient({
       if (!allPlayerIds.includes(existing)) {
         playerDiv[existing].parentElement?.removeChild(playerDiv[existing]);
 
-        for (let i=0;i<4;i++) {
-          const smallAvatar = document.getElementById("answer"+i+"-"+existing) as HTMLImageElement;
+        for (let i = 0; i < 4; i++) {
+          const smallAvatar = document.getElementById("answer" + i + "-" + existing) as HTMLImageElement;
           if (smallAvatar) {
             smallAvatar.parentElement?.removeChild(smallAvatar);
           }
@@ -406,7 +413,7 @@ Dusk.initClient({
 
       // set the players score based on game state
       const scoreDiv = playerDiv[id].getElementsByClassName("playerScore").item(0) as HTMLDivElement;
-      const newScore = ""+game.playerScores[id];
+      const newScore = "" + game.playerScores[id];
       // if the score changed then the player got a point, so show the
       // checkm ark on the player
       if (newScore !== scoreDiv.innerHTML) {
