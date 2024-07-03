@@ -6,11 +6,11 @@
     "category": "minecraft",
     "question": "Какой инструмент необходим для добычи алмазов?",
     "incorrect_answers": [
-      "Деревянная кирка",
-      "Каменная кирка",
-      "Золотая кирка"
+      "деревянная кирка",
+      "каменная кирка",
+      "золотая кирка"
     ],
-    "correct_answer": "Железная кирка"
+    "correct_answer": "железная кирка"
   },
   {
     "id": 2,
@@ -19,11 +19,11 @@
     "category": "minecraft",
     "question": "С какого моба падает жемчуг Эндера?",
     "incorrect_answers": [
-      "Зомби",
-      "Скелет",
-      "Creeper"
+      "зомби",
+      "скелет",
+      "ползучий"
     ],
-    "correct_answer": "Эндерман"
+    "correct_answer": "эндерман"
   },
   {
     "id": 3,
@@ -32,11 +32,11 @@
     "category": "minecraft",
     "question": "Какой предмет необходим для активации портала в пустоту?",
     "incorrect_answers": [
-      "Факел",
-      "Redstone",
-      "Ведро для лавы"
+      "факел",
+      "redstone",
+      "ведро лавы"
     ],
-    "correct_answer": "Кремень и сталь"
+    "correct_answer": "кремень и сталь"
   },
   {
     "id": 4,
@@ -45,11 +45,11 @@
     "category": "minecraft",
     "question": "Что является самым прочным материалом для изготовления инструментов и доспехов?",
     "incorrect_answers": [
-      "Железо",
-      "Алмаз",
-      "Золото"
+      "железо",
+      "бриллиант",
+      "золото"
     ],
-    "correct_answer": "Нетерит"
+    "correct_answer": "нетерит"
   },
   {
     "id": 5,
@@ -71,11 +71,11 @@
     "category": "minecraft",
     "question": "Для выращивания какой культуры не требуется вода?",
     "incorrect_answers": [
-      "Пшеница",
-      "Морковь",
-      "Картофель"
+      "пшеница",
+      "морковь",
+      "картофель"
     ],
-    "correct_answer": "Кактусы"
+    "correct_answer": "кактусы"
   },
   {
     "id": 7,
@@ -84,11 +84,11 @@
     "category": "minecraft",
     "question": "Какой из этих мобов является эксклюзивным для Nether?",
     "incorrect_answers": [
-      "Зомби",
-      "Creeper",
-      "Скелет"
+      "зомби",
+      "ползучий",
+      "скелет"
     ],
-    "correct_answer": "Ghast"
+    "correct_answer": "ghast"
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "category": "minecraft",
     "question": "Какой материал можно использовать для приручения кошки?",
     "incorrect_answers": [
-      "Молоко",
-      "Мясо",
-      "Кость"
+      "молоко",
+      "мясо",
+      "кость"
     ],
-    "correct_answer": "Рыба"
+    "correct_answer": "рыба"
   },
   {
     "id": 9,
@@ -110,11 +110,11 @@
     "category": "minecraft",
     "question": "Как сделать большой сундук?",
     "incorrect_answers": [
-      "Четыре сундука в квадрате",
-      "Два сложенных сундука",
-      "Четыре сундука в одной линии"
+      "четыре сундука в квадрате",
+      "два сложенных сундука",
+      "четыре сундука в линию"
     ],
-    "correct_answer": "Два сундука рядом друг с другом"
+    "correct_answer": "два сундука рядом друг с другом"
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "category": "minecraft",
     "question": "Что можно использовать для ускорения роста растений?",
     "incorrect_answers": [
-      "Вода",
-      "Лава",
-      "Грязь"
+      "вода",
+      "лава",
+      "грязь"
     ],
-    "correct_answer": "Костная мука"
+    "correct_answer": "костная мука"
   },
   {
     "id": 11,
@@ -135,13 +135,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Diamond Block.gif",
+    "image": "minecraft/images/Diamond Block.png",
     "incorrect_answers": [
-      "Блок Lapis",
-      "Изумрудный блок",
-      "Железный блок"
+      "блок лазурита",
+      "изумрудный блок",
+      "железный блок"
     ],
-    "correct_answer": "Алмазный блок"
+    "correct_answer": "алмазный блок"
   },
   {
     "id": 12,
@@ -149,13 +149,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Определите этот биом:",
-    "image": "theme/images/Taiga.gif",
+    "image": "minecraft/images/Taiga.png",
     "incorrect_answers": [
-      "Лес",
-      "Пустыня",
-      "Джунгли"
+      "лес",
+      "пустыня",
+      "джунгли"
     ],
-    "correct_answer": "Тайга"
+    "correct_answer": "тайга"
   },
   {
     "id": 13,
@@ -163,13 +163,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая структура изображена здесь?",
-    "image": "theme/images/Jungle Temple.gif",
+    "image": "minecraft/images/Jungle Temple.png",
     "incorrect_answers": [
-      "Деревня",
-      "Храм в пустыне",
-      "Стронгхолд"
+      "деревня",
+      "храм в пустыне",
+      "твердыня"
     ],
-    "correct_answer": "Храм в джунглях"
+    "correct_answer": "храм в джунглях"
   },
   {
     "id": 14,
@@ -177,13 +177,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой это блок?",
-    "image": "theme/images/Emerald Ore.gif",
+    "image": "minecraft/images/Emerald Ore.png",
     "incorrect_answers": [
-      "Алмазная руда",
-      "Железная руда",
-      "Руда Красного камня"
+      "алмазная руда",
+      "железная руда",
+      "краснокаменная руда"
     ],
-    "correct_answer": "Изумрудная руда"
+    "correct_answer": "изумрудная руда"
   },
   {
     "id": 15,
@@ -191,13 +191,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за предмет?",
-    "image": "theme/images/Bow.gif",
+    "image": "minecraft/images/Bow.png",
     "incorrect_answers": [
-      "Арбалет",
-      "Рыболовная удочка",
-      "Меч"
+      "арбалет",
+      "удочка",
+      "меч"
     ],
-    "correct_answer": "Лук"
+    "correct_answer": "бант"
   },
   {
     "id": 16,
@@ -206,11 +206,11 @@
     "category": "minecraft",
     "question": "Как называется босс-моб, которого можно найти в лесном особняке?",
     "incorrect_answers": [
-      "Мститель",
-      "Иллюзионист",
-      "Pillager"
+      "мститель",
+      "иллюзионист",
+      "Мародёр"
     ],
-    "correct_answer": "Evoker"
+    "correct_answer": "Эвокер"
   },
   {
     "id": 17,
@@ -219,11 +219,11 @@
     "category": "minecraft",
     "question": "Какой предмет нужен для варки зелий?",
     "incorrect_answers": [
-      "Стол для рукоделия",
-      "Печь",
-      "Котел"
+      "стол для рукоделия",
+      "печь",
+      "казан"
     ],
-    "correct_answer": "Подставка для пивоварения"
+    "correct_answer": "подставка для варки"
   },
   {
     "id": 18,
@@ -232,11 +232,11 @@
     "category": "minecraft",
     "question": "Какой биом известен своими крупными грибами?",
     "incorrect_answers": [
-      "Болото",
-      "Лес",
-      "Джунгли"
+      "болото",
+      "лес",
+      "джунгли"
     ],
-    "correct_answer": "Грибные поля"
+    "correct_answer": "грибные поля"
   },
   {
     "id": 19,
@@ -245,11 +245,11 @@
     "category": "minecraft",
     "question": "Из какого материала в основном изготавливается маяк?",
     "incorrect_answers": [
-      "Обсидиан",
-      "Железо",
-      "Алмаз"
+      "обсидиан",
+      "железо",
+      "бриллиант"
     ],
-    "correct_answer": "Стекло"
+    "correct_answer": "стекло"
   },
   {
     "id": 20,
@@ -258,11 +258,11 @@
     "category": "minecraft",
     "question": "Какой предмет необходим для изготовления компаса?",
     "incorrect_answers": [
-      "Золото",
-      "Lapis",
-      "Обсидиан"
+      "золото",
+      "лазурит",
+      "обсидиан"
     ],
-    "correct_answer": "Redstone"
+    "correct_answer": "redstone"
   },
   {
     "id": 21,
@@ -270,13 +270,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Enderman.gif",
+    "image": "minecraft/images/Enderman.png",
     "incorrect_answers": [
-      "Эндермит",
-      "Шулькер",
-      "Увядание"
+      "эндермит",
+      "шулькер",
+      "завянуть"
     ],
-    "correct_answer": "Эндерман"
+    "correct_answer": "эндерман"
   },
   {
     "id": 22,
@@ -284,13 +284,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Anvil.gif",
+    "image": "minecraft/images/Anvil.png",
     "incorrect_answers": [
-      "Печь",
-      "Grindstone",
-      "Кузнечный стол"
+      "печь",
+      "точильный камень",
+      "кузнечный стол"
     ],
-    "correct_answer": "Наковальня"
+    "correct_answer": "наковальня"
   },
   {
     "id": 23,
@@ -298,13 +298,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая руда изображена здесь?",
-    "image": "theme/images/Iron Ore.gif",
+    "image": "minecraft/images/Iron Ore.png",
     "incorrect_answers": [
-      "Золотая руда",
-      "Угольная руда",
-      "Алмазная руда"
+      "золотая руда",
+      "угольная руда",
+      "алмазная руда"
     ],
-    "correct_answer": "Железная руда"
+    "correct_answer": "железная руда"
   },
   {
     "id": 24,
@@ -313,11 +313,11 @@
     "category": "minecraft",
     "question": "Какое заклинание увеличивает урон, наносимый мобам-нежити?",
     "incorrect_answers": [
-      "Резкость",
-      "Бич членистоногих",
-      "Мощность"
+      "резкость",
+      "бич членистоногих",
+      "мощность"
     ],
-    "correct_answer": "Smite"
+    "correct_answer": "поразить"
   },
   {
     "id": 25,
@@ -326,11 +326,11 @@
     "category": "minecraft",
     "question": "Что можно использовать для окрашивания овец?",
     "incorrect_answers": [
-      "Костная мука",
-      "Lapis",
-      "Чернильный мешок"
+      "костная мука",
+      "лазурит",
+      "чернильный мешок"
     ],
-    "correct_answer": "Краситель"
+    "correct_answer": "краситель"
   },
   {
     "id": 26,
@@ -338,13 +338,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/TNT.gif",
+    "image": "minecraft/images/TNT.png",
     "incorrect_answers": [
-      "Блок красного камня",
-      "Песок",
-      "Бетон"
+      "блок красного камня",
+      "песок",
+      "бетон"
     ],
-    "correct_answer": "TNT"
+    "correct_answer": "tnt"
   },
   {
     "id": 27,
@@ -353,11 +353,11 @@
     "category": "minecraft",
     "question": "Какой предмет используется для разведения коров?",
     "incorrect_answers": [
-      "Морковь",
-      "Картофель",
-      "Яблоки"
+      "морковь",
+      "картофель",
+      "яблоки"
     ],
-    "correct_answer": "Пшеница"
+    "correct_answer": "пшеница"
   },
   {
     "id": 28,
@@ -366,11 +366,11 @@
     "category": "minecraft",
     "question": "Для чего нужна карта в Minecraft?",
     "incorrect_answers": [
-      "Найдите руды",
-      "Найти мобов",
-      "Хранить предметы"
+      "находить руды",
+      "находить мобов",
+      "хранить товары"
     ],
-    "correct_answer": "Навигация по миру"
+    "correct_answer": "ориентироваться в мире"
   },
   {
     "id": 29,
@@ -379,11 +379,11 @@
     "category": "minecraft",
     "question": "Какой блок вам нужно создать, чтобы хранить XP?",
     "incorrect_answers": [
-      "Наковальня",
-      "Grindstone",
-      "Loom"
+      "наковальня",
+      "точильный камень",
+      "ткацкий станок"
     ],
-    "correct_answer": "Бутылка для опытов"
+    "correct_answer": "бутылка для опытов"
   },
   {
     "id": 30,
@@ -391,13 +391,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая мафия изображена здесь?",
-    "image": "theme/images/Wither Skeleton.gif",
+    "image": "minecraft/images/Wither Skeleton.png",
     "incorrect_answers": [
-      "Скелет",
-      "Увядание",
-      "Эндерман"
+      "скелет",
+      "завянуть",
+      "эндерман"
     ],
-    "correct_answer": "Увядший скелет"
+    "correct_answer": "скелет"
   },
   {
     "id": 31,
@@ -405,13 +405,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за дерево?",
-    "image": "theme/images/Dark Oak.gif",
+    "image": "minecraft/images/Dark Oak.png",
     "incorrect_answers": [
-      "Береза",
-      "Джунгли",
-      "Дуб"
+      "береза",
+      "джунгли",
+      "дуб"
     ],
-    "correct_answer": "Темный дуб"
+    "correct_answer": "тёмный дуб"
   },
   {
     "id": 32,
@@ -420,11 +420,11 @@
     "category": "minecraft",
     "question": "Какой предмет вам нужен, чтобы зажечь портал в пустоту?",
     "incorrect_answers": [
-      "Факел",
-      "Огненный заряд",
-      "Лава"
+      "факел",
+      "огневой заряд",
+      "лава"
     ],
-    "correct_answer": "Кремень и сталь"
+    "correct_answer": "кремень и сталь"
   },
   {
     "id": 33,
@@ -432,13 +432,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за блок в Minecraft?",
-    "image": "theme/images/Furnace.gif",
+    "image": "minecraft/images/Furnace.png",
     "incorrect_answers": [
-      "Стол для рукоделия",
-      "Грудь",
-      "Диспенсер"
+      "стол для рукоделия",
+      "грудь",
+      "диспенсер"
     ],
-    "correct_answer": "Печь"
+    "correct_answer": "печь"
   },
   {
     "id": 34,
@@ -447,11 +447,11 @@
     "category": "minecraft",
     "question": "Какой инструмент необходим для добычи обсидиана?",
     "incorrect_answers": [
-      "Деревянная кирка",
-      "Каменная кирка",
-      "Железная кирка"
+      "деревянная кирка",
+      "каменная кирка",
+      "железная кирка"
     ],
-    "correct_answer": "Алмазная кирка"
+    "correct_answer": "алмазная кирка"
   },
   {
     "id": 35,
@@ -459,1765 +459,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Nether Fortress.gif",
+    "image": "minecraft/images/Nether Fortress.png",
     "incorrect_answers": [
-      "Деревня",
-      "Стронгхолд",
-      "Храм в пустыне"
+      "деревня",
+      "твердыня",
+      "храм в пустыне"
     ],
-    "correct_answer": "Неземная крепость"
-  },
-  {
-    "id": 37,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок необходим для изготовления кровати?",
-    "incorrect_answers": [
-      "Железо",
-      "Redstone",
-      "Обсидиан"
-    ],
-    "correct_answer": "Шерсть"
-  },
-  {
-    "id": 38,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что является основным ингредиентом для приготовления зелий?",
-    "incorrect_answers": [
-      "Бутылка для воды",
-      "Redstone",
-      "Светящийся камень"
-    ],
-    "correct_answer": "Порошок Блейз"
-  },
-  {
-    "id": 39,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется это растение?",
-    "image": "theme/images/Nether Wart.gif",
-    "incorrect_answers": [
-      "Кактус",
-      "Сахарный тростник",
-      "Пшеница"
-    ],
-    "correct_answer": "Низинная бородавка"
-  },
-  {
-    "id": 40,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок изображен здесь?",
-    "image": "theme/images/End Stone.gif",
-    "incorrect_answers": [
-      "Песчаник",
-      "Кварц",
-      "Призмарин"
-    ],
-    "correct_answer": "Конечный камень"
-  },
-  {
-    "id": 41,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "С помощью какого предмета можно оседлать свинью?",
-    "incorrect_answers": [
-      "Морковка на палочке",
-      "Вести",
-      "Пшеница"
-    ],
-    "correct_answer": "Седло"
-  },
-  {
-    "id": 43,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой биом изображен здесь?",
-    "image": "theme/images/Savanna.gif",
-    "incorrect_answers": [
-      "Равнины",
-      "Пустыня",
-      "Тайга"
-    ],
-    "correct_answer": "Саванна"
-  },
-  {
-    "id": 44,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет можно получить, убив Блейза?",
-    "incorrect_answers": [
-      "Порошок Блейз",
-      "Огненный заряд",
-      "Крем Магма"
-    ],
-    "correct_answer": "Блейз Род"
-  },
-  {
-    "id": 46,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок можно использовать для выплавки предметов?",
-    "incorrect_answers": [
-      "Стол для рукоделия",
-      "Наковальня",
-      "Grindstone"
-    ],
-    "correct_answer": "Печь"
-  },
-  {
-    "id": 48,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за предмет?",
-    "image": "theme/images/Compass.gif",
-    "incorrect_answers": [
-      "Часы",
-      "Карта",
-      "Подзорная труба"
-    ],
-    "correct_answer": "Компас"
-  },
-  {
-    "id": 49,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что можно использовать для изготовления лука?",
-    "incorrect_answers": [
-      "Дерево, железо, струна",
-      "Палка, струна, перо",
-      "Палка, струна, слизняк"
-    ],
-    "correct_answer": "Палка, струна"
-  },
-  {
-    "id": 51,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов не является съедобным в Minecraft?",
-    "incorrect_answers": [
-      "Apple",
-      "Хлеб",
-      "Морковь"
-    ],
-    "correct_answer": "Кожа"
-  },
-  {
-    "id": 52,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот биом?",
-    "image": "theme/images/Jungle.gif",
-    "incorrect_answers": [
-      "Лес",
-      "Тайга",
-      "Болото"
-    ],
-    "correct_answer": "Джунгли"
-  },
-  {
-    "id": 53,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "С какого моба можно сбросить кожу?",
-    "incorrect_answers": [
-      "Овцы",
-      "Свинья",
-      "Курица"
-    ],
-    "correct_answer": "Корова"
-  },
-  {
-    "id": 55,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот предмет?",
-    "image": "theme/images/Elytra.gif",
-    "incorrect_answers": [
-      "Крылья",
-      "Перо",
-      "Мыс"
-    ],
-    "correct_answer": "Элитра"
-  },
-  {
-    "id": 57,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что из этого вы можете использовать для приготовления зелий?",
-    "incorrect_answers": [
-      "Железная болванка",
-      "Золотая болванка",
-      "Эндер Перл"
-    ],
-    "correct_answer": "Блейз Род"
-  },
-  {
-    "id": 59,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется скин Minecraft по умолчанию?",
-    "incorrect_answers": [
-      "Алекс",
-      "Насечка",
-      "Херобрин"
-    ],
-    "correct_answer": "Стив"
-  },
-  {
-    "id": 60,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих блоков находится в конце?",
-    "incorrect_answers": [
-      "Netherrack",
-      "Грязь",
-      "Призмарин"
-    ],
-    "correct_answer": "Конечный камень"
-  },
-  {
-    "id": 64,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет можно использовать для стрижки овец?",
-    "incorrect_answers": [
-      "Меч",
-      "Ножницы",
-      "Топор"
-    ],
-    "correct_answer": "Ножницы"
-  },
-  {
-    "id": 66,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "На каком мобе можно покататься в Minecraft?",
-    "incorrect_answers": [
-      "Зомби",
-      "Скелет",
-      "Creeper"
-    ],
-    "correct_answer": "Лошадь"
-  },
-  {
-    "id": 67,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет нужен, чтобы приручить волка?",
-    "incorrect_answers": [
-      "Рыба",
-      "Пшеница",
-      "Apple"
-    ],
-    "correct_answer": "Кость"
-  },
-  {
-    "id": 70,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "С какого из этих мобов падают кости?",
-    "incorrect_answers": [
-      "Creeper",
-      "Зомби",
-      "Эндерман"
-    ],
-    "correct_answer": "Скелет"
-  },
-  {
-    "id": 74,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какие из этих блоков генерируются в Надземном мире?",
-    "incorrect_answers": [
-      "Netherrack",
-      "Конечный камень",
-      "Призмарин"
-    ],
-    "correct_answer": "Гранит"
-  },
-  {
-    "id": 78,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой моб нейтрален, пока не атакован?",
-    "incorrect_answers": [
-      "Зомби",
-      "Скелет",
-      "Creeper"
-    ],
-    "correct_answer": "Эндерман"
-  },
-  {
-    "id": 80,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какие из этих блоков генерируются в Недрах?",
-    "incorrect_answers": [
-      "Конечный камень",
-      "Обсидиан",
-      "Призмарин"
-    ],
-    "correct_answer": "Незерская кварцевая руда"
-  },
-  {
-    "id": 83,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет можно использовать для изготовления свинца?",
-    "incorrect_answers": [
-      "Строка",
-      "Кожа",
-      "Перо"
-    ],
-    "correct_answer": "Slimeball"
-  },
-  {
-    "id": 86,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется эта толпа?",
-    "image": "theme/images/Pig.gif",
-    "incorrect_answers": [
-      "Корова",
-      "Овцы",
-      "Курица"
-    ],
-    "correct_answer": "Свинья"
-  },
-  {
-    "id": 88,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за мафия?",
-    "image": "theme/images/Magma Cube.gif",
-    "incorrect_answers": [
-      "Слизь",
-      "Ghast",
-      "Увядание"
-    ],
-    "correct_answer": "Куб Магмы"
-  },
-  {
-    "id": 89,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот предмет?",
-    "image": "theme/images/Lead.gif",
-    "incorrect_answers": [
-      "Строка",
-      "Именная бирка",
-      "Веревка"
-    ],
-    "correct_answer": "Вести"
-  },
-  {
-    "id": 91,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих блоков не используется при варке зелий?",
-    "incorrect_answers": [
-      "Котел",
-      "Порошок Блейз",
-      "Подставка для пивоварения"
-    ],
-    "correct_answer": "Стол для рукоделия"
-  },
-  {
-    "id": 95,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой инструмент используется для добычи алмазов?",
-    "incorrect_answers": [
-      "Деревянная кирка",
-      "Каменная кирка",
-      "Алмазная кирка"
-    ],
-    "correct_answer": "Железная кирка"
-  },
-  {
-    "id": 96,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "В каком измерении обитает дракон Эндер?",
-    "incorrect_answers": [
-      "Overworld",
-      "Nether",
-      "Эфир"
-    ],
-    "correct_answer": "Конец"
-  },
-  {
-    "id": 97,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное применение Redstone в Minecraft?",
-    "incorrect_answers": [
-      "Инструменты для ремесла",
-      "Декорирование зданий",
-      "Создание ловушек"
-    ],
-    "correct_answer": "Механизмы питания"
-  },
-  {
-    "id": 98,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какие из этих блоков можно использовать для создания маяка?",
-    "incorrect_answers": [
-      "Нетеритовый блок",
-      "Алмазный блок",
-      "Изумрудный блок"
-    ],
-    "correct_answer": "Железный блок"
-  },
-  {
-    "id": 99,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каков максимальный уровень для зачарования предметов?",
-    "incorrect_answers": [
-      "50",
-      "100",
-      "20"
-    ],
-    "correct_answer": "30"
-  },
-  {
-    "id": 100,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания железного голема?",
-    "incorrect_answers": [
-      "Железная болванка",
-      "Железный самородок",
-      "Железная руда"
-    ],
-    "correct_answer": "Железный блок"
-  },
-  {
-    "id": 101,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется еда, которая восстанавливает наибольшее количество очков голода?",
-    "incorrect_answers": [
-      "Приготовленный свиной отбивной",
-      "Хлеб",
-      "Стейк"
-    ],
-    "correct_answer": "Золотая морковь"
-  },
-  {
-    "id": 102,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каких из этих мобов можно встретить в Недрах?",
-    "incorrect_answers": [
-      "Полярный медведь",
-      "Ведьма",
-      "Эндерман"
-    ],
-    "correct_answer": "Куб Магмы"
-  },
-  {
-    "id": 104,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания компаса?",
-    "incorrect_answers": [
-      "Redstone",
-      "Золотая болванка",
-      "Алмаз"
-    ],
-    "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 105,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется редкий предмет, выпадающий из босса Wither?",
-    "incorrect_answers": [
-      "Увядшая кость",
-      "Эндер Перл",
-      "Увядший череп"
-    ],
-    "correct_answer": "Неземная звезда"
-  },
-  {
-    "id": 106,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для приручения попугаев?",
-    "incorrect_answers": [
-      "Морковь",
-      "Apple",
-      "Пшеница"
-    ],
-    "correct_answer": "Семена"
-  },
-  {
-    "id": 108,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой биом известен своими высокими, тонкими елями?",
-    "incorrect_answers": [
-      "Джунгли",
-      "Саванна",
-      "Пустыня"
-    ],
-    "correct_answer": "Тайга"
-  },
-  {
-    "id": 109,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение точильного камня в Minecraft?",
-    "incorrect_answers": [
-      "Зачаровывание предметов",
-      "Создание доспехов",
-      "Варить зелья"
-    ],
-    "correct_answer": "Инструменты для ремонта"
-  },
-  {
-    "id": 110,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для изготовления поршня?",
-    "incorrect_answers": [
-      "Факел из красного камня",
-      "Деревянные доски",
-      "Булыжник"
-    ],
-    "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 112,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок обычно используется для создания зелий подводного дыхания?",
-    "incorrect_answers": [
-      "Светящийся камень",
-      "Коралл",
-      "Морской фонарь"
-    ],
-    "correct_answer": "Призмарин"
-  },
-  {
-    "id": 113,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение пюпитра в Minecraft?",
-    "incorrect_answers": [
-      "Зачаровывание предметов",
-      "Хранение книг",
-      "Написание книг"
-    ],
-    "correct_answer": "Чтение заклинаний"
-  },
-  {
-    "id": 114,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для разведения панд?",
-    "incorrect_answers": [
-      "Пшеница",
-      "Морковь",
-      "Дыня"
-    ],
-    "correct_answer": "Бамбук"
-  },
-  {
-    "id": 116,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каких из этих мобов можно встретить в биоме Грибного острова?",
-    "incorrect_answers": [
-      "Овцы",
-      "Creeper",
-      "Скелет"
-    ],
-    "correct_answer": "Mooshroom"
-  },
-  {
-    "id": 117,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется зелье, дающее игроку невидимость?",
-    "incorrect_answers": [
-      "Зелье стремительности",
-      "Зелье ночного видения",
-      "Зелье силы"
-    ],
-    "correct_answer": "Зелье невидимости"
-  },
-  {
-    "id": 118,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что из перечисленного необходимо для создания огненного заряда?",
-    "incorrect_answers": [
-      "Уголь",
-      "Порох",
-      "Блейз Род"
-    ],
-    "correct_answer": "Порошок Блейз"
-  },
-  {
-    "id": 120,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания якоря возрождения?",
-    "incorrect_answers": [
-      "Обсидиан",
-      "Нетеритовый блок",
-      "Древние обломки"
-    ],
-    "correct_answer": "Плачущий обсидиан"
-  },
-  {
-    "id": 122,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих блоков естественным образом генерируется в измерении End?",
-    "incorrect_answers": [
-      "Блок Пурпур",
-      "Кварцевый блок",
-      "Светящийся камень"
-    ],
-    "correct_answer": "Конечный камень"
-  },
-  {
-    "id": 123,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов необходим для создания тюка сена?",
-    "incorrect_answers": [
-      "Сенной блок",
-      "Морковь",
-      "Картофель"
-    ],
-    "correct_answer": "Пшеница"
-  },
-  {
-    "id": 124,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих элементов используется для создания датчика дневного света?",
-    "incorrect_answers": [
-      "Ретранслятор Redstone",
-      "Обозреватель",
-      "Бункер"
-    ],
-    "correct_answer": "Сравнительный анализ"
-  },
-  {
-    "id": 125,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется блок, который притягивает к себе близлежащие предметы?",
-    "incorrect_answers": [
-      "Кондуит",
-      "Губка",
-      "Магнитный блок"
-    ],
-    "correct_answer": "Бункер"
-  },
-  {
-    "id": 126,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок образуется в биоме Nether Wastes?",
-    "incorrect_answers": [
-      "Искаженный Найлиум",
-      "Багровый Нилиум",
-      "Песок души"
-    ],
-    "correct_answer": "Netherrack"
-  },
-  {
-    "id": 127,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение ткацкого станка в Minecraft?",
-    "incorrect_answers": [
-      "Приготовление еды",
-      "Создание доспехов",
-      "Инструменты для ремонта"
-    ],
-    "correct_answer": "Применение узоров для баннеров"
-  },
-  {
-    "id": 128,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для изготовления липкого поршня?",
-    "incorrect_answers": [
-      "Порошок Блейз",
-      "Крем Магма",
-      "Бутылка с медом"
-    ],
-    "correct_answer": "Slimeball"
-  },
-  {
-    "id": 130,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания фейерверочной ракеты?",
-    "incorrect_answers": [
-      "Перо",
-      "Строка",
-      "Светящаяся каменная пыль"
-    ],
-    "correct_answer": "Порох"
-  },
-  {
-    "id": 132,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания зелья дыхания дракона?",
-    "incorrect_answers": [
-      "Ферментированный паучий глаз",
-      "Светящаяся каменная пыль",
-      "Низинная бородавка"
-    ],
-    "correct_answer": "Дыхание дракона"
-  },
-  {
-    "id": 134,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания наковальни?",
-    "incorrect_answers": [
-      "Железная болванка",
-      "Железная руда",
-      "Железный самородок"
-    ],
-    "correct_answer": "Железный блок"
-  },
-  {
-    "id": 135,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение картографического стола в Minecraft?",
-    "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Варить зелья",
-      "Зачаровывание предметов"
-    ],
-    "correct_answer": "Создание карт"
-  },
-  {
-    "id": 136,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих мобов нейтрален, если его не спровоцировать?",
-    "incorrect_answers": [
-      "Creeper",
-      "Полярный медведь",
-      "Скелетная лошадь"
-    ],
-    "correct_answer": "Пиглин"
-  },
-  {
-    "id": 138,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов необходим для создания зелья огнестойкости?",
-    "incorrect_answers": [
-      "Порошок Блейз",
-      "Рыба-пуховик",
-      "Фантомная мембрана"
-    ],
-    "correct_answer": "Крем Магма"
-  },
-  {
-    "id": 140,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания целевого блока?",
-    "incorrect_answers": [
-      "Redstone",
-      "Железная болванка",
-      "Золотая болванка"
-    ],
-    "correct_answer": "Тюк сена"
-  },
-  {
-    "id": 141,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение компостного бака в Minecraft?",
-    "incorrect_answers": [
-      "Выращивание растений",
-      "Приготовление еды",
-      "Инструменты для ремонта"
-    ],
-    "correct_answer": "Получение костной муки"
-  },
-  {
-    "id": 142,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания спектральной стрелки?",
-    "incorrect_answers": [
-      "Стрела",
-      "Пыль Красного камня",
-      "Стрела с наконечником"
-    ],
-    "correct_answer": "Светящаяся каменная пыль"
-  },
-  {
-    "id": 144,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для изготовления колокольчика?",
-    "incorrect_answers": [
-      "Золотая болванка",
-      "Медная болванка",
-      "Изумруд"
-    ],
-    "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 146,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов необходим для создания целевого блока?",
-    "incorrect_answers": [
-      "Redstone",
-      "Железная болванка",
-      "Золотая болванка",
-      "Нетеритовый слиток"
-    ],
-    "correct_answer": "Тюк сена"
-  },
-  {
-    "id": 148,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "С какого из этих мобов выпадают слезы Гаста?",
-    "incorrect_answers": [
-      "Блейз",
-      "Куб Магмы",
-      "Страйдер"
-    ],
-    "correct_answer": "Ghast"
-  },
-  {
-    "id": 149,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется редкий блок, найденный в Конечном измерении, который можно использовать для получения очков возрождения?",
-    "incorrect_answers": [
-      "Конечный камень",
-      "Обсидиан",
-      "Bedrock"
-    ],
-    "correct_answer": "Плачущий обсидиан"
-  },
-  {
-    "id": 150,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания точильного камня?",
-    "incorrect_answers": [
-      "Железная руда",
-      "Булыжник",
-      "Железная болванка"
-    ],
-    "correct_answer": "Камень"
-  },
-  {
-    "id": 151,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется предмет, позволяющий игрокам менять точку спавна?",
-    "incorrect_answers": [
-      "Компас",
-      "Часы",
-      "Карта"
-    ],
-    "correct_answer": "Кровать"
-  },
-  {
-    "id": 152,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих элементов используется для создания блока заметок?",
-    "incorrect_answers": [
-      "Деревянные доски",
-      "Примечание",
-      "Железная болванка"
-    ],
-    "correct_answer": "Redstone"
-  },
-  {
-    "id": 154,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов необходим для создания маяка?",
-    "incorrect_answers": [
-      "Изумруд",
-      "Нетеритовый слиток",
-      "Глаз Эндера"
-    ],
-    "correct_answer": "Неземная звезда"
-  },
-  {
-    "id": 155,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания трезубца?",
-    "incorrect_answers": [
-      "Золотая болванка",
-      "Железная болванка",
-      "Алмаз"
-    ],
-    "correct_answer": "Раковина наутилуса"
-  },
-  {
-    "id": 156,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания костра?",
-    "incorrect_answers": [
-      "Камень",
-      "Железная болванка",
-      "Булыжник"
-    ],
-    "correct_answer": "Палка"
-  },
-  {
-    "id": 157,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение кузнечного стола в Minecraft?",
-    "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Зачаровывание предметов",
-      "Декорирование зданий"
-    ],
-    "correct_answer": "Создание доспехов"
-  },
-  {
-    "id": 158,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания ретранслятора красного камня?",
-    "incorrect_answers": [
-      "Камень",
-      "Redstone",
-      "Кварц"
-    ],
-    "correct_answer": "Факел из красного камня"
-  },
-  {
-    "id": 160,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания кузнечного стола?",
-    "incorrect_answers": [
-      "Деревянные доски",
-      "Камень",
-      "Обсидиан"
-    ],
-    "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 161,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение курильщика в Minecraft?",
-    "incorrect_answers": [
-      "Плавление руд",
-      "Варить зелья",
-      "Инструменты для ремесла"
-    ],
-    "correct_answer": "Приготовление еды"
-  },
-  {
-    "id": 162,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих элементов используется для создания медового блока?",
-    "incorrect_answers": [
-      "Бутылка с медом",
-      "Сахар",
-      "Порошок Блейз"
-    ],
-    "correct_answer": "Соты"
-  },
-  {
-    "id": 164,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для изготовления компостера?",
-    "incorrect_answers": [
-      "Забор",
-      "Ворота для забора",
-      "Ловушка"
-    ],
-    "correct_answer": "Деревянные доски"
-  },
-  {
-    "id": 165,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение котла в Minecraft?",
-    "incorrect_answers": [
-      "Плавление руд",
-      "Приготовление еды",
-      "Хранение воды"
-    ],
-    "correct_answer": "Варить зелья"
-  },
-  {
-    "id": 166,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих элементов используется для создания картографической таблицы?",
-    "incorrect_answers": [
-      "Бумага",
-      "Стеклопакет",
-      "Книжная полка"
-    ],
-    "correct_answer": "Компас"
-  },
-  {
-    "id": 167,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов необходим для создания зелья регенерации?",
-    "incorrect_answers": [
-      "Светящаяся каменная пыль",
-      "Ферментированный паучий глаз",
-      "Рыба-пуховик"
-    ],
-    "correct_answer": "Слеза Гаста"
-  },
-  {
-    "id": 169,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для изготовления кузнечного стола?",
-    "incorrect_answers": [
-      "Камень",
-      "Дубовые доски",
-      "Обсидиан"
-    ],
-    "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 170,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное применение подставки для варки в Minecraft?",
-    "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Плавление руд",
-      "Приготовление еды"
-    ],
-    "correct_answer": "Варить зелья"
-  },
-  {
-    "id": 171,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания зелья силы?",
-    "incorrect_answers": [
-      "Слеза Гаста",
-      "Крем Магма",
-      "Ферментированный паучий глаз"
-    ],
-    "correct_answer": "Порошок Блейз"
-  },
-  {
-    "id": 173,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания доменной печи?",
-    "incorrect_answers": [
-      "Железная болванка",
-      "Коптильня",
-      "Гладкий камень"
-    ],
-    "correct_answer": "Печь"
-  },
-  {
-    "id": 174,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение пюпитра в Minecraft?",
-    "incorrect_answers": [
-      "Хранение книг",
-      "Создание карт",
-      "Написание книг"
-    ],
-    "correct_answer": "Чтение заклинаний"
-  },
-  {
-    "id": 175,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания точильного камня?",
-    "incorrect_answers": [
-      "Кузнечный стол",
-      "Наковальня",
-      "Деревянные доски"
-    ],
-    "correct_answer": "Камень"
-  },
-  {
-    "id": 176,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания стола для флетчинга?",
-    "incorrect_answers": [
-      "Перо",
-      "Стрела",
-      "Строка"
-    ],
-    "correct_answer": "Деревянные доски"
-  },
-  {
-    "id": 177,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется предмет, используемый для зачарования инструментов и доспехов?",
-    "incorrect_answers": [
-      "Заколдованная книга",
-      "Книжная полка",
-      "Бутылка для опытов"
-    ],
-    "correct_answer": "Стол зачарования"
-  },
-  {
-    "id": 178,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания ткацкого станка?",
-    "incorrect_answers": [
-      "Шерсть",
-      "Хлопок",
-      "Шелк"
-    ],
-    "correct_answer": "Строка"
-  },
-  {
-    "id": 180,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок используется для создания картографической таблицы?",
-    "incorrect_answers": [
-      "Компас",
-      "Бумага",
-      "Стеклопакет"
-    ],
-    "correct_answer": "Деревянные доски"
-  },
-  {
-    "id": 181,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное использование картографического стола в Minecraft?",
-    "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Плавление руд",
-      "Приготовление еды"
-    ],
-    "correct_answer": "Создание карт"
-  },
-  {
-    "id": 184,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих предметов используется для создания кузнечного стола?",
-    "incorrect_answers": [
-      "Камень",
-      "Дубовые доски",
-      "Обсидиан"
-    ],
-    "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 185,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение курильщика в Minecraft?",
-    "incorrect_answers": [
-      "Плавление руд",
-      "Варить зелья",
-      "Инструменты для ремесла"
-    ],
-    "correct_answer": "Приготовление еды"
-  },
-  {
-    "id": 1,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой инструмент необходим для добычи алмазов?",
-    "incorrect_answers": [
-      "Деревянная кирка",
-      "Каменная кирка",
-      "Золотая кирка"
-    ],
-    "correct_answer": "Железная кирка"
-  },
-  {
-    "id": 2,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "С какого моба падает жемчуг Эндера?",
-    "incorrect_answers": [
-      "Зомби",
-      "Скелет",
-      "Creeper"
-    ],
-    "correct_answer": "Эндерман"
-  },
-  {
-    "id": 3,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет необходим для активации портала в пустоту?",
-    "incorrect_answers": [
-      "Факел",
-      "Redstone",
-      "Ведро для лавы"
-    ],
-    "correct_answer": "Кремень и сталь"
-  },
-  {
-    "id": 4,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что является самым прочным материалом для изготовления инструментов и доспехов?",
-    "incorrect_answers": [
-      "Железо",
-      "Алмаз",
-      "Золото"
-    ],
-    "correct_answer": "Нетерит"
-  },
-  {
-    "id": 5,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Сколько деревянных досок нужно для изготовления стола для рукоделия?",
-    "incorrect_answers": [
-      "2",
-      "3",
-      "5"
-    ],
-    "correct_answer": "4"
-  },
-  {
-    "id": 6,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Для выращивания какой культуры не требуется вода?",
-    "incorrect_answers": [
-      "Пшеница",
-      "Морковь",
-      "Картофель"
-    ],
-    "correct_answer": "Кактусы"
-  },
-  {
-    "id": 7,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой из этих мобов является эксклюзивным для Nether?",
-    "incorrect_answers": [
-      "Зомби",
-      "Creeper",
-      "Скелет"
-    ],
-    "correct_answer": "Ghast"
-  },
-  {
-    "id": 8,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой материал можно использовать для приручения кошки?",
-    "incorrect_answers": [
-      "Молоко",
-      "Мясо",
-      "Кость"
-    ],
-    "correct_answer": "Рыба"
-  },
-  {
-    "id": 9,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как сделать большой сундук?",
-    "incorrect_answers": [
-      "Четыре сундука в квадрате",
-      "Два сложенных сундука",
-      "Четыре сундука в одной линии"
-    ],
-    "correct_answer": "Два сундука рядом друг с другом"
-  },
-  {
-    "id": 10,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что можно использовать для ускорения роста растений?",
-    "incorrect_answers": [
-      "Вода",
-      "Лава",
-      "Грязь"
-    ],
-    "correct_answer": "Костная мука"
-  },
-  {
-    "id": 11,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот блок?",
-    "image": "theme/images/Diamond Block.gif",
-    "incorrect_answers": [
-      "Блок Lapis",
-      "Изумрудный блок",
-      "Железный блок"
-    ],
-    "correct_answer": "Алмазный блок"
-  },
-  {
-    "id": 12,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Определите этот биом:",
-    "image": "theme/images/Taiga.gif",
-    "incorrect_answers": [
-      "Лес",
-      "Пустыня",
-      "Джунгли"
-    ],
-    "correct_answer": "Тайга"
-  },
-  {
-    "id": 13,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какая структура изображена здесь?",
-    "image": "theme/images/Jungle Temple.gif",
-    "incorrect_answers": [
-      "Деревня",
-      "Храм в пустыне",
-      "Стронгхолд"
-    ],
-    "correct_answer": "Храм в джунглях"
-  },
-  {
-    "id": 14,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой это блок?",
-    "image": "theme/images/Emerald Ore.gif",
-    "incorrect_answers": [
-      "Алмазная руда",
-      "Железная руда",
-      "Руда Красного камня"
-    ],
-    "correct_answer": "Изумрудная руда"
-  },
-  {
-    "id": 15,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за предмет?",
-    "image": "theme/images/Bow.gif",
-    "incorrect_answers": [
-      "Арбалет",
-      "Рыболовная удочка",
-      "Меч"
-    ],
-    "correct_answer": "Лук"
-  },
-  {
-    "id": 16,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется босс-моб, которого можно найти в лесном особняке?",
-    "incorrect_answers": [
-      "Мститель",
-      "Иллюзионист",
-      "Pillager"
-    ],
-    "correct_answer": "Evoker"
-  },
-  {
-    "id": 17,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет нужен для варки зелий?",
-    "incorrect_answers": [
-      "Стол для рукоделия",
-      "Печь",
-      "Котел"
-    ],
-    "correct_answer": "Подставка для пивоварения"
-  },
-  {
-    "id": 18,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой биом известен своими крупными грибами?",
-    "incorrect_answers": [
-      "Болото",
-      "Лес",
-      "Джунгли"
-    ],
-    "correct_answer": "Грибные поля"
-  },
-  {
-    "id": 19,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Из какого материала в основном изготавливается маяк?",
-    "incorrect_answers": [
-      "Обсидиан",
-      "Железо",
-      "Алмаз"
-    ],
-    "correct_answer": "Стекло"
-  },
-  {
-    "id": 20,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет необходим для изготовления компаса?",
-    "incorrect_answers": [
-      "Золото",
-      "Lapis",
-      "Обсидиан"
-    ],
-    "correct_answer": "Redstone"
-  },
-  {
-    "id": 21,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется эта толпа?",
-    "image": "theme/images/Enderman.gif",
-    "incorrect_answers": [
-      "Эндермит",
-      "Шулькер",
-      "Увядание"
-    ],
-    "correct_answer": "Эндерман"
-  },
-  {
-    "id": 22,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот блок?",
-    "image": "theme/images/Anvil.gif",
-    "incorrect_answers": [
-      "Печь",
-      "Grindstone",
-      "Кузнечный стол"
-    ],
-    "correct_answer": "Наковальня"
-  },
-  {
-    "id": 23,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какая руда изображена здесь?",
-    "image": "theme/images/Iron Ore.gif",
-    "incorrect_answers": [
-      "Золотая руда",
-      "Угольная руда",
-      "Алмазная руда"
-    ],
-    "correct_answer": "Железная руда"
-  },
-  {
-    "id": 24,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какое заклинание увеличивает урон, наносимый мобам-нежити?",
-    "incorrect_answers": [
-      "Резкость",
-      "Бич членистоногих",
-      "Мощность"
-    ],
-    "correct_answer": "Smite"
-  },
-  {
-    "id": 25,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что можно использовать для окрашивания овец?",
-    "incorrect_answers": [
-      "Костная мука",
-      "Lapis",
-      "Чернильный мешок"
-    ],
-    "correct_answer": "Краситель"
-  },
-  {
-    "id": 26,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок изображен здесь?",
-    "image": "theme/images/TNT.gif",
-    "incorrect_answers": [
-      "Блок красного камня",
-      "Песок",
-      "Бетон"
-    ],
-    "correct_answer": "TNT"
-  },
-  {
-    "id": 27,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет используется для разведения коров?",
-    "incorrect_answers": [
-      "Морковь",
-      "Картофель",
-      "Яблоки"
-    ],
-    "correct_answer": "Пшеница"
-  },
-  {
-    "id": 28,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Для чего нужна карта в Minecraft?",
-    "incorrect_answers": [
-      "Найдите руды",
-      "Найти мобов",
-      "Хранить предметы"
-    ],
-    "correct_answer": "Навигация по миру"
-  },
-  {
-    "id": 29,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок вам нужно создать, чтобы хранить XP?",
-    "incorrect_answers": [
-      "Наковальня",
-      "Grindstone",
-      "Loom"
-    ],
-    "correct_answer": "Бутылка для опытов"
-  },
-  {
-    "id": 30,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какая мафия изображена здесь?",
-    "image": "theme/images/Wither Skeleton.gif",
-    "incorrect_answers": [
-      "Скелет",
-      "Увядание",
-      "Эндерман"
-    ],
-    "correct_answer": "Увядший скелет"
-  },
-  {
-    "id": 31,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за дерево?",
-    "image": "theme/images/Dark Oak.gif",
-    "incorrect_answers": [
-      "Береза",
-      "Джунгли",
-      "Дуб"
-    ],
-    "correct_answer": "Темный дуб"
-  },
-  {
-    "id": 32,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой предмет вам нужен, чтобы зажечь портал в пустоту?",
-    "incorrect_answers": [
-      "Факел",
-      "Огненный заряд",
-      "Лава"
-    ],
-    "correct_answer": "Кремень и сталь"
-  },
-  {
-    "id": 33,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за блок в Minecraft?",
-    "image": "theme/images/Furnace.gif",
-    "incorrect_answers": [
-      "Стол для рукоделия",
-      "Грудь",
-      "Диспенсер"
-    ],
-    "correct_answer": "Печь"
-  },
-  {
-    "id": 34,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой инструмент необходим для добычи обсидиана?",
-    "incorrect_answers": [
-      "Деревянная кирка",
-      "Каменная кирка",
-      "Железная кирка"
-    ],
-    "correct_answer": "Алмазная кирка"
-  },
-  {
-    "id": 35,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется эта структура?",
-    "image": "theme/images/Nether Fortress.gif",
-    "incorrect_answers": [
-      "Деревня",
-      "Стронгхолд",
-      "Храм в пустыне"
-    ],
-    "correct_answer": "Неземная крепость"
+    "correct_answer": "подземная крепость"
   },
   {
     "id": 36,
@@ -2225,13 +473,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Blaze.gif",
+    "image": "minecraft/images/Blaze.png",
     "incorrect_answers": [
-      "Куб Магмы",
-      "Ghast",
-      "Увядший скелет"
+      "магматический куб",
+      "ghast",
+      "скелет"
     ],
-    "correct_answer": "Блейз"
+    "correct_answer": "пламя"
   },
   {
     "id": 37,
@@ -2240,11 +488,11 @@
     "category": "minecraft",
     "question": "Какой блок необходим для изготовления кровати?",
     "incorrect_answers": [
-      "Железо",
-      "Redstone",
-      "Обсидиан"
+      "железо",
+      "redstone",
+      "обсидиан"
     ],
-    "correct_answer": "Шерсть"
+    "correct_answer": "шерсть"
   },
   {
     "id": 38,
@@ -2253,11 +501,11 @@
     "category": "minecraft",
     "question": "Что является основным ингредиентом для приготовления зелий?",
     "incorrect_answers": [
-      "Бутылка для воды",
-      "Redstone",
-      "Светящийся камень"
+      "бутылка для воды",
+      "redstone",
+      "светящийся камень"
     ],
-    "correct_answer": "Порошок Блейз"
+    "correct_answer": "жгучий порошок"
   },
   {
     "id": 39,
@@ -2265,13 +513,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется это растение?",
-    "image": "theme/images/Nether Wart.gif",
+    "image": "minecraft/images/Nether Wart.png",
     "incorrect_answers": [
-      "Кактус",
-      "Сахарный тростник",
-      "Пшеница"
+      "кактус",
+      "сахарный тростник",
+      "пшеница"
     ],
-    "correct_answer": "Низинная бородавка"
+    "correct_answer": "сетчатая бородавка"
   },
   {
     "id": 40,
@@ -2279,13 +527,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/End Stone.gif",
+    "image": "minecraft/images/End Stone.png",
     "incorrect_answers": [
-      "Песчаник",
-      "Кварц",
-      "Призмарин"
+      "песчаник",
+      "кварц",
+      "призмарин"
     ],
-    "correct_answer": "Конечный камень"
+    "correct_answer": "торцевой камень"
   },
   {
     "id": 41,
@@ -2294,11 +542,11 @@
     "category": "minecraft",
     "question": "С помощью какого предмета можно оседлать свинью?",
     "incorrect_answers": [
-      "Морковка на палочке",
-      "Вести",
-      "Пшеница"
+      "морковка на палочке",
+      "свинец",
+      "пшеница"
     ],
-    "correct_answer": "Седло"
+    "correct_answer": "седло"
   },
   {
     "id": 42,
@@ -2306,13 +554,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Stronghold.gif",
+    "image": "minecraft/images/Stronghold.png",
     "incorrect_answers": [
-      "Деревня",
-      "Храм в пустыне",
-      "Храм в джунглях"
+      "деревня",
+      "храм в пустыне",
+      "храм в джунглях"
     ],
-    "correct_answer": "Стронгхолд"
+    "correct_answer": "твердыня"
   },
   {
     "id": 43,
@@ -2320,13 +568,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой биом изображен здесь?",
-    "image": "theme/images/Savanna.gif",
+    "image": "minecraft/images/Savanna.png",
     "incorrect_answers": [
-      "Равнины",
-      "Пустыня",
-      "Тайга"
+      "равнины",
+      "пустыня",
+      "тайга"
     ],
-    "correct_answer": "Саванна"
+    "correct_answer": "саванна"
   },
   {
     "id": 44,
@@ -2335,11 +583,11 @@
     "category": "minecraft",
     "question": "Какой предмет можно получить, убив Блейза?",
     "incorrect_answers": [
-      "Порошок Блейз",
-      "Огненный заряд",
-      "Крем Магма"
+      "жгучий порошок",
+      "огневой заряд",
+      "крем магма"
     ],
-    "correct_answer": "Блейз Род"
+    "correct_answer": "пылающий стержень"
   },
   {
     "id": 45,
@@ -2347,13 +595,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Beacon.gif",
+    "image": "minecraft/images/Beacon.png",
     "incorrect_answers": [
-      "Стекло",
-      "Морской фонарь",
-      "Торцевой кристалл"
+      "стекло",
+      "морской фонарь",
+      "конечный кристалл"
     ],
-    "correct_answer": "Маяк"
+    "correct_answer": "маяк"
   },
   {
     "id": 46,
@@ -2362,11 +610,11 @@
     "category": "minecraft",
     "question": "Какой блок можно использовать для выплавки предметов?",
     "incorrect_answers": [
-      "Стол для рукоделия",
-      "Наковальня",
-      "Grindstone"
+      "стол для рукоделия",
+      "наковальня",
+      "точильный камень"
     ],
-    "correct_answer": "Печь"
+    "correct_answer": "печь"
   },
   {
     "id": 47,
@@ -2374,13 +622,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Ice Spike.gif",
+    "image": "minecraft/images/Ice Spike.png",
     "incorrect_answers": [
-      "Igloo",
-      "Заснеженная тундра",
-      "Морозная башня"
+      "Иглу",
+      "заснеженная тундра",
+      "морозная башня"
     ],
-    "correct_answer": "Ледяной шип"
+    "correct_answer": "ледяной шип"
   },
   {
     "id": 48,
@@ -2388,13 +636,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за предмет?",
-    "image": "theme/images/Compass.gif",
+    "image": "minecraft/images/Compass.png",
     "incorrect_answers": [
-      "Часы",
-      "Карта",
-      "Подзорная труба"
+      "часы",
+      "карта",
+      "подзорная труба"
     ],
-    "correct_answer": "Компас"
+    "correct_answer": "компас"
   },
   {
     "id": 49,
@@ -2403,11 +651,11 @@
     "category": "minecraft",
     "question": "Что можно использовать для изготовления лука?",
     "incorrect_answers": [
-      "Дерево, железо, струна",
-      "Палка, струна, перо",
-      "Палка, струна, слизняк"
+      "дерево, железо, веревка",
+      "палка, веревка, перо",
+      "палка, нитка, слизняк"
     ],
-    "correct_answer": "Палка, струна"
+    "correct_answer": "палка, струна"
   },
   {
     "id": 50,
@@ -2415,13 +663,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/Quartz Block.gif",
+    "image": "minecraft/images/Quartz Block.png",
     "incorrect_answers": [
-      "Снежный блок",
-      "Глиняный блок",
-      "Белый бетон"
+      "снежный блок",
+      "глиняный блок",
+      "белый бетон"
     ],
-    "correct_answer": "Кварцевый блок"
+    "correct_answer": "кварцевый блок"
   },
   {
     "id": 51,
@@ -2430,11 +678,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов не является съедобным в Minecraft?",
     "incorrect_answers": [
-      "Apple",
-      "Хлеб",
-      "Морковь"
+      "яблоко",
+      "хлеб",
+      "морковь"
     ],
-    "correct_answer": "Кожа"
+    "correct_answer": "кожа"
   },
   {
     "id": 52,
@@ -2442,13 +690,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот биом?",
-    "image": "theme/images/Jungle.gif",
+    "image": "minecraft/images/Jungle.png",
     "incorrect_answers": [
-      "Лес",
-      "Тайга",
-      "Болото"
+      "лес",
+      "тайга",
+      "болото"
     ],
-    "correct_answer": "Джунгли"
+    "correct_answer": "джунгли"
   },
   {
     "id": 53,
@@ -2457,11 +705,11 @@
     "category": "minecraft",
     "question": "С какого моба можно сбросить кожу?",
     "incorrect_answers": [
-      "Овцы",
-      "Свинья",
-      "Курица"
+      "овцы",
+      "свинья",
+      "курица"
     ],
-    "correct_answer": "Корова"
+    "correct_answer": "корова"
   },
   {
     "id": 54,
@@ -2469,13 +717,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Spawner.gif",
+    "image": "minecraft/images/Spawner.png",
     "incorrect_answers": [
-      "Стол для рукоделия",
-      "Грудь",
-      "Наковальня"
+      "стол для рукоделия",
+      "грудь",
+      "наковальня"
     ],
-    "correct_answer": "Нерестовик"
+    "correct_answer": "нерестовик"
   },
   {
     "id": 55,
@@ -2483,13 +731,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Elytra.gif",
+    "image": "minecraft/images/Elytra.png",
     "incorrect_answers": [
-      "Крылья",
-      "Перо",
-      "Мыс"
+      "крылья",
+      "перо",
+      "мыс"
     ],
-    "correct_answer": "Элитра"
+    "correct_answer": "надкрылья"
   },
   {
     "id": 56,
@@ -2497,13 +745,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/End City.gif",
+    "image": "minecraft/images/End City.png",
     "incorrect_answers": [
-      "Конечный портал",
-      "Стронгхолд",
-      "Неземная крепость"
+      "конечный портал",
+      "твердыня",
+      "подземная крепость"
     ],
-    "correct_answer": "Конечный город"
+    "correct_answer": "конечный город"
   },
   {
     "id": 57,
@@ -2512,11 +760,11 @@
     "category": "minecraft",
     "question": "Что из этого вы можете использовать для приготовления зелий?",
     "incorrect_answers": [
-      "Железная болванка",
-      "Золотая болванка",
-      "Эндер Перл"
+      "железный слиток",
+      "золотой слиток",
+      "жемчужина эндера"
     ],
-    "correct_answer": "Блейз Род"
+    "correct_answer": "пылающий стержень"
   },
   {
     "id": 58,
@@ -2524,13 +772,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Desert Temple.gif",
+    "image": "minecraft/images/Desert Temple.png",
     "incorrect_answers": [
-      "Деревня",
-      "Храм в джунглях",
-      "Стронгхолд"
+      "деревня",
+      "храм в джунглях",
+      "твердыня"
     ],
-    "correct_answer": "Храм в пустыне"
+    "correct_answer": "храм в пустыне"
   },
   {
     "id": 59,
@@ -2539,9 +787,9 @@
     "category": "minecraft",
     "question": "Как называется скин Minecraft по умолчанию?",
     "incorrect_answers": [
-      "Алекс",
-      "Насечка",
-      "Херобрин"
+      "алекс",
+      "выемка",
+      "Геробрина"
     ],
     "correct_answer": "Стив"
   },
@@ -2552,11 +800,11 @@
     "category": "minecraft",
     "question": "Какой из этих блоков находится в конце?",
     "incorrect_answers": [
-      "Netherrack",
-      "Грязь",
-      "Призмарин"
+      "netherrack",
+      "грязь",
+      "призмарин"
     ],
-    "correct_answer": "Конечный камень"
+    "correct_answer": "торцевой камень"
   },
   {
     "id": 61,
@@ -2564,13 +812,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Sea Lantern.gif",
+    "image": "minecraft/images/Sea Lantern.png",
     "incorrect_answers": [
-      "Светящийся камень",
-      "Shroomlight",
-      "Маяк"
+      "светящийся камень",
+      "shroomlight",
+      "маяк"
     ],
-    "correct_answer": "Морской фонарь"
+    "correct_answer": "морской фонарь"
   },
   {
     "id": 62,
@@ -2578,13 +826,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Ocean Monument.gif",
+    "image": "minecraft/images/Ocean Monument.png",
     "incorrect_answers": [
-      "Кораблекрушение",
-      "Стронгхолд",
-      "Коралловый риф"
+      "затонувший корабль",
+      "твердыня",
+      "коралловый риф"
     ],
-    "correct_answer": "Памятник океану"
+    "correct_answer": "памятник океану"
   },
   {
     "id": 63,
@@ -2592,13 +840,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/Netherite Block.gif",
+    "image": "minecraft/images/Netherite Block.png",
     "incorrect_answers": [
-      "Алмазный блок",
-      "Железный блок",
-      "Угольный блок"
+      "алмазный блок",
+      "железный блок",
+      "угольный блок"
     ],
-    "correct_answer": "Нетеритовый блок"
+    "correct_answer": "блок нетерита"
   },
   {
     "id": 64,
@@ -2607,11 +855,11 @@
     "category": "minecraft",
     "question": "Какой предмет можно использовать для стрижки овец?",
     "incorrect_answers": [
-      "Меч",
-      "Ножницы",
-      "Топор"
+      "меч",
+      "ножницы",
+      "топор"
     ],
-    "correct_answer": "Ножницы"
+    "correct_answer": "ножницы"
   },
   {
     "id": 65,
@@ -2619,13 +867,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Lapis Lazuli Ore.gif",
+    "image": "minecraft/images/Lapis Lazuli Ore.png",
     "incorrect_answers": [
-      "Алмазная руда",
-      "Изумрудная руда",
-      "Руда Красного камня"
+      "алмазная руда",
+      "изумрудная руда",
+      "краснокаменная руда"
     ],
-    "correct_answer": "Лазуритовая руда"
+    "correct_answer": "лазуритовая руда"
   },
   {
     "id": 66,
@@ -2634,11 +882,11 @@
     "category": "minecraft",
     "question": "На каком мобе можно покататься в Minecraft?",
     "incorrect_answers": [
-      "Зомби",
-      "Скелет",
-      "Creeper"
+      "зомби",
+      "скелет",
+      "ползучий"
     ],
-    "correct_answer": "Лошадь"
+    "correct_answer": "лошадь"
   },
   {
     "id": 67,
@@ -2647,11 +895,11 @@
     "category": "minecraft",
     "question": "Какой предмет нужен, чтобы приручить волка?",
     "incorrect_answers": [
-      "Рыба",
-      "Пшеница",
-      "Apple"
+      "рыба",
+      "пшеница",
+      "яблоко"
     ],
-    "correct_answer": "Кость"
+    "correct_answer": "кость"
   },
   {
     "id": 68,
@@ -2659,13 +907,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Ender Pearl.gif",
+    "image": "minecraft/images/Ender Pearl.png",
     "incorrect_answers": [
-      "Глаз Эндера",
-      "Slimeball",
-      "Призмариновый осколок"
+      "глаз эндера",
+      "слизеринец",
+      "осколок призмарина"
     ],
-    "correct_answer": "Эндер Перл"
+    "correct_answer": "жемчужина эндера"
   },
   {
     "id": 69,
@@ -2673,13 +921,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Igloo.gif",
+    "image": "minecraft/images/Igloo.png",
     "incorrect_answers": [
-      "Ледяные шипы",
-      "Заснеженная тундра",
-      "Морозная башня"
+      "ледяные шипы",
+      "заснеженная тундра",
+      "морозная башня"
     ],
-    "correct_answer": "Igloo"
+    "correct_answer": "Иглу"
   },
   {
     "id": 70,
@@ -2688,11 +936,11 @@
     "category": "minecraft",
     "question": "С какого из этих мобов падают кости?",
     "incorrect_answers": [
-      "Creeper",
-      "Зомби",
-      "Эндерман"
+      "ползучий",
+      "зомби",
+      "эндерман"
     ],
-    "correct_answer": "Скелет"
+    "correct_answer": "скелет"
   },
   {
     "id": 71,
@@ -2700,13 +948,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Golden Apple.gif",
+    "image": "minecraft/images/Golden Apple.png",
     "incorrect_answers": [
-      "Золотая морковь",
-      "Заколдованное яблоко",
-      "Apple"
+      "золотая морковь",
+      "заколдованное яблоко",
+      "яблоко"
     ],
-    "correct_answer": "Золотое яблоко"
+    "correct_answer": "золотое яблоко"
   },
   {
     "id": 72,
@@ -2714,13 +962,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Redstone Block.gif",
+    "image": "minecraft/images/Redstone Block.png",
     "incorrect_answers": [
-      "Железный блок",
-      "Алмазный блок",
-      "Золотой блок"
+      "железный блок",
+      "алмазный блок",
+      "золотой блок"
     ],
-    "correct_answer": "Блок красного камня"
+    "correct_answer": "блок красного камня"
   },
   {
     "id": 73,
@@ -2728,13 +976,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Shipwreck.gif",
+    "image": "minecraft/images/Shipwreck.png",
     "incorrect_answers": [
-      "Памятник океану",
-      "Стронгхолд",
-      "Коралловый риф"
+      "памятник океану",
+      "твердыня",
+      "коралловый риф"
     ],
-    "correct_answer": "Кораблекрушение"
+    "correct_answer": "затонувший корабль"
   },
   {
     "id": 74,
@@ -2743,11 +991,11 @@
     "category": "minecraft",
     "question": "Какие из этих блоков генерируются в Надземном мире?",
     "incorrect_answers": [
-      "Netherrack",
-      "Конечный камень",
-      "Призмарин"
+      "netherrack",
+      "торцевой камень",
+      "призмарин"
     ],
-    "correct_answer": "Гранит"
+    "correct_answer": "гранит"
   },
   {
     "id": 75,
@@ -2755,13 +1003,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Mossy Cobblestone.gif",
+    "image": "minecraft/images/Mossy Cobblestone.png",
     "incorrect_answers": [
-      "Булыжник",
-      "Камень",
-      "Диорит"
+      "булыжник",
+      "камень",
+      "диорит"
     ],
-    "correct_answer": "Моховой булыжник"
+    "correct_answer": "мшистый булыжник"
   },
   {
     "id": 76,
@@ -2769,13 +1017,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Totem of Undying.gif",
+    "image": "minecraft/images/Totem of Undying.png",
     "incorrect_answers": [
-      "Золотое яблоко",
-      "Изумруд",
-      "Торцевой кристалл"
+      "золотое яблоко",
+      "изумруд",
+      "конечный кристалл"
     ],
-    "correct_answer": "Тотем неумирающего"
+    "correct_answer": "тотем неумирающего"
   },
   {
     "id": 77,
@@ -2783,13 +1031,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/Netherrack.gif",
+    "image": "minecraft/images/Netherrack.png",
     "incorrect_answers": [
-      "Нижний кирпич",
-      "Redstone",
-      "Обсидиан"
+      "чистый кирпич",
+      "redstone",
+      "обсидиан"
     ],
-    "correct_answer": "Netherrack"
+    "correct_answer": "netherrack"
   },
   {
     "id": 78,
@@ -2798,11 +1046,11 @@
     "category": "minecraft",
     "question": "Какой моб нейтрален, пока не атакован?",
     "incorrect_answers": [
-      "Зомби",
-      "Скелет",
-      "Creeper"
+      "зомби",
+      "скелет",
+      "ползучий"
     ],
-    "correct_answer": "Эндерман"
+    "correct_answer": "эндерман"
   },
   {
     "id": 79,
@@ -2810,13 +1058,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Name Tag.gif",
+    "image": "minecraft/images/Name Tag.png",
     "incorrect_answers": [
-      "Бумага",
-      "Карта",
-      "Вести"
+      "бумага",
+      "карта",
+      "свинец"
     ],
-    "correct_answer": "Именная бирка"
+    "correct_answer": "табличка с именем"
   },
   {
     "id": 80,
@@ -2825,11 +1073,11 @@
     "category": "minecraft",
     "question": "Какие из этих блоков генерируются в Недрах?",
     "incorrect_answers": [
-      "Конечный камень",
-      "Обсидиан",
-      "Призмарин"
+      "торцевой камень",
+      "обсидиан",
+      "призмарин"
     ],
-    "correct_answer": "Незерская кварцевая руда"
+    "correct_answer": "чистая кварцевая руда"
   },
   {
     "id": 81,
@@ -2837,13 +1085,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Bucket.gif",
+    "image": "minecraft/images/Bucket.png",
     "incorrect_answers": [
-      "Чаша",
-      "Котел",
-      "Бутылка"
+      "чаша",
+      "казан",
+      "бутылка"
     ],
-    "correct_answer": "Ведро"
+    "correct_answer": "ведро"
   },
   {
     "id": 82,
@@ -2851,13 +1099,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Obsidian.gif",
+    "image": "minecraft/images/Obsidian.png",
     "incorrect_answers": [
-      "Уголь",
-      "Bedrock",
-      "Камень"
+      "уголь",
+      "скала",
+      "камень"
     ],
-    "correct_answer": "Обсидиан"
+    "correct_answer": "обсидиан"
   },
   {
     "id": 83,
@@ -2866,11 +1114,11 @@
     "category": "minecraft",
     "question": "Какой предмет можно использовать для изготовления свинца?",
     "incorrect_answers": [
-      "Строка",
-      "Кожа",
-      "Перо"
+      "строка",
+      "кожа",
+      "перо"
     ],
-    "correct_answer": "Slimeball"
+    "correct_answer": "слизеринец"
   },
   {
     "id": 84,
@@ -2878,13 +1126,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "theme/images/Gold Ore.gif",
+    "image": "minecraft/images/Gold Ore.png",
     "incorrect_answers": [
-      "Железная руда",
-      "Угольная руда",
-      "Руда Красного камня"
+      "железная руда",
+      "угольная руда",
+      "краснокаменная руда"
     ],
-    "correct_answer": "Золотая руда"
+    "correct_answer": "золотая руда"
   },
   {
     "id": 85,
@@ -2892,13 +1140,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Clock.gif",
+    "image": "minecraft/images/Clock.png",
     "incorrect_answers": [
-      "Компас",
-      "Карта",
-      "Подзорная труба"
+      "компас",
+      "карта",
+      "подзорная труба"
     ],
-    "correct_answer": "Часы"
+    "correct_answer": "часы"
   },
   {
     "id": 86,
@@ -2906,13 +1154,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Pig.gif",
+    "image": "minecraft/images/Pig.png",
     "incorrect_answers": [
-      "Корова",
-      "Овцы",
-      "Курица"
+      "корова",
+      "овцы",
+      "курица"
     ],
-    "correct_answer": "Свинья"
+    "correct_answer": "свинья"
   },
   {
     "id": 87,
@@ -2920,13 +1168,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Redstone Torch.gif",
+    "image": "minecraft/images/Redstone Torch.png",
     "incorrect_answers": [
-      "Факел",
-      "Лампа из красного камня",
-      "Морской фонарь"
+      "факел",
+      "лампа из красного камня",
+      "морской фонарь"
     ],
-    "correct_answer": "Факел из красного камня"
+    "correct_answer": "факел из красного камня"
   },
   {
     "id": 88,
@@ -2934,13 +1182,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за мафия?",
-    "image": "theme/images/Magma Cube.gif",
+    "image": "minecraft/images/Magma Cube.png",
     "incorrect_answers": [
-      "Слизь",
-      "Ghast",
-      "Увядание"
+      "слизь",
+      "ghast",
+      "завянуть"
     ],
-    "correct_answer": "Куб Магмы"
+    "correct_answer": "магматический куб"
   },
   {
     "id": 89,
@@ -2948,13 +1196,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Lead.gif",
+    "image": "minecraft/images/Lead.png",
     "incorrect_answers": [
-      "Строка",
-      "Именная бирка",
-      "Веревка"
+      "строка",
+      "табличка с именем",
+      "канат"
     ],
-    "correct_answer": "Вести"
+    "correct_answer": "свинец"
   },
   {
     "id": 90,
@@ -2962,13 +1210,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Nether Portal.gif",
+    "image": "minecraft/images/Nether Portal.png",
     "incorrect_answers": [
-      "Конечный портал",
-      "Стронгхолд",
-      "Неземная крепость"
+      "конечный портал",
+      "твердыня",
+      "подземная крепость"
     ],
-    "correct_answer": "Портал в пустоты"
+    "correct_answer": "подземный портал"
   },
   {
     "id": 91,
@@ -2977,11 +1225,11 @@
     "category": "minecraft",
     "question": "Какой из этих блоков не используется при варке зелий?",
     "incorrect_answers": [
-      "Котел",
-      "Порошок Блейз",
-      "Подставка для пивоварения"
+      "казан",
+      "жгучий порошок",
+      "подставка для варки"
     ],
-    "correct_answer": "Стол для рукоделия"
+    "correct_answer": "стол для рукоделия"
   },
   {
     "id": 92,
@@ -2989,13 +1237,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Eye of Ender.gif",
+    "image": "minecraft/images/Eye of Ender.png",
     "incorrect_answers": [
-      "Эндер Перл",
-      "Порошок Блейз",
-      "Slimeball"
+      "жемчужина эндера",
+      "жгучий порошок",
+      "слизеринец"
     ],
-    "correct_answer": "Глаз Эндера"
+    "correct_answer": "глаз эндера"
   },
   {
     "id": 93,
@@ -3003,13 +1251,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Blast Furnace.gif",
+    "image": "minecraft/images/Blast Furnace.png",
     "incorrect_answers": [
-      "Стол для рукоделия",
-      "Печь",
-      "Коптильня"
+      "стол для рукоделия",
+      "печь",
+      "коптильня"
     ],
-    "correct_answer": "Доменная печь"
+    "correct_answer": "доменная печь"
   },
   {
     "id": 94,
@@ -3017,13 +1265,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Endermite.gif",
+    "image": "minecraft/images/Endermite.png",
     "incorrect_answers": [
-      "Эндерман",
-      "Серебряная рыбка",
-      "Шулькер"
+      "эндерман",
+      "серебряная рыбка",
+      "шулькер"
     ],
-    "correct_answer": "Эндермит"
+    "correct_answer": "эндермит"
   },
   {
     "id": 95,
@@ -3032,11 +1280,11 @@
     "category": "minecraft",
     "question": "Какой инструмент используется для добычи алмазов?",
     "incorrect_answers": [
-      "Деревянная кирка",
-      "Каменная кирка",
-      "Алмазная кирка"
+      "деревянная кирка",
+      "каменная кирка",
+      "алмазная кирка"
     ],
-    "correct_answer": "Железная кирка"
+    "correct_answer": "железная кирка"
   },
   {
     "id": 96,
@@ -3046,10 +1294,10 @@
     "question": "В каком измерении обитает дракон Эндер?",
     "incorrect_answers": [
       "Overworld",
-      "Nether",
-      "Эфир"
+      "недра",
+      "эфир"
     ],
-    "correct_answer": "Конец"
+    "correct_answer": "конец"
   },
   {
     "id": 97,
@@ -3058,11 +1306,11 @@
     "category": "minecraft",
     "question": "Каково основное применение Redstone в Minecraft?",
     "incorrect_answers": [
-      "Инструменты для ремесла",
-      "Декорирование зданий",
-      "Создание ловушек"
+      "инструменты для творчества",
+      "декорирование зданий",
+      "создание ловушек"
     ],
-    "correct_answer": "Механизмы питания"
+    "correct_answer": "механизмы питания"
   },
   {
     "id": 98,
@@ -3071,11 +1319,11 @@
     "category": "minecraft",
     "question": "Какие из этих блоков можно использовать для создания маяка?",
     "incorrect_answers": [
-      "Нетеритовый блок",
-      "Алмазный блок",
-      "Изумрудный блок"
+      "блок нетерита",
+      "алмазный блок",
+      "изумрудный блок"
     ],
-    "correct_answer": "Железный блок"
+    "correct_answer": "железный блок"
   },
   {
     "id": 99,
@@ -3097,11 +1345,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания железного голема?",
     "incorrect_answers": [
-      "Железная болванка",
-      "Железный самородок",
-      "Железная руда"
+      "железный слиток",
+      "железный самородок",
+      "железная руда"
     ],
-    "correct_answer": "Железный блок"
+    "correct_answer": "железный блок"
   },
   {
     "id": 101,
@@ -3110,11 +1358,11 @@
     "category": "minecraft",
     "question": "Как называется еда, которая восстанавливает наибольшее количество очков голода?",
     "incorrect_answers": [
-      "Приготовленный свиной отбивной",
-      "Хлеб",
-      "Стейк"
+      "вареная свинина",
+      "хлеб",
+      "стейк"
     ],
-    "correct_answer": "Золотая морковь"
+    "correct_answer": "золотая морковь"
   },
   {
     "id": 102,
@@ -3123,11 +1371,11 @@
     "category": "minecraft",
     "question": "Каких из этих мобов можно встретить в Недрах?",
     "incorrect_answers": [
-      "Полярный медведь",
-      "Ведьма",
-      "Эндерман"
+      "белый медведь",
+      "ведьма",
+      "эндерман"
     ],
-    "correct_answer": "Куб Магмы"
+    "correct_answer": "магматический куб"
   },
   {
     "id": 104,
@@ -3136,11 +1384,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания компаса?",
     "incorrect_answers": [
-      "Redstone",
-      "Золотая болванка",
-      "Алмаз"
+      "redstone",
+      "золотой слиток",
+      "бриллиант"
     ],
-    "correct_answer": "Железная болванка"
+    "correct_answer": "железный слиток"
   },
   {
     "id": 105,
@@ -3149,11 +1397,11 @@
     "category": "minecraft",
     "question": "Как называется редкий предмет, выпадающий из босса Wither?",
     "incorrect_answers": [
-      "Увядшая кость",
-      "Эндер Перл",
-      "Увядший череп"
+      "засохшая кость",
+      "жемчужина эндера",
+      "засохший череп"
     ],
-    "correct_answer": "Неземная звезда"
+    "correct_answer": "неземная звезда"
   },
   {
     "id": 106,
@@ -3162,11 +1410,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для приручения попугаев?",
     "incorrect_answers": [
-      "Морковь",
-      "Apple",
-      "Пшеница"
+      "морковь",
+      "яблоко",
+      "пшеница"
     ],
-    "correct_answer": "Семена"
+    "correct_answer": "семена"
   },
   {
     "id": 108,
@@ -3175,11 +1423,11 @@
     "category": "minecraft",
     "question": "Какой биом известен своими высокими, тонкими елями?",
     "incorrect_answers": [
-      "Джунгли",
-      "Саванна",
-      "Пустыня"
+      "джунгли",
+      "саванна",
+      "пустыня"
     ],
-    "correct_answer": "Тайга"
+    "correct_answer": "тайга"
   },
   {
     "id": 109,
@@ -3188,11 +1436,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение точильного камня в Minecraft?",
     "incorrect_answers": [
-      "Зачаровывание предметов",
-      "Создание доспехов",
-      "Варить зелья"
+      "зачарованные предметы",
+      "изготовление доспехов",
+      "приготовление зелий"
     ],
-    "correct_answer": "Инструменты для ремонта"
+    "correct_answer": "ремонтные инструменты"
   },
   {
     "id": 110,
@@ -3201,11 +1449,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для изготовления поршня?",
     "incorrect_answers": [
-      "Факел из красного камня",
-      "Деревянные доски",
-      "Булыжник"
+      "факел из красного камня",
+      "деревянные доски",
+      "булыжник"
     ],
-    "correct_answer": "Железная болванка"
+    "correct_answer": "железный слиток"
   },
   {
     "id": 111,
@@ -3213,13 +1461,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Drowned.gif",
+    "image": "minecraft/images/Drowned.png",
     "incorrect_answers": [
-      "Лузга",
-      "Зомби-селянин",
-      "Pillager"
+      "шелуха",
+      "зомбированный житель деревни",
+      "Мародёр"
     ],
-    "correct_answer": "Утопленник"
+    "correct_answer": "утонул"
   },
   {
     "id": 112,
@@ -3228,11 +1476,11 @@
     "category": "minecraft",
     "question": "Какой блок обычно используется для создания зелий подводного дыхания?",
     "incorrect_answers": [
-      "Светящийся камень",
-      "Коралл",
-      "Морской фонарь"
+      "светящийся камень",
+      "коралл",
+      "морской фонарь"
     ],
-    "correct_answer": "Призмарин"
+    "correct_answer": "призмарин"
   },
   {
     "id": 113,
@@ -3241,11 +1489,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение пюпитра в Minecraft?",
     "incorrect_answers": [
-      "Зачаровывание предметов",
-      "Хранение книг",
-      "Написание книг"
+      "зачарованные предметы",
+      "хранение книг",
+      "написание книг"
     ],
-    "correct_answer": "Чтение заклинаний"
+    "correct_answer": "чтение заклинаний"
   },
   {
     "id": 114,
@@ -3254,11 +1502,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для разведения панд?",
     "incorrect_answers": [
-      "Пшеница",
-      "Морковь",
-      "Дыня"
+      "пшеница",
+      "морковь",
+      "дыня"
     ],
-    "correct_answer": "Бамбук"
+    "correct_answer": "бамбук"
   },
   {
     "id": 115,
@@ -3266,13 +1514,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Basalt.gif",
+    "image": "minecraft/images/Basalt.png",
     "incorrect_answers": [
-      "Netherrack",
-      "Песок души",
-      "Черный камень"
+      "netherrack",
+      "душевный песок",
+      "черный камень"
     ],
-    "correct_answer": "Базальт"
+    "correct_answer": "базальт"
   },
   {
     "id": 116,
@@ -3281,11 +1529,11 @@
     "category": "minecraft",
     "question": "Каких из этих мобов можно встретить в биоме Грибного острова?",
     "incorrect_answers": [
-      "Овцы",
-      "Creeper",
-      "Скелет"
+      "овцы",
+      "ползучий",
+      "скелет"
     ],
-    "correct_answer": "Mooshroom"
+    "correct_answer": "mooshroom"
   },
   {
     "id": 117,
@@ -3294,11 +1542,11 @@
     "category": "minecraft",
     "question": "Как называется зелье, дающее игроку невидимость?",
     "incorrect_answers": [
-      "Зелье стремительности",
-      "Зелье ночного видения",
-      "Зелье силы"
+      "зелье стремительности",
+      "зелье ночного видения",
+      "зелье силы"
     ],
-    "correct_answer": "Зелье невидимости"
+    "correct_answer": "зелье невидимости"
   },
   {
     "id": 118,
@@ -3307,11 +1555,11 @@
     "category": "minecraft",
     "question": "Что из перечисленного необходимо для создания огненного заряда?",
     "incorrect_answers": [
-      "Уголь",
-      "Порох",
-      "Блейз Род"
+      "уголь",
+      "порох",
+      "пылающий стержень"
     ],
-    "correct_answer": "Порошок Блейз"
+    "correct_answer": "жгучий порошок"
   },
   {
     "id": 119,
@@ -3319,13 +1567,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Witch Hut.gif",
+    "image": "minecraft/images/Witch Hut.png",
     "incorrect_answers": [
-      "Храм в джунглях",
-      "Болотная хижина",
-      "Стронгхолд"
+      "храм в джунглях",
+      "болотная хижина",
+      "твердыня"
     ],
-    "correct_answer": "Хижина ведьмы"
+    "correct_answer": "хижина ведьмы"
   },
   {
     "id": 120,
@@ -3334,11 +1582,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания якоря возрождения?",
     "incorrect_answers": [
-      "Обсидиан",
-      "Нетеритовый блок",
-      "Древние обломки"
+      "обсидиан",
+      "блок нетерита",
+      "древние обломки"
     ],
-    "correct_answer": "Плачущий обсидиан"
+    "correct_answer": "плачущий обсидиан"
   },
   {
     "id": 121,
@@ -3346,13 +1594,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Vex.gif",
+    "image": "minecraft/images/Vex.png",
     "incorrect_answers": [
-      "Evoker",
-      "Мститель",
-      "Иллюзионист"
+      "Эвокер",
+      "мститель",
+      "иллюзионист"
     ],
-    "correct_answer": "Vex"
+    "correct_answer": "vex"
   },
   {
     "id": 122,
@@ -3361,11 +1609,11 @@
     "category": "minecraft",
     "question": "Какой из этих блоков естественным образом генерируется в измерении End?",
     "incorrect_answers": [
-      "Блок Пурпур",
-      "Кварцевый блок",
-      "Светящийся камень"
+      "пурпурный квартал",
+      "кварцевый блок",
+      "светящийся камень"
     ],
-    "correct_answer": "Конечный камень"
+    "correct_answer": "торцевой камень"
   },
   {
     "id": 123,
@@ -3374,11 +1622,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов необходим для создания тюка сена?",
     "incorrect_answers": [
-      "Сенной блок",
-      "Морковь",
-      "Картофель"
+      "блок сена",
+      "морковь",
+      "картофель"
     ],
-    "correct_answer": "Пшеница"
+    "correct_answer": "пшеница"
   },
   {
     "id": 124,
@@ -3387,11 +1635,11 @@
     "category": "minecraft",
     "question": "Какой из этих элементов используется для создания датчика дневного света?",
     "incorrect_answers": [
-      "Ретранслятор Redstone",
-      "Обозреватель",
-      "Бункер"
+      "ретранслятор redstone",
+      "наблюдатель",
+      "бункер"
     ],
-    "correct_answer": "Сравнительный анализ"
+    "correct_answer": "компаратор"
   },
   {
     "id": 125,
@@ -3400,11 +1648,11 @@
     "category": "minecraft",
     "question": "Как называется блок, который притягивает к себе близлежащие предметы?",
     "incorrect_answers": [
-      "Кондуит",
-      "Губка",
-      "Магнитный блок"
+      "кабелепровод",
+      "губка",
+      "блок магнитов"
     ],
-    "correct_answer": "Бункер"
+    "correct_answer": "бункер"
   },
   {
     "id": 126,
@@ -3413,11 +1661,11 @@
     "category": "minecraft",
     "question": "Какой блок образуется в биоме Nether Wastes?",
     "incorrect_answers": [
-      "Искаженный Найлиум",
-      "Багровый Нилиум",
-      "Песок души"
+      "деформированный нилиум",
+      "малиновый нилиум",
+      "душевный песок"
     ],
-    "correct_answer": "Netherrack"
+    "correct_answer": "netherrack"
   },
   {
     "id": 127,
@@ -3426,11 +1674,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение ткацкого станка в Minecraft?",
     "incorrect_answers": [
-      "Приготовление еды",
-      "Создание доспехов",
-      "Инструменты для ремонта"
+      "приготовление еды",
+      "изготовление доспехов",
+      "ремонтные инструменты"
     ],
-    "correct_answer": "Применение узоров для баннеров"
+    "correct_answer": "нанесение узоров на баннер"
   },
   {
     "id": 128,
@@ -3439,11 +1687,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для изготовления липкого поршня?",
     "incorrect_answers": [
-      "Порошок Блейз",
-      "Крем Магма",
-      "Бутылка с медом"
+      "жгучий порошок",
+      "крем магма",
+      "бутылка мёда"
     ],
-    "correct_answer": "Slimeball"
+    "correct_answer": "слизеринец"
   },
   {
     "id": 129,
@@ -3451,13 +1699,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Bastion Remnant.gif",
+    "image": "minecraft/images/Bastion Remnant.png",
     "incorrect_answers": [
-      "Памятник океану",
-      "Стронгхолд",
-      "Неземная крепость"
+      "памятник океану",
+      "твердыня",
+      "подземная крепость"
     ],
-    "correct_answer": "Бастионный остаток"
+    "correct_answer": "остаток бастиона"
   },
   {
     "id": 130,
@@ -3466,11 +1714,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания фейерверочной ракеты?",
     "incorrect_answers": [
-      "Перо",
-      "Строка",
-      "Светящаяся каменная пыль"
+      "перо",
+      "строка",
+      "пыль светящегося камня"
     ],
-    "correct_answer": "Порох"
+    "correct_answer": "порох"
   },
   {
     "id": 131,
@@ -3478,13 +1726,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Packed Ice.gif",
+    "image": "minecraft/images/Packed Ice.png",
     "incorrect_answers": [
-      "Голубой лед",
-      "Лед",
-      "Морозный лед"
+      "голубой лёд",
+      "лед",
+      "глазированный лёд"
     ],
-    "correct_answer": "Упакованный лед"
+    "correct_answer": "колотый лёд"
   },
   {
     "id": 132,
@@ -3493,11 +1741,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания зелья дыхания дракона?",
     "incorrect_answers": [
-      "Ферментированный паучий глаз",
-      "Светящаяся каменная пыль",
-      "Низинная бородавка"
+      "ферментированный паучий глаз",
+      "пыль светящегося камня",
+      "сетчатая бородавка"
     ],
-    "correct_answer": "Дыхание дракона"
+    "correct_answer": "дыхание дракона"
   },
   {
     "id": 133,
@@ -3505,13 +1753,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Stray.gif",
+    "image": "minecraft/images/Stray.png",
     "incorrect_answers": [
-      "Скелет",
-      "Увядший скелет",
-      "Утопленник"
+      "скелет",
+      "скелет",
+      "утонул"
     ],
-    "correct_answer": "Бродячий"
+    "correct_answer": "бродячий"
   },
   {
     "id": 134,
@@ -3520,11 +1768,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания наковальни?",
     "incorrect_answers": [
-      "Железная болванка",
-      "Железная руда",
-      "Железный самородок"
+      "железный слиток",
+      "железная руда",
+      "железный самородок"
     ],
-    "correct_answer": "Железный блок"
+    "correct_answer": "железный блок"
   },
   {
     "id": 135,
@@ -3533,11 +1781,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение картографического стола в Minecraft?",
     "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Варить зелья",
-      "Зачаровывание предметов"
+      "ремонтные инструменты",
+      "приготовление зелий",
+      "зачарованные предметы"
     ],
-    "correct_answer": "Создание карт"
+    "correct_answer": "карты ремесел"
   },
   {
     "id": 136,
@@ -3546,11 +1794,11 @@
     "category": "minecraft",
     "question": "Какой из этих мобов нейтрален, если его не спровоцировать?",
     "incorrect_answers": [
-      "Creeper",
-      "Полярный медведь",
-      "Скелетная лошадь"
+      "ползучий",
+      "белый медведь",
+      "скелетная лошадь"
     ],
-    "correct_answer": "Пиглин"
+    "correct_answer": "пиглин"
   },
   {
     "id": 137,
@@ -3558,13 +1806,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Smithing Table.gif",
+    "image": "minecraft/images/Smithing Table.png",
     "incorrect_answers": [
-      "Каменотес",
-      "Loom",
-      "Grindstone"
+      "каменотес",
+      "ткацкий станок",
+      "точильный камень"
     ],
-    "correct_answer": "Кузнечный стол"
+    "correct_answer": "кузнечный стол"
   },
   {
     "id": 138,
@@ -3573,11 +1821,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов необходим для создания зелья огнестойкости?",
     "incorrect_answers": [
-      "Порошок Блейз",
-      "Рыба-пуховик",
-      "Фантомная мембрана"
+      "жгучий порошок",
+      "рыба-пыхарь",
+      "фантомная мембрана"
     ],
-    "correct_answer": "Крем Магма"
+    "correct_answer": "крем магма"
   },
   {
     "id": 140,
@@ -3586,11 +1834,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания целевого блока?",
     "incorrect_answers": [
-      "Redstone",
-      "Железная болванка",
-      "Золотая болванка"
+      "redstone",
+      "железный слиток",
+      "золотой слиток"
     ],
-    "correct_answer": "Тюк сена"
+    "correct_answer": "тюк сена"
   },
   {
     "id": 141,
@@ -3599,11 +1847,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение компостного бака в Minecraft?",
     "incorrect_answers": [
-      "Выращивание растений",
-      "Приготовление еды",
-      "Инструменты для ремонта"
+      "выращивание растений",
+      "приготовление еды",
+      "ремонтные инструменты"
     ],
-    "correct_answer": "Получение костной муки"
+    "correct_answer": "производство костной муки"
   },
   {
     "id": 142,
@@ -3612,11 +1860,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания спектральной стрелки?",
     "incorrect_answers": [
-      "Стрела",
-      "Пыль Красного камня",
-      "Стрела с наконечником"
+      "стрела",
+      "краснокаменная пыль",
+      "стрела с наконечником"
     ],
-    "correct_answer": "Светящаяся каменная пыль"
+    "correct_answer": "пыль светящегося камня"
   },
   {
     "id": 143,
@@ -3624,13 +1872,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Hoglin.gif",
+    "image": "minecraft/images/Hoglin.png",
     "incorrect_answers": [
-      "Зомбированный Пиглин",
-      "Пиглин",
-      "Пиглин Брут"
+      "зомбированный Пиглин",
+      "пиглин",
+      "пиглинская скотина"
     ],
-    "correct_answer": "Хоглин"
+    "correct_answer": "хоглин"
   },
   {
     "id": 144,
@@ -3639,11 +1887,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для изготовления колокольчика?",
     "incorrect_answers": [
-      "Золотая болванка",
-      "Медная болванка",
-      "Изумруд"
+      "золотой слиток",
+      "медный слиток",
+      "изумруд"
     ],
-    "correct_answer": "Железная болванка"
+    "correct_answer": "железный слиток"
   },
   {
     "id": 145,
@@ -3651,13 +1899,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Desert Pyramid.gif",
+    "image": "minecraft/images/Desert Pyramid.png",
     "incorrect_answers": [
-      "Храм в джунглях",
-      "Igloo",
-      "Неземная крепость"
+      "храм в джунглях",
+      "Иглу",
+      "подземная крепость"
     ],
-    "correct_answer": "Пирамида в пустыне"
+    "correct_answer": "пирамида в пустыне"
   },
   {
     "id": 146,
@@ -3666,12 +1914,12 @@
     "category": "minecraft",
     "question": "Какой из этих предметов необходим для создания целевого блока?",
     "incorrect_answers": [
-      "Redstone",
-      "Железная болванка",
-      "Золотая болванка",
-      "Нетеритовый слиток"
+      "redstone",
+      "железный слиток",
+      "золотой слиток",
+      "слиток нетерита"
     ],
-    "correct_answer": "Тюк сена"
+    "correct_answer": "тюк сена"
   },
   {
     "id": 147,
@@ -3679,13 +1927,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Block of Amethyst.gif",
+    "image": "minecraft/images/Block of Amethyst.png",
     "incorrect_answers": [
-      "Аметистовый кластер",
-      "Аметистовый осколок",
-      "Tuff"
+      "аметистовое скопление",
+      "аметистовый осколок",
+      "туф"
     ],
-    "correct_answer": "Блок аметиста"
+    "correct_answer": "блок аметиста"
   },
   {
     "id": 148,
@@ -3694,11 +1942,11 @@
     "category": "minecraft",
     "question": "С какого из этих мобов выпадают слезы Гаста?",
     "incorrect_answers": [
-      "Блейз",
-      "Куб Магмы",
-      "Страйдер"
+      "пламя",
+      "магматический куб",
+      "страйдер"
     ],
-    "correct_answer": "Ghast"
+    "correct_answer": "ghast"
   },
   {
     "id": 149,
@@ -3707,11 +1955,11 @@
     "category": "minecraft",
     "question": "Как называется редкий блок, найденный в Конечном измерении, который можно использовать для получения очков возрождения?",
     "incorrect_answers": [
-      "Конечный камень",
-      "Обсидиан",
-      "Bedrock"
+      "торцевой камень",
+      "обсидиан",
+      "скала"
     ],
-    "correct_answer": "Плачущий обсидиан"
+    "correct_answer": "плачущий обсидиан"
   },
   {
     "id": 150,
@@ -3720,11 +1968,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания точильного камня?",
     "incorrect_answers": [
-      "Железная руда",
-      "Булыжник",
-      "Железная болванка"
+      "железная руда",
+      "булыжник",
+      "железный слиток"
     ],
-    "correct_answer": "Камень"
+    "correct_answer": "камень"
   },
   {
     "id": 151,
@@ -3733,11 +1981,11 @@
     "category": "minecraft",
     "question": "Как называется предмет, позволяющий игрокам менять точку спавна?",
     "incorrect_answers": [
-      "Компас",
-      "Часы",
-      "Карта"
+      "компас",
+      "часы",
+      "карта"
     ],
-    "correct_answer": "Кровать"
+    "correct_answer": "кровать"
   },
   {
     "id": 152,
@@ -3746,11 +1994,11 @@
     "category": "minecraft",
     "question": "Какой из этих элементов используется для создания блока заметок?",
     "incorrect_answers": [
-      "Деревянные доски",
-      "Примечание",
-      "Железная болванка"
+      "деревянные доски",
+      "примечание",
+      "железный слиток"
     ],
-    "correct_answer": "Redstone"
+    "correct_answer": "redstone"
   },
   {
     "id": 154,
@@ -3759,11 +2007,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов необходим для создания маяка?",
     "incorrect_answers": [
-      "Изумруд",
-      "Нетеритовый слиток",
-      "Глаз Эндера"
+      "изумруд",
+      "слиток нетерита",
+      "глаз эндера"
     ],
-    "correct_answer": "Неземная звезда"
+    "correct_answer": "неземная звезда"
   },
   {
     "id": 155,
@@ -3772,11 +2020,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания трезубца?",
     "incorrect_answers": [
-      "Золотая болванка",
-      "Железная болванка",
-      "Алмаз"
+      "золотой слиток",
+      "железный слиток",
+      "бриллиант"
     ],
-    "correct_answer": "Раковина наутилуса"
+    "correct_answer": "оболочка наутилуса"
   },
   {
     "id": 156,
@@ -3785,11 +2033,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания костра?",
     "incorrect_answers": [
-      "Камень",
-      "Железная болванка",
-      "Булыжник"
+      "камень",
+      "железный слиток",
+      "булыжник"
     ],
-    "correct_answer": "Палка"
+    "correct_answer": "палка"
   },
   {
     "id": 157,
@@ -3798,11 +2046,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение кузнечного стола в Minecraft?",
     "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Зачаровывание предметов",
-      "Декорирование зданий"
+      "ремонтные инструменты",
+      "зачарованные предметы",
+      "декорирование зданий"
     ],
-    "correct_answer": "Создание доспехов"
+    "correct_answer": "изготовление доспехов"
   },
   {
     "id": 158,
@@ -3811,11 +2059,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания ретранслятора красного камня?",
     "incorrect_answers": [
-      "Камень",
-      "Redstone",
-      "Кварц"
+      "камень",
+      "redstone",
+      "кварц"
     ],
-    "correct_answer": "Факел из красного камня"
+    "correct_answer": "факел из красного камня"
   },
   {
     "id": 159,
@@ -3823,13 +2071,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Bee.gif",
+    "image": "minecraft/images/Bee.png",
     "incorrect_answers": [
-      "Оса",
-      "Fly",
+      "оса",
+      "муха",
       "Бабочка"
     ],
-    "correct_answer": "Пчела"
+    "correct_answer": "пчела"
   },
   {
     "id": 160,
@@ -3838,11 +2086,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания кузнечного стола?",
     "incorrect_answers": [
-      "Деревянные доски",
-      "Камень",
-      "Обсидиан"
+      "деревянные доски",
+      "камень",
+      "обсидиан"
     ],
-    "correct_answer": "Железная болванка"
+    "correct_answer": "железный слиток"
   },
   {
     "id": 161,
@@ -3851,11 +2099,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение курильщика в Minecraft?",
     "incorrect_answers": [
-      "Плавление руд",
-      "Варить зелья",
-      "Инструменты для ремесла"
+      "плавка руд",
+      "приготовление зелий",
+      "инструменты для творчества"
     ],
-    "correct_answer": "Приготовление еды"
+    "correct_answer": "приготовление еды"
   },
   {
     "id": 162,
@@ -3864,11 +2112,11 @@
     "category": "minecraft",
     "question": "Какой из этих элементов используется для создания медового блока?",
     "incorrect_answers": [
-      "Бутылка с медом",
-      "Сахар",
-      "Порошок Блейз"
+      "бутылка мёда",
+      "сахар",
+      "жгучий порошок"
     ],
-    "correct_answer": "Соты"
+    "correct_answer": "соты"
   },
   {
     "id": 164,
@@ -3877,11 +2125,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для изготовления компостера?",
     "incorrect_answers": [
-      "Забор",
-      "Ворота для забора",
-      "Ловушка"
+      "забор",
+      "ворота забора",
+      "люк"
     ],
-    "correct_answer": "Деревянные доски"
+    "correct_answer": "деревянные доски"
   },
   {
     "id": 165,
@@ -3890,11 +2138,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение котла в Minecraft?",
     "incorrect_answers": [
-      "Плавление руд",
-      "Приготовление еды",
-      "Хранение воды"
+      "плавка руд",
+      "приготовление еды",
+      "хранение воды"
     ],
-    "correct_answer": "Варить зелья"
+    "correct_answer": "приготовление зелий"
   },
   {
     "id": 166,
@@ -3903,11 +2151,11 @@
     "category": "minecraft",
     "question": "Какой из этих элементов используется для создания картографической таблицы?",
     "incorrect_answers": [
-      "Бумага",
-      "Стеклопакет",
-      "Книжная полка"
+      "бумага",
+      "стеклопакет",
+      "книжная полка"
     ],
-    "correct_answer": "Компас"
+    "correct_answer": "компас"
   },
   {
     "id": 167,
@@ -3916,11 +2164,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов необходим для создания зелья регенерации?",
     "incorrect_answers": [
-      "Светящаяся каменная пыль",
-      "Ферментированный паучий глаз",
-      "Рыба-пуховик"
+      "пыль светящегося камня",
+      "ферментированный паучий глаз",
+      "рыба-пыхарь"
     ],
-    "correct_answer": "Слеза Гаста"
+    "correct_answer": "слеза гада"
   },
   {
     "id": 168,
@@ -3928,13 +2176,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Vindicator.gif",
+    "image": "minecraft/images/Vindicator.png",
     "incorrect_answers": [
-      "Evoker",
-      "Pillager",
+      "Эвокер",
+      "Мародёр",
       "Иллагер"
     ],
-    "correct_answer": "Мститель"
+    "correct_answer": "мститель"
   },
   {
     "id": 169,
@@ -3943,11 +2191,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для изготовления кузнечного стола?",
     "incorrect_answers": [
-      "Камень",
-      "Дубовые доски",
-      "Обсидиан"
+      "камень",
+      "дубовые доски",
+      "обсидиан"
     ],
-    "correct_answer": "Железная болванка"
+    "correct_answer": "железный слиток"
   },
   {
     "id": 170,
@@ -3956,11 +2204,11 @@
     "category": "minecraft",
     "question": "Каково основное применение подставки для варки в Minecraft?",
     "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Плавление руд",
-      "Приготовление еды"
+      "ремонтные инструменты",
+      "плавка руд",
+      "приготовление еды"
     ],
-    "correct_answer": "Варить зелья"
+    "correct_answer": "приготовление зелий"
   },
   {
     "id": 171,
@@ -3969,11 +2217,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания зелья силы?",
     "incorrect_answers": [
-      "Слеза Гаста",
-      "Крем Магма",
-      "Ферментированный паучий глаз"
+      "слеза гада",
+      "крем магма",
+      "ферментированный паучий глаз"
     ],
-    "correct_answer": "Порошок Блейз"
+    "correct_answer": "жгучий порошок"
   },
   {
     "id": 173,
@@ -3982,11 +2230,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания доменной печи?",
     "incorrect_answers": [
-      "Железная болванка",
-      "Коптильня",
-      "Гладкий камень"
+      "железный слиток",
+      "коптильня",
+      "гладкий камень"
     ],
-    "correct_answer": "Печь"
+    "correct_answer": "печь"
   },
   {
     "id": 174,
@@ -3995,11 +2243,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение пюпитра в Minecraft?",
     "incorrect_answers": [
-      "Хранение книг",
-      "Создание карт",
-      "Написание книг"
+      "хранение книг",
+      "карты ремесел",
+      "написание книг"
     ],
-    "correct_answer": "Чтение заклинаний"
+    "correct_answer": "чтение заклинаний"
   },
   {
     "id": 175,
@@ -4008,11 +2256,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания точильного камня?",
     "incorrect_answers": [
-      "Кузнечный стол",
-      "Наковальня",
-      "Деревянные доски"
+      "кузнечный стол",
+      "наковальня",
+      "деревянные доски"
     ],
-    "correct_answer": "Камень"
+    "correct_answer": "камень"
   },
   {
     "id": 176,
@@ -4021,11 +2269,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания стола для флетчинга?",
     "incorrect_answers": [
-      "Перо",
-      "Стрела",
-      "Строка"
+      "перо",
+      "стрела",
+      "строка"
     ],
-    "correct_answer": "Деревянные доски"
+    "correct_answer": "деревянные доски"
   },
   {
     "id": 177,
@@ -4034,11 +2282,11 @@
     "category": "minecraft",
     "question": "Как называется предмет, используемый для зачарования инструментов и доспехов?",
     "incorrect_answers": [
-      "Заколдованная книга",
-      "Книжная полка",
-      "Бутылка для опытов"
+      "заколдованная книга",
+      "книжная полка",
+      "бутылка для опытов"
     ],
-    "correct_answer": "Стол зачарования"
+    "correct_answer": "чарующий стол"
   },
   {
     "id": 178,
@@ -4047,11 +2295,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания ткацкого станка?",
     "incorrect_answers": [
-      "Шерсть",
-      "Хлопок",
-      "Шелк"
+      "шерсть",
+      "хлопок",
+      "шелк"
     ],
-    "correct_answer": "Строка"
+    "correct_answer": "строка"
   },
   {
     "id": 179,
@@ -4059,13 +2307,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Woodland Mansion.gif",
+    "image": "minecraft/images/Woodland Mansion.png",
     "incorrect_answers": [
-      "Храм в джунглях",
-      "Деревня",
-      "Храм в пустыне"
+      "храм в джунглях",
+      "деревня",
+      "храм в пустыне"
     ],
-    "correct_answer": "Лесной особняк"
+    "correct_answer": "лесная усадьба"
   },
   {
     "id": 180,
@@ -4074,11 +2322,11 @@
     "category": "minecraft",
     "question": "Какой блок используется для создания картографической таблицы?",
     "incorrect_answers": [
-      "Компас",
-      "Бумага",
-      "Стеклопакет"
+      "компас",
+      "бумага",
+      "стеклопакет"
     ],
-    "correct_answer": "Деревянные доски"
+    "correct_answer": "деревянные доски"
   },
   {
     "id": 181,
@@ -4087,11 +2335,11 @@
     "category": "minecraft",
     "question": "Каково основное использование картографического стола в Minecraft?",
     "incorrect_answers": [
-      "Инструменты для ремонта",
-      "Плавление руд",
-      "Приготовление еды"
+      "ремонтные инструменты",
+      "плавка руд",
+      "приготовление еды"
     ],
-    "correct_answer": "Создание карт"
+    "correct_answer": "карты ремесел"
   },
   {
     "id": 184,
@@ -4100,11 +2348,11 @@
     "category": "minecraft",
     "question": "Какой из этих предметов используется для создания кузнечного стола?",
     "incorrect_answers": [
-      "Камень",
-      "Дубовые доски",
-      "Обсидиан"
+      "камень",
+      "дубовые доски",
+      "обсидиан"
     ],
-    "correct_answer": "Железная болванка"
+    "correct_answer": "железный слиток"
   },
   {
     "id": 185,
@@ -4113,11 +2361,11 @@
     "category": "minecraft",
     "question": "Каково основное назначение курильщика в Minecraft?",
     "incorrect_answers": [
-      "Плавление руд",
-      "Варить зелья",
-      "Инструменты для ремесла"
+      "плавка руд",
+      "приготовление зелий",
+      "инструменты для творчества"
     ],
-    "correct_answer": "Приготовление еды"
+    "correct_answer": "приготовление еды"
   },
   {
     "id": 224,
@@ -4125,13 +2373,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Grass Block.gif",
+    "image": "minecraft/images/Grass Block.png",
     "incorrect_answers": [
-      "Грязный блок",
-      "Мицелий",
-      "Подзол"
+      "грязевой блок",
+      "мицелий",
+      "подзол"
     ],
-    "correct_answer": "Травяной блок"
+    "correct_answer": "травяной блок"
   },
   {
     "id": 225,
@@ -4139,13 +2387,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Compass.gif",
+    "image": "minecraft/images/Compass.png",
     "incorrect_answers": [
-      "Часы",
-      "Карта",
-      "Подзорная труба"
+      "часы",
+      "карта",
+      "подзорная труба"
     ],
-    "correct_answer": "Компас"
+    "correct_answer": "компас"
   },
   {
     "id": 226,
@@ -4153,13 +2401,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Zombie.gif",
+    "image": "minecraft/images/Zombie.png",
     "incorrect_answers": [
-      "Скелет",
-      "Creeper",
-      "Лузга"
+      "скелет",
+      "ползучий",
+      "шелуха"
     ],
-    "correct_answer": "Зомби"
+    "correct_answer": "зомби"
   },
   {
     "id": 227,
@@ -4167,13 +2415,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Village.gif",
+    "image": "minecraft/images/Village.png",
     "incorrect_answers": [
-      "Храм в пустыне",
-      "Храм в джунглях",
-      "Стронгхолд"
+      "храм в пустыне",
+      "храм в джунглях",
+      "твердыня"
     ],
-    "correct_answer": "Деревня"
+    "correct_answer": "деревня"
   },
   {
     "id": 228,
@@ -4181,13 +2429,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Crafting Table.gif",
+    "image": "minecraft/images/Crafting Table.png",
     "incorrect_answers": [
-      "Печь",
-      "Наковальня",
-      "Очаровательный столик"
+      "печь",
+      "наковальня",
+      "очаровательный столик"
     ],
-    "correct_answer": "Стол для рукоделия"
+    "correct_answer": "стол для рукоделия"
   },
   {
     "id": 229,
@@ -4195,13 +2443,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Diamond.gif",
+    "image": "minecraft/images/Diamond.png",
     "incorrect_answers": [
-      "Изумруд",
-      "Лазурит",
-      "Кварц"
+      "изумруд",
+      "лазурит",
+      "кварц"
     ],
-    "correct_answer": "Алмаз"
+    "correct_answer": "бриллиант"
   },
   {
     "id": 232,
@@ -4209,13 +2457,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Furnace.gif",
+    "image": "minecraft/images/Furnace.png",
     "incorrect_answers": [
-      "Доменная печь",
-      "Коптильня",
-      "Костер"
+      "доменная печь",
+      "коптильня",
+      "костер"
     ],
-    "correct_answer": "Печь"
+    "correct_answer": "печь"
   },
   {
     "id": 234,
@@ -4223,13 +2471,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Jungle Temple.gif",
+    "image": "minecraft/images/Jungle Temple.png",
     "incorrect_answers": [
-      "Пирамида в пустыне",
-      "Лесной особняк",
-      "Деревня"
+      "пирамида в пустыне",
+      "лесная усадьба",
+      "деревня"
     ],
-    "correct_answer": "Храм в джунглях"
+    "correct_answer": "храм в джунглях"
   },
   {
     "id": 235,
@@ -4237,13 +2485,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Enchanting Table.gif",
+    "image": "minecraft/images/Enchanting Table.png",
     "incorrect_answers": [
-      "Стол для рукоделия",
-      "Наковальня",
-      "Стол для флетчинга"
+      "стол для рукоделия",
+      "наковальня",
+      "стол для флетчинга"
     ],
-    "correct_answer": "Очаровательный столик"
+    "correct_answer": "очаровательный столик"
   },
   {
     "id": 237,
@@ -4251,13 +2499,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Wither.gif",
+    "image": "minecraft/images/Wither.png",
     "incorrect_answers": [
-      "Эндер Дракон",
-      "Блейз",
-      "Призрак"
+      "эндер-дракон",
+      "пламя",
+      "фантом"
     ],
-    "correct_answer": "Увядание"
+    "correct_answer": "завянуть"
   },
   {
     "id": 239,
@@ -4265,13 +2513,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Anvil.gif",
+    "image": "minecraft/images/Anvil.png",
     "incorrect_answers": [
-      "Grindstone",
-      "Кузнечный стол",
-      "Каменотес"
+      "точильный камень",
+      "кузнечный стол",
+      "каменотес"
     ],
-    "correct_answer": "Наковальня"
+    "correct_answer": "наковальня"
   },
   {
     "id": 241,
@@ -4279,13 +2527,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Cave Spider.gif",
+    "image": "minecraft/images/Cave Spider.png",
     "incorrect_answers": [
-      "Паук",
-      "Серебряная рыбка",
-      "Эндермит"
+      "паук",
+      "серебряная рыбка",
+      "эндермит"
     ],
-    "correct_answer": "Пещерный паук"
+    "correct_answer": "пещерный паук"
   },
   {
     "id": 244,
@@ -4293,13 +2541,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Bow.gif",
+    "image": "minecraft/images/Bow.png",
     "incorrect_answers": [
-      "Арбалет",
-      "Trident",
-      "Рыболовная удочка"
+      "арбалет",
+      "трезубец",
+      "удочка"
     ],
-    "correct_answer": "Лук"
+    "correct_answer": "бант"
   },
   {
     "id": 245,
@@ -4307,13 +2555,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Villager.gif",
+    "image": "minecraft/images/Villager.png",
     "incorrect_answers": [
-      "Pillager",
-      "Бродячий торговец",
-      "Evoker"
+      "Мародёр",
+      "странствующий торговец",
+      "Эвокер"
     ],
-    "correct_answer": "Деревенский житель"
+    "correct_answer": "житель деревни"
   },
   {
     "id": 247,
@@ -4321,13 +2569,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Quartz Block.gif",
+    "image": "minecraft/images/Quartz Block.png",
     "incorrect_answers": [
-      "Железный блок",
-      "Белый бетон",
-      "Снежный блок"
+      "железный блок",
+      "белый бетон",
+      "снежный блок"
     ],
-    "correct_answer": "Кварцевый блок"
+    "correct_answer": "кварцевый блок"
   },
   {
     "id": 249,
@@ -4335,13 +2583,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Ghast.gif",
+    "image": "minecraft/images/Ghast.png",
     "incorrect_answers": [
-      "Блейз",
-      "Куб Магмы",
-      "Призрак"
+      "пламя",
+      "магматический куб",
+      "фантом"
     ],
-    "correct_answer": "Ghast"
+    "correct_answer": "ghast"
   },
   {
     "id": 251,
@@ -4349,11 +2597,11 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Nether Wart Block.gif",
+    "image": "minecraft/images/Nether Wart Block.png",
     "incorrect_answers": [
-      "Netherrack",
-      "Незерская кварцевая руда",
-      "Багровый Нилиум"
+      "netherrack",
+      "чистая кварцевая руда",
+      "малиновый нилиум"
     ],
     "correct_answer": "Блок для удаления бородавок"
   },
@@ -4363,13 +2611,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Skeleton.gif",
+    "image": "minecraft/images/Skeleton.png",
     "incorrect_answers": [
-      "Увядший скелет",
-      "Бродячий",
-      "Зомби"
+      "скелет",
+      "бродячий",
+      "зомби"
     ],
-    "correct_answer": "Скелет"
+    "correct_answer": "скелет"
   },
   {
     "id": 254,
@@ -4377,13 +2625,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Redstone Block.gif",
+    "image": "minecraft/images/Redstone Block.png",
     "incorrect_answers": [
-      "Нижний кирпич",
-      "Блок магмы",
-      "Кирпичный блок"
+      "чистый кирпич",
+      "магматический блок",
+      "кирпичный блок"
     ],
-    "correct_answer": "Блок красного камня"
+    "correct_answer": "блок красного камня"
   },
   {
     "id": 255,
@@ -4391,13 +2639,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Water Bucket.gif",
+    "image": "minecraft/images/Water Bucket.png",
     "incorrect_answers": [
-      "Ведро для лавы",
-      "Ведро для молока",
-      "Ведро"
+      "ведро лавы",
+      "ведро для молока",
+      "ведро"
     ],
-    "correct_answer": "Ведро для воды"
+    "correct_answer": "ведро воды"
   },
   {
     "id": 256,
@@ -4405,13 +2653,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Phantom.gif",
+    "image": "minecraft/images/Phantom.png",
     "incorrect_answers": [
-      "Эндермит",
-      "Блейз",
-      "Ghast"
+      "эндермит",
+      "пламя",
+      "ghast"
     ],
-    "correct_answer": "Призрак"
+    "correct_answer": "фантом"
   },
   {
     "id": 257,
@@ -4419,13 +2667,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/End Portal.gif",
+    "image": "minecraft/images/End Portal.png",
     "incorrect_answers": [
-      "Портал в пустоты",
-      "Стронгхолд",
-      "Деревня"
+      "подземный портал",
+      "твердыня",
+      "деревня"
     ],
-    "correct_answer": "Конечный портал"
+    "correct_answer": "конечный портал"
   },
   {
     "id": 258,
@@ -4433,13 +2681,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Coal Block.gif",
+    "image": "minecraft/images/Coal Block.png",
     "incorrect_answers": [
-      "Угольный блок",
-      "Черный камень",
-      "Обсидиан"
+      "угольный блок",
+      "черный камень",
+      "обсидиан"
     ],
-    "correct_answer": "Угольный блок"
+    "correct_answer": "угольный блок"
   },
   {
     "id": 259,
@@ -4447,13 +2695,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Husk.gif",
+    "image": "minecraft/images/Husk.png",
     "incorrect_answers": [
-      "Зомби",
-      "Утопленник",
-      "Бродячий"
+      "зомби",
+      "утонул",
+      "бродячий"
     ],
-    "correct_answer": "Лузга"
+    "correct_answer": "шелуха"
   },
   {
     "id": 260,
@@ -4461,13 +2709,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Mineshaft.gif",
+    "image": "minecraft/images/Mineshaft.png",
     "incorrect_answers": [
-      "Стронгхолд",
-      "Деревня",
-      "Неземная крепость"
+      "твердыня",
+      "деревня",
+      "подземная крепость"
     ],
-    "correct_answer": "Шахта"
+    "correct_answer": "шахта"
   },
   {
     "id": 262,
@@ -4475,13 +2723,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Guardian.gif",
+    "image": "minecraft/images/Guardian.png",
     "incorrect_answers": [
-      "Старейшина-хранитель",
-      "Утопленник",
-      "Призрак"
+      "пожилой опекун",
+      "утонул",
+      "фантом"
     ],
-    "correct_answer": "Хранитель"
+    "correct_answer": "хранитель"
   },
   {
     "id": 263,
@@ -4489,13 +2737,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Ocean Ruin.gif",
+    "image": "minecraft/images/Ocean Ruin.png",
     "incorrect_answers": [
-      "Памятник океану",
-      "Стронгхолд",
-      "Деревня"
+      "памятник океану",
+      "твердыня",
+      "деревня"
     ],
-    "correct_answer": "Океанские руины"
+    "correct_answer": "океанские руины"
   },
   {
     "id": 264,
@@ -4503,13 +2751,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Emerald Block.gif",
+    "image": "minecraft/images/Emerald Block.png",
     "incorrect_answers": [
-      "Алмазный блок",
-      "Золотой блок",
-      "Железный блок"
+      "алмазный блок",
+      "золотой блок",
+      "железный блок"
     ],
-    "correct_answer": "Изумрудный блок"
+    "correct_answer": "изумрудный блок"
   },
   {
     "id": 265,
@@ -4517,13 +2765,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Cooked Beef.gif",
+    "image": "minecraft/images/Cooked Beef.png",
     "incorrect_answers": [
-      "Приготовленный свиной отбивной",
-      "Приготовленная курица",
-      "Приготовленная баранина"
+      "вареная свинина",
+      "варёная курица",
+      "варёная баранина"
     ],
-    "correct_answer": "Говядина"
+    "correct_answer": "варёная говядина"
   },
   {
     "id": 268,
@@ -4531,13 +2779,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Magma Block.gif",
+    "image": "minecraft/images/Magma Block.png",
     "incorrect_answers": [
-      "Netherrack",
-      "Базальт",
-      "Обсидиан"
+      "netherrack",
+      "базальт",
+      "обсидиан"
     ],
-    "correct_answer": "Блок магмы"
+    "correct_answer": "магматический блок"
   },
   {
     "id": 271,
@@ -4545,13 +2793,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Nether Quartz Ore.gif",
+    "image": "minecraft/images/Nether Quartz Ore.png",
     "incorrect_answers": [
-      "Кварцевый блок",
-      "Белый бетон",
-      "Снежный блок"
+      "кварцевый блок",
+      "белый бетон",
+      "снежный блок"
     ],
-    "correct_answer": "Незерская кварцевая руда"
+    "correct_answer": "чистая кварцевая руда"
   },
   {
     "id": 272,
@@ -4559,13 +2807,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Brewing Stand.gif",
+    "image": "minecraft/images/Brewing Stand.png",
     "incorrect_answers": [
-      "Печь",
-      "Стол для рукоделия",
-      "Grindstone"
+      "печь",
+      "стол для рукоделия",
+      "точильный камень"
     ],
-    "correct_answer": "Подставка для пивоварения"
+    "correct_answer": "подставка для варки"
   },
   {
     "id": 273,
@@ -4573,13 +2821,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Endermite.gif",
+    "image": "minecraft/images/Endermite.png",
     "incorrect_answers": [
-      "Серебряная рыбка",
-      "Призрак",
-      "Блейз"
+      "серебряная рыбка",
+      "фантом",
+      "пламя"
     ],
-    "correct_answer": "Эндермит"
+    "correct_answer": "эндермит"
   },
   {
     "id": 275,
@@ -4587,13 +2835,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Iron Block.gif",
+    "image": "minecraft/images/Iron Block.png",
     "incorrect_answers": [
-      "Алмазный блок",
-      "Золотой блок",
-      "Изумрудный блок"
+      "алмазный блок",
+      "золотой блок",
+      "изумрудный блок"
     ],
-    "correct_answer": "Железный блок"
+    "correct_answer": "железный блок"
   },
   {
     "id": 276,
@@ -4601,13 +2849,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Crossbow.gif",
+    "image": "minecraft/images/Crossbow.png",
     "incorrect_answers": [
-      "Лук",
-      "Trident",
-      "Рыболовная удочка"
+      "бант",
+      "трезубец",
+      "удочка"
     ],
-    "correct_answer": "Арбалет"
+    "correct_answer": "арбалет"
   },
   {
     "id": 277,
@@ -4615,13 +2863,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Evoker.gif",
+    "image": "minecraft/images/Evoker.png",
     "incorrect_answers": [
-      "Pillager",
-      "Мститель",
-      "Иллюзионист"
+      "Мародёр",
+      "мститель",
+      "иллюзионист"
     ],
-    "correct_answer": "Evoker"
+    "correct_answer": "Эвокер"
   },
   {
     "id": 278,
@@ -4629,13 +2877,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "theme/images/Pillager Outpost.gif",
+    "image": "minecraft/images/Pillager Outpost.png",
     "incorrect_answers": [
-      "Деревня",
-      "Стронгхолд",
-      "Лесной особняк"
+      "деревня",
+      "твердыня",
+      "лесная усадьба"
     ],
-    "correct_answer": "Аванпост Пиллагер"
+    "correct_answer": "застава мародеров"
   },
   {
     "id": 279,
@@ -4643,13 +2891,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Redstone Ore.gif",
+    "image": "minecraft/images/Redstone Ore.png",
     "incorrect_answers": [
-      "Блок красного камня",
-      "Нижний кирпич",
-      "Блок магмы"
+      "блок красного камня",
+      "чистый кирпич",
+      "магматический блок"
     ],
-    "correct_answer": "Руда Красного камня"
+    "correct_answer": "краснокаменная руда"
   },
   {
     "id": 280,
@@ -4657,13 +2905,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/End Crystal.gif",
+    "image": "minecraft/images/End Crystal.png",
     "incorrect_answers": [
-      "Эндер Перл",
-      "Глаз Эндера",
-      "Яйцо дракона"
+      "жемчужина эндера",
+      "глаз эндера",
+      "яйцо дракона"
     ],
-    "correct_answer": "Торцевой кристалл"
+    "correct_answer": "конечный кристалл"
   },
   {
     "id": 285,
@@ -4671,13 +2919,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Magma Cube.gif",
+    "image": "minecraft/images/Magma Cube.png",
     "incorrect_answers": [
-      "Слизь",
-      "Блейз",
-      "Ghast"
+      "слизь",
+      "пламя",
+      "ghast"
     ],
-    "correct_answer": "Куб Магмы"
+    "correct_answer": "магматический куб"
   },
   {
     "id": 287,
@@ -4685,13 +2933,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "theme/images/Gold Block.gif",
+    "image": "minecraft/images/Gold Block.png",
     "incorrect_answers": [
-      "Железный блок",
-      "Изумрудный блок",
-      "Алмазный блок"
+      "железный блок",
+      "изумрудный блок",
+      "алмазный блок"
     ],
-    "correct_answer": "Золотой блок"
+    "correct_answer": "золотой блок"
   },
   {
     "id": 288,
@@ -4699,13 +2947,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Golden Carrot.gif",
+    "image": "minecraft/images/Golden Carrot.png",
     "incorrect_answers": [
-      "Золотое яблоко",
-      "Золотой самородок",
-      "Золотой картофель"
+      "золотое яблоко",
+      "золотой самородок",
+      "золотой картофель"
     ],
-    "correct_answer": "Золотая морковь"
+    "correct_answer": "золотая морковь"
   },
   {
     "id": 292,
@@ -4713,13 +2961,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "theme/images/Shield.gif",
+    "image": "minecraft/images/Shield.png",
     "incorrect_answers": [
-      "Лук",
-      "Арбалет",
-      "Trident"
+      "бант",
+      "арбалет",
+      "трезубец"
     ],
-    "correct_answer": "Щит"
+    "correct_answer": "щит"
   },
   {
     "id": 293,
@@ -4727,12 +2975,12 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "theme/images/Silverfish.gif",
+    "image": "minecraft/images/Silverfish.png",
     "incorrect_answers": [
-      "Эндермит",
-      "Vex",
-      "Блейз"
+      "эндермит",
+      "vex",
+      "пламя"
     ],
-    "correct_answer": "Серебряная рыбка"
+    "correct_answer": "серебряная рыбка"
   }
 ]

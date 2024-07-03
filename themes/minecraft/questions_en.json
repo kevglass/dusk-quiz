@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Diamond Block.gif",
+    "image": "minecraft/images/Diamond Block.png",
     "incorrect_answers": [
       "Lapis Block",
       "Emerald Block",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Identify this biome:",
-    "image": "theme/images/Taiga.gif",
+    "image": "minecraft/images/Taiga.png",
     "incorrect_answers": [
       "Forest",
       "Desert",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What structure is shown here?",
-    "image": "theme/images/Jungle Temple.gif",
+    "image": "minecraft/images/Jungle Temple.png",
     "incorrect_answers": [
       "Village",
       "Desert Temple",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which block is this?",
-    "image": "theme/images/Emerald Ore.gif",
+    "image": "minecraft/images/Emerald Ore.png",
     "incorrect_answers": [
       "Diamond Ore",
       "Iron Ore",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What item is this?",
-    "image": "theme/images/Bow.gif",
+    "image": "minecraft/images/Bow.png",
     "incorrect_answers": [
       "Crossbow",
       "Fishing Rod",
@@ -265,26 +265,12 @@
     "correct_answer": "Redstone"
   },
   {
-    "id": 21,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Enderman.gif",
-    "incorrect_answers": [
-      "Endermite",
-      "Shulker",
-      "Wither"
-    ],
-    "correct_answer": "Enderman"
-  },
-  {
     "id": 22,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "theme/images/Anvil.gif",
+    "image": "minecraft/images/Anvil.png",
     "incorrect_answers": [
       "Furnace",
       "Grindstone",
@@ -298,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which ore is shown here?",
-    "image": "theme/images/Iron Ore.gif",
+    "image": "minecraft/images/Iron Ore.png",
     "incorrect_answers": [
       "Gold Ore",
       "Coal Ore",
@@ -338,7 +324,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "theme/images/TNT.gif",
+    "image": "minecraft/images/TNT.png",
     "incorrect_answers": [
       "Redstone Block",
       "Sand",
@@ -391,7 +377,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which mob is shown here?",
-    "image": "theme/images/Wither Skeleton.gif",
+    "image": "minecraft/images/Wither Skeleton.png",
     "incorrect_answers": [
       "Skeleton",
       "Wither",
@@ -405,7 +391,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What type of tree is this?",
-    "image": "theme/images/Dark Oak.gif",
+    "image": "minecraft/images/Dark Oak.png",
     "incorrect_answers": [
       "Birch",
       "Jungle",
@@ -414,25 +400,12 @@
     "correct_answer": "Dark Oak"
   },
   {
-    "id": 32,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What item do you need to light a Nether Portal?",
-    "incorrect_answers": [
-      "Torch",
-      "Fire Charge",
-      "Lava"
-    ],
-    "correct_answer": "Flint and Steel"
-  },
-  {
     "id": 33,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which Minecraft block is this?",
-    "image": "theme/images/Furnace.gif",
+    "image": "minecraft/images/Furnace.png",
     "incorrect_answers": [
       "Crafting Table",
       "Chest",
@@ -459,7 +432,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Nether Fortress.gif",
+    "image": "minecraft/images/Nether Fortress.png",
     "incorrect_answers": [
       "Village",
       "Stronghold",
@@ -473,7 +446,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Blaze.gif",
+    "image": "minecraft/images/Blaze.png",
     "incorrect_answers": [
       "Magma Cube",
       "Ghast",
@@ -513,7 +486,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this plant called?",
-    "image": "theme/images/Nether Wart.gif",
+    "image": "minecraft/images/Nether Wart.png",
     "incorrect_answers": [
       "Cactus",
       "Sugar Cane",
@@ -527,7 +500,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which block is shown here?",
-    "image": "theme/images/End Stone.gif",
+    "image": "minecraft/images/End Stone.png",
     "incorrect_answers": [
       "Sandstone",
       "Quartz",
@@ -554,7 +527,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Stronghold.gif",
+    "image": "minecraft/images/Stronghold.png",
     "incorrect_answers": [
       "Village",
       "Desert Temple",
@@ -568,7 +541,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which biome is shown here?",
-    "image": "theme/images/Savanna.gif",
+    "image": "minecraft/images/Savanna.png",
     "incorrect_answers": [
       "Plains",
       "Desert",
@@ -595,7 +568,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Beacon.gif",
+    "image": "minecraft/images/Beacon.png",
     "incorrect_answers": [
       "Glass",
       "Sea Lantern",
@@ -604,25 +577,12 @@
     "correct_answer": "Beacon"
   },
   {
-    "id": 46,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block can be used to smelt items?",
-    "incorrect_answers": [
-      "Crafting Table",
-      "Anvil",
-      "Grindstone"
-    ],
-    "correct_answer": "Furnace"
-  },
-  {
     "id": 47,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Ice Spike.gif",
+    "image": "minecraft/images/Ice Spike.png",
     "incorrect_answers": [
       "Igloo",
       "Snowy Tundra",
@@ -636,7 +596,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item?",
-    "image": "theme/images/Compass.gif",
+    "image": "minecraft/images/Compass.png",
     "incorrect_answers": [
       "Clock",
       "Map",
@@ -663,7 +623,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "theme/images/Quartz Block.gif",
+    "image": "minecraft/images/Quartz Block.png",
     "incorrect_answers": [
       "Snow Block",
       "Clay Block",
@@ -690,7 +650,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this biome called?",
-    "image": "theme/images/Jungle.gif",
+    "image": "minecraft/images/Jungle.png",
     "incorrect_answers": [
       "Forest",
       "Taiga",
@@ -717,7 +677,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Spawner.gif",
+    "image": "minecraft/images/Spawner.png",
     "incorrect_answers": [
       "Crafting Table",
       "Chest",
@@ -731,7 +691,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Elytra.gif",
+    "image": "minecraft/images/Elytra.png",
     "incorrect_answers": [
       "Wings",
       "Feather",
@@ -745,7 +705,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/End City.gif",
+    "image": "minecraft/images/End City.png",
     "incorrect_answers": [
       "End Portal",
       "Stronghold",
@@ -754,25 +714,12 @@
     "correct_answer": "End City"
   },
   {
-    "id": 57,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these can you use to make potions?",
-    "incorrect_answers": [
-      "Iron Ingot",
-      "Gold Ingot",
-      "Ender Pearl"
-    ],
-    "correct_answer": "Blaze Rod"
-  },
-  {
     "id": 58,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Desert Temple.gif",
+    "image": "minecraft/images/Desert Temple.png",
     "incorrect_answers": [
       "Village",
       "Jungle Temple",
@@ -794,25 +741,12 @@
     "correct_answer": "Steve"
   },
   {
-    "id": 60,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these blocks is found in the End?",
-    "incorrect_answers": [
-      "Netherrack",
-      "Dirt",
-      "Prismarine"
-    ],
-    "correct_answer": "End Stone"
-  },
-  {
     "id": 61,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Sea Lantern.gif",
+    "image": "minecraft/images/Sea Lantern.png",
     "incorrect_answers": [
       "Glowstone",
       "Shroomlight",
@@ -826,7 +760,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Ocean Monument.gif",
+    "image": "minecraft/images/Ocean Monument.png",
     "incorrect_answers": [
       "Shipwreck",
       "Stronghold",
@@ -840,7 +774,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "theme/images/Netherite Block.gif",
+    "image": "minecraft/images/Netherite Block.png",
     "incorrect_answers": [
       "Diamond Block",
       "Iron Block",
@@ -867,7 +801,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Lapis Lazuli Ore.gif",
+    "image": "minecraft/images/Lapis Lazuli Ore.png",
     "incorrect_answers": [
       "Diamond Ore",
       "Emerald Ore",
@@ -907,7 +841,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Ender Pearl.gif",
+    "image": "minecraft/images/Ender Pearl.png",
     "incorrect_answers": [
       "Eye of Ender",
       "Slimeball",
@@ -921,7 +855,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Igloo.gif",
+    "image": "minecraft/images/Igloo.png",
     "incorrect_answers": [
       "Ice Spikes",
       "Snowy Tundra",
@@ -948,7 +882,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Golden Apple.gif",
+    "image": "minecraft/images/Golden Apple.png",
     "incorrect_answers": [
       "Golden Carrot",
       "Enchanted Apple",
@@ -962,7 +896,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "theme/images/Redstone Block.gif",
+    "image": "minecraft/images/Redstone Block.png",
     "incorrect_answers": [
       "Iron Block",
       "Diamond Block",
@@ -976,7 +910,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Shipwreck.gif",
+    "image": "minecraft/images/Shipwreck.png",
     "incorrect_answers": [
       "Ocean Monument",
       "Stronghold",
@@ -1003,7 +937,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Mossy Cobblestone.gif",
+    "image": "minecraft/images/Mossy Cobblestone.png",
     "incorrect_answers": [
       "Cobblestone",
       "Stone",
@@ -1017,7 +951,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Totem of Undying.gif",
+    "image": "minecraft/images/Totem of Undying.png",
     "incorrect_answers": [
       "Golden Apple",
       "Emerald",
@@ -1031,7 +965,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "theme/images/Netherrack.gif",
+    "image": "minecraft/images/Netherrack.png",
     "incorrect_answers": [
       "Nether Brick",
       "Redstone",
@@ -1040,25 +974,12 @@
     "correct_answer": "Netherrack"
   },
   {
-    "id": 78,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which mob is neutral until attacked?",
-    "incorrect_answers": [
-      "Zombie",
-      "Skeleton",
-      "Creeper"
-    ],
-    "correct_answer": "Enderman"
-  },
-  {
     "id": 79,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Name Tag.gif",
+    "image": "minecraft/images/Name Tag.png",
     "incorrect_answers": [
       "Paper",
       "Map",
@@ -1085,7 +1006,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Bucket.gif",
+    "image": "minecraft/images/Bucket.png",
     "incorrect_answers": [
       "Bowl",
       "Cauldron",
@@ -1099,7 +1020,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Obsidian.gif",
+    "image": "minecraft/images/Obsidian.png",
     "incorrect_answers": [
       "Coal",
       "Bedrock",
@@ -1126,7 +1047,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "theme/images/Gold Ore.gif",
+    "image": "minecraft/images/Gold Ore.png",
     "incorrect_answers": [
       "Iron Ore",
       "Coal Ore",
@@ -1140,7 +1061,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Clock.gif",
+    "image": "minecraft/images/Clock.png",
     "incorrect_answers": [
       "Compass",
       "Map",
@@ -1154,7 +1075,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this mob?",
-    "image": "theme/images/Pig.gif",
+    "image": "minecraft/images/Pig.png",
     "incorrect_answers": [
       "Cow",
       "Sheep",
@@ -1168,7 +1089,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "theme/images/Redstone Torch.gif",
+    "image": "minecraft/images/Redstone Torch.png",
     "incorrect_answers": [
       "Torch",
       "Redstone Lamp",
@@ -1182,7 +1103,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which mob is this?",
-    "image": "theme/images/Magma Cube.gif",
+    "image": "minecraft/images/Magma Cube.png",
     "incorrect_answers": [
       "Slime",
       "Ghast",
@@ -1196,7 +1117,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this item?",
-    "image": "theme/images/Lead.gif",
+    "image": "minecraft/images/Lead.png",
     "incorrect_answers": [
       "String",
       "Name Tag",
@@ -1210,7 +1131,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Nether Portal.gif",
+    "image": "minecraft/images/Nether Portal.png",
     "incorrect_answers": [
       "End Portal",
       "Stronghold",
@@ -1237,7 +1158,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this item?",
-    "image": "theme/images/Eye of Ender.gif",
+    "image": "minecraft/images/Eye of Ender.png",
     "incorrect_answers": [
       "Ender Pearl",
       "Blaze Powder",
@@ -1251,7 +1172,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "theme/images/Blast Furnace.gif",
+    "image": "minecraft/images/Blast Furnace.png",
     "incorrect_answers": [
       "Crafting Table",
       "Furnace",
@@ -1265,26 +1186,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this mob?",
-    "image": "theme/images/Endermite.gif",
+    "image": "minecraft/images/Endermite.png",
     "incorrect_answers": [
       "Enderman",
       "Silverfish",
       "Shulker"
     ],
     "correct_answer": "Endermite"
-  },
-  {
-    "id": 95,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What tool is used to mine diamonds?",
-    "incorrect_answers": [
-      "Wooden Pickaxe",
-      "Stone Pickaxe",
-      "Diamond Pickaxe"
-    ],
-    "correct_answer": "Iron Pickaxe"
   },
   {
     "id": 96,
@@ -1339,19 +1247,6 @@
     "correct_answer": "30"
   },
   {
-    "id": 100,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create an iron golem?",
-    "incorrect_answers": [
-      "Iron Ingot",
-      "Iron Nugget",
-      "Iron Ore"
-    ],
-    "correct_answer": "Iron Block"
-  },
-  {
     "id": 101,
     "type": "multiple",
     "difficulty": "easy",
@@ -1363,33 +1258,6 @@
       "Steak"
     ],
     "correct_answer": "Golden Carrot"
-  },
-  {
-    "id": 102,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these mobs can be found in the Nether?",
-    "incorrect_answers": [
-      "Polar Bear",
-      "Witch",
-      "Enderman"
-    ],
-    "correct_answer": "Magma Cube"
-  },
-  {
-    "id": 103,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/End City.gif",
-    "incorrect_answers": [
-      "Village",
-      "Stronghold",
-      "Ocean Monument"
-    ],
-    "correct_answer": "End City"
   },
   {
     "id": 104,
@@ -1431,33 +1299,6 @@
     "correct_answer": "Seeds"
   },
   {
-    "id": 107,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Sea Lantern.gif",
-    "incorrect_answers": [
-      "Glowstone",
-      "Shroomlight",
-      "Conduit"
-    ],
-    "correct_answer": "Sea Lantern"
-  },
-  {
-    "id": 108,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which biome is known for its tall, thin Spruce trees?",
-    "incorrect_answers": [
-      "Jungle",
-      "Savanna",
-      "Desert"
-    ],
-    "correct_answer": "Taiga"
-  },
-  {
     "id": 109,
     "type": "multiple",
     "difficulty": "easy",
@@ -1471,25 +1312,12 @@
     "correct_answer": "Repairing Tools"
   },
   {
-    "id": 110,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to craft a piston?",
-    "incorrect_answers": [
-      "Redstone Torch",
-      "Wooden Planks",
-      "Cobblestone"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
     "id": 111,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Drowned.gif",
+    "image": "minecraft/images/Drowned.png",
     "incorrect_answers": [
       "Husk",
       "Zombie Villager",
@@ -1542,7 +1370,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Basalt.gif",
+    "image": "minecraft/images/Basalt.png",
     "incorrect_answers": [
       "Netherrack",
       "Soul Sand",
@@ -1577,25 +1405,12 @@
     "correct_answer": "Potion of Invisibility"
   },
   {
-    "id": 118,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to create a fire charge?",
-    "incorrect_answers": [
-      "Coal",
-      "Gunpowder",
-      "Blaze Rod"
-    ],
-    "correct_answer": "Blaze Powder"
-  },
-  {
     "id": 119,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Witch Hut.gif",
+    "image": "minecraft/images/Witch Hut.png",
     "incorrect_answers": [
       "Jungle Temple",
       "Swamp Hut",
@@ -1622,39 +1437,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Vex.gif",
+    "image": "minecraft/images/Vex.png",
     "incorrect_answers": [
       "Evoker",
       "Vindicator",
       "Illusioner"
     ],
     "correct_answer": "Vex"
-  },
-  {
-    "id": 122,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these blocks generates naturally in the End dimension?",
-    "incorrect_answers": [
-      "Purpur Block",
-      "Quartz Block",
-      "Glowstone"
-    ],
-    "correct_answer": "End Stone"
-  },
-  {
-    "id": 123,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to create a hay bale?",
-    "incorrect_answers": [
-      "Hay Block",
-      "Carrot",
-      "Potato"
-    ],
-    "correct_answer": "Wheat"
   },
   {
     "id": 124,
@@ -1683,19 +1472,6 @@
     "correct_answer": "Hopper"
   },
   {
-    "id": 126,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block generates in the Nether Wastes biome?",
-    "incorrect_answers": [
-      "Warped Nylium",
-      "Crimson Nylium",
-      "Soul Sand"
-    ],
-    "correct_answer": "Netherrack"
-  },
-  {
     "id": 127,
     "type": "multiple",
     "difficulty": "easy",
@@ -1709,25 +1485,12 @@
     "correct_answer": "Applying Banner Patterns"
   },
   {
-    "id": 128,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to make a sticky piston?",
-    "incorrect_answers": [
-      "Blaze Powder",
-      "Magma Cream",
-      "Honey Bottle"
-    ],
-    "correct_answer": "Slimeball"
-  },
-  {
     "id": 129,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Bastion Remnant.gif",
+    "image": "minecraft/images/Bastion Remnant.png",
     "incorrect_answers": [
       "Ocean Monument",
       "Stronghold",
@@ -1754,7 +1517,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Packed Ice.gif",
+    "image": "minecraft/images/Packed Ice.png",
     "incorrect_answers": [
       "Blue Ice",
       "Ice",
@@ -1781,26 +1544,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Stray.gif",
+    "image": "minecraft/images/Stray.png",
     "incorrect_answers": [
       "Skeleton",
       "Wither Skeleton",
       "Drowned"
     ],
     "correct_answer": "Stray"
-  },
-  {
-    "id": 134,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create an anvil?",
-    "incorrect_answers": [
-      "Iron Ingot",
-      "Iron Ore",
-      "Iron Nugget"
-    ],
-    "correct_answer": "Iron Block"
   },
   {
     "id": 135,
@@ -1834,7 +1584,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Smithing Table.gif",
+    "image": "minecraft/images/Smithing Table.png",
     "incorrect_answers": [
       "Stonecutter",
       "Loom",
@@ -1854,20 +1604,6 @@
       "Phantom Membrane"
     ],
     "correct_answer": "Magma Cream"
-  },
-  {
-    "id": 139,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Nether Fortress.gif",
-    "incorrect_answers": [
-      "End City",
-      "Bastion Remnant",
-      "Woodland Mansion"
-    ],
-    "correct_answer": "Nether Fortress"
   },
   {
     "id": 140,
@@ -1914,7 +1650,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Hoglin.gif",
+    "image": "minecraft/images/Hoglin.png",
     "incorrect_answers": [
       "Zombified Piglin",
       "Piglin",
@@ -1923,25 +1659,12 @@
     "correct_answer": "Hoglin"
   },
   {
-    "id": 144,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to craft a bell?",
-    "incorrect_answers": [
-      "Gold Ingot",
-      "Copper Ingot",
-      "Emerald"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
     "id": 145,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Desert Pyramid.gif",
+    "image": "minecraft/images/Desert Pyramid.png",
     "incorrect_answers": [
       "Jungle Temple",
       "Igloo",
@@ -1950,58 +1673,18 @@
     "correct_answer": "Desert Pyramid"
   },
   {
-    "id": 146,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to craft a target block?",
-    "incorrect_answers": [
-      "Redstone",
-      "Iron Ingot",
-      "Gold Ingot",
-      "Netherite Ingot"
-    ],
-    "correct_answer": "Hay Bale"
-  },
-  {
     "id": 147,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Block of Amethyst.gif",
+    "image": "minecraft/images/Block of Amethyst.png",
     "incorrect_answers": [
       "Amethyst Cluster",
       "Amethyst Shard",
       "Tuff"
     ],
     "correct_answer": "Block of Amethyst"
-  },
-  {
-    "id": 148,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these mobs is known for dropping Ghast Tears?",
-    "incorrect_answers": [
-      "Blaze",
-      "Magma Cube",
-      "Strider"
-    ],
-    "correct_answer": "Ghast"
-  },
-  {
-    "id": 149,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the name of the rare block found in the End dimension that can be used for respawn points?",
-    "incorrect_answers": [
-      "End Stone",
-      "Obsidian",
-      "Bedrock"
-    ],
-    "correct_answer": "Crying Obsidian"
   },
   {
     "id": 150,
@@ -2028,46 +1711,6 @@
       "Map"
     ],
     "correct_answer": "Bed"
-  },
-  {
-    "id": 152,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a note block?",
-    "incorrect_answers": [
-      "Wooden Planks",
-      "Note",
-      "Iron Ingot"
-    ],
-    "correct_answer": "Redstone"
-  },
-  {
-    "id": 153,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Stronghold.gif",
-    "incorrect_answers": [
-      "Desert Temple",
-      "Jungle Temple",
-      "Witch Hut"
-    ],
-    "correct_answer": "Stronghold"
-  },
-  {
-    "id": 154,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to craft a beacon?",
-    "incorrect_answers": [
-      "Emerald",
-      "Netherite Ingot",
-      "Eye of Ender"
-    ],
-    "correct_answer": "Nether Star"
   },
   {
     "id": 155,
@@ -2109,44 +1752,18 @@
     "correct_answer": "Crafting Armor"
   },
   {
-    "id": 158,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a redstone repeater?",
-    "incorrect_answers": [
-      "Stone",
-      "Redstone",
-      "Quartz"
-    ],
-    "correct_answer": "Redstone Torch"
-  },
-  {
     "id": 159,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Bee.gif",
+    "image": "minecraft/images/Bee.png",
     "incorrect_answers": [
       "Wasp",
       "Fly",
       "Butterfly"
     ],
     "correct_answer": "Bee"
-  },
-  {
-    "id": 160,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a smithing table?",
-    "incorrect_answers": [
-      "Wooden Planks",
-      "Stone",
-      "Obsidian"
-    ],
-    "correct_answer": "Iron Ingot"
   },
   {
     "id": 161,
@@ -2175,20 +1792,6 @@
     "correct_answer": "Honeycomb"
   },
   {
-    "id": 163,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Igloo.gif",
-    "incorrect_answers": [
-      "Desert Pyramid",
-      "Ocean Monument",
-      "Witch Hut"
-    ],
-    "correct_answer": "Igloo"
-  },
-  {
     "id": 164,
     "type": "multiple",
     "difficulty": "easy",
@@ -2215,19 +1818,6 @@
     "correct_answer": "Brewing Potions"
   },
   {
-    "id": 166,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a cartography table?",
-    "incorrect_answers": [
-      "Paper",
-      "Glass Pane",
-      "Bookshelf"
-    ],
-    "correct_answer": "Compass"
-  },
-  {
     "id": 167,
     "type": "multiple",
     "difficulty": "easy",
@@ -2246,118 +1836,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Vindicator.gif",
+    "image": "minecraft/images/Vindicator.png",
     "incorrect_answers": [
       "Evoker",
       "Pillager",
       "Illager"
     ],
     "correct_answer": "Vindicator"
-  },
-  {
-    "id": 169,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to craft a smithing table?",
-    "incorrect_answers": [
-      "Stone",
-      "Oak Planks",
-      "Obsidian"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
-    "id": 170,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the main use of a brewing stand in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Brewing Potions"
-  },
-  {
-    "id": 171,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a potion of strength?",
-    "incorrect_answers": [
-      "Ghast Tear",
-      "Magma Cream",
-      "Fermented Spider Eye"
-    ],
-    "correct_answer": "Blaze Powder"
-  },
-  {
-    "id": 172,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Ocean Monument.gif",
-    "incorrect_answers": [
-      "Witch Hut",
-      "Stronghold",
-      "End City"
-    ],
-    "correct_answer": "Ocean Monument"
-  },
-  {
-    "id": 173,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a blast furnace?",
-    "incorrect_answers": [
-      "Iron Ingot",
-      "Smoker",
-      "Smooth Stone"
-    ],
-    "correct_answer": "Furnace"
-  },
-  {
-    "id": 174,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the primary use of a lectern in Minecraft?",
-    "incorrect_answers": [
-      "Storing Books",
-      "Crafting Maps",
-      "Writing Books"
-    ],
-    "correct_answer": "Reading Enchantments"
-  },
-  {
-    "id": 175,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a grindstone?",
-    "incorrect_answers": [
-      "Smithing Table",
-      "Anvil",
-      "Wooden Planks"
-    ],
-    "correct_answer": "Stone"
-  },
-  {
-    "id": 176,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
   },
   {
     "id": 177,
@@ -2391,594 +1876,13 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Woodland Mansion.gif",
+    "image": "minecraft/images/Woodland Mansion.png",
     "incorrect_answers": [
       "Jungle Temple",
       "Village",
       "Desert Temple"
     ],
     "correct_answer": "Woodland Mansion"
-  },
-  {
-    "id": 180,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a cartography table?",
-    "incorrect_answers": [
-      "Compass",
-      "Paper",
-      "Glass Pane"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 181,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the main use of a cartography table in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Crafting Maps"
-  },
-  {
-    "id": 182,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 183,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Desert Pyramid.gif",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Igloo",
-      "Ocean Monument"
-    ],
-    "correct_answer": "Desert Pyramid"
-  },
-  {
-    "id": 184,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a smithing table?",
-    "incorrect_answers": [
-      "Stone",
-      "Oak Planks",
-      "Obsidian"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
-    "id": 185,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the primary use of a smoker in Minecraft?",
-    "incorrect_answers": [
-      "Smelting Ores",
-      "Brewing Potions",
-      "Crafting Tools"
-    ],
-    "correct_answer": "Cooking Food"
-  },
-  {
-    "id": 186,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to craft a beacon?",
-    "incorrect_answers": [
-      "Emerald",
-      "Netherite Ingot",
-      "Eye of Ender"
-    ],
-    "correct_answer": "Nether Star"
-  },
-  {
-    "id": 187,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to create a potion of regeneration?",
-    "incorrect_answers": [
-      "Glowstone Dust",
-      "Fermented Spider Eye",
-      "Pufferfish"
-    ],
-    "correct_answer": "Ghast Tear"
-  },
-  {
-    "id": 188,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Vindicator.gif",
-    "incorrect_answers": [
-      "Evoker",
-      "Pillager",
-      "Illager"
-    ],
-    "correct_answer": "Vindicator"
-  },
-  {
-    "id": 189,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to craft a smithing table?",
-    "incorrect_answers": [
-      "Stone",
-      "Oak Planks",
-      "Obsidian"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
-    "id": 190,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the main use of a brewing stand in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Brewing Potions"
-  },
-  {
-    "id": 191,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a potion of strength?",
-    "incorrect_answers": [
-      "Ghast Tear",
-      "Magma Cream",
-      "Fermented Spider Eye"
-    ],
-    "correct_answer": "Blaze Powder"
-  },
-  {
-    "id": 192,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Ocean Monument.gif",
-    "incorrect_answers": [
-      "Witch Hut",
-      "Stronghold",
-      "End City"
-    ],
-    "correct_answer": "Ocean Monument"
-  },
-  {
-    "id": 193,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a blast furnace?",
-    "incorrect_answers": [
-      "Iron Ingot",
-      "Smoker",
-      "Smooth Stone"
-    ],
-    "correct_answer": "Furnace"
-  },
-  {
-    "id": 194,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the primary use of a lectern in Minecraft?",
-    "incorrect_answers": [
-      "Storing Books",
-      "Crafting Maps",
-      "Writing Books"
-    ],
-    "correct_answer": "Reading Enchantments"
-  },
-  {
-    "id": 195,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a grindstone?",
-    "incorrect_answers": [
-      "Smithing Table",
-      "Anvil",
-      "Wooden Planks"
-    ],
-    "correct_answer": "Stone"
-  },
-  {
-    "id": 196,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 197,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the name of the item used to enchant tools and armor?",
-    "incorrect_answers": [
-      "Enchanted Book",
-      "Bookshelf",
-      "Experience Bottle"
-    ],
-    "correct_answer": "Enchantment Table"
-  },
-  {
-    "id": 198,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a loom?",
-    "incorrect_answers": [
-      "Wool",
-      "Cotton",
-      "Silk"
-    ],
-    "correct_answer": "String"
-  },
-  {
-    "id": 199,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Woodland Mansion.gif",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Village",
-      "Desert Temple"
-    ],
-    "correct_answer": "Woodland Mansion"
-  },
-  {
-    "id": 200,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a cartography table?",
-    "incorrect_answers": [
-      "Compass",
-      "Paper",
-      "Glass Pane"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 201,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the main use of a cartography table in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Crafting Maps"
-  },
-  {
-    "id": 202,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 203,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Desert Pyramid.gif",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Igloo",
-      "Ocean Monument"
-    ],
-    "correct_answer": "Desert Pyramid"
-  },
-  {
-    "id": 204,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a smithing table?",
-    "incorrect_answers": [
-      "Stone",
-      "Oak Planks",
-      "Obsidian"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
-    "id": 205,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the primary use of a smoker in Minecraft?",
-    "incorrect_answers": [
-      "Smelting Ores",
-      "Brewing Potions",
-      "Crafting Tools"
-    ],
-    "correct_answer": "Cooking Food"
-  },
-  {
-    "id": 206,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to craft a beacon?",
-    "incorrect_answers": [
-      "Emerald",
-      "Netherite Ingot",
-      "Eye of Ender"
-    ],
-    "correct_answer": "Nether Star"
-  },
-  {
-    "id": 207,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is required to create a potion of regeneration?",
-    "incorrect_answers": [
-      "Glowstone Dust",
-      "Fermented Spider Eye",
-      "Pufferfish"
-    ],
-    "correct_answer": "Ghast Tear"
-  },
-  {
-    "id": 208,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Vindicator.gif",
-    "incorrect_answers": [
-      "Evoker",
-      "Pillager",
-      "Illager"
-    ],
-    "correct_answer": "Vindicator"
-  },
-  {
-    "id": 209,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to craft a smithing table?",
-    "incorrect_answers": [
-      "Stone",
-      "Oak Planks",
-      "Obsidian"
-    ],
-    "correct_answer": "Iron Ingot"
-  },
-  {
-    "id": 210,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the main use of a brewing stand in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Brewing Potions"
-  },
-  {
-    "id": 211,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a potion of strength?",
-    "incorrect_answers": [
-      "Ghast Tear",
-      "Magma Cream",
-      "Fermented Spider Eye"
-    ],
-    "correct_answer": "Blaze Powder"
-  },
-  {
-    "id": 212,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Ocean Monument.gif",
-    "incorrect_answers": [
-      "Witch Hut",
-      "Stronghold",
-      "End City"
-    ],
-    "correct_answer": "Ocean Monument"
-  },
-  {
-    "id": 213,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a blast furnace?",
-    "incorrect_answers": [
-      "Iron Ingot",
-      "Smoker",
-      "Smooth Stone"
-    ],
-    "correct_answer": "Furnace"
-  },
-  {
-    "id": 214,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the primary use of a lectern in Minecraft?",
-    "incorrect_answers": [
-      "Storing Books",
-      "Crafting Maps",
-      "Writing Books"
-    ],
-    "correct_answer": "Reading Enchantments"
-  },
-  {
-    "id": 215,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a grindstone?",
-    "incorrect_answers": [
-      "Smithing Table",
-      "Anvil",
-      "Wooden Planks"
-    ],
-    "correct_answer": "Stone"
-  },
-  {
-    "id": 216,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 217,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the name of the item used to enchant tools and armor?",
-    "incorrect_answers": [
-      "Enchanted Book",
-      "Bookshelf",
-      "Experience Bottle"
-    ],
-    "correct_answer": "Enchantment Table"
-  },
-  {
-    "id": 218,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a loom?",
-    "incorrect_answers": [
-      "Wool",
-      "Cotton",
-      "Silk"
-    ],
-    "correct_answer": "String"
-  },
-  {
-    "id": 219,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Woodland Mansion.gif",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Village",
-      "Desert Temple"
-    ],
-    "correct_answer": "Woodland Mansion"
-  },
-  {
-    "id": 220,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a cartography table?",
-    "incorrect_answers": [
-      "Compass",
-      "Paper",
-      "Glass Pane"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 221,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is the main use of a cartography table in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Crafting Maps"
-  },
-  {
-    "id": 222,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 223,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Desert Pyramid.gif",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Igloo",
-      "Ocean Monument"
-    ],
-    "correct_answer": "Desert Pyramid"
   },
   {
     "id": 224,
@@ -2986,7 +1890,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Grass Block.gif",
+    "image": "minecraft/images/Grass Block.png",
     "incorrect_answers": [
       "Dirt Block",
       "Mycelium",
@@ -2995,26 +1899,12 @@
     "correct_answer": "Grass Block"
   },
   {
-    "id": 225,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Compass.gif",
-    "incorrect_answers": [
-      "Clock",
-      "Map",
-      "Spyglass"
-    ],
-    "correct_answer": "Compass"
-  },
-  {
     "id": 226,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Zombie.gif",
+    "image": "minecraft/images/Zombie.png",
     "incorrect_answers": [
       "Skeleton",
       "Creeper",
@@ -3028,7 +1918,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Village.gif",
+    "image": "minecraft/images/Village.png",
     "incorrect_answers": [
       "Desert Temple",
       "Jungle Temple",
@@ -3037,26 +1927,12 @@
     "correct_answer": "Village"
   },
   {
-    "id": 228,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Crafting Table.gif",
-    "incorrect_answers": [
-      "Furnace",
-      "Anvil",
-      "Enchanting Table"
-    ],
-    "correct_answer": "Crafting Table"
-  },
-  {
     "id": 229,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Diamond.gif",
+    "image": "minecraft/images/Diamond.png",
     "incorrect_answers": [
       "Emerald",
       "Lapis Lazuli",
@@ -3065,82 +1941,12 @@
     "correct_answer": "Diamond"
   },
   {
-    "id": 230,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Enderman.gif",
-    "incorrect_answers": [
-      "Creeper",
-      "Wither Skeleton",
-      "Blaze"
-    ],
-    "correct_answer": "Enderman"
-  },
-  {
-    "id": 231,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Desert Pyramid.gif",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Ocean Monument",
-      "End City"
-    ],
-    "correct_answer": "Desert Pyramid"
-  },
-  {
-    "id": 232,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Furnace.gif",
-    "incorrect_answers": [
-      "Blast Furnace",
-      "Smoker",
-      "Campfire"
-    ],
-    "correct_answer": "Furnace"
-  },
-  {
-    "id": 233,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Blaze.gif",
-    "incorrect_answers": [
-      "Ghast",
-      "Magma Cube",
-      "Wither"
-    ],
-    "correct_answer": "Blaze"
-  },
-  {
-    "id": 234,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Jungle Temple.gif",
-    "incorrect_answers": [
-      "Desert Pyramid",
-      "Woodland Mansion",
-      "Village"
-    ],
-    "correct_answer": "Jungle Temple"
-  },
-  {
     "id": 235,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Enchanting Table.gif",
+    "image": "minecraft/images/Enchanting Table.png",
     "incorrect_answers": [
       "Crafting Table",
       "Anvil",
@@ -3149,26 +1955,12 @@
     "correct_answer": "Enchanting Table"
   },
   {
-    "id": 236,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Elytra.gif",
-    "incorrect_answers": [
-      "Wings",
-      "Glider",
-      "Cape"
-    ],
-    "correct_answer": "Elytra"
-  },
-  {
     "id": 237,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Wither.gif",
+    "image": "minecraft/images/Wither.png",
     "incorrect_answers": [
       "Ender Dragon",
       "Blaze",
@@ -3177,54 +1969,12 @@
     "correct_answer": "Wither"
   },
   {
-    "id": 238,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Nether Fortress.gif",
-    "incorrect_answers": [
-      "Stronghold",
-      "Bastion Remnant",
-      "End City"
-    ],
-    "correct_answer": "Nether Fortress"
-  },
-  {
-    "id": 239,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Anvil.gif",
-    "incorrect_answers": [
-      "Grindstone",
-      "Smithing Table",
-      "Stonecutter"
-    ],
-    "correct_answer": "Anvil"
-  },
-  {
-    "id": 240,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Golden Apple.gif",
-    "incorrect_answers": [
-      "Enchanted Golden Apple",
-      "Golden Carrot",
-      "Golden Nugget"
-    ],
-    "correct_answer": "Golden Apple"
-  },
-  {
     "id": 241,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Cave Spider.gif",
+    "image": "minecraft/images/Cave Spider.png",
     "incorrect_answers": [
       "Spider",
       "Silverfish",
@@ -3233,54 +1983,12 @@
     "correct_answer": "Cave Spider"
   },
   {
-    "id": 242,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Witch Hut.gif",
-    "incorrect_answers": [
-      "Desert Well",
-      "Igloo",
-      "Ocean Ruin"
-    ],
-    "correct_answer": "Witch Hut"
-  },
-  {
-    "id": 243,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Lapis Lazuli Ore.gif",
-    "incorrect_answers": [
-      "Diamond Ore",
-      "Emerald Ore",
-      "Nether Quartz Ore"
-    ],
-    "correct_answer": "Lapis Lazuli Ore"
-  },
-  {
-    "id": 244,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Bow.gif",
-    "incorrect_answers": [
-      "Crossbow",
-      "Trident",
-      "Fishing Rod"
-    ],
-    "correct_answer": "Bow"
-  },
-  {
     "id": 245,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Villager.gif",
+    "image": "minecraft/images/Villager.png",
     "incorrect_answers": [
       "Pillager",
       "Wandering Trader",
@@ -3289,82 +1997,12 @@
     "correct_answer": "Villager"
   },
   {
-    "id": 246,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Stronghold.gif",
-    "incorrect_answers": [
-      "Village",
-      "Mineshaft",
-      "Nether Fortress"
-    ],
-    "correct_answer": "Stronghold"
-  },
-  {
-    "id": 247,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Quartz Block.gif",
-    "incorrect_answers": [
-      "Iron Block",
-      "White Concrete",
-      "Snow Block"
-    ],
-    "correct_answer": "Quartz Block"
-  },
-  {
-    "id": 248,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Ender Pearl.gif",
-    "incorrect_answers": [
-      "Eye of Ender",
-      "Nether Star",
-      "Prismarine Shard"
-    ],
-    "correct_answer": "Ender Pearl"
-  },
-  {
-    "id": 249,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Ghast.gif",
-    "incorrect_answers": [
-      "Blaze",
-      "Magma Cube",
-      "Phantom"
-    ],
-    "correct_answer": "Ghast"
-  },
-  {
-    "id": 250,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Bastion Remnant.gif",
-    "incorrect_answers": [
-      "Nether Fortress",
-      "Stronghold",
-      "Village"
-    ],
-    "correct_answer": "Bastion Remnant"
-  },
-  {
     "id": 251,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Nether Wart Block.gif",
+    "image": "minecraft/images/Nether Wart Block.png",
     "incorrect_answers": [
       "Netherrack",
       "Nether Quartz Ore",
@@ -3373,54 +2011,12 @@
     "correct_answer": "Nether Wart Block"
   },
   {
-    "id": 252,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Skeleton.gif",
-    "incorrect_answers": [
-      "Wither Skeleton",
-      "Stray",
-      "Zombie"
-    ],
-    "correct_answer": "Skeleton"
-  },
-  {
-    "id": 253,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/End City.gif",
-    "incorrect_answers": [
-      "Stronghold",
-      "Nether Fortress",
-      "Village"
-    ],
-    "correct_answer": "End City"
-  },
-  {
-    "id": 254,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Redstone Block.gif",
-    "incorrect_answers": [
-      "Nether Brick",
-      "Magma Block",
-      "Brick Block"
-    ],
-    "correct_answer": "Redstone Block"
-  },
-  {
     "id": 255,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Water Bucket.gif",
+    "image": "minecraft/images/Water Bucket.png",
     "incorrect_answers": [
       "Lava Bucket",
       "Milk Bucket",
@@ -3434,7 +2030,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Phantom.gif",
+    "image": "minecraft/images/Phantom.png",
     "incorrect_answers": [
       "Endermite",
       "Blaze",
@@ -3448,7 +2044,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/End Portal.gif",
+    "image": "minecraft/images/End Portal.png",
     "incorrect_answers": [
       "Nether Portal",
       "Stronghold",
@@ -3462,7 +2058,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Coal Block.gif",
+    "image": "minecraft/images/Coal Block.png",
     "incorrect_answers": [
       "Charcoal Block",
       "Blackstone",
@@ -3476,7 +2072,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Husk.gif",
+    "image": "minecraft/images/Husk.png",
     "incorrect_answers": [
       "Zombie",
       "Drowned",
@@ -3490,7 +2086,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Mineshaft.gif",
+    "image": "minecraft/images/Mineshaft.png",
     "incorrect_answers": [
       "Stronghold",
       "Village",
@@ -3499,26 +2095,12 @@
     "correct_answer": "Mineshaft"
   },
   {
-    "id": 261,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Clock.gif",
-    "incorrect_answers": [
-      "Compass",
-      "Map",
-      "Spyglass"
-    ],
-    "correct_answer": "Clock"
-  },
-  {
     "id": 262,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Guardian.gif",
+    "image": "minecraft/images/Guardian.png",
     "incorrect_answers": [
       "Elder Guardian",
       "Drowned",
@@ -3532,7 +2114,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Ocean Ruin.gif",
+    "image": "minecraft/images/Ocean Ruin.png",
     "incorrect_answers": [
       "Ocean Monument",
       "Stronghold",
@@ -3546,7 +2128,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Emerald Block.gif",
+    "image": "minecraft/images/Emerald Block.png",
     "incorrect_answers": [
       "Diamond Block",
       "Gold Block",
@@ -3560,7 +2142,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Cooked Beef.gif",
+    "image": "minecraft/images/Cooked Beef.png",
     "incorrect_answers": [
       "Cooked Porkchop",
       "Cooked Chicken",
@@ -3569,40 +2151,12 @@
     "correct_answer": "Cooked Beef"
   },
   {
-    "id": 266,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Stray.gif",
-    "incorrect_answers": [
-      "Skeleton",
-      "Husk",
-      "Drowned"
-    ],
-    "correct_answer": "Stray"
-  },
-  {
-    "id": 267,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Ocean Monument.gif",
-    "incorrect_answers": [
-      "Ocean Ruin",
-      "Stronghold",
-      "Village"
-    ],
-    "correct_answer": "Ocean Monument"
-  },
-  {
     "id": 268,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Magma Block.gif",
+    "image": "minecraft/images/Magma Block.png",
     "incorrect_answers": [
       "Netherrack",
       "Basalt",
@@ -3611,110 +2165,12 @@
     "correct_answer": "Magma Block"
   },
   {
-    "id": 269,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Drowned.gif",
-    "incorrect_answers": [
-      "Husk",
-      "Zombie",
-      "Stray"
-    ],
-    "correct_answer": "Drowned"
-  },
-  {
-    "id": 270,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Shipwreck.gif",
-    "incorrect_answers": [
-      "Ocean Monument",
-      "Ocean Ruin",
-      "Stronghold"
-    ],
-    "correct_answer": "Shipwreck"
-  },
-  {
-    "id": 271,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Nether Quartz Ore.gif",
-    "incorrect_answers": [
-      "Quartz Block",
-      "White Concrete",
-      "Snow Block"
-    ],
-    "correct_answer": "Nether Quartz Ore"
-  },
-  {
-    "id": 272,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Brewing Stand.gif",
-    "incorrect_answers": [
-      "Furnace",
-      "Crafting Table",
-      "Grindstone"
-    ],
-    "correct_answer": "Brewing Stand"
-  },
-  {
-    "id": 273,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Endermite.gif",
-    "incorrect_answers": [
-      "Silverfish",
-      "Phantom",
-      "Blaze"
-    ],
-    "correct_answer": "Endermite"
-  },
-  {
-    "id": 274,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Woodland Mansion.gif",
-    "incorrect_answers": [
-      "Village",
-      "Witch Hut",
-      "Stronghold"
-    ],
-    "correct_answer": "Woodland Mansion"
-  },
-  {
-    "id": 275,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Iron Block.gif",
-    "incorrect_answers": [
-      "Diamond Block",
-      "Gold Block",
-      "Emerald Block"
-    ],
-    "correct_answer": "Iron Block"
-  },
-  {
     "id": 276,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Crossbow.gif",
+    "image": "minecraft/images/Crossbow.png",
     "incorrect_answers": [
       "Bow",
       "Trident",
@@ -3723,26 +2179,12 @@
     "correct_answer": "Crossbow"
   },
   {
-    "id": 277,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Evoker.gif",
-    "incorrect_answers": [
-      "Pillager",
-      "Vindicator",
-      "Illusioner"
-    ],
-    "correct_answer": "Evoker"
-  },
-  {
     "id": 278,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "theme/images/Pillager Outpost.gif",
+    "image": "minecraft/images/Pillager Outpost.png",
     "incorrect_answers": [
       "Village",
       "Stronghold",
@@ -3756,7 +2198,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Redstone Ore.gif",
+    "image": "minecraft/images/Redstone Ore.png",
     "incorrect_answers": [
       "Redstone Block",
       "Nether Brick",
@@ -3770,7 +2212,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/End Crystal.gif",
+    "image": "minecraft/images/End Crystal.png",
     "incorrect_answers": [
       "Ender Pearl",
       "Eye of Ender",
@@ -3779,96 +2221,12 @@
     "correct_answer": "End Crystal"
   },
   {
-    "id": 281,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Vex.gif",
-    "incorrect_answers": [
-      "Phantom",
-      "Endermite",
-      "Silverfish"
-    ],
-    "correct_answer": "Vex"
-  },
-  {
-    "id": 282,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Village.gif",
-    "incorrect_answers": [
-      "Witch Hut",
-      "Woodland Mansion",
-      "Stronghold"
-    ],
-    "correct_answer": "Village"
-  },
-  {
-    "id": 283,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Grass Block.gif",
-    "incorrect_answers": [
-      "Dirt Block",
-      "Podzol",
-      "Mycelium"
-    ],
-    "correct_answer": "Grass Block"
-  },
-  {
-    "id": 284,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Compass.gif",
-    "incorrect_answers": [
-      "Clock",
-      "Map",
-      "Spyglass"
-    ],
-    "correct_answer": "Compass"
-  },
-  {
-    "id": 285,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Magma Cube.gif",
-    "incorrect_answers": [
-      "Slime",
-      "Blaze",
-      "Ghast"
-    ],
-    "correct_answer": "Magma Cube"
-  },
-  {
-    "id": 286,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Nether Portal.gif",
-    "incorrect_answers": [
-      "End Portal",
-      "Stronghold",
-      "Village"
-    ],
-    "correct_answer": "Nether Portal"
-  },
-  {
     "id": 287,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "theme/images/Gold Block.gif",
+    "image": "minecraft/images/Gold Block.png",
     "incorrect_answers": [
       "Iron Block",
       "Emerald Block",
@@ -3877,68 +2235,12 @@
     "correct_answer": "Gold Block"
   },
   {
-    "id": 288,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this item called?",
-    "image": "theme/images/Golden Carrot.gif",
-    "incorrect_answers": [
-      "Golden Apple",
-      "Golden Nugget",
-      "Golden Potato"
-    ],
-    "correct_answer": "Golden Carrot"
-  },
-  {
-    "id": 289,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this mob called?",
-    "image": "theme/images/Vindicator.gif",
-    "incorrect_answers": [
-      "Evoker",
-      "Pillager",
-      "Illusioner"
-    ],
-    "correct_answer": "Vindicator"
-  },
-  {
-    "id": 290,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Village.gif",
-    "incorrect_answers": [
-      "Pillager Outpost",
-      "Stronghold",
-      "Woodland Mansion"
-    ],
-    "correct_answer": "Village"
-  },
-  {
-    "id": 291,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "theme/images/Obsidian.gif",
-    "incorrect_answers": [
-      "Blackstone",
-      "Bedrock",
-      "Coal Block"
-    ],
-    "correct_answer": "Obsidian"
-  },
-  {
     "id": 292,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "theme/images/Shield.gif",
+    "image": "minecraft/images/Shield.png",
     "incorrect_answers": [
       "Bow",
       "Crossbow",
@@ -3952,26 +2254,12 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this mob called?",
-    "image": "theme/images/Silverfish.gif",
+    "image": "minecraft/images/Silverfish.png",
     "incorrect_answers": [
       "Endermite",
       "Vex",
       "Blaze"
     ],
     "correct_answer": "Silverfish"
-  },
-  {
-    "id": 294,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "theme/images/Igloo.gif",
-    "incorrect_answers": [
-      "Village",
-      "Witch Hut",
-      "Stronghold"
-    ],
-    "correct_answer": "Igloo"
   }
 ]
