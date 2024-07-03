@@ -293,149 +293,151 @@ setInterval(() => {
   }
 }, 50)
 
-Dusk.initClient({
-  onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
-    gameState = game;
+window.addEventListener("load", () => {
+  Dusk.initClient({
+    onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
+      gameState = game;
 
-    // record game state to globals for use in the timer
-    questionCount = game.questionCount;
-    timerEnabled = game.timerEnabled;
-    complete = game.complete;
+      // record game state to globals for use in the timer
+      questionCount = game.questionCount;
+      timerEnabled = game.timerEnabled;
+      complete = game.complete;
 
-    if (game.lang !== currentLanguage) {
-      updateLanguage(game.lang);
-    }
-    // update the status of the selectors to shows whats in game state
-    (document.getElementById("q5") as HTMLDivElement).className = questionCount === 5 ? "option optionSelected" : "option";
-    (document.getElementById("q10") as HTMLDivElement).className = questionCount === 10 ? "option optionSelected" : "option";
-    (document.getElementById("q20") as HTMLDivElement).className = questionCount === 20 ? "option optionSelected" : "option";
-
-    (document.getElementById("timerYes") as HTMLDivElement).className = timerEnabled === true ? "option optionSelected" : "option";
-    (document.getElementById("timerNo") as HTMLDivElement).className = timerEnabled === false ? "option optionSelected" : "option";
-
-    // only show the timing bar if timers are enabed
-    const bar = document.getElementById("timebar") as HTMLDivElement;
-    bar.style.display = timerEnabled ? "block" : "none";
-
-    // since the onChange can be called for various reasons we do must of 
-    // the logic only when a question changes
-    const questionChanged = lastQuestion !== game.questionNumber;
-    if (questionChanged) {
-      if (game.questionNumber === 0) {
-        // game restart so clear state and show the ready screen
-        document.getElementById("ready")!.style.display = "block";
-        document.getElementById("question")!.style.display = "none";
-        lastQuestion = 0;
-        sentEnd = false;
-        return;
+      if (game.lang !== currentLanguage) {
+        updateLanguage(game.lang);
       }
+      // update the status of the selectors to shows whats in game state
+      (document.getElementById("q5") as HTMLDivElement).className = questionCount === 5 ? "option optionSelected" : "option";
+      (document.getElementById("q10") as HTMLDivElement).className = questionCount === 10 ? "option optionSelected" : "option";
+      (document.getElementById("q20") as HTMLDivElement).className = questionCount === 20 ? "option optionSelected" : "option";
 
-      if (lastQuestion === 0) {
-        started = true;
-        // game start so show the first question
-        document.getElementById("ready")!.style.display = "none";
-        document.getElementById("disclaimer")!.style.display = "none";
-        document.getElementById("question")!.style.display = "block";
+      (document.getElementById("timerYes") as HTMLDivElement).className = timerEnabled === true ? "option optionSelected" : "option";
+      (document.getElementById("timerNo") as HTMLDivElement).className = timerEnabled === false ? "option optionSelected" : "option";
 
-        for (const q of game.questions) {
-          if (q.image) {
-            const image = new Image();
-            image.src = ASSETS[q.image];
+      // only show the timing bar if timers are enabed
+      const bar = document.getElementById("timebar") as HTMLDivElement;
+      bar.style.display = timerEnabled ? "block" : "none";
+
+      // since the onChange can be called for various reasons we do must of 
+      // the logic only when a question changes
+      const questionChanged = lastQuestion !== game.questionNumber;
+      if (questionChanged) {
+        if (game.questionNumber === 0) {
+          // game restart so clear state and show the ready screen
+          document.getElementById("ready")!.style.display = "block";
+          document.getElementById("question")!.style.display = "none";
+          lastQuestion = 0;
+          sentEnd = false;
+          return;
+        }
+
+        if (lastQuestion === 0) {
+          started = true;
+          // game start so show the first question
+          document.getElementById("ready")!.style.display = "none";
+          document.getElementById("disclaimer")!.style.display = "none";
+          document.getElementById("question")!.style.display = "block";
+
+          for (const q of game.questions) {
+            if (q.image) {
+              const image = new Image();
+              image.src = ASSETS[q.image];
+            }
+          }
+        } else {
+          // otherwise we're showing the answers so highlight the right quiz
+          const answerDiv = document.getElementById("answer" + (game.correctAnswerIndex + 1)) as HTMLDivElement;
+          answerDiv.classList.add("correct");
+
+          for (const pid of Object.keys(game.lastAnswers)) {
+            const id = "answer" + game.lastAnswers[pid] + "-" + pid;
+            const img = document.getElementById(id) as HTMLImageElement;
+            img.style.display = "inline-block";
           }
         }
-      } else {
-        // otherwise we're showing the answers so highlight the right quiz
-        const answerDiv = document.getElementById("answer" + (game.correctAnswerIndex + 1)) as HTMLDivElement;
-        answerDiv.classList.add("correct");
 
-        for (const pid of Object.keys(game.lastAnswers)) {
-          const id = "answer" + game.lastAnswers[pid] + "-" + pid;
-          const img = document.getElementById(id) as HTMLImageElement;
-          img.style.display = "inline-block";
+        selectedAnswer = false;
+
+        // since we're turn based game logic but we still want
+        // to pause for a bit while we show the answers before updating
+        // to match new game state we'll work out the time delay required by the
+        // server and then only apply the updates after that timeout
+        const offset = (game.timeOut - Dusk.gameTime()) - QUESTION_TIME;
+        timeExpires = Date.now() + (game.timeOut - Dusk.gameTime());
+        showingAnswers = true;
+
+        if (!game.complete) {
+          setTimeout(() => {
+            // reflect the new game state (new question) after the fixed answer
+            // period of time 
+            play(SOUND_START);
+            showingAnswers = false;
+            lastQuestion = game.questionNumber;
+            
+            // reset local state
+            for (let i = 0; i < 4; i++) {
+              const answerButton = document.getElementById("answer" + (i + 1));
+              answerButton?.classList.remove("selected");
+              answerButton?.classList.remove("correct");
+            }
+            timerRunning = true;
+          }, offset);
         }
       }
 
-      selectedAnswer = false;
+      // remove any players that left
+      for (const existing of Object.keys(playerDiv)) {
+        if (!allPlayerIds.includes(existing)) {
+          playerDiv[existing].parentElement?.removeChild(playerDiv[existing]);
 
-      // since we're turn based game logic but we still want
-      // to pause for a bit while we show the answers before updating
-      // to match new game state we'll work out the time delay required by the
-      // server and then only apply the updates after that timeout
-      const offset = (game.timeOut - Dusk.gameTime()) - QUESTION_TIME;
-      timeExpires = Date.now() + (game.timeOut - Dusk.gameTime());
-      showingAnswers = true;
-
-      if (!game.complete) {
-        setTimeout(() => {
-          // reflect the new game state (new question) after the fixed answer
-          // period of time 
-          play(SOUND_START);
-          showingAnswers = false;
-          lastQuestion = game.questionNumber;
-          
-          // reset local state
           for (let i = 0; i < 4; i++) {
-            const answerButton = document.getElementById("answer" + (i + 1));
-            answerButton?.classList.remove("selected");
-            answerButton?.classList.remove("correct");
-          }
-          timerRunning = true;
-        }, offset);
-      }
-    }
-
-    // remove any players that left
-    for (const existing of Object.keys(playerDiv)) {
-      if (!allPlayerIds.includes(existing)) {
-        playerDiv[existing].parentElement?.removeChild(playerDiv[existing]);
-
-        for (let i = 0; i < 4; i++) {
-          const smallAvatar = document.getElementById("answer" + i + "-" + existing) as HTMLImageElement;
-          if (smallAvatar) {
-            smallAvatar.parentElement?.removeChild(smallAvatar);
+            const smallAvatar = document.getElementById("answer" + i + "-" + existing) as HTMLImageElement;
+            if (smallAvatar) {
+              smallAvatar.parentElement?.removeChild(smallAvatar);
+            }
           }
         }
       }
-    }
 
-    const correctAnswerIds: PlayerId[] = [];
-    for (const id of allPlayerIds) {
-      // add a DIV for any player we don't already have one for
-      if (!playerDiv[id]) {
-        createPlayerDiv(id);
+      const correctAnswerIds: PlayerId[] = [];
+      for (const id of allPlayerIds) {
+        // add a DIV for any player we don't already have one for
+        if (!playerDiv[id]) {
+          createPlayerDiv(id);
+        }
+
+        // set the visual status based on game state
+        const statusDiv = playerDiv[id].getElementsByClassName("playerStatus").item(0) as HTMLDivElement;
+        const status = game.playerStatus[id];
+        statusDiv.innerHTML = status;
+        statusDiv.className = "playerStatus " + game.playerStatus[id];
+
+        // set the players score based on game state
+        const scoreDiv = playerDiv[id].getElementsByClassName("playerScore").item(0) as HTMLDivElement;
+        const newScore = "" + game.playerScores[id];
+        // if the score changed then the player got a point, so show the
+        // checkm ark on the player
+        if (newScore !== scoreDiv.innerHTML) {
+          correctAnswerIds.push(id);
+          scoreDiv.innerHTML = newScore;
+          const checkDiv = playerDiv[id].getElementsByClassName("check").item(0) as HTMLDivElement;
+          checkDiv.style.display = "block";
+          setTimeout(() => {
+            checkDiv.style.display = "none";
+          }, ANSWER_TIME - 500)
+        }
       }
 
-      // set the visual status based on game state
-      const statusDiv = playerDiv[id].getElementsByClassName("playerStatus").item(0) as HTMLDivElement;
-      const status = game.playerStatus[id];
-      statusDiv.innerHTML = status;
-      statusDiv.className = "playerStatus " + game.playerStatus[id];
-
-      // set the players score based on game state
-      const scoreDiv = playerDiv[id].getElementsByClassName("playerScore").item(0) as HTMLDivElement;
-      const newScore = "" + game.playerScores[id];
-      // if the score changed then the player got a point, so show the
-      // checkm ark on the player
-      if (newScore !== scoreDiv.innerHTML) {
-        correctAnswerIds.push(id);
-        scoreDiv.innerHTML = newScore;
-        const checkDiv = playerDiv[id].getElementsByClassName("check").item(0) as HTMLDivElement;
-        checkDiv.style.display = "block";
-        setTimeout(() => {
-          checkDiv.style.display = "none";
-        }, ANSWER_TIME - 500)
+      // if the question just changed and its not the end of the game (timeDone action) then
+      // play the appropriate sound effect for right/wrong
+      if (questionChanged && yourPlayerId && game.questionNumber > 1 && action?.action !== "timeDone") {
+        if (correctAnswerIds.includes(yourPlayerId)) {
+          play(SOUND_CORRECT);
+        } else {
+          play(SOUND_INCORRECT);
+        }
       }
-    }
 
-    // if the question just changed and its not the end of the game (timeDone action) then
-    // play the appropriate sound effect for right/wrong
-    if (questionChanged && yourPlayerId && game.questionNumber > 1 && action?.action !== "timeDone") {
-      if (correctAnswerIds.includes(yourPlayerId)) {
-        play(SOUND_CORRECT);
-      } else {
-        play(SOUND_INCORRECT);
-      }
-    }
-
-  },
-})
+    },
+  })
+});
