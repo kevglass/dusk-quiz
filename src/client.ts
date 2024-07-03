@@ -6,9 +6,13 @@ import mp3_incorrect from "./assets/core/incorrect.mp3";
 import mp3_start from "./assets/core/start.mp3";
 import { TRANSLATIONS } from "./translation";
 import { ASSETS } from "./lib/assets";
+import { RAW_ASSETS } from "./lib/rawassets";
 
 (document.getElementById("backgroundImage") as HTMLImageElement).src = ASSETS["theme/bg.png"];
 (document.getElementById("stylesheetReference") as HTMLLinkElement).href = ASSETS["theme/style.css"];
+
+const manifest = JSON.parse(RAW_ASSETS["theme/manifest.json"]);
+(document.getElementById("disclaimer") as HTMLDivElement).innerHTML = manifest.disclaimer;
 
 for (const q of QUESTIONS.en) {
   if (q.image) {
