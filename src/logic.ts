@@ -25,6 +25,7 @@ function shuffle<T>(array: Array<T>) {
 }
 
 export type Language = "en" | "ru" | "es" | "pt";
+export const SUPPORTED_LANGUAGES: Language[] = ["en", "ru", "es", "pt"];
 
 // the big list of questions to choose from
 export const QUESTIONS: Record<Language, Question[]> = {

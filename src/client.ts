@@ -1,5 +1,5 @@
 import { PlayerId } from "dusk-games-sdk";
-import { ANSWER_TIME, GameState, Language, QUESTIONS, QUESTION_TIME } from "./logic";
+import { ANSWER_TIME, GameState, Language, QUESTIONS, QUESTION_TIME, SUPPORTED_LANGUAGES } from "./logic";
 import mp3_correct from "./assets/core/correct.mp3";
 import mp3_click from "./assets/core/click.mp3";
 import mp3_incorrect from "./assets/core/incorrect.mp3";
@@ -210,6 +210,7 @@ let sentEnd = false;
 let complete = false;
 
 let gameState: GameState;
+let sentLanguage = false;
 
 // Very simple update loop so we can smooth animations
 // and changes to the game that aren't driven by specific actions
@@ -300,6 +301,19 @@ setInterval(() => {
 window.addEventListener("load", () => {
   Dusk.initClient({
     onChange: ({ game, allPlayerIds, yourPlayerId, action }) => {
+      if (!sentLanguage) {
+        if (navigator.language) {
+          const lang = navigator.language.substring(0, 2).toLowerCase() as Language;
+
+          if (SUPPORTED_LANGUAGES.includes(lang)) {
+            sentLanguage = true;
+            setTimeout(() => {
+              Dusk.actions.language({ lang })
+            }, 1);
+          }
+        }
+      }
+
       gameState = game;
 
       // record game state to globals for use in the timer
@@ -377,7 +391,7 @@ window.addEventListener("load", () => {
             play(SOUND_START);
             showingAnswers = false;
             lastQuestion = game.questionNumber;
-            
+
             // reset local state
             for (let i = 0; i < 4; i++) {
               const answerButton = document.getElementById("answer" + (i + 1));
