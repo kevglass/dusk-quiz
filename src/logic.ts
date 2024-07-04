@@ -145,7 +145,8 @@ Dusk.initLogic({
       correctAnswerIndex: 0,
       questionCount: 5,
       timerEnabled: false,
-      complete: false
+      complete: false,
+      pill: { x: 0, y: 0 },
     };
   },
   actions: {
