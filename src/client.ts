@@ -253,7 +253,9 @@ setInterval(() => {
         document.getElementById("answer" + (i + 1) + "-value")!.innerHTML = gameState.question.answers[i];
         const slots = document.getElementById("answer" + (i + 1) + "-slots") as HTMLDivElement
         for (const avatar of Array.from(slots.children)) {
-          (avatar as HTMLElement).style.display = "none";
+          if (avatar) {
+            (avatar as HTMLElement).style.display = "none";
+          }
         }
       }
     }
