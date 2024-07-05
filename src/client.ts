@@ -370,7 +370,9 @@ window.addEventListener("load", () => {
           for (const pid of Object.keys(game.lastAnswers)) {
             const id = "answer" + game.lastAnswers[pid] + "-" + pid;
             const img = document.getElementById(id) as HTMLImageElement;
-            img.style.display = "inline-block";
+            if (img) {
+              img.style.display = "inline-block";
+            }
           }
         }
 
