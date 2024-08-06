@@ -55,7 +55,7 @@ function createPlayerDiv(id: string): void {
   name.innerHTML = info.displayName;
   const img = document.createElement("img") as HTMLImageElement;
   img.className = "playerAvatar";
-  img.src = info.avatarUrl.replace("circleCrop=1", "").replace("png", "jpg");
+  img.src = info.avatarUrl.replace("circleCrop=1", ""); 
 
   const status = document.createElement("div") as HTMLDivElement;
   status.className = "playerStatus";
