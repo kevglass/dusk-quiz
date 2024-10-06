@@ -1,4 +1,4 @@
-import type { GameOverResult, PlayerId, DuskClient } from "dusk-games-sdk";
+import type { GameOverResult, PlayerId, RuneClient } from "rune-sdk";
 import { RAW_ASSETS } from "./lib/rawassets";
 
 // The amount of time a question is shown for
@@ -106,7 +106,7 @@ export type Persisted = {
 }
 
 declare global {
-  const Dusk: DuskClient<GameState, GameActions, Persisted>;
+  const Rune: RuneClient<GameState, GameActions, Persisted>;
 }
 
 function checkAllAnswersIn(game: GameState): void {
@@ -118,7 +118,7 @@ function checkAllAnswersIn(game: GameState): void {
   }
 }
 
-Dusk.initLogic({
+Rune.initLogic({
   minPlayers: 1,
   maxPlayers: 4,
   persistPlayerData: true,
@@ -189,7 +189,7 @@ Dusk.initLogic({
         nextQuestion(context.game);
         // on the first question we don't want to include ANSWER_TIME since we don't
         // have any to show
-        context.game.timeOut = Dusk.gameTime() + QUESTION_TIME;
+        context.game.timeOut = Rune.gameTime() + QUESTION_TIME;
       }
     },
     answer({ index }, context) {
@@ -215,7 +215,7 @@ Dusk.initLogic({
           }
         }
 
-        Dusk.gameOver({ players: results })
+        Rune.gameOver({ players: results })
         return;
       }
 
@@ -273,7 +273,7 @@ function nextQuestion(game: GameState) {
   if (game.questionNumber >= game.questions.length) {
     game.lastAnswers = { ...game.playerAnswers };
     game.questionNumber++;
-    game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
+    game.timeOut = Rune.gameTime() + QUESTION_TIME + ANSWER_TIME;
     game.complete = true;
     return;
   }
@@ -297,7 +297,7 @@ function nextQuestion(game: GameState) {
   shuffle(game.question.answers);
 
   // schedule the clients to show the answers, then the next question
-  game.timeOut = Dusk.gameTime() + QUESTION_TIME + ANSWER_TIME;
+  game.timeOut = Rune.gameTime() + QUESTION_TIME + ANSWER_TIME;
   game.lastAnswers = { ...game.playerAnswers };
   for (const key of Object.keys(game.playerStatus)) {
     game.playerStatus[key] = "THINKING";

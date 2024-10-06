@@ -6,22 +6,21 @@
   "scripts": {
     "dev": "vite --host",
     "build": "npm run lint && tsc && vite build",
-    "upload": "npm run build && npx dusk-cli@latest upload",
-    "lint": "eslint src --ext ts,tsx",
+    "upload": "npm run build && npx rune-games-cli@latest upload",
+    "lint": "eslint src",
     "theme": "scripts/switchtheme.sh $1",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "dusk-games-sdk": "^4.21.13"
+    "rune-sdk": "^4.22.1"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.8.0",
-    "@typescript-eslint/parser": "^7.8.0",
-    "eslint": "^8.57.0",
-    "eslint-plugin-dusk": "^1.0.1",
+    "@eslint/js": "^9.7.0",
+    "eslint": "^9.7.0",
+    "globals": "^15.8.0",
     "typescript": "^5.4.5",
+    "typescript-eslint": "^8.0.0-alpha.54",
     "vite": "^5.2.11",
-    "vite-plugin-dusk": "^1.0.0",
     "vite-plugin-qrcode": "^0.2.2"
   }
 }
